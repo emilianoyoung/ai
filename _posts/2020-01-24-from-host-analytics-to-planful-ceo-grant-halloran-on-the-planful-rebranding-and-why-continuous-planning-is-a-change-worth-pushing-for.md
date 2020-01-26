@@ -56,21 +56,30 @@ related:
       - url: https://cnet3.cbsistatic.com/img/lDDWLy64g5ZgChr6N3FU1bhmKA4=/756x567/2020/01/22/54be830f-7581-4919-8fa1-f7d5f08392af/ge-kbis-2020-3.jpg
         width: 756
         height: 567
-  - title: "How Apple’s Xnor.ai acquisition could bring the Siri boost we’ve been waiting for"
-    excerpt: "the A13 Bionic chip already has a powerful Neural Engine, but Edge Ai could bring it to the next level. But Xnor.ai’s Edge AI engine could be the thing that brings everything together. It’s unlikely that we’ll see any fruits from Apple’s purchase in the iPhone 12 or even the iPhone 13, but Apple’s incredible silicon advancements ..."
-    publishedDateTime: 2020-01-21T11:45:00Z
-    sourceUrl: https://www.macworld.com/article/3514559/how-apple-s-xnor-ai-acquisition-could-bring-the-siri-boost-we-ve-been-waiting-for.html
-    ampUrl: https://www.macworld.com/article/3514559/how-apple-s-xnor-ai-acquisition-could-bring-the-siri-boost-we-ve-been-waiting-for.amp.html
-    cdnAmpUrl: https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3514559/how-apple-s-xnor-ai-acquisition-could-bring-the-siri-boost-we-ve-been-waiting-for.amp.html
+  - title: "KT and Samsung Medical Center to Build 5G Smart Hospital"
+    excerpt: "World's First Application of 5G Technology in Medical Practice Sync Cams Share Real-Time HD Video Footage of Surgery for Teaching 5G Network Base Made Secure for Medical Service Development Enterprise-Dedicated 5G Network Protects Private Medical Info from Hacking For the pilot project,"
+    publishedDateTime: 2020-01-20T04:47:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/n15148424/kt-and-samsung-medical-center-to-build-5g-smart-hospital
+    ampUrl: https://amp.benzinga.com/amp/content/15148424
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15148424
     type: article
     provider:
-      name: Macworld
-      domain: macworld.com
-    quality: 84
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
     images:
-      - url: https://images.idgesg.net/images/article/2018/04/wyze-cam-motion-tracking-100755563-large.jpg
-        width: 700
-        height: 467
+      - url: https://mma.prnewswire.com/media/1079015/KT_Photo__Smart_Hospital.jpg
+        width: 266
+        height: 400
+  - title: "KT, Samsung to build 5G smart hospital"
+    excerpt: "These services include digital diagnostic pathology, access to proton therapy information, teaching surgery, an artificial intelligence-enabled care for in-patients, and an autonomous robot for an operating room. KT also reports it has developed a 5G-assisted education programme in cooperation with the Samsung Medical Center. The programme aims ..."
+    publishedDateTime: 2020-01-21T11:08:00Z
+    sourceUrl: https://www.telecompaper.com/news/kt-samsung-to-build-5g-smart-hospital--1323491
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 4
 
 secured: "xUbOtQVKNEfy1jklYerxBHMkNC+gx4EOkncd9M4e7n5m/bDFhkTWBNcd/W4RfDfHJAwDK50PngGGKbXuNGg0tcAZVJsOMjQBWxjQl09vZXVzZ04VC6Jy68oQtrhBntwJg6yKiZUijcpciMKhV1afw8gkXE0Z8GIuinFX5z05uDk+V5DZaxGtvbTuwiU1JcUlQoCArSXGe7drQ38oSrN/UU36fArj5Va5POe/bEMk6C74haohYpg1LVY+8/qynhduR4V+t9kb/jd0YewpEntfof8XXC19RB6Zxall6d0aRgwso/nEd+q71IfRKLnpPriO;TkSixbmtFkskNA8eSdPa/w=="
 ---

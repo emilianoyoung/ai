@@ -41,17 +41,34 @@ related:
       - url: https://media.itpro.co.uk/image/upload/v1579733058/itpro/BoA_Erica_AI.png
         width: 2173
         height: 1082
-  - title: "Building a Customer Service Dream Team"
-    excerpt: "It’s not uncommon for customer questions to involve looking for answers in multiple systems–why did the financial system deliver an incorrect ... That same platform should provide the self-service capabilities customers expect, drive customer resolutions faster with machine learning, and provide analytics to continually measure and improve ..."
-    publishedDateTime: 2020-01-22T03:14:00Z
-    sourceUrl: https://www.business2community.com/customer-experience/building-a-customer-service-dream-team-02277241
-    ampUrl: https://www.business2community.com/customer-experience/building-a-customer-service-dream-team-02277241/amp
-    cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/customer-experience/building-a-customer-service-dream-team-02277241/amp
+  - title: "Air New Zealand using computer vision AI"
+    excerpt: "Air New Zealand is trialling the latest in computer vision artificial intelligence (AI) in its search for innovative ways to continually improve aircraft turn times and better on-time performance. The new technology, made available through a partnership with leading technology start-up Assaia and alongside Auckland Airport, uses computer vision ..."
+    publishedDateTime: 2020-01-22T20:10:00Z
+    sourceUrl: https://www.scoop.co.nz/stories/BU2001/S00141/air-new-zealand-using-computer-vision-ai.htm
+    ampUrl: https://m.scoop.co.nz/stories/BU2001/S00141/air-new-zealand-using-computer-vision-ai.htm
+    cdnAmpUrl: https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2001/S00141/air-new-zealand-using-computer-vision-ai.htm
     type: article
     provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 24
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 74
+    images:
+      - url: https://m.scoop.co.nz/stories/images/1512/smcnz.png
+        width: 268
+        height: 250
+  - title: "Apple Acquires a Company that Forbes described as one the most Promising Artificial Intelligence companies in America"
+    excerpt: "A new report posted today claims that Apple has acquired Seattle based Xnor.ai, a spin-off from Paul Allen’s Allen Institute for Artificial Intelligence. XNOR.ai aimed at making state-of-the-art AI capabilities cheaper and more accessible. GeekWire notes in their exclusive report that \"The arrangement suggests that Xnor’s AI-enabled image ..."
+    publishedDateTime: 2020-01-16T01:36:00Z
+    sourceUrl: https://www.patentlyapple.com/patently-apple/2020/01/apple-acquires-a-company-that-forbes-described-as-one-the-most-promising-artificial-intelligence-companies-in-america.html
+    type: article
+    provider:
+      name: Patently Apple
+      domain: patentlyapple.com
+    quality: 14
+    images:
+      - url: https://www.patentlyapple.com/.a/6a0120a5580826970c0240a4b45ead200c-600wi
+        width: 600
+        height: 330
 
 secured: "LxctQSlGMrT6AjWwqgH7IkYAEn2KXtRtEUGqpt6x1p1k94jqep4zOLlzGsMZwB0CYwdrQYj5Lzwzvt6hkf0gwkjuorTpTLodcSC2+G4xB38qnAFzDhZo9QQKijbmwoaMOD9whJF2pxYr41Bdwns5gJBrhzBpOiueIS+eVp5YfogpmuO7FV/qwhsK3JpBDzca1eYjfEBTWyWum75SRyUmyzhflINmOkSsBWuiLHYbKLIFP01z5z1T/hxCsRgdef8/tdHiJZHVTfLG8qWArCEHScGykSRG/C1wkJZhyW4EkQz6tYtPS1kzBjDi0ImqbDbU/oI1xCVAnmKXhnqJyZhZBAfQJaag2XOQ6wT8IdiSKR6TobbihgUv4nwQbFtJ9bAphNg0O7TV+NNF89alfJcMisdEFwk0ORu28YZpNLOESFvM/F5P8UBGJlOs4bgZkDXjgY7F9E+LvQLtOja7ZHm7iQ==;RKPc1e8DqjOR0Q44PWZ0Og=="
 ---

@@ -26,6 +26,17 @@ images:
     title: "Short of Money at month end? Check out these Fintech platforms for short-term loans"
 
 related:
+  - title: "Phoenix Finance receives Most Innovative Fintech E-Wealth Management Platform award at The Wealth APAC forum"
+    excerpt: "SHANGHAI, Jan. 21, 2020 /PRNewswire/ -- The Wealth APAC forum – IPWM & IFWM China Awards 2019 were hosted in Shanghai by WEALTH Magazine on December 18, 2019. The forum brought together 100 well-known experts from the Asian Pacific wealth management community and executives from top financial institutions in the region who engaged in in-depth research and discussions on the current status and developments of the Asian Pacific wealth management market."
+    publishedDateTime: 2020-01-21T08:45:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/n15151958/phoenix-finance-receives-most-innovative-fintech-e-wealth-management-platform-award-at-the-wealth-
+    ampUrl: https://amp.benzinga.com/amp/content/15151958
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15151958
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 5
   - title: "Short of cash? Check out these Fintech platforms for short-term loans"
     excerpt: "You won’t be making any branch visits and will get an instant loan sanction owing to its world-class service. HAPPY: If a business loan is what you’re looking for, then no lender can serve you better than the AI-based fintech platform HAPPY. HAPPY has a proven track record in MSME lending and disburses loans in less than 1 minute of ..."
     publishedDateTime: 2020-01-23T05:05:00Z

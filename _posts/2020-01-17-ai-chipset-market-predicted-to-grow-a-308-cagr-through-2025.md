@@ -24,50 +24,89 @@ images:
     title: "AI chipset market predicted to grow a 30.8% CAGR through 2025"
 
 related:
-  - title: "AI In Medical Imaging Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025"
-    excerpt: "The AI In Medical Imaging Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"AI In Medical Imaging Market\"."
-    publishedDateTime: 2020-01-17T17:18:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-enhancement-latest-trends-growth-and-opportunity-during-2019-to-2025-2020-01-17
+  - title: "AI Chipset Market is Expanding Due to Adoption of Industrial Automation"
+    excerpt: "Chipset Market: By Component, [Hardware (Processors, CPU, GPU, ASIC, FPGA, Memory and Network) and Software). By Technology [ (Machine Learning, Natural Language Processing, and Others (Deep Learning and Computer Vision)] – Forecast Till 2023 Artificial Intelligence Chipset Market Research Report- Forecast till 2023 A white box server can be referred to as the computer framework in large data centers."
+    publishedDateTime: 2020-01-20T11:05:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15149083/ai-chipset-market-is-expanding-due-to-adoption-of-industrial-automation
+    ampUrl: https://amp.benzinga.com/amp/content/15149083
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15149083
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 76
+    images:
+      - url: https://www.abnewswire.com/uploads/1579519636.jpeg
+        width: 417
+        height: 455
+  - title: "Artificial Intelligence Chipsets Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
+    excerpt: "New York, January 21, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Chevron Phillips Chemical Company,"
+    publishedDateTime: 2020-01-21T06:20:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-2020-analysis-growth-vendors-shares-drivers-challenges-with-forecast-to-2025-2020-01-21-21752033
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 44
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Global Automotive Speech Recognition System Market 2019 to Witness Excellent Long-Term Growth Outlook"
-    excerpt: "Get an extensive research offering detailed information and growth outlook of the Automotive Speech Recognition Systemmarket in the new research report added by Big Market Research. The report presents a brief summary of the market by gathering data from various sources and industry experts prevalent in the market."
-    publishedDateTime: 2020-01-18T04:59:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-automotive-speech-recognition-system-market-2019-to-witness-excellent-long-term-growth-outlook-2020-01-18
+  - title: "Artificial Intelligence Chipsets Market 2020 Industry Outlook, Comprehensive Insights, Growth and Forecast 2025 – Market Research Engine"
+    excerpt: "New York, January 16, 2020: Due to high growth in computing applications, enterprises tend to demand machine learning specialised devices, equipped with specialised chipsets. These AI enabled chipsets are expected to drive the expansion of hardware chipset producing into next stage of progress during this field."
+    publishedDateTime: 2020-01-16T03:34:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-2020-industry-outlook-comprehensive-insights-growth-and-forecast-2025-market-research-engine-2020-01-15
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 36
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Manufacturing Market : Key Facts and Forecast Predictions Presented Until 2025"
-    excerpt: "Artificial Intelligence in Manufacturing Market: Global Drivers, Restraints, Opportunities, Trends, and Forecasts up to 2023 Overview: The manufacturing industry has seen dramatic changes in past decade and continues to undergo radical process changes in the delivery of its products."
-    publishedDateTime: 2020-01-16T12:36:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-key-facts-and-forecast-predictions-presented-until-2025-2020-01-16
+  - title: "Mobile AI Market 2020 Classification, Application, Industry Chain Overview, SWOT Analysis and Competitive Landscape To 2023"
+    excerpt: "“”Mobile AI Market”” Mobile AI Market Research Report 2020: Industry Size, Share, Trends, Growth, Sales, Revenue, Risk and Opportunity Assessment"
+    publishedDateTime: 2020-01-23T09:25:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15169842/mobile-ai-market-2020-classification-application-industry-chain-overview-swot-analysis-and-compet
+    ampUrl: https://amp.benzinga.com/amp/content/15169842
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15169842
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-  - title: "Natural Language Processing Market : Dynamics, Segments, Size and Demand Analysis during 2019 - 2026"
-    excerpt: "Global Natural Language Processing Market valued approximately USD xxx million in 2018 is anticipated to grow with a healthy growth rate of more than xxx% over the forecast period 2019-2026. The Natural Language Processing market is developing and expanding at a significant pace considering the global scenario. The Natural Language processing ..."
-    publishedDateTime: 2020-01-20T07:54:00Z
-    sourceUrl: https://www.openpr.com/news/1900560/natural-language-processing-market-dynamics-segments-size
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
+    images:
+      - url: https://www.abnewswire.com/uploads/1579774680.jpeg
+        width: 800
+        height: 527
+  - title: "AI Chips: 5 Predictions for 2020"
+    excerpt: "Will Intel’s acquisition of Israeli AI accelerator startup Habana Labs last month kick-start a surge of acquisitions? This market is absolutely teeming with chip startups, many of whom are reaching a level of maturity where they are revealing their architectures and starting to produce measurable results. As established semiconductor ..."
+    publishedDateTime: 2020-01-17T01:04:00Z
+    sourceUrl: https://www.eetindia.co.in/news/article/AI-Chips-5-Predictions-for-2020
+    type: article
+    provider:
+      name: eetindia.co.in
+      domain: eetindia.co.in
+    quality: 34
+  - title: "Global Automotive Artificial Intelligence Market Industry Trends, Estimation & Forecast, 2018 - 2025"
+    excerpt: "NVIDIA Corporation, Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation, Micron Technology, Otto Motors, BMW, Tesla Inc., and Toyota are some of the key players operating in the global automotive artificial intelligence market."
+    publishedDateTime: 2020-01-20T10:41:00Z
+    sourceUrl: https://www.openpr.com/news/1900862/global-automotive-artificial-intelligence-market-industry
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
     quality: 4
+  - title: "Global Artificial Intelligence In Accounting Market Industry Revenue To Surge To US$ 7,085 Million By 2025"
+    excerpt: "Innovation and Future Developments Based on Research Methodology The global market 2019 report Artificial Intelligence in Accounting Market includes identifying and comparing major competitors AWS, Microsoft, Intuit, Xero, Sage, UiPath, OSP, AppZen, Kore.ai, IBM, and YayPay. For this, the Artificial Intelligence in Accounting Market report ..."
+    publishedDateTime: 2020-01-14T12:24:00Z
+    sourceUrl: https://www.openpr.com/news/1895885/global-artificial-intelligence-in-accounting-market-industry
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 1
 
 secured: "SdBwe533AKGy6VU/trVRoyzym5TghCiSDN8fNTeGlMoRKLckv5qMRCNcU212JN6CYrduaTHYbY6DDlPVNQAe8RpraEBDiS5vUGDjG13tbWwewWWLOlzSDf7UR5bHzYMUsVEtdLKgzzMN/L6aFuQV/AD3C4LLadmogfQobIz1aOUqsPbjt59+ONCoT49iYHnl9EQu7+RR+p9S0VrXLUBTnjW9ZLlnUHeJj1WyoAwkX8/eTrn/VJ4Ci1czMCOkX6wwA9RK5h8zxQQ7ZJkKz4DuBv8L2PT/Jmu+vbQWj4AhHZnAsKxxJB0+O26MR9cp/JP60A4qR1Z8DoUQwmoa+w2QRIEL/piG9F5cg9eo90/Q3n+vjH0iooM5mRfDIFPyZ/HYdiRYSldxah4IrFOm4HQd6AlkzT3/kaBOJ2VtmrAzkAWmKUsvNm28CZ1sTBdapmpBT59YQfCknad2rOF2z3v61w==;xg+FVz+WBvBlV8EIHT3kVw=="
 ---

@@ -8,8 +8,8 @@ ampUrl: https://www.geekwire.com/2020/geekwire-podcast-apple-acquires-xnor-ai-mi
 cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/geekwire-podcast-apple-acquires-xnor-ai-microsofts-bold-climate-plan-seattle-startup-trivia/amp/
 type: article
 quality: 75
-heat: -1
-published: false
+heat: 95
+published: true
 
 provider:
   name: GeekWire
@@ -29,21 +29,34 @@ images:
     title: "GeekWire Podcast: Apple acquires Xnor.ai; Microsoft’s bold climate plan; Seattle startup trivia"
 
 related:
-  - title: "Seattle AI startup drew interest from Amazon, Microsoft, Intel before selling to Apple"
-    excerpt: "(GeekWire Photo / Taylor Soper) Apple wasn’t the only tech giant eyeing Xnor.ai. GeekWire broke the news on Wednesday that Apple acquired Seattle startup Xnor.ai, paying around $200 million for the three-year-old company that specializes in low-power, edge-based artificial intelligence tools. Exclusive: Apple acquires Xnor.ai, edge AI spin ..."
-    publishedDateTime: 2020-01-16T18:37:00Z
-    sourceUrl: https://www.geekwire.com/2020/seattle-ai-startup-drew-interest-amazon-microsoft-intel-selling-apple/
-    ampUrl: https://www.geekwire.com/2020/seattle-ai-startup-drew-interest-amazon-microsoft-intel-selling-apple/amp/
-    cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-ai-startup-drew-interest-amazon-microsoft-intel-selling-apple/amp/
+  - title: "Apple buys Seattle-based artificial intelligence company Xnor.ai"
+    excerpt: "Apple acquired Seattle-based artificial intelligence company Xnor.ai, bringing on more talent in a key area of technology. The company, founded in 2016, had raised millions of dollars to build tools that help AI algorithms run on devices rather than remote data centers. In recent years, Apple has pushed to run this type of software on its ..."
+    publishedDateTime: 2020-01-15T18:35:00Z
+    sourceUrl: https://www.seattletimes.com/business/technology/apple-acquires-seattle-based-artificial-intelligence-company-xnor-ai/
+    ampUrl: https://www.seattletimes.com/business/technology/apple-acquires-seattle-based-artificial-intelligence-company-xnor-ai/?amp=1
+    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/apple-acquires-seattle-based-artificial-intelligence-company-xnor-ai/?amp=1
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 79
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 72
     images:
-      - url: https://cdn.geekwire.com/wp-content/uploads/2020/01/200115-xnor-door-630x473.jpg
-        width: 630
-        height: 473
+      - url: https://static.seattletimes.com/wp-content/uploads/2020/01/01062020_AImetalHead_tzr_tzr_215511-780x501.jpg
+        width: 780
+        height: 501
+  - title: "Podcast: Spell startup looks to bring AI to the people"
+    excerpt: "explained to AI Podcast host Noah Kravitz how he’s bringing compute power to those that don’t have easy access to GPU clusters. We want to empower and transform the global workforce by making deep learning and artificial intelligence accessible to everyone. We believe that as organizations and individuals can harness the power of machine ..."
+    publishedDateTime: 2020-01-23T16:22:00Z
+    sourceUrl: https://insidehpc.com/2020/01/podcast-spell-startup-looks-to-bring-ai-to-the-people/
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 41
+    images:
+      - url: https://insidehpc.com/wp-content/uploads/2020/01/spell.jpg
+        width: 554
+        height: 554
 
 secured: "coLBcDu2XVgtO9qs2OEn4fp7wa/U69D86QXUF+y1LwG7KNgC/f7Nq9fKfSmTSpqRf/Zu1GHFK+gN7k8vo+FMD+rvWuSWp5oq24ieIKMxxnlJDYv0CYLALv8GqkQ/EoCZ3mh9oP2Ep305Nvrq25cpULaDQde8P9pK2k7Aj8h1lgN1m1ppf53O4075+fnDqVOgR08ZxfuExBNidFvcvN3U6VblSs3LfURwdsDp49TkQIH3OtjZs3gPo11kNYONtnrko6H2R7rKPgoNDftLW02olG4aktR8q6m6JxoHOydE24bQCs3PZJMZbBWsQjWX07NpcE8Rv03zn1huiYHX+Z92WNd53nKg3nYHg2caZuD1YXPpECs97h0ugk0FXFAhJarrf/K2sy/YM6GH8BT/jGUal2V+79/kWYBx65k7aFoU8tHUsySdXa/ItZVTpMMLFSs+5osssfEna5rMVVnCg52JCg==;2KkLolTZMwZf0MABbn9G6A=="
 ---

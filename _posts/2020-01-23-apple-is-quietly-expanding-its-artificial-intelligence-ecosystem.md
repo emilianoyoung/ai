@@ -8,7 +8,7 @@ ampUrl: https://www.fool.com/amp/investing/2020/01/23/apple-is-quietly-expanding
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/23/apple-is-quietly-expanding-its-artificial-intellig.aspx
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,19 @@ images:
     title: "Apple is Quietly Expanding its Artificial Intelligence Ecosystem"
 
 related:
+  - title: "Apple's low-power AI acquisition will bolster its surging AR play"
+    excerpt: "Apple acquired Xnor.ai, and the startup's low-power, edge-based AI tools will allow Apple to add AI features to power-constrained devices."
+    publishedDateTime: 2020-01-17T15:07:00Z
+    sourceUrl: https://www.businessinsider.com/apple-artificial-intelligence-startup-xnorai-augmented-reality-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: https://i.insider.com/5ab12aa51225bc29008b4c30?width=1200&format=jpeg
+        width: 900
+        height: 450
   - title: "Apple Is Quietly Expanding Its Artificial Intelligence Ecosystem"
     excerpt: "recently acquired Xnor.ai, a Seattle-based start-up that develops low-power, edge-based artificial intelligence tools. Apple didn't disclose the terms of the deal, but GeekWire claimed that the deal was worth about $200 million."
     publishedDateTime: 2020-01-24T10:30:00Z

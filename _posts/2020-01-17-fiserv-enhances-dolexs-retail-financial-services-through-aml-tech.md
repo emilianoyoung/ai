@@ -23,28 +23,6 @@ images:
     height: 300
     title: "Fiserv enhances DolEx’s retail financial services through AML tech"
 
-related:
-  - title: "Paladion Announces New Client Win with a Top Financial Services Company"
-    excerpt: "Paladion will deliver a fully-equipped Managed Detection and Response Service that provides high speed cyber defense using Artificial Intelligence and Machine Learning. RESTON,"
-    publishedDateTime: 2020-01-22T07:00:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/p15160768/paladion-announces-new-client-win-with-a-top-financial-services-company
-    ampUrl: https://amp.benzinga.com/amp/content/15160768
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15160768
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
-  - title: "ML in the cloud enhances the financial data journey"
-    excerpt: "at Amazon Web Services about how cloud is helping FIs upgrade their approach to financial data using artificial intelligence (AI) and machine learning (ML). Laying the groundwork Data is at the centre of digital transformation. FIs use it to optimise their business operations, enhance customer experience, bring new products and services to ..."
-    publishedDateTime: 2020-01-13T15:35:00Z
-    sourceUrl: https://www.finextra.com/newsarticle/35051/ml-in-the-cloud-enhances-the-financial-data-journey
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
-
 secured: "x7/54Uir1JvVmPOxkWMnIhNmrD8zGrVa4NvmNbSHVsZGY7reCkvbWrOKz+CV5ikCHkLf/UA5q6pW0ZSPEi/Olc6KefaGDouoaXu3xMF21LRUbJFLOPszxRotcuzADgi73Obar9p5zibK93MNDXgeaDeqDELLpEHPnRQrrJNcEjEwsgedmLkcMFTxdhXqjRLrDqyHCk4AJhRmaF2AqCIjgMTNjUWjLBPfuc6U7yaUJeS/eoK8EIS1OqOgIAoSs7b0n7gNmbB2ZTOnEeAMToKxVBv8iO/5RpxEppl/1DusgtvXoKlXRCnWrsK3wZSeXkgrffNVuIgR52IEuD173keLoO+yO5qU9LM+LwR9/zwMj2G9h44hsy7fgI+GpU4xDomb/s6NKMmUq0tG+JVxjC7PSipKr/y57khuW/dZHjk5Lqv0035A93UdK9tyXShapFR5O9FJ4Xdoi5Wh0w18GjVt8g==;34mnpeZHV6nzBuRjbxNQMQ=="
 ---
 

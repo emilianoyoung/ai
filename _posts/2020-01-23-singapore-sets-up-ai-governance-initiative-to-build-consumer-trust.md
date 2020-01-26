@@ -40,6 +40,15 @@ related:
       - url: https://zdnet2.cbsistatic.com/hub/i/2020/01/22/0d371627-35ec-44a9-83fe-7238305ce185/singapore-model-ai-governance-framework-second-edition-compendium-of-use-cases-pdf1.png
         width: 913
         height: 582
+  - title: "AI and drone startup Clobotics bags $10m to expand to Singapore"
+    excerpt: "Shanghai- and Seattle-headquartered computer vision technology company Clobotics has raised US$10 million in its pre-series B+ round from Tiger Investment, 36Kr reported on Wednesday. The new funds will be channeled toward research and development as well as the company’s expansion to Singapore. Clobotics closed its US$22 million pre-series B ..."
+    publishedDateTime: 2020-01-17T01:54:00Z
+    sourceUrl: https://www.techinasia.com/clobotics-bags-10m-expand-singapore
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 47
   - title: "Singapore unveils new initiatives to build consumer trust in artificial intelligence at WEF"
     excerpt: "DAVOS: A set of three initiatives, aimed at improving consumer trust on the use and governance of artificial intelligence (AI), were announced by Singapore at the World Economic Forum (WEF) annual meeting on Tuesday (Jan 21). They are an Implementation and Self-Assessment Guide for Organisations (ISAGO), a compendium of use cases and a ..."
     publishedDateTime: 2020-01-21T19:53:00Z

@@ -8,8 +8,8 @@ ampUrl: https://www.sfchronicle.com/opinion/openforum/amp/The-AI-regulation-wave
 cdnAmpUrl: https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/opinion/openforum/amp/The-AI-regulation-wave-is-coming-Industry-should-14999873.php
 type: article
 quality: 57
-heat: 67
-published: true
+heat: 57
+published: false
 
 provider:
   name: San Francisco Chronicle
@@ -23,21 +23,6 @@ images:
     width: 1920
     height: 1244
     title: "The AI regulation wave is coming: Industry should ride it"
-
-related:
-  - title: "How should we go about establishing strong AI regulation?"
-    excerpt: "Without it, the technology won’t take the world by storm These announcements have come in spite of recent setbacks in the sphere; just last week it was revealed that the European Commission were considering a five year ban on facial recognition, and Google‘s last attempt to assemble an AI ethics board lasted under two weeks due to ..."
-    publishedDateTime: 2020-01-23T16:00:00Z
-    sourceUrl: https://www.information-age.com/how-should-we-go-about-establishing-strong-ai-regulation-123487240/
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 39
-    images:
-      - url: https://s27389.pcdn.co/wp-content/uploads/2020/01/how-should-we-go-about-establishing-strong-AI-regulation.jpeg
-        width: 1080
-        height: 533
 
 secured: "rvonRv4WLxQLC/NCDY7IjTl5UC+yqUglkb47WGrwPLRMvMm9SL25lxqBY57ANI41zNV3CgCZH0VaEwRlj/CGXl0eXjbMNgYAtgnztYLGbgDzhJs+q1B+FwSWIfV+Vgp7rJq9LmMbQ/sFhoNIUrxgBsdjwHwlin3irsFJ/2Ez7iBeCLwCJPPzURkhT7DjhIWD8OvVBlb2vW9UkXsoev1XUg5dw98Nr6Q5ZOKsH/I4iyk9DzxEHZtv5T+ZldEOEaVSjK8fOc6gqm/jhpGirJq+weBYzSJiSRQyJifW0+W+ewJhhzZI92ys8sZDhux5Glg/3Nkrl60lMPO5HqVkM2mV4fMjG2nguO3oy1qVUqQzQ9ZxbkCbFMrRW71hJ8/rQu9SZO9HdEbbbmtiwgUfHH9qqzCIzYKpGH2IlKUFqm3kP38oqlO/Y+4qOfpMMIC8Wq2p17STE8V7fNNBoqVdlC+fPI6SJjvni3YJt2/4xYrvOMo=;GLOvLoZQhB/5oX1kCSrvXg=="
 ---

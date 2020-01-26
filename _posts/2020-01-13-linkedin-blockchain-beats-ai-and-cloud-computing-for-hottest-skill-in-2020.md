@@ -8,8 +8,8 @@ ampUrl: https://thenextweb.com/hardfork/2020/01/13/blockchain-linkedin-solidity-
 cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/hardfork/2020/01/13/blockchain-linkedin-solidity-ethereum-cryptocurrency-jobs-recruitment/amp/
 type: article
 quality: 87
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Next Web
@@ -30,45 +30,21 @@ images:
     title: "LinkedIn: Blockchain beats AI and cloud computing for hottest skill in 2020"
 
 related:
-  - title: "Cloud computing in 2020: More hybrid customers and massive growth in China"
-    excerpt: "Alluxio founder also says pyTorch or TensorFlow will emerge as the top choice among machine learning frameworks. Engineers who can manage structured and unstructured data will be the most in demand IT professionals in 2020 as companies build out their data technology infrastructure, according to Alluxio founder and CTO Haoyuan Li. He ..."
-    publishedDateTime: 2020-01-14T19:46:00Z
-    sourceUrl: https://www.techrepublic.com/article/cloud-computing-in-2020-more-hybrid-customers-and-massive-growth-in-china/
-    ampUrl: https://www.techrepublic.com/google-amp/article/cloud-computing-in-2020-more-hybrid-customers-and-massive-growth-in-china/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cloud-computing-in-2020-more-hybrid-customers-and-massive-growth-in-china/
+  - title: "LinkedIn is using AI to spot and remove inappropriate user accounts"
+    excerpt: "Social networks including Facebook, Twitter, and Pinterest tap AI and machine learning systems to detect and remove abusive content, as does LinkedIn. The Microsoft-owned platform — which has over 660 million users, 303 million of which are active monthly — today detailed its approach to handling profiles containing inappropriate content ..."
+    publishedDateTime: 2020-01-16T20:24:00Z
+    sourceUrl: https://venturebeat.com/2020/01/16/linkedin-is-using-ai-to-spot-and-remove-inappropriate-user-accounts/
+    ampUrl: https://venturebeat.com/2020/01/16/linkedin-is-using-ai-to-spot-and-remove-inappropriate-user-accounts/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/linkedin-is-using-ai-to-spot-and-remove-inappropriate-user-accounts/amp/
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 72
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
     images:
-      - url: https://tr2.cbsistatic.com/hub/i/r/2019/09/25/ad9f6a19-686a-4383-b9e0-4d5cca38d599/resize/1200x/ee305c191ab3d54326490b6d17feb414/istock-512454930industrycloud4.jpg
+      - url: https://venturebeat.com/wp-content/uploads/2016/04/20160325_135925-e1579206214251.jpg?fit=1200%2C600&strip=all
         width: 1200
-        height: 799
-  - title: "Blockchain, AI and Analytic Reasoning are the most in-demand hard skills for 2020"
-    excerpt: "Computer skills including Blockchain and AI top the list of the most in-demand skills in Australian companies for 2020. LinkedIn has revealed the top 10 most in-demand hard skills by Australian companies in 2020 as well as the five in-demand soft skills. There are over 50,000 professional skills in the world, according to LinkedIn, and the ..."
-    publishedDateTime: 2020-01-20T09:12:00Z
-    sourceUrl: https://www.news.com.au/finance/work/careers/blockchain-ai-and-analytic-reasoning-are-the-most-indemand-hard-skills-for-2020/news-story/c976357fe4b3addccc47fd1a81b0383c
-    ampUrl: https://amp.news.com.au/finance/work/careers/blockchain-ai-and-analytic-reasoning-are-the-most-indemand-hard-skills-for-2020/news-story/c976357fe4b3addccc47fd1a81b0383c
-    cdnAmpUrl: https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/finance/work/careers/blockchain-ai-and-analytic-reasoning-are-the-most-indemand-hard-skills-for-2020/news-story/c976357fe4b3addccc47fd1a81b0383c
-    type: article
-    provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 32
-  - title: "The Most In-Demand Hard and Soft Skills of 2020"
-    excerpt: "Soft skills are more about behavior and thinking, personal traits and cognitive skills. They’re typically more difficult to measure ... Which means that you don’t have to be in financial services to be seeking new hires who have background and expertise in putting blockchain to use. So, recruiters should start becoming familiar with ..."
-    publishedDateTime: 2020-01-12T18:44:00Z
-    sourceUrl: https://business.linkedin.com/talent-solutions/blog/trends-and-research/2020/most-in-demand-hard-and-soft-skills
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: https://business.linkedin.com/content/dam/business/talent-solutions/global/en_us/blog/2020/01/in-demand-soft-and-hard-skills.jpg
-        width: 1620
-        height: 1000
+        height: 600
 
 secured: "hvdbSbjZh+m8C4YEh3eBla07i11K2EAjkgXzUnJ2PYjRNUra9CpY/5QZSjYcbwU+h0hyeB1RRYCzQOQH6D1x7dKa3NZF53vQvtwxCboXAsAFoXfKvnjj60aR+DS+xV9Zsgg03tLKL/oZI4bYGZcQwsWj2MSa1FZkWAmb9E6SYYOoWhN5S63MIO25kFbaJkbQOOja2AXc1E7Yf9oBWS7+dupp2L0J/enhKsG1KAdg6Fi5qBrku1HZT3aVtL2wCA9E8p+rFATlY1IsqforxqZIJAieexPDAerXRj0vKnkExwOP2QSF3Ol0OIOWCsP+3AyZxQdNncMsG+wsWHCw4mfFT/+XZqUlPmm3ccHX8p4pL/vRE+in2UJw6bLGDz8/cBBy+gESqvbgPusfnOg0Br87zD1q+EmNbCRCdTyC3h9gklkZ57EcCSBosTNFJTYZjiotxN2aE/wl9NbIhQ8us9BD8w==;O1wIXlhN0klbrK7NUth3lQ=="
 ---

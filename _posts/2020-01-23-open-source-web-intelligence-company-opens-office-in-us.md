@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-23T16:55:00Z
 sourceUrl: https://www.securityinfowatch.com/cybersecurity/press-release/21122584/cobwebs-technologies-open-source-web-intelligence-company-opens-office-in-us
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -24,45 +24,19 @@ images:
     title: "Open source web intelligence company opens office in U.S."
 
 related:
-  - title: "Varicent Software Acquires Augmented Intelligence Company Symon.AI"
-    excerpt: "Varicent, the leading provider of next generation Sales Performance Management (SPM), today announced that it has acquired Symon.AI, a visionary technology platform built on sophisticated Natural Language and Machine Learning algorithms that provide easy to use,"
-    publishedDateTime: 2020-01-21T16:05:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/varicent-software-acquires-augmented-intelligence-company-symonai-2020-01-21-12159517
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Moody's Acquires Risk Intelligence Technology Leader RDC"
-    excerpt: "\"Joining BvD, under the Moody's Analytics umbrella, will help us to expand and extend our artificial intelligence leadership position. It also enables us to re-double our mission of preventing criminal infiltration of the world's financial system and ..."
-    publishedDateTime: 2020-01-23T12:19:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/2020/01/23/9085924.htm
+  - title: "Threat Actors Can No Longer Hide: Cobwebs Technologies, World's Most Advanced Open Source Web Intelligence Company Opens Office in U.S."
+    excerpt: "Designed by intelligence experts with operational experience in the field, Cobwebs is a machine learning (ML) and artificial intelligence (AI) powered web intelligence and investigation platform with strong Natural Language Processing capabilities. It extracts targeted intelligence from Big Data and automatically generates intelligent insights."
+    publishedDateTime: 2020-01-22T15:45:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-threat-actors-no-longer-hide-cobwebs-technologies-worlds-/2020/01/22/9085449.htm
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 22
+    quality: 0
     images:
-      - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
-        width: 252
-        height: 335
-  - title: "Moody's Acquires RDC, a Leader in Risk and Compliance Intelligence, Data and Software"
-    excerpt: "RDC's platform incorporates industry-leading artificial intelligence (AI) for compliance screening to help process customer requests at greater speeds and accuracy while reducing false positives. \"RDC's comprehensive data and leading technology are at the ..."
-    publishedDateTime: 2020-01-23T12:20:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/2020/01/23/9085921.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
-    images:
-      - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
-        width: 252
-        height: 335
+      - url: https://mma.prnewswire.com/media/1080529/Johnmichael_O_Hare.jpg
+        width: 400
+        height: 246
 
 secured: "bMvqUnn/xQlESIIdmOnbQTR5JABjK7kNEYmc+tl7Sl3p4c45jLSSAfNJ5PR0n/YNp0DPFdQrVpB7EIcX3UvBjlYZY6/pwy5kxy6VJ3dJr9aMYNAcdLOvWSJHdY8kCNe4prAnshyemVrL7ZGpr26QoaY5YHwCpHE5lM/Zd2++shxWcUQ55ztpq6JYEkVIDxZqY7tcJJiRpe7Ym5ulJi5yhWNGCdWe+FlgFMkztjW5uNsk6Im9C3xmrJIXZE/6mKE4KU0CbPq5I4wKOZsTb7d8Rl066eR1PKr/ma2bS+m1L/xa5NLtzgGtw3KwWadd6dEgID7N3m1lOo6RE/7176WY90624K3UOqLf0C0Z/2P2yrrVGMIiNbGwD8Zew5YYxjcceUovAR8PhBeo8iANupuxV4vx9p9IBhU1r3LDzhhXAHAQOtCkrEbiY/A0juHZxYFRaWR5zMRpcGgv/zcFyyjmcr3vakSlMrLFNnAYJsTiITg=;VWBev7kN/WH0gM7jV39Ulg=="
 ---

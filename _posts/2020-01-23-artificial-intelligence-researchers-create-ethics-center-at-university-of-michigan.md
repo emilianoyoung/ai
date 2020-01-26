@@ -8,7 +8,7 @@ ampUrl: https://www.mlive.com/news/ann-arbor/2020/01/artificial-intelligence-res
 cdnAmpUrl: https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2020/01/artificial-intelligence-researchers-create-ethics-center-at-university-of-michigan.html?outputType=amp
 type: article
 quality: 68
-heat: 78
+heat: 68
 published: true
 
 provider:
@@ -24,19 +24,6 @@ images:
     width: 1920
     height: 1080
     title: "Artificial intelligence researchers create ethics center at University of Michigan"
-
-related:
-  - title: "University to Help Society Wrap Their Minds Around Artificial Intelligence"
-    excerpt: "The University of Michigan’s Center of Ethics, Society and Computing (ESC) will study ethical limitations and practices of artificial intelligence. “We’re looking ahead to difficult debates about the future path we are steering with technology in society.” (TNS) — Researchers at the University of Michigan have been exploring the need ..."
-    publishedDateTime: 2020-01-24T23:35:00Z
-    sourceUrl: https://www.governing.com/next/University-to-Help-Society-Wrap-Their-Minds-Around-Artificial-Intelligence.html
-    ampUrl: https://www.governing.com/next/University-to-Help-Society-Wrap-Their-Minds-Around-Artificial-Intelligence.html?AMP
-    cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/University-to-Help-Society-Wrap-Their-Minds-Around-Artificial-Intelligence.html?AMP
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 37
 
 secured: "EsEuiqBWh681sTFDNjeva5K04Z3Yj271xcFz1xHmOvB9DkfgIy5+wXVhoGBW99N56cK6/6FtgnI+weYYs4Lg4QNp+LmVZPumqPF7BmER01Cqt/Waky+kLUn4lTiuvPAVTut5KrRw3szD/e08OPOz11vH8Fq4aS4oTHsdTAYNtVQ6CuJq/J8SNfX3SYUpbRONugsrRP0sW9JYBGmbzRo441j6fxbYpBD3qiE5DLTk1jtytuppb8JmIK5ouuIy6AxuSMa2zxQ6j9P/aK/WETpDQW8OQJHTNNYp2YJv8uu1A7K3keRxjKOyUQnfktgDwdI1gNXAb73pd1c/VrbKLNlCO/lu4dsxqe3QDKD25e4l4AoajxNBBSwyClR1XfbSdbNNqwRNbemjHunIlx12kWeY9ln4TjzSLAJ4F7NzlSATUZ9PZplM4b5xYIs2WoQ4Wx9GiGWy2RD69QTsFtn4FNU9YdM67odFlkKh9fjD3dViTj0=;AR5uTALkuazRwtf8BydIKw=="
 ---

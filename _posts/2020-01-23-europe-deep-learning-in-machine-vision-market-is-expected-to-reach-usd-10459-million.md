@@ -18,77 +18,63 @@ topics:
   - Machine Learning
 
 related:
-  - title: "SEBI eyes AI, machine learning to fix market manipulation"
-    excerpt: "Meanwhile, the capital markets regulator has also planned a ‘data lake’ project using tools like machine learning, artificial intelligence and big data analysis among other things. Data lake refers to a repository of data that is stored in a very raw or unstructured manner. “Use of advanced technological tools such as artificial ..."
-    publishedDateTime: 2020-01-23T17:17:00Z
-    sourceUrl: https://www.thehindu.com/business/sebi-eyes-ai-machine-learning-to-fix-market-manipulation/article30636862.ece
-    ampUrl: https://www.thehindu.com/business/sebi-eyes-ai-machine-learning-to-fix-market-manipulation/article30636862.ece/amp/
-    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/sebi-eyes-ai-machine-learning-to-fix-market-manipulation/article30636862.ece/amp/
+  - title: "Global Edge AI Hardware Market is Expected to Reach USD 1,929.21 Million by 2026 : Fior Markets"
+    excerpt: "Newark, NJ, Jan. 23, 2020 (GLOBE NEWSWIRE) -- The global edge AI hardware market is expected to grow from USD 423.34 Million in 2018 to USD 1,929.21 Million by 2026 at a CAGR of 20.9% during the forecast period 2019-2026,"
+    publishedDateTime: 2020-01-23T22:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-edge-ai-hardware-market-is-expected-to-reach-usd-192921-million-by-2026-fior-markets-2020-01-23
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 74
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
     images:
-      - url: https://th.thgim.com/static/theme/default/base/img/og-image.jpg
-        width: 300
-        height: 300
-  - title: "SEBI to tap artificial intelligence, big data analytics to curb market manipulations"
-    excerpt: "He said the capabilities will involve use of artificial intelligence, machine learning, big data analytics and natural language processing tools to spot market manipulation. The new plan involves creating a “data lake” project to augment analytical capabilities, he said while speaking at the Speaking at the National Institute of Securities ..."
-    publishedDateTime: 2020-01-23T09:25:00Z
-    sourceUrl: https://www.thehindu.com/business/sebi-to-tap-artificial-intelligence-big-data-analytics-to-curb-market-manipulations/article30633040.ece
-    ampUrl: https://www.thehindu.com/business/sebi-to-tap-artificial-intelligence-big-data-analytics-to-curb-market-manipulations/article30633040.ece/amp/
-    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/sebi-to-tap-artificial-intelligence-big-data-analytics-to-curb-market-manipulations/article30633040.ece/amp/
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Russia and NATO Artificial Intelligence in Military Market 2019-2027 | USD 18,649 Million Predicted By 2027"
+    excerpt: "Facts and Factors Market Research has published a new report titled \"Russia and NATO Artificial Intelligence in Military Market By Application (Warfare Platform, Information Processing, Logistics & Transportation,"
+    publishedDateTime: 2020-01-22T12:21:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/russia-and-nato-artificial-intelligence-in-military-market-2019-2027-usd-18649-million-predicted-by-2027-2020-01-22
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 50
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
-      - url: https://www.thehindu.com/news/national/g3k9ri/article30577966.ece/ALTERNATES/LANDSCAPE_615/16THSEBI
-        width: 615
-        height: 384
-  - title: "Sebi to tap artificial intelligence, big data analytics to curb market manipulations: Ajay Tyagi"
-    excerpt: "He said the capabilities will involve use of artificial intelligence, machine learning , big data analytics and natural language processing tools to spot market manipulation. The new plan involves creating a \"data lake\" project to augment analytical ..."
-    publishedDateTime: 2020-01-23T08:49:00Z
-    sourceUrl: https://www.moneycontrol.com/news/business/markets/sebi-to-tap-artificial-intelligence-big-data-analytics-to-curb-market-manipulations-ajay-tyagi-4849461.html
-    ampUrl: https://www.moneycontrol.com/news/business/markets/sebi-to-tap-artificial-intelligence-big-data-analytics-to-curb-market-manipulations-ajay-tyagi-4849461.html/amp
-    cdnAmpUrl: https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/markets/sebi-to-tap-artificial-intelligence-big-data-analytics-to-curb-market-manipulations-ajay-tyagi-4849461.html/amp
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Edge Artificial intelligence (AI) Software Market 2020: Key factors behind market's rapid growth by 2030"
+    excerpt: "The Objective of the \"Global Edge AI Software Market Market\" report is to depict the trends and upcoming for the Edge AI Software Market industry over the forecast years. Edge AI Software Market Market report data has been gathered from industry specialists/experts."
+    publishedDateTime: 2020-01-24T02:56:00Z
+    sourceUrl: https://www.benzinga.com/press-releases/20/01/wr15178205/edge-artificial-intelligence-ai-software-market-2020-key-factors-behind-markets-rapid-growth-by-
+    ampUrl: https://amp.benzinga.com/amp/content/15178205
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15178205
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 44
-    images:
-      - url: https://static-news.moneycontrol.com/static-mcnews/2018/09/2018-09-24T142126Z_1_LYNXNPEE8N15X_RTROPTP_2_USA-TRADE-MEXICO-SIEMENS-378x213.jpg
-        width: 378
-        height: 213
-  - title: "SEBI will use artificial intelligence, big data to monitor market manipulations, says Ajay Tyagi"
-    excerpt: "Securities and Exchange Board of India (SEBI) Chairman Ajay Tyagi on January 23 said the regulator will adopt artificial intelligence (AI), machine learning (ML), big data analytics and natural language processing tools to monitor and analyse spot market manipulation, PTI reported. \"Catching malpractices in the market using the standard tools ..."
-    publishedDateTime: 2020-01-24T03:30:00Z
-    sourceUrl: https://www.moneycontrol.com/news/business/sebi-will-use-artificial-intelligence-big-data-to-monitor-market-manipulations-says-ajay-tyagi-4853021.html
-    ampUrl: https://www.moneycontrol.com/news/business/sebi-will-use-artificial-intelligence-big-data-to-monitor-market-manipulations-says-ajay-tyagi-4853021.html/amp
-    cdnAmpUrl: https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/sebi-will-use-artificial-intelligence-big-data-to-monitor-market-manipulations-says-ajay-tyagi-4853021.html/amp
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
+  - title: "Artificial Intelligence (AI) Market Exceed US$ 160 Bn 2026"
+    excerpt: "The global artificial intelligence market is expected to exceed the market value of around US$ 160 billion by 2026. LOS ANGELES, Jan. 23, 2020 /PRNewswire/ -- Acumen Research and Consulting, Recently Published Report titled \" Artificial Intelligence (AI) Market Size,"
+    publishedDateTime: 2020-01-23T13:30:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-ai-market-exceed-us-160-bn-2026-300992123.html
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 44
-    images:
-      - url: https://static-news.moneycontrol.com/static-mcnews/2019/04/Adani_logo-378x213.jpg
-        width: 378
-        height: 213
-  - title: "Sebi to tap artificial intelligence, big data analytics to curb market manipulations, says Chairman Ajay Tyagi"
-    excerpt: "He said the capabilities will involve use of artificial intelligence, machine learning, big data analytics and natural language processing tools to spot market manipulation. The new plan involves creating a “data lake” project to augment analytical capabilities, he said while speaking at the National Institute of Securities Markets at ..."
-    publishedDateTime: 2020-01-23T09:55:00Z
-    sourceUrl: https://www.financialexpress.com/market/sebi-to-tap-artificial-intelligence-big-data-analytics-to-curb-market-manipulations-says-chairman-ajay-tyagi/1832721/
-    ampUrl: https://www.financialexpress.com/market/sebi-to-tap-artificial-intelligence-big-data-analytics-to-curb-market-manipulations-says-chairman-ajay-tyagi/1832721/lite/
-    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/market/sebi-to-tap-artificial-intelligence-big-data-analytics-to-curb-market-manipulations-says-chairman-ajay-tyagi/1832721/lite/
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 34
+  - title: "Battery Management System Market is Poised to Hit $22.3 Billion by 2030: P&S Intelligence"
+    excerpt: "NEW YORK, Jan. 20, 2020 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global battery management system market share was valued at $5.1 billion in 2019,"
+    publishedDateTime: 2020-01-20T07:20:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/g15148602/battery-management-system-market-is-poised-to-hit-22-3-billion-by-2030-p-s-intelligence
+    ampUrl: https://amp.benzinga.com/amp/content/15148602
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15148602
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 32
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 13
 
 secured: "TQthMJR7KF71DZEO4no4G4Fa5JFniEMcCHq6adYCDqde9GwjO/Q9NZQ7wt4AaW7AHsFsykdxxY+GND/YXHJ8UXmNwP+4sAiWvSnvkC+XX/Rsv2HqHIMWQsF+b02QqqAcd7/Vv6s6ZHsNYGJzdUnNZ4ZwBadrtjbkXZ9IlkFLsy8OtF1hR+CamAT3G/YNsQsRwp9XttwziIGZXCLG/5BSA2ofjVxJbZOQfxmIjCSvOfn2ShQOXSLsAmTo3Q5r+EVsdp9mULeB9PUoKFNCHyhiTMesXm6J+PATCfn/l1T0Ud9x/GRrTQUYg7/7rUYF8ack;8t5f3c7q1kXIkub4ah1ktg=="
 ---

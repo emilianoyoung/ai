@@ -23,21 +23,32 @@ images:
     title: "Thought Leader Adam Lutostanski: Is There Too Much Artificial Intelligence In The Banking Industry?"
 
 related:
-  - title: "How is AI benefiting industries throughout Southeast Asia?"
-    excerpt: "with the exception of a few digital native enterprises that have embedded analytics and AI into their business models from the start, only a handful have really deployed these technologies at scale throughout the enterprise. “There are many reasons for this, such as a lack of skilled resources, lack of data, lack of coordination between key ..."
-    publishedDateTime: 2020-01-20T23:15:00Z
-    sourceUrl: https://www.cio.com/article/3311756/how-is-artificial-intelligence-benefiting-industries-throughout-southeast-asia.html
-    ampUrl: https://www.cio.com/article/3311756/how-is-artificial-intelligence-benefiting-industries-throughout-southeast-asia.amp.html
-    cdnAmpUrl: https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3311756/how-is-artificial-intelligence-benefiting-industries-throughout-southeast-asia.amp.html
+  - title: "Can high-tech capitalism fix the healthcare industry?"
+    excerpt: "Theoretically, this is where artificial intelligence can step in. Lots of startups and large tech companies are working on software that will make sense of all the various data inputs. The idea is that AI will analyze patient data and offer suggestions for diagnosis or treatment. But Madara warned that healthcare providers should be sure to ..."
+    publishedDateTime: 2020-01-22T12:00:00Z
+    sourceUrl: https://www.fastcompany.com/90452923/dont-count-on-tech-to-cure-healthcares-many-ills?partner=feedburner
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 57
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 39
     images:
-      - url: https://images.techhive.com/images/article/2016/08/machine-learning-ai-artificial-intelligence-100678121-large.jpg
-        width: 1200
-        height: 773
+      - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-2-healthcare.jpg
+        width: 1280
+        height: 720
+  - title: "Don’t count on tech to cure healthcare’s many ills"
+    excerpt: "Theoretically, this is where artificial intelligence can step in. Lots of startups and large tech companies are working on software that will make sense of all the various data inputs. The idea is that AI will analyze patient data and offer suggestions for diagnosis or treatment. But Madara warned that healthcare providers should be sure to ..."
+    publishedDateTime: 2020-01-22T12:00:00Z
+    sourceUrl: https://www.fastcompany.com/90452923/dont-count-on-tech-to-cure-healthcares-many-ills
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 39
+    images:
+      - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-2-healthcare.jpg
+        width: 1280
+        height: 720
 
 secured: "cbOMvxge+QD80975AalNSMr0gkZ/d01BFbriIuAgpGp9cw0ttSWxTqKb2MSEuawugSU7gFg/XS7AbyYSJ4KjXFqNGGnDBErU+cMtKVO8ul/o1YYbdg2/fmDxK5L7iy18ghmS+prd5mj20uv8tU90B0ijN2VVphfHASGyjK50sOPqOxigN+EKlNZr/EZQ6ilP+LwukdAO2tCUaI1KZewXJQGLIawPL4fchq2eGciGal6y41Ic+C8GAGhsPpJZu20ryBUJQx5Le0spqHyMs6disUANaTXrK7RpTeEUk8uYfuEuTjf0ntRVXEsyn08iz1X1vVtCe58MuunPGA3a4lkMRAFq6P1oSf1MG3CGFKzrOkdPYDgR+vWNC6vKzUmw3PF1W+KP+bwlMqfErqqTc0AhdHU89gng+AzhjEhNuJB1dzv3yFPZKqP5T6N9PDpzqz/IJvs4PWhnMmHYHtwi8iLivkNpjGwF7GUltybt1eZOUrw=;34DGRIXETfaP7RsxP7uYTA=="
 ---

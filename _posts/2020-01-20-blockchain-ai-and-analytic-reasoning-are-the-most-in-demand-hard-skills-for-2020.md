@@ -19,49 +19,52 @@ topics:
   - AI
 
 related:
-  - title: "LinkedIn: Blockchain beats AI and cloud computing for hottest skill in 2020"
-    excerpt: "“Which means that you don’t have to be in financial services to be seeking new hires who have background and expertise in putting blockchain to use.” The Microsoft-owned company then urged recruiters ... How one behaves, how they think, and their cognitive skills are all examples of soft skills. While soft skills are difficult to measure ..."
-    publishedDateTime: 2020-01-13T12:45:00Z
-    sourceUrl: https://thenextweb.com/hardfork/2020/01/13/blockchain-linkedin-solidity-ethereum-cryptocurrency-jobs-recruitment/
-    ampUrl: https://thenextweb.com/hardfork/2020/01/13/blockchain-linkedin-solidity-ethereum-cryptocurrency-jobs-recruitment/amp/
-    cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/hardfork/2020/01/13/blockchain-linkedin-solidity-ethereum-cryptocurrency-jobs-recruitment/amp/
+  - title: "The Case for a Light Hand With AI and a Hard Line on China"
+    excerpt: "Last week, at the WIRED HQ at CES, I spoke with Michael Kratsios, the chief technology officer of the United States. We dug into the government’s recent regulatory framework for AI, the potential for an AI cold war with China, and whether or not the NSA is building a quantum computer. The conversation has been lightly edited for clarity."
+    publishedDateTime: 2020-01-14T15:00:00Z
+    sourceUrl: https://www.wired.com/story/light-hand-ai-hard-line-china/
+    ampUrl: https://www.wired.com/story/light-hand-ai-hard-line-china/amp
+    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/light-hand-ai-hard-line-china/amp
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
+      name: Wired
+      domain: wired.com
     quality: 87
     images:
-      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/05/cryptocurrency-blockchain-development-programming-ethereum-solidity-javascript-java-796x450.jpg
-        width: 796
-        height: 450
-  - title: "Cloud computing in 2020: More hybrid customers and massive growth in China"
-    excerpt: "Alluxio founder also says pyTorch or TensorFlow will emerge as the top choice among machine learning frameworks. Engineers who can manage structured and unstructured data will be the most in demand IT professionals in 2020 as companies build out their data technology infrastructure, according to Alluxio founder and CTO Haoyuan Li. He ..."
-    publishedDateTime: 2020-01-14T19:46:00Z
-    sourceUrl: https://www.techrepublic.com/article/cloud-computing-in-2020-more-hybrid-customers-and-massive-growth-in-china/
-    ampUrl: https://www.techrepublic.com/google-amp/article/cloud-computing-in-2020-more-hybrid-customers-and-massive-growth-in-china/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cloud-computing-in-2020-more-hybrid-customers-and-massive-growth-in-china/
+      - url: https://media.wired.com/photos/5e18caa890f5f5000872b7b5/master/pass/Biz-Kratsios-IMG_6970.jpg
+        width: 2400
+        height: 1600
+  - title: "Uses And Limitations Of AI In Chip Design"
+    excerpt: "From there, formal will give valuable input to the whole system verification. SE: One of the problems with those chips, particularly the ones used for safety, is that the AI running on those systems are basically opaque. Is there any progress in understanding what can go wrong with those algorithms? Brinkmann: The machine learning guys are ..."
+    publishedDateTime: 2020-01-15T18:46:00Z
+    sourceUrl: https://semiengineering.com/uses-and-limitations-of-ai-in-chip-design/
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 72
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 54
     images:
-      - url: https://tr2.cbsistatic.com/hub/i/r/2019/09/25/ad9f6a19-686a-4383-b9e0-4d5cca38d599/resize/1200x/ee305c191ab3d54326490b6d17feb414/istock-512454930industrycloud4.jpg
-        width: 1200
-        height: 799
-  - title: "The Most In-Demand Hard and Soft Skills of 2020"
-    excerpt: "Soft skills are more about behavior and thinking, personal traits and cognitive skills. They’re typically more difficult to measure ... Which means that you don’t have to be in financial services to be seeking new hires who have background and expertise in putting blockchain to use. So, recruiters should start becoming familiar with ..."
-    publishedDateTime: 2020-01-12T18:44:00Z
-    sourceUrl: https://business.linkedin.com/talent-solutions/blog/trends-and-research/2020/most-in-demand-hard-and-soft-skills
+      - url: https://i1.wp.com/semiengineering.com/wp-content/uploads/2020/01/raik-brinkmann.jpg-1.png?fit=320%2C206&#038;ssl=1
+        width: 320
+        height: 206
+  - title: "Artificial Intelligence and Machine Learning for Natural Sciences"
+    excerpt: "We are in particular interested in graph convolutional neural networks or generative methods such as GANs ... The candidate will be paid according to TV-L E13 (100%). The position is funded by the Artificial Intelligence program of Baden Württemberg („Künstliche Intelligenz Baden-Württemberg“ (KI-BW).)"
+    publishedDateTime: 2020-01-17T21:18:00Z
+    sourceUrl: https://www.findaphd.com/phds/project/artificial-intelligence-and-machine-learning-for-natural-sciences/?p118384
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: https://business.linkedin.com/content/dam/business/talent-solutions/global/en_us/blog/2020/01/in-demand-soft-and-hard-skills.jpg
-        width: 1620
-        height: 1000
+      name: FindAPhD
+      domain: findaphd.com
+    quality: 34
+  - title: "China Artificial Intelligence Market"
+    excerpt: "self-driving cars, smart robots (that can learn from their surroundings and build on their capabilities based on inbuild knowledge) and military applications. Get Sample Copy of China Artificial Intelligence Market at: https://www.omrglobal.com/request ..."
+    publishedDateTime: 2020-01-14T08:35:00Z
+    sourceUrl: https://www.openpr.com/news/1895426/china-artificial-intelligence-market-2020-global-trends
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 21
 
 secured: "szm1G8EKggfkXSNBU2XpMun2Sh5l1SxmL0DoLz8cz+wbhWSCqluXB/xHG/hp7nf38nCSpzKk7a477Kr9DHtM5xIXO7rDi/lBUauD7GOq3gbGDktqUPVi6/d+CP8SLOfRLGSNEWhRzvQUKObnMeR0G2h9CxlG9ml5gWA7Qxq2FBnDNTuGioXXQFsXsEApIor1tyiOQQoOaGYPMPrin87e+Nktn3ZM22wk7PMDYDfJbuHDnIfjylYhmMuV554jOvbORaONqAzBGwq9IyT7oYH268UooIAWYYgLtU/Pnm8j0fvgJrfNEBQBoi3jFT5uFGCVd85n3XSJ1+NAsaNl6AddZwaB8rsHviEEXYjBWWKQS9jVGquiLN5hfCD/UbYMzC/l+2OS5dMHtE3oyRn6DwLm2budgOTXkyU8UqjAnr5vVfemMKlm0F8rTvCLh096qkvR4wDvfZ/Cq0CAXADcWhcbUA==;Qba2hgAeAWeOo4VXEpLSXQ=="
 ---

@@ -23,6 +23,21 @@ images:
     height: 581
     title: "Not Just Voice: The Natural Language Revolution"
 
+related:
+  - title: "ReadSpeaker Launches VoiceLab to Unleash Branded Voice Solutions"
+    excerpt: "And with the voice and speech recognition technology industry expected to become a $1.46B market by 2024, brands must ensure their voice solutions are highly customized so as to set them apart from the competition. The ReadSpeaker VoiceLab addresses mounting demand for custom, digital voices by offering flexible pathways that allow any brand ..."
+    publishedDateTime: 2020-01-13T13:51:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-readspeaker-launches-voicelab-unleash-branded-voice-solutions-/2020/01/13/9080242.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 24
+    images:
+      - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
+        width: 252
+        height: 335
+
 secured: "eQWhW/EQk58fgfvzJVpe0IdsbsDYUeMpLrDYhrbMdwWlcJLdN36TG8n6vpKgw5MLZIAHDVi7JiPZ/1milWYGadiysSddesI3QSONf3in3k2ZRP0OX1hEVoqmqiAFOu/1X2s5piV2D/g8a9SLx7HYqkU2tzigLeo2pRAaNLpMj6y8e2K+E5GbfIfC5VAUQNf5CGhsjuno8jECHtPXPPrnW1JKsR+Hzcldv+HiYt13eUNZWG5gQ9GBgWg40x0IXcWl/yME63/pY5lpczkA7uF4lKOBbcFfa4ciDtBkKEaNMZ4aHPiZAfEG3qvIaxSFecfnP1ccgwPEcXaw7aGfKV9jzMscA4CJnY3r931bR3LzaAXlcBGdP30qW7vCgWZSt0KspS2/2SDVaUoUhm3CzKlpPoAt1kAJqFzWfksV+TcIFN9DWSxf48iuOX5MnRZc9J5PhawIDZ+dtVxNx1q55JC12w==;9bHVpAYBox7XzRySHp0WKQ=="
 ---
 

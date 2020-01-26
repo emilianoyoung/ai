@@ -56,36 +56,32 @@ related:
       - url: https://www.mcall.com/resizer/662IptMsHi99xN6J-SNxQSoolGk=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/GUF353ITLREW5CDR7K74JGZARY.jpg
         width: 1200
         height: 800
-  - title: "Clearview AI’s facial-recognition app is a nightmare for stalking victims"
-    excerpt: "The latest example of Silicon Valley’s hubris is the facial-recognition app Clearview AI. The small startup’s app is so powerful that someone could walk up to you on the street, snap your photo, and quickly find out your name, address, and phone number ..."
-    publishedDateTime: 2020-01-22T17:41:00Z
-    sourceUrl: https://www.digitaltrends.com/news/clearview-ai-facial-recognition-domestic-violence-stalking/
-    ampUrl: https://www.digitaltrends.com/news/clearview-ai-facial-recognition-domestic-violence-stalking/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/clearview-ai-facial-recognition-domestic-violence-stalking/?amp
+  - title: "Philadelphia International Airport Testing Facial Recognition On Some International Flights"
+    excerpt: "PHILADELPHIA (CBS) — Some passengers at the Philadelphia International Airport will see a new security screening starting Tuesday. The airport is testing a new program to scan the faces of passengers leaving the airport on some international flights. Only a few flights on American Airlines, British Airways, Lufthansa, and Qatar Airways are ..."
+    publishedDateTime: 2020-01-21T19:10:00Z
+    sourceUrl: https://philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/
+    ampUrl: https://philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/amp/
+    cdnAmpUrl: https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/amp/
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 88
-    images:
-      - url: https://icdn3.digitaltrends.com/image/digitaltrends/facial-recognition-composite-feature-1200x630-c-ar1.91.jpg
-        width: 1200
-        height: 628
-  - title: "Facial recognition is coming to more smart home cameras: Why you should be worried"
-    excerpt: "Police don’t have access to those videos unless a homeowner gives them permission — something Ring has been less than transparent about in the past — but imagine if those faces were sent to the cloud, where they could be matched up with, say, Amazon’s Rekognition software, which can match faces with a huge database? What to know before ..."
-    publishedDateTime: 2020-01-11T18:19:00Z
-    sourceUrl: https://www.tomsguide.com/features/facial-recognition-smart-home
-    ampUrl: https://www.tomsguide.com/amp/features/facial-recognition-smart-home
-    cdnAmpUrl: https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/features/facial-recognition-smart-home
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 44
+  - title: "This exhibition at the Philadelphia Museum of Art showcases incredible futuristic ideas"
+    excerpt: "Yasin founded Petit Pli, available online, which aims to reduce wastage in the fashion industry. Neurodildo is a mind-controlled sex toy, designed by Brazilian electrical engineer Leonardo Mariano Gomes. Still in the testing phase, the ‘Neurodildo’ provides a vibrator for one partner that is remotely connected to an electroencephalogram ..."
+    publishedDateTime: 2020-01-22T22:58:00Z
+    sourceUrl: https://www.architecturaldigest.in/content/philadelphia-museum-of-art-exhibition-design-show-robots-futuristic-ideas/
+    ampUrl: https://www.architecturaldigest.in/content/philadelphia-museum-of-art-exhibition-design-show-robots-futuristic-ideas/amp/
+    cdnAmpUrl: https://www-architecturaldigest-in.cdn.ampproject.org/c/s/www.architecturaldigest.in/content/philadelphia-museum-of-art-exhibition-design-show-robots-futuristic-ideas/amp/
     type: article
     provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 38
+      name: Architectural Digest India
+      domain: architecturaldigest.in
+    quality: 36
     images:
-      - url: https://cdn.mos.cms.futurecdn.net/FsiNg7SW9eXBKcDnJQBkVb-1200-80.jpg
-        width: 1200
-        height: 825
+      - url: https://media.architecturaldigest.in/wp-content/uploads/2020/01/Philadelphia-Museum-of-Art-1366x768.jpg
+        width: 1366
+        height: 768
   - title: "Ticket to Fly in Philly: A Scanned Boarding Pass and Your Face"
     excerpt: "Philadelphia’s airport will begin using facial recognition scanners, though there are still many concerns. Officials expect mistakes, but wonder “how might those mistakes be unequally distributed across demographics.” (TNS) — Starting Tuesday, travelers boarding certain international flights at Philadelphia International Airport will ..."
     publishedDateTime: 2020-01-16T21:45:00Z

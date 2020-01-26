@@ -17,17 +17,6 @@ topics:
   - AI
   - Microsoft AI
 
-related:
-  - title: "Neural Network Software Market Is Booming Globally with Top key vendors Google, International Business Machines, Microsoft"
-    excerpt: "Neural Network software is used to simulate, research, develop, and apply artificial neural networks, software concepts adapted from biological neural networks, and in some cases, a wider array of adaptive systems such as artificial intelligence and machine learning. Apart from this, the research report offers the vital key segmentation of the ..."
-    publishedDateTime: 2020-01-20T10:19:00Z
-    sourceUrl: https://www.openpr.com/news/1900816/neural-network-software-market-is-booming-globally-with-top-key
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
-
 secured: "LsuhuoFuYPwQEEaWzgXuPKWqFk9PO5WcB7P9/1Gx5LHwFsrRTfETfJOta1c/nOVqmI/5nnNfcf83I81tUVuAcoxhlKm03i0ttrNdgWpVgFF3FcAZZ4bkJjyXHQpJX95YIBBJMW9vFB6zY+UwOHPUYX0TroApKDsYLv1wYEf+ELqpin3VeeSawR1shIgkGnZbYmSemYzB/68dmnAL2CSmBE1JBZ0FKu0kxls4U9yNi4abNr9F8PfTjqEtjYAIUn8cvmNNH+TnnaxjOXWVP2eKYVIw9ZQB/DAcecrVqsqu1cB0wjuHZrr1OAZQk7syLmGr0WkUs/Aoxe+vBrhe7GtzmKkSpk1mtqw/isRFoGK9TcYSQoovaBILhfKBquDSUFgPhKtHBtWkH+UbKBl60CEKrFBE1vffQ9jiMqTB+2h78jx/PHT0fnP8brVYvuQCPR4Nz70EFAKnngORqp0WN8A1srKms8WNS+LCUwP59rlsQSc=;ijUkln4N+sLNQxtX1Imofg=="
 ---
 

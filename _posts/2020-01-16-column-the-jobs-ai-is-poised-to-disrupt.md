@@ -8,8 +8,8 @@ ampUrl: https://www.bizjournals.com/triangle/news/2020/01/16/column-the-jobs-ai-
 cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/triangle/news/2020/01/16/column-the-jobs-ai-is-poised-to-disrupt.amp.html
 type: article
 quality: 59
-heat: 59
-published: false
+heat: 69
+published: true
 
 provider:
   name: The Business Journals
@@ -24,6 +24,23 @@ images:
     width: 600
     height: 400
     title: "Column: The jobs AI is poised to disrupt"
+
+related:
+  - title: "Column: Artificial intelligence: Are we there yet?"
+    excerpt: "Now, many years hence, it is time to revisit the poignancy of it all, fiction or real, science or philosophy. With the speed of technology racing faster than ever, is the line between human and artificial intelligence (AI) becoming more indiscernible? If every step of human learning and thinking can be explained in tactics, can a machine ..."
+    publishedDateTime: 2020-01-22T09:38:00Z
+    sourceUrl: https://www.dispatch.com/opinion/20200122/column-artificial-intelligence-are-we-there-yet
+    ampUrl: https://www.dispatch.com/opinion/20200122/column-artificial-intelligence-are-we-there-yet?template=ampart
+    cdnAmpUrl: https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/opinion/20200122/column-artificial-intelligence-are-we-there-yet?template=ampart
+    type: article
+    provider:
+      name: Columbus Dispatch
+      domain: dispatch.com
+    quality: 57
+    images:
+      - url: https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200122&Category=OPINION&ArtNo=200129644&Ref=AR
+        width: 4000
+        height: 6000
 
 secured: "jXAWyvzU9WzbcXeFIU8sf2JuNWbDqBnUaWQ8LRlKnrZcxnBMVxCKGMod3psXuGxslX85tDcLoEjjvC87Zg1DdYcRWl98bVJqPUXdO3etsM2c7WKLJ/FcrtDh6SiN8fS1Q9K/fG81BUh8WtEzKe48FxBbgngfIvea9p2hkgzcQ81kNGGb7V8xFrT4Jq5r2oJnLIj7lRC/Z4/QQggIozlXvOzDVbl68Ybxr/lP+Jn4yIeWll/jfJQPkxTkr4MHeYv8+MMnjKHjbNlW8sXIE1WTmT23eGsBK2dFNmYcoCzSV6iP6VDD/Tw99vKlaD8eV6wWgeGSo52plJSaAaDKjva7pjgeth+tUqrd2o1gifoBNR/HMgXaqnqIetDc/qQaWk6X3oYQ0Bw4LVpbWr/baH3oX20hGvcUi0WmkW/FLBOLSfWPs58ghlnjcj3D0Azs0jEW969XKP5X8CNHdsV4ZIRyoA==;NDqH2N9h3ym2fG415U076g=="
 ---

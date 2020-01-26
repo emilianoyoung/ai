@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-start
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/amp/
 type: article
 quality: 87
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -42,19 +42,45 @@ related:
       - url: https://www.digitimes.com/newsshow/20200121PD212_files/2_r.jpg
         width: 336
         height: 224
-  - title: "PROTXX Launches Collaboration with Alberta Healthcare and Machine Learning Innovation Ecosystems"
-    excerpt: "/PRNewswire/ -- Silicon Valley-based digital healthcare technology pioneer PROTXX, Inc. today announced a broad collaboration with Alberta-based"
-    publishedDateTime: 2020-01-14T12:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/protxx-launches-collaboration-with-alberta-healthcare-and-machine-learning-innovation-ecosystems-300985235.html
+  - title: "Europe considering tough new rules for artificial intelligence"
+    excerpt: "Bloomberg—The European Union is considering new legally binding requirements for developers of artificial intelligence in an effort to ensure modern technology is developed and used in an ethical way. The EU’s executive arm is set to propose the new rules apply to “high-risk sectors,” such as healthcare and transportation, and suggest ..."
+    publishedDateTime: 2020-01-16T20:38:00Z
+    sourceUrl: https://www.healthdatamanagement.com/articles/europe-considering-tough-new-rules-for-artificial-intelligence
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
+      name: Health Data Management
+      domain: healthdatamanagement.com
+    quality: 39
     images:
-      - url: https://mma.prnewswire.com/media/1065213/PROTXX_innovations.jpg?p=facebook
-        width: 1000
-        height: 524
+      - url: https://sourcemedia.brightspotcdn.com/dims4/default/ea40303/2147483647/strip/true/crop/1600x840+0+30/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2Fc3%2F68%2Fa7382d1144bb873148b05dd34d27%2Fhealth-data-management-social-share-image.png
+        width: 1200
+        height: 630
+  - title: "Artificial intelligence project chosen for national healthcare competition - with $1 million on the line"
+    excerpt: "A UVA Health proposal to reduce hospital readmissions was among 25 submissions chosen - from more than 300 applications - for a national competition seeking ideas on how artificial intelligence can improve healthcare. The UVA Health data science team will compete alongside proposals from organizations that include IBM and Mayo Clinic in the ..."
+    publishedDateTime: 2020-01-10T20:33:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/uovh-uhp011020.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
+    images:
+      - url: https://www.eurekalert.org/multimedia/pub/web/221276_web.jpg
+        width: 1440
+        height: 1080
+  - title: "Artificial intelligence project chosen for national healthcare competition - with $1 million on the line"
+    excerpt: "A UVA Health proposal to reduce hospital readmissions was among 25 submissions chosen - from more than 300 applications - for a national competition seeking ideas on how artificial intelligence can improve healthcare. The UVA Health data science team will compete alongside proposals from organizations that include IBM and Mayo Clinic in the ..."
+    publishedDateTime: 2020-01-11T13:21:00Z
+    sourceUrl: https://eurekalert.org/pub_releases/2020-01/uovh-uhp011020.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
+    images:
+      - url: https://www.eurekalert.org/multimedia/pub/web/221276_web.jpg
+        width: 1440
+        height: 1080
 
 secured: "c040dHZzCQDoJBXSzAISkD7vnzewVbV+NQg2NkfjWsyEE4YLvBX/eKCpyru82Zla+Bw1qJjzLl8279ZhDnkfyAZwC7uxNxIbklyTogEgiqtNCCDiELvo0DK6MYdtJOwJkGk9fzyjLRlC2Xy7KWtqsgGjRbWYjnuu81xmEyvQajKkCzGkMdTj483xdKfjL/sQqLNdaHau6WzW1zDDcq4qChKIfhtktLu1s2l9wnXe9O6JG434ndiveM1YLtWeMdiavQ0qYimI2ZVHBYiRcOPn8HYhB8AhUMsqp4wRzqQ5QqsBv6ubIo7VL87qD1yz/JYI6Fb9YYGB40pmdCKve29XJjmKBv2JA1yFIQ0V1+JXdKDkJ6NixJP8XcOgFnX1QLd8S2VAO5Tp05ILKme3axBLqXlQYTcJuAnKKe8eR6t89Tvf4zM4NK/xpEUSbwDCNNVt9ZI1lzoZdkYRv5vVN9312Q==;ll0pgvD8VBdYN/5uJBY2qQ=="
 ---

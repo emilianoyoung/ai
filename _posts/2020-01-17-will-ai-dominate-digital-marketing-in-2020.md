@@ -8,7 +8,7 @@ ampUrl: https://www.business2community.com/digital-marketing/will-ai-dominate-di
 cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/digital-marketing/will-ai-dominate-digital-marketing-in-2020-02276105/amp
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -20,28 +20,47 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Using artificial intelligence to enrich digital maps"
-    excerpt: "In a paper being presented at the Association for the Advancement of Artificial Intelligence conference, the MIT and QCRI researchers describe \"RoadTagger,\" which uses a combination of neural network architectures to automatically predict the number of lanes and road types (residential or highway) behind obstructions. In testing RoadTagger on ..."
-    publishedDateTime: 2020-01-23T17:42:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/miot-uai012320.php
+  - title: "What are Important AI & Machine Learning Trends for 2020?"
+    excerpt: "To help you stay well prepared for 2020, we’ve summarized the latest trends across different research areas, including natural language processing, conversational AI, computer vision, and reinforcement learning."
+    publishedDateTime: 2020-01-22T22:41:00Z
+    sourceUrl: https://www.forbes.com/sites/mariyayao/2020/01/22/what-are--important-ai--machine-learning-trends-for-2020/
+    ampUrl: https://www.forbes.com/sites/mariyayao/2020/01/22/what-are--important-ai--machine-learning-trends-for-2020/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariyayao/2020/01/22/what-are--important-ai--machine-learning-trends-for-2020/amp/
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
-        width: 900
-        height: 300
-  - title: "High Investment in AI and Machine Learning will Enhance Automotive Digital Assistants by 2025"
-    excerpt: "/PRNewswire/ --Digital assistants are rapidly emerging the primary input medium in human-machine interface (HMI), creating new opportunities for"
-    publishedDateTime: 2020-01-16T07:01:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/high-investment-in-ai-and-machine-learning-will-enhance-automotive-digital-assistants-by-2025-300987879.html
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e287240a854780006af35ac%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679
+        width: 1200
+        height: 675
+  - title: "Computing's AI & Machine Learning Awards 2020 are now open for entries"
+    excerpt: "Artificial intelligence is the major topic dominating the IT industry today, and there are hundreds of companies competing to be heard. We're proud to announce the return of Computing's AI & Machine Learning Awards to identify the frontrunners from the rest of the pack. We have 28 categories this year covering AI tools, projects and services ..."
+    publishedDateTime: 2020-01-20T11:00:00Z
+    sourceUrl: https://www.computing.co.uk/ctg/news/3085084/computings-ai-machine-learning-awards-2020-are-now-open-for-entries
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 23
+      name: Computing
+      domain: computing.co.uk
+    quality: 54
+    images:
+      - url: http://www.computing.co.uk/w-images/ec985e82-f2fe-42c9-9922-b38973adf831/3/AIMachineLearningAwardswinners8EBTICandBT-370x229.jpg
+        width: 370
+        height: 229
+  - title: "Global Automotive Artificial Intelligence Market 2020 Industry Analysis, Size, Share, Growth, Trends & Forecast To 2026"
+    excerpt: "Automotive Artificial Intelligence Market 2020 Wiseguyreports.Com Adds \"Automotive Artificial Intelligence-"
+    publishedDateTime: 2020-01-20T08:03:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-automotive-artificial-intelligence-market-2020-industry-analysis-size-share-growth-trends-forecast-to-2026-2020-01-20
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "Z6Cn2NUKq8Kto42PN9AZNzDEDUSoGlurMzsUXAKZC9yGDgKbRFhIDqjx23w7S6ZeMJxAu9GuVSlaUGUZF2wvQzBJvFTZWHDorRYHg95l8UQBwC8onq6yg1bdhrXWFvW+zU5wb2otJuNI0KeO4UU/QFTIf6xb/+tV0UZ5xfMY4kgnhXmQY0uMLzVZghJD3B0rV0Os8DjpbKEwAY+oBy6c9i9aJ6PfkQf2FnKzQwyoXQ9Xj9TmamFAYL9+h2tzwoGFXGqsnzsms5P+Fqtc05bPtM8XrI2oq9aVr6fwvqQ7IKjQjZ0O89V78dIb4a3wBuMPqpAa2TGawBqWEDSZgwqFpz2+Nlc+uGEfEav7xw48YcHnAdh1Wl89YnJY3mHLnj5l7fBYZWqKhNfiCtmip1F3oMrv9a39BHajjHGR3EFpO5zJOub12N4RO1MW9nZ/WRXkJcBT2QSjxTDpmG0SnAosxg==;TuPw6l2Cste275Fh2Y7FEg=="
 ---

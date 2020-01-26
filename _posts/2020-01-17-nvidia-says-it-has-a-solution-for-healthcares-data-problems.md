@@ -39,45 +39,6 @@ related:
       - url: https://www.techworld.com/cmsdata/features/3780397/nhs-app_thumb800.jpg
         width: 800
         height: 450
-  - title: "Artificial intelligence project chosen for national healthcare competition - with $1 million on the line"
-    excerpt: "A UVA Health proposal to reduce hospital readmissions was among 25 submissions chosen - from more than 300 applications - for a national competition seeking ideas on how artificial intelligence can improve healthcare. The UVA Health data science team will compete alongside proposals from organizations that include IBM and Mayo Clinic in the ..."
-    publishedDateTime: 2020-01-10T20:33:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/uovh-uhp011020.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: https://www.eurekalert.org/multimedia/pub/web/221276_web.jpg
-        width: 1440
-        height: 1080
-  - title: "Artificial intelligence project chosen for national healthcare competition - with $1 million on the line"
-    excerpt: "A UVA Health proposal to reduce hospital readmissions was among 25 submissions chosen - from more than 300 applications - for a national competition seeking ideas on how artificial intelligence can improve healthcare. The UVA Health data science team will compete alongside proposals from organizations that include IBM and Mayo Clinic in the ..."
-    publishedDateTime: 2020-01-11T13:21:00Z
-    sourceUrl: https://eurekalert.org/pub_releases/2020-01/uovh-uhp011020.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: https://www.eurekalert.org/multimedia/pub/web/221276_web.jpg
-        width: 1440
-        height: 1080
-  - title: "Inside Google’s Ambitions To Become The Go-To Vendor For Healthcare IT"
-    excerpt: "One tool is Google Cloud’s AutoML, which allows organizations to develop custom models. For example, Imagia, a Montreal-based startup that develops diagnostic tools for healthcare providers, uses AutoML and Google’s Cloud Machine Learning Engine to train AI models to detect Alzheimer’s. The American Cancer Society also used Google’s ..."
-    publishedDateTime: 2020-01-13T20:08:00Z
-    sourceUrl: https://www.cbinsights.com/research/google-hospital-healthcare-it/
-    type: article
-    provider:
-      name: CB Insights
-      domain: cbinsights.com
-    quality: 24
-    images:
-      - url: https://s3.amazonaws.com/cbi-research-portal-uploads/2019/12/18103828/DeepMind_Health-572x364.png
-        width: 572
-        height: 364
 
 secured: "ozaFwKO++fUdF76S/1bjFw7Zff4LKD4OyR3ahf1ES3UYCTC9gSh8CoKryui6Ue42AjuKcBP6xrdyW4Azmdx900XLVG+30Xu4CeGSCP8hNB8bGy/a5fjtUlwUfOUejq8QUqi85LunqN38O7faQFB3HuNxUsFm+VXRB+02xQ/OLCkUYjUEWCskWiVznJlY3owbgzgf41cVG0C1MD3Q1GJKKwi0g3Xnkds18TjnLzJbQ4S7E2xIxiEUYCkKgC5gdCCVOR15ELU7J/L/etnjMsCTX6zNr4u0hmv2/a8OzleNraIaDUO2H75nkPzwcmlnxG5c3tVSSRp8rZj1PtLrQjV8WyiT/M4mZfa3xTTIv46vadHTMVssZjPuRrxWWh3Ncrd5Wl+dlLEG7P+wtWPIF2ZH9N0DazeQl671IjB/Bw3ipridMQFdRpHldq0NAr0+1l5yQ8qDYyT6iKb0LuaaUZbbEw==;9myPqzNOJEAyKuudPEk9rQ=="
 ---

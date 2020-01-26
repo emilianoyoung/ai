@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/21/ibms-biologically-inspired-ai-generat
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/ibms-biologically-inspired-ai-generates-hash-codes-faster-than-classical-approaches/amp/
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -43,6 +43,21 @@ related:
     quality: 82
     images:
       - url: https://venturebeat.com/wp-content/uploads/2020/01/87c3b4c5-3db3-461e-b3f9-266dfa23d445-1-e1579635316665.png?fit=1200%2C600&strip=all
+        width: 1200
+        height: 600
+  - title: "Facebook’s AI learns the relationships between physical places from first-person video footage"
+    excerpt: "That’s why a team of researchers from the University of Texas and Facebook AI Research investigated in a paper Ego-Topo, a technique that decomposes a space captured in a video into a topological map of activities before organizing the video into a series of visits to different zones. By reorganizing scenes into these “visits” as opposed ..."
+    publishedDateTime: 2020-01-21T17:36:00Z
+    sourceUrl: https://venturebeat.com/2020/01/21/facebooks-ai-learns-the-relationships-between-physical-places-from-first-person-video-footage/
+    ampUrl: https://venturebeat.com/2020/01/21/facebooks-ai-learns-the-relationships-between-physical-places-from-first-person-video-footage/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/facebooks-ai-learns-the-relationships-between-physical-places-from-first-person-video-footage/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 77
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2020/01/df0f4b81-fa76-42d4-bee8-2b4c4e8cd50d-e1579627646898.png?fit=1200%2C600&strip=all
         width: 1200
         height: 600
 

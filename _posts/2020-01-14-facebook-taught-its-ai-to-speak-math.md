@@ -8,8 +8,8 @@ ampUrl: https://www.engadget.com/amp/2020/01/14/facebook-taught-its-ai-to-speak-
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/14/facebook-taught-its-ai-to-speak-math/
 type: article
 quality: 91
-heat: 111
-published: true
+heat: -1
+published: false
 
 provider:
   name: Engadget
@@ -31,36 +31,119 @@ images:
     title: "Facebook taught its AI to speak math"
 
 related:
-  - title: "Facebook Invented a New Language for Machines to Solve Complex Math Equations"
-    excerpt: "There’s already an extensive amount of research in machine translation, so the Facebook AI team simply used a popular translation model to map problems to solutions. “Our solution was an entirely new approach that treats complex equations like ..."
-    publishedDateTime: 2020-01-15T19:24:00Z
-    sourceUrl: https://www.vice.com/en_ca/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations
-    ampUrl: https://www.vice.com/amp/en_ca/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations
-    cdnAmpUrl: https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations
+  - title: "Facebook releases low-latency online speech recognition framework"
+    excerpt: "Facebook AI Research (FAIR) today said it’s open-sourcing wav2letter@anywhere, a deep learning-based inference framework that achieves fast performance for online automatic speech recognition in cloud or embedded edge environments. Wav2letter@anywhere is based on neural net-based language models wav2letter and wav2letter++, which upon its ..."
+    publishedDateTime: 2020-01-13T17:30:00Z
+    sourceUrl: https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/
+    ampUrl: https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/
     type: article
     provider:
-      name: VICE
-      domain: vice.com
-    quality: 73
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
     images:
-      - url: https://video-images.vice.com/_uncategorized/1579112105508-Screen-Shot-2020-01-15-at-11204-PM.png?resize=640:*
-        width: 640
-        height: 358
-  - title: "Facebook Invented a New Language for Machines to Solve Complex Math Equations"
-    excerpt: "Similar to diagramming a sentence, the program turns equations into a tree that can be read by a computer like any other language. There’s already an extensive amount of research in machine translation, so the Facebook AI team simply used a popular translation model to map problems to solutions. “Our solution was an entirely new approach ..."
-    publishedDateTime: 2020-01-17T06:06:00Z
-    sourceUrl: https://www.vice.com/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations
-    ampUrl: https://www.vice.com/amp/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations
-    cdnAmpUrl: https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations
+      - url: https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all
+        width: 1200
+        height: 600
+  - title: "Facebook AI | Text-Based Generation of Interactive Worlds"
+    excerpt: "In an attempt to make the relationship between such game elements more natural, researchers from Facebook AI Research, French computer science research lab Loria, and University College London recently proposed a new machine learning method for ..."
+    publishedDateTime: 2020-01-06T20:14:00Z
+    sourceUrl: https://medium.com/syncedreview/facebook-ai-text-based-generation-of-interactive-worlds-36cce3790fe3
     type: article
     provider:
-      name: VICE
-      domain: vice.com
-    quality: 73
+      name: Medium
+      domain: medium.com
+    quality: 69
     images:
-      - url: https://video-images.vice.com/_uncategorized/1579112105508-Screen-Shot-2020-01-15-at-11204-PM.png?resize=640:*
-        width: 640
-        height: 358
+      - url: https://miro.medium.com/max/1200/1*wjzxkhVEKIvah_Ye22bz_g.png
+        width: 1200
+        height: 703
+  - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
+    excerpt: "The framework was developed by Facebook AI Research (FAIR), which claims that it has created the fastest open source automatic speech recognition (ASR) platform currently on the market. This is a companion discussion topic for the original entry at https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
+    publishedDateTime: 2020-01-17T00:25:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/facebook-s-online-speech-recognition-framework-becomes-widely-available/235598
+    type: article
+    provider:
+      name: BCW
+      domain: businesscomputingworld.co.uk
+    quality: 56
+    images:
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
+  - title: "Facebook cracks down on misleading videos"
+    excerpt: "They will be removing a video if it \"uses artificial intelligence or machine learning ... RELATED: Is that video real? Research lab fights Deepfake videos to stop spread of misinformation The bottom line: you still can't believe everything you see on Facebook. It's best to get your news from a trusted source."
+    publishedDateTime: 2020-01-08T19:57:00Z
+    sourceUrl: https://www.wfmynews2.com/article/news/local/2-wants-to-know/facebook-cracks-down-on-fake-videos-deepfake/83-476009ab-6240-461d-af1c-0a8eb6958bdf
+    ampUrl: https://www.wfmynews2.com/amp/article/news/local/2-wants-to-know/facebook-cracks-down-on-fake-videos-deepfake/83-476009ab-6240-461d-af1c-0a8eb6958bdf
+    cdnAmpUrl: https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/news/local/2-wants-to-know/facebook-cracks-down-on-fake-videos-deepfake/83-476009ab-6240-461d-af1c-0a8eb6958bdf
+    type: article
+    provider:
+      name: WFMY News2
+      domain: wfmynews2.com
+    quality: 44
+    images:
+      - url: https://media.wfmynews2.com/assets/WFMY/images/d26bd8b5-8985-41a8-b85f-2d97e10b02d9/d26bd8b5-8985-41a8-b85f-2d97e10b02d9_360x203.jpg
+        width: 360
+        height: 203
+  - title: "Choose a speech recognition mode"
+    excerpt: "This method will detect a recognized utterance from the input starting at the beginning of detected speech until the next pause. Usually, a pause marks the end of a sentence or line-of-thought. At the end of one recognized utterance, the service stops processing audio from that request. The maximum limit for recognition is a sentence duration ..."
+    publishedDateTime: 2020-01-14T23:12:00Z
+    sourceUrl: https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/how-to-choose-recognition-mode
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
+        width: 400
+        height: 400
+  - title: "House Intelligence Committee chairman praised Facebook policy on deepfakes"
+    excerpt: "Bickert said Facebook’s “approach has several components, from investigating AI-generated content and deceptive behaviors ... which has spurred people from all over the world to produce more research and open source tools to detect deepfakes.”"
+    publishedDateTime: 2020-01-16T00:38:00Z
+    sourceUrl: https://www.biometricupdate.com/202001/house-intelligence-committee-chairman-praised-facebook-policy-on-deepfakes
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/15105857/facebook.jpg
+        width: 1600
+        height: 900
+  - title: "Facebook to ban deepfakes, sources say"
+    excerpt: "\"These misleading videos were created using low-tech methods and did not rely on AI-based techniques ... according to the research firm Deeptrace Labs. Facebook and other tech firms last year ..."
+    publishedDateTime: 2020-01-07T05:08:00Z
+    sourceUrl: https://www.stripes.com/news/us/facebook-to-ban-deepfakes-sources-say-1.613757
+    type: article
+    provider:
+      name: Stars and Stripes
+      domain: stripes.com
+    quality: 24
+    images:
+      - url: https://www.stripes.com/polopoly_fs/1.613758.1578373332!/image/image.jpg_gen/derivatives/landscape_490/image.jpg
+        width: 490
+        height: 490
+  - title: "Apply: Facebook AI Research (FAIR) Residency Program 2020"
+    excerpt: "The Facebook AI Research (FAIR) Residency Program is seeking applications from people who have a strong technical background and are passionate about AI research. Application Deadline: 31st January 2020 at 5:00 pm PST. Eligible Countries: International To ..."
+    publishedDateTime: 2020-01-11T06:16:00Z
+    sourceUrl: https://www.nairaland.com/5615368/apply-facebook-ai-research-fair
+    type: article
+    provider:
+      name: Nairaland
+      domain: nairaland.com
+    quality: 19
+  - title: "Facebook tweaks ad policy but does not ban political lies ahead of 2020 US presidential election"
+    excerpt: "Facebook announced limited changes on Thursday ... Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand ..."
+    publishedDateTime: 2020-01-10T02:29:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3045468/facebook-tweaks-ad-policy-does-not-ban-political-lies-ahead-2020-us
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 0
 
 secured: "DDRQyWf0LqaaKRxe+JoJyxDvZAqyeatoGoyyY4ekGvoiffn5bssiJCyldjCrcqdTp555Q0AGN717JNWyEoxQX5WsAdhGLMOe+71KCiDKzXiSpqRs6NK3gI53YmSWl/2pyrIEDGQO25MUG8tDwhNKgBUNDp+nvfiqacTHaydDX0U7IYHaDYcyQ/9b8h8erd7uCouixHvrdgZ+YdDjLrCd6qvzmqBqSpxvAwKAKmySB1TkU0kzs6SP94jsk/hDZ8VYy1X7t76LUG8mjqdVL83NLochClMCDNEWSb2R7YRubHMOgvKEwMqqhnZUzmWzgtgpJUpKCmrO+vBhupy9DrmPRcQwWUQyZigguYpnlWHpR0CmYnzDVWDvwBDpUWQ+JsjvZJ1s6vZqA/IpBGviINowHLEwYVd2+xzMwqIJklytd7a7jwoss7G2tb8UOe0sU7vAkbCEP4+vCms0csmhj1a3Uw==;xMLD2MWGac+mnlozqr78Jw=="
 ---

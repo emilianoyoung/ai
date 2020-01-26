@@ -41,19 +41,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Mobile Artificial Intelligence Market Continue to Grow as Industry Spends Big to Reclaim Market 2029"
-    excerpt: "A recent market research analysis titled, Mobile Artificial Intelligence Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Mobile Artificial Intelligence market covering industry surroundings,"
-    publishedDateTime: 2020-01-23T06:34:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/mobile-artificial-intelligence-market-continue-to-grow-as-industry-spends-big-to-reclaim-market-2029-2020-01-23
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Natural Language Processing Market- What Are The Main Factors That Contributing Towards Industry Growth?"
     excerpt: "The Global Natural Language Processing Market was valued at USD 7.86 billion in 2016 and is projected to reach USD 30.48 billion by 2025, growing at a CAGR of 16.25% from 2017 to 2025. Natural language processing (NLP) is a field of computer science,"
     publishedDateTime: 2020-01-23T08:28:00Z
@@ -67,19 +54,21 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Global Automatic Content Recognition Market 2020: Report to Share Key Aspects of The Industry with The Details of Influence Factors- 2025"
-    excerpt: "Avail a detailed research offering a comprehensive analysis of the developments, growth outlook, driving factors, and key players of the Automatic Content Recognition market in the latest research report added by Big Market Research."
-    publishedDateTime: 2020-01-23T14:08:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-automatic-content-recognition-market-2020-report-to-share-key-aspects-of-the-industry-with-the-details-of-influence-factors--2025-2020-01-23
+  - title: "Cognitive Computing Technology Market 2020 – 2023: Business Trends, Emerging Technologies, Size, Global Segments and industry Profit Growth"
+    excerpt: "The study indicates that by technology segment, natural language processing is the most prominent technology used in the cognitive computing industry owing to its integral capacity to process natural language interactions. At present, automated reasoning and information recovery technologies have limited applications thereby, restricting the ..."
+    publishedDateTime: 2020-01-22T11:20:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15161098/cognitive-computing-technology-market-2020-2023-business-trends-emerging-technologies-size-global
+    ampUrl: https://amp.benzinga.com/amp/content/15161098
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15161098
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 10
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      - url: https://www.abnewswire.com/uploads/1579690500.png
+        width: 800
+        height: 428
 
 secured: "2z/WyJee4FxlrO6wxbYXBbjOXluMY6GJRT6alBdVCIGTnzz55t4lOu4aIJw//VeaoJLHRNxHMmsWwDebFWLamUadIwN9Ic1OHxOfY0ciCr4aa2nTulba2nU642n4NeHjcALCZp9A6JOJhOvhESRvcq1Y76h+u/x9iqJXeKnevpLC38s3dP8U4gyc4+YeKG7jbVAf8+OSbP7VfyqOiqPhBMjRgMLBpg4lokiiWPpHASOrWi2t6Iohjh54n2KfVpljjooTmHY5SFBiY0SmaHAmGasSHlQiA2EJe8BxmWcpTSMAs+9rm7yFaBslrT9486Kjc2o2Dp94uBamiIyqiF0hQwHH8vQyW5ErRX/r1t9XY5Pg2B/yZCavhciNnyjT45vsHNCgDWfQTKid1/7PsIGbQEKZ7SE2T58ItWTCSlmHAI+GmrFwlKmaqdEL/rvRzNMO5yNuDBh/Qj4ymWaV4oQjBMX/qj8v49x3A9lJVj2auO4=;zvK3ySrHfIHEIHjhpOXSig=="
 ---

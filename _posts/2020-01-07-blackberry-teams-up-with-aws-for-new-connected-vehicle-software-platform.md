@@ -54,21 +54,6 @@ related:
       - url: https://tr4.cbsistatic.com/hub/i/r/2020/01/06/d81bdd9c-466b-4013-8c76-a311e4f76e23/thumbnail/1200x675/9bb56c6a9dff43731ee7c67b12bb93cf/ces-2020.jpg
         width: 1200
         height: 675
-  - title: "How HPC, AI, and IoT Drive the Future of Smarter Vehicles"
-    excerpt: "These can take the training data for AI models that are deployed on devices inside smart ... will require high bandwidth to keep the high performance GPU and CPU cores fed. In addition to being at the front end of autonomous driving and smart cities ..."
-    publishedDateTime: 2020-01-07T20:44:00Z
-    sourceUrl: https://www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/
-    ampUrl: https://www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/amp/
-    cdnAmpUrl: https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/amp/
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
-    images:
-      - url: https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/ab_traffic_smart.jpg
-        width: 1300
-        height: 500
 
 secured: "fhB7/tsJtDh2hcyZ6LBJgi5WyfvZPYWX+NJ7dnpyNlTkfhRFYHG8IuVBb/MNzU5AOTC/SxHplPmsAOChS5QZAjYhkr0tlUwZy85Snw62BjUOjj4eoxzYk1+BA+gRIyj3IL1KT1B4LP1pZCnZCSkxVee5F/tfBGjwIp7Ijpoxty3dyaRShZXKqP9KxoGbjHe6zfKI7+yjHigcgdkUCRnVtzQnGUCGZ7d49Asv1OZh6lc7RtxGmvsxyWulpR+N4Tns6cLTz+4KdHrUomo0mZKsRElEHirvNMweX7LTvpn0oD46ttxpSjmNLg6FgdwoR3rqKJuqQBbF1ckvaUF7eBXjAS7kZJT8FZ6gwZ6G4gUdRIDYCUUJSxAbXvZoScdVjHQv0U6sFfxmNakW1M+ozH9qMs4SzpvgAXYeN4Omypg0D00EqMgJiqWXQdizikPBTDVNBM+2i4TiY0EKQhtWdXVJ/A==;HjmF0XCzV5/j7lAutqV9RQ=="
 ---

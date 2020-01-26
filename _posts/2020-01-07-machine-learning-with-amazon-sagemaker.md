@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-07T11:53:00Z
 sourceUrl: https://medium.com/webstep/machine-learning-with-aws-sagemaker-e846c2070e02
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Medium
@@ -28,19 +28,15 @@ images:
     title: "Machine Learning with Amazon SageMaker"
 
 related:
-  - title: "Amazon aims to democratize deep learning with new library AutoGluon"
-    excerpt: "“We developed AutoGluon to truly democratize machine learning, and make the power of deep learning available to all developers,” said Jonas Mueller, AWS applied scientist. According to ..."
-    publishedDateTime: 2020-01-10T16:00:00Z
-    sourceUrl: https://sdtimes.com/ai/amazon-aims-to-democratize-deep-learning-with-new-library-autogluon/
+  - title: "ZephyrTel Taps AI and ML with Amazon SageMake for Innovations in Telco Software Solutions"
+    excerpt: "ZephyrTel announced that it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to accelerate the migration of its end-to-end Telco software solutions suite and develop new innovations utilising artificial intelligence and machine learning (AI/ML) with Amazon SageMaker. ZephyrTel had entered into a SCA with AWS ..."
+    publishedDateTime: 2020-01-06T02:34:00Z
+    sourceUrl: https://www.thefastmode.com/technology-solutions/16165-zephyrtel-taps-ai-and-ml-with-amazon-sagemake-for-innovations-in-telco-software-solutions
     type: article
     provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 84
-    images:
-      - url: https://sdtimes.com/wp-content/uploads/2020/01/download-1.png
-        width: 1440
-        height: 810
+      name: Deep
+      domain: thefastmode.com
+    quality: 10
 
 secured: "I7VvPld/WR98gcQMr4p7f9WXlYrHETgiblQf/vmhG8Mme7RngE5X0J6qWHjaZ5P0K6TyO86ImnmX645f0Rjls1e+Uv2yMjFjQjNqQCAdQgm2SZvvTGDj/JmBkexwiMlvs20I5PD8wUOfeJUW9KSIREerKq67Wm2nL1zqSW3fxvI9utalnXw1gTuTtnmtwpYtMUwTqQORZcvGgxQwQvqUZcfOgU5Um/4DSKiG1yZd64PNjnu8eGHnCaQCu3GufU6iJZ5vbW6so7T961rXpVp+5gCUC+Rj370EJfAYR8B6uJ0=;DDv1kgGPWdljyV3nG0kryw=="
 ---

@@ -24,34 +24,32 @@ images:
     title: "Varicent acquires Symon.AI to provide enhanced analytics to business users and data scientists"
 
 related:
-  - title: "A Look Inside Augmented Analytics And Its Business Value In 2020"
-    excerpt: "Here's what you need to know about augmented analytics -- and how to deploy the technology to support your business development goals."
-    publishedDateTime: 2020-01-16T15:25:00Z
-    sourceUrl: https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/16/a-look-inside-augmented-analytics-and-its-business-value-in-2020/
-    ampUrl: https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/16/a-look-inside-augmented-analytics-and-its-business-value-in-2020/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/16/a-look-inside-augmented-analytics-and-its-business-value-in-2020/amp/
+  - title: "Varicent Software Acquires Augmented Intelligence Company Symon.AI"
+    excerpt: "Varicent, the leading provider of next generation Sales Performance Management (SPM), today announced that it has acquired Symon.AI, a visionary technology platform built on sophisticated Natural Language and Machine Learning algorithms that provide easy to use,"
+    publishedDateTime: 2020-01-21T16:05:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/varicent-software-acquires-augmented-intelligence-company-symonai-2020-01-21-12159517
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
-      - url: https://thumbor.forbes.com/thumbor/711x395/https://blogs-images.forbes.com/forbesbusinessdevelopmentcouncil/files/2020/01/a.jpg?width=960
-        width: 711
-        height: 395
-  - title: "SalesChoice Announces IBM Business Partner Relationship With IBM Watson Analytics for Relationship Analytic Integration"
-    excerpt: "TORONTO, Ontario, Canada– As the leader in AI Predictive Sales and Marketing Cloud Solutions, SalesChoice Inc. is pleased to announce SalesChoice is an official IBM Business Partner and has integrated IBM Watson Analytics into SalesChoice’s AI Insight Application and SalesForce App Exchange Offerings to enable Relationship Analytics to ..."
-    publishedDateTime: 2020-01-22T17:38:00Z
-    sourceUrl: https://www.itbusiness.ca/press-release/saleschoice-announces-ibm-business-partner-relationship-with-ibm-watson-analytics-for-relationship-analytic-integration
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Moody's Acquires RDC, a Leader in Risk and Compliance Intelligence, Data and Software"
+    excerpt: "RDC's platform incorporates industry-leading artificial intelligence (AI) for compliance screening to help process customer requests at greater speeds and accuracy while reducing false positives. \"RDC's comprehensive data and leading technology are at the ..."
+    publishedDateTime: 2020-01-23T12:20:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/2020/01/23/9085921.htm
     type: article
     provider:
-      name: IT Business
-      domain: itbusiness.ca
+      name: TMCnet
+      domain: tmcnet.com
     quality: 15
     images:
-      - url: https://www.itbusiness.ca/wp-content/uploads/2018/02/HQ_LogoVer002.jpg.png
-        width: 600
-        height: 600
+      - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
+        width: 252
+        height: 335
 
 secured: "FirL6SvgoV0K902mqoLxDU6aPJH7tVKlSuZPAkm7l2E4LZ6NqXuAz6+4nCPIkeiQb1/HN4rDxaNGafwWpmx/q9doQ+j42tc2SH2yGdEVkmNDeQjvkX8F59ZcWoy8VTpwTh9GxDOJd+w2DMUfSGrTYtKO3NThzJUn7mrBS92juRSMioBbcDRpCKL/fz0CLynDxi+UcEKOv4ujQMHD9mDcs+raTFl9UE3nHvf7/8d4WaW/p3qIvKfuPv/zxZ3/ZqDBxg3Chun5bnkTE/vLm0mUyuZSC2EzxKTSMRlLETg3lD7oCMpjcLOOBdylng90F8oNRIElAsAlHdKnhqQ8Fs76vw0HqDlWxigwSCTvJ7cxdc3n1BgAKvRXNFHVYzhysBfSP7/d0atgNjRyd72FxPXRUOVU3TzV2G6PJ3O7ReOWjH57S6fWgmWzilvIN2orSpFwTl7p1UI26UTWgxFBH2zORw==;pqfQKvaaK63G0YwcqZvlzA=="
 ---

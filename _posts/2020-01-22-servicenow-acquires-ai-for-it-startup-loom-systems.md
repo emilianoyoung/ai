@@ -44,6 +44,21 @@ related:
       - url: https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1173020463.jpg?w=1024
         width: 1024
         height: 682
+  - title: "ServiceNow scoops up Israel-based AI-based IT startup"
+    excerpt: "ServiceNow said the acquisition will extend its artificial intelligence-powered operations capabilities, \"giving customers deeper insights into their digital operations so they can prevent and fix IT issues and find 'blind spots' at scale before they become problems."
+    publishedDateTime: 2020-01-22T12:26:00Z
+    sourceUrl: https://www.bizjournals.com/sanjose/news/2020/01/22/servicenow-scoops-up-israel-based-ai-based-startup.html
+    ampUrl: https://www.bizjournals.com/sanjose/news/2020/01/22/servicenow-scoops-up-israel-based-ai-based-startup.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/01/22/servicenow-scoops-up-israel-based-ai-based-startup.amp.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 57
+    images:
+      - url: https://media.bizj.us/view/img/367701/billmcdermottsap*600xx1014-676-5-0.jpg
+        width: 600
+        height: 400
   - title: "ServiceNow scoops up Israel-based startup that applies AI to IT"
     excerpt: "ServiceNow said the acquisition will extend its artificial intelligence-powered operations capabilities, \"giving customers deeper insights into their digital operations so they can prevent and fix IT issues and find 'blind spots' at scale before they become problems."
     publishedDateTime: 2020-01-22T14:55:00Z

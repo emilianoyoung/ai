@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-23T12:42:00Z
 sourceUrl: https://ibsintelligence.com/ibs-journal/ibs-news/forwardlane-sei-ventures-to-boost-the-delivery-of-ai-insights/
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,34 @@ images:
     title: "ForwardLane & SEI Ventures to boost the delivery of AI Insights"
 
 related:
+  - title: "Can AI Drive Education Forward?"
+    excerpt: "Teachers are asked to incorporate more technology in the classroom but they are not necessarily given the time to learn and make the most out of it."
+    publishedDateTime: 2020-01-23T15:46:00Z
+    sourceUrl: https://www.forbes.com/sites/carolinamilanesi/2020/01/23/can-ai-drive-education-forward/
+    ampUrl: https://www.forbes.com/sites/carolinamilanesi/2020/01/23/can-ai-drive-education-forward/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinamilanesi/2020/01/23/can-ai-drive-education-forward/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1049273190%2F0x0.jpg
+        width: 1200
+        height: 800
+  - title: "SEI invests in AI insights firm ForwardLane"
+    excerpt: "ForwardLane, the leader in providing AI driven intelligence to financial services professionals, is thrilled to announce SEI Venture's strategic investment into the company, to accelerate growth and the provision of powerful, personalized insights for ..."
+    publishedDateTime: 2020-01-23T17:40:00Z
+    sourceUrl: https://www.finextra.com/pressarticle/81237/sei-invests-in-ai-insights-firm-forwardlane
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: https://www.finextra.com/about/finextra-logo-alt-16-9.jpg
+        width: 480
+        height: 270
   - title: "SEI Ventures and ForwardLane Partner to Scale AI Insights for Financial Service Professionals"
     excerpt: "/PRNewswire/ -- ForwardLane, the leader in providing AI driven intelligence to financial services professionals, is thrilled to announce SEI"
     publishedDateTime: 2020-01-23T11:00:00Z

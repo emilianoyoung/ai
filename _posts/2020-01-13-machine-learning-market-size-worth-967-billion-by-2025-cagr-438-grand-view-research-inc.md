@@ -37,15 +37,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Natural Language Processing (NLP) Market Analysis, Size, Share, Growth, Trends and Forecast to 2025"
-    excerpt: "The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025."
-    publishedDateTime: 2020-01-07T13:21:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-analysis-size-share-growth-trends-and-forecast-to-2025-2020-01-14
+  - title: "Self-driving car market revenue of USD 173.15 Bn by 2023"
+    excerpt: "The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn by 2023. A self-driving car, also known as an autonomous car or driverless car,"
+    publishedDateTime: 2020-01-10T06:02:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-revenue-of-usd-17315-bn-by-2023-2020-01-10
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 54
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -63,6 +63,35 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "How Facial Recognition Market will Grow at Highest CAGR"
+    excerpt: "The global facial recognition market growth in the forecast period is premised on the rising incidents of identity theft. According to a study conducted by a California-based private research firm, Javelin Strategy, in 2017, 16.7 million Americans fell victim to identity theft crimes. Further, 1 million children in the US in 2017 were victims ..."
+    publishedDateTime: 2020-01-17T10:28:00Z
+    sourceUrl: https://www.openpr.com/news/1899358/how-facial-recognition-market-will-grow-at-highest-cagr
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
+  - title: "Self-driving car market revenue of USD 173.15 Bn by 2023|, Forces Analysis, Revenue, Challenges and Global Forecast"
+    excerpt: "The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn by 2023. A self-driving car, also known as an autonomous car or driverless car,"
+    publishedDateTime: 2020-01-10T13:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-revenue-of-usd-17315-bn-by-2023-forces-analysis-revenue-challenges-and-global-forecast-2020-01-10
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 12
+  - title: "Global Natural Language Processing (NLP) Market is Set to Reach USD 23.0 billion by 2024, Observing a CAGR of 20.0% during 2019–2024: VynZ Research"
+    excerpt: "NEW YORK, Jan. 08, 2020 (GLOBE NEWSWIRE) -- The global natural language processing (NLP) market is expected to grow at a CAGR of 20.0% during the forecast period with its market size predicted to ..."
+    publishedDateTime: 2020-01-08T13:08:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/g15093385/global-natural-language-processing-nlp-market-is-set-to-reach-usd-23-0-billion-by-2024-observing-a
+    ampUrl: https://amp.benzinga.com/amp/content/15093385
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15093385
+    type: article
+    provider:
+      name: benzinga.com
+      domain: benzinga.com
+    quality: 1
 
 secured: "sUeM13tO/pzEl6nj7zqFvLWw0IIR24rqa+M746/Kh+CSsnYp0HDnkJHt52/4zgd5dT9vOKnU404aLBjmw2i35fuDW4UPfDsGzUnSRE26tnkR36E5YTbQvhVoP2Upk2jZfnfzFYSbTjorZP0wWyXGxBA+kme1rd+0LcCxzqCij8t9Rbp1j0eKqDjpFdiY9Pmlje8BX7ktsCaG30Q/otfOhORJSYgXNA710kFVzZJ+wsuIIC/FOd1bzqThjj8q02hmKFGNK+k5a1ocPoGexMJgklV7MVOq6qkPCY5FwSdDAS8nde+NyLXcK9rUr6Sgo3MKJhUHTZMR4n1787EPKjZLz9CJlz4XU5R9rlgaBjDrr4mMhogUr/jvCGdyV/z9OFStea0CAecdE+z4HTED/N7J84kZ1jy6CaNVNggz+pcRdbgdm/LXg4tQe8p1tpqS3PBVn66cd7swMJMP8knKTWY+dQ==;H2AyqRWKBOWbkbrLdsNaTg=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-17T17:31:00Z
 sourceUrl: https://www.cnybj.com/crouse-health-using-ai-software-for-stroke-care/
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,58 @@ images:
     title: "Crouse Health using AI software for stroke care"
 
 related:
-  - title: "Huntington Hospital 1st in Los Angeles to Adopt Viz LVO Platform for Artificial Intelligence Powered Stroke Care"
-    excerpt: "Viz.ai, is the leader in applied artificial intelligence in healthcare. Viz.ai's mission is to fundamentally improve how healthcare is delivered in the world, through intelligent software that promises to reduce time to treatment and improve access to care. Viz.ai's flagship product, Viz LVO, leverages advanced deep learning to communicate time ..."
-    publishedDateTime: 2020-01-22T23:07:00Z
-    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/huntington-hospital-st-in-los-angeles-to-adopt-viz-lvo/article_07c888e0-3fd2-5e1b-9461-21f884c66d45.html
+  - title: "Artificial Intelligence or AI: Here is how it is transforming healthcare"
+    excerpt: ". AI sector has also become one of the world's highest-growth industries. ©Shutterstock. Making a breakthrough in healthcare, researchers at the University of Warwick have developed a new Artificial Intelligence (AI)-based technique that can detect low ..."
+    publishedDateTime: 2020-01-15T17:14:00Z
+    sourceUrl: https://www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/
+    ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/amp/
+    cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/amp/
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 18
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 88
     images:
-      - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
-        width: 1280
-        height: 720
+      - url: https://st1.thehealthsite.com/wp-content/uploads/2019/01/artificial-intelligence.jpg
+        width: 679
+        height: 365
+  - title: "GBT Technologies Transforming the Future Healthcare AI Market"
+    excerpt: "NEW YORK, NY, Jan. 16, 2020 (GLOBE NEWSWIRE) -- GBT Technologies, Inc. (OTC:GTCH) (GBT) is among a handful of companies that are developing Artificial Intelligence (AI) and Internet of Things (IoT) solutions that are expected to transform the future of the healthcare industry. Both segments of the industry, AI and IoT, are growing ..."
+    publishedDateTime: 2020-01-16T15:00:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/g15134360/gbt-technologies-transforming-the-future-healthcare-ai-market
+    ampUrl: https://amp.benzinga.com/amp/content/15134360
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15134360
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 54
+  - title: "AI Stock News: GBT Technologies (OTCPINK: GTCH) Transforming the Future Healthcare AI Market"
+    excerpt: "NEW YORK, NY - January 16, 2020 (Investorideas.com Newswire) GBT Technologies Inc. (OTCPINK: GTCH) (GBT), is among a handful of companies that are developing Artificial Intelligence (AI) and Internet of Things (IoT) solutions that are expected to transform the future of the healthcare industry. Both segments of the industry, AI and IoT ..."
+    publishedDateTime: 2020-01-16T14:33:00Z
+    sourceUrl: https://www.investorideas.com/CO/GOPH/news/2020/01161Healthcare-AI.asp
+    type: article
+    provider:
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 43
+    images:
+      - url: https://www.investorideas.com/CO/GOPH/img/GBT-Technologies.jpg
+        width: 649
+        height: 328
+  - title: "Health care needs AI. It also needs the human touch"
+    excerpt: "We see the writing on the wall, yet it’s hard for us in our day-to-day clinical work to imagine a time when artificial intelligence will have a real impact on what we do. Your weekly guide to how tech is transforming health care and life sciences. Please enter a valid email address. Leave this field empty if you're human: It might be that ..."
+    publishedDateTime: 2020-01-22T12:17:00Z
+    sourceUrl: https://www.statnews.com/2020/01/22/health-care-needs-ai-it-also-needs-human-touch/
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 39
+    images:
+      - url: https://www.statnews.com/wp-content/uploads/2020/01/AdobeStock_215322148-1024x576.jpg
+        width: 1024
+        height: 576
 
 secured: "IfV5axXyWg4dIZNOsCNuAFR3oborK10OrB9zKjV0VMSA0LGv+SXQKhsOu2gdf94752SRBbXum2e9ATC99+rPxmv9akS62zn15kQFdfToWYzr79XcbFVogRQ4SV9qbV00AmrVbSyWp5lhcTh91ar8mRqNbRfR7ENQE2CE5t70lrS4hjV/3Tb7s86NRE1QmWC8XUSRQV4/SDxNGVzstxdGZINtja56sUScQDquzM4WMgex2AAXzAXIn0I5wiX5D1Xr6p/2IqYWPbA2e5FTvpM29gyrP1MLN/fFIpP4qVupSkw=;KojIgVR16TFUdh79uDHZ5A=="
 ---

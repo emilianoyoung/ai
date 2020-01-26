@@ -33,6 +33,17 @@ related:
       - url: https://content.indiainfoline.com/_media/iifl/img/article/2020-01/22/full/1579667834-5707.jpg
         width: 350
         height: 233
+  - title: "Phoenix Finance receives Most Innovative Fintech E-Wealth Management Platform award at The Wealth APAC forum"
+    excerpt: "SHANGHAI, Jan. 21, 2020 /PRNewswire/ -- The Wealth APAC forum – IPWM & IFWM China Awards 2019 were hosted in Shanghai by WEALTH Magazine on December 18, 2019. The forum brought together 100 well-known experts from the Asian Pacific wealth management community and executives from top financial institutions in the region who engaged in in-depth research and discussions on the current status and developments of the Asian Pacific wealth management market."
+    publishedDateTime: 2020-01-21T08:45:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/n15151958/phoenix-finance-receives-most-innovative-fintech-e-wealth-management-platform-award-at-the-wealth-
+    ampUrl: https://amp.benzinga.com/amp/content/15151958
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15151958
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 5
 
 secured: "VaELPJa7gQhLN/VD58vyZ02VadqJWZa5PnZ+qO9IgAroefEid+pzVMLnEAcogUm9abEPqmkzTGIDlZnGyCRqtpnv2MuNTahbXNX+hUt2IBGbMNUBgVGtkt4Ztur6YfHE12uoPHco1ghyG7Y6gpjIf3cSYsdp9DTxmGNuzwi2sz1nHTEamyxbnES6dNxRN2zUU7OUm58vaE0vyzWuGs8wgdH3zvfTWCmm4LiMB3fW7MfL68fW5OGLKhN2m1rZM2vM0ZI73k3YpF5rra6SmKBFNagHwZh1sxfLEyhaMEJzZhf2GmY6SSh939xZXcXS3txi0uVZH+3kZU6rapem0TMGZ2WwSNsNaK9EWXgVcYvJpZj/mMXqdFkUhGYlyWoFW9qqxffTSF1S1up9V/2Ujr50Fe6xFkS4p+bhoeiW5JXkY3IahC+w/Dahwz9hmS/Xllxw4FwIQsJL9BO9/qjKSOm93A==;JkCNImx1EowSn13FFnnZ9w=="
 ---

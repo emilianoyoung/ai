@@ -30,111 +30,126 @@ images:
     title: "Google and Microsoft spar over EU plan to ban facial recognition"
 
 related:
-  - title: "EU mulls 5-year ban on facial recognition tech in public areas"
-    excerpt: "BRUSSELS, Jan 16 (Reuters) - The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters. The plan by the EU's executive - set out in an 18-page white paper - comes amid a global debate about the systems ..."
-    publishedDateTime: 2020-01-16T20:56:00Z
-    sourceUrl: https://www.cnbc.com/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html
-    ampUrl: https://www.cnbc.com/amp/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html
-    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html
+  - title: "Björk and Microsoft use AI to create music that changes with the sky"
+    excerpt: "The Icelandic star is using Microsoft AI as part of Kórsafn (\"choral archives\"), a non-stop composition playing in the lobby of the Sister City hotel in New York City. The project plays selections from Björk's many choral arrangements (including new ones composed by the Hamrahlid Choir) based on what the AI sees in the sky through a rooftop ..."
+    publishedDateTime: 2020-01-17T18:42:00Z
+    sourceUrl: https://www.engadget.com/2020/01/17/bjork-and-microsoft-ai-sky-music/
+    ampUrl: https://www.engadget.com/amp/2020/01/17/bjork-and-microsoft-ai-sky-music/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/17/bjork-and-microsoft-ai-sky-music/
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 89
+      name: Engadget
+      domain: engadget.com
+    quality: 187
     images:
-      - url: https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804
-        width: 1200
-        height: 630
-  - title: "EU mulls five-year ban on facial recognition tech in public areas"
-    excerpt: "The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters."
-    publishedDateTime: 2020-01-16T21:29:00Z
-    sourceUrl: https://www.reuters.com/article/us-eu-ai/eu-mulls-five-year-ban-on-facial-recognition-tech-in-public-areas-idUSKBN1ZF2QL?feedType=RSS&feedName=technologyNews
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZF2QL
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZF2QL
+      - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C1067%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F1753deb0-3954-11ea-9f26-47e800c6b449%26client%3Da1acac3e1b3290917d92%26signature%3Dd74572e0141a4d05afbcc4cbd4f09da27109c50e&client=amp-blogside-v2&signature=397c2e6c49f4a56b1d74ddeac5f8b83a354ed9cd
+        width: 600
+        height: 350
+  - title: "I had a lovely time in an AI-generated Björk hotel lobby soundscape"
+    excerpt: "I'm in that hotel lobby, listening. There's a pattern to the music. It's connected to a camera on the roof, gazing at moving clouds and birds. The composition is AI-driven. The best part is, it's invisible and it works. I stay and listen for an hour. Björk created a new AI-generated experimental ambient musical piece in collaboration with ..."
+    publishedDateTime: 2020-01-17T13:23:00Z
+    sourceUrl: https://www.cnet.com/news/i-had-a-lovely-time-in-an-ai-generated-bjork-hotel-lobby-soundscape/
+    ampUrl: https://www.cnet.com/google-amp/news/i-had-a-lovely-time-in-an-ai-generated-bjork-hotel-lobby-soundscape/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/i-had-a-lovely-time-in-an-ai-generated-bjork-hotel-lobby-soundscape/
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
+      name: CNET
+      domain: cnet.com
+    quality: 187
     images:
-      - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
-        width: 1200
-        height: 630
-  - title: "EU mulls 5-year ban on facial recognition tech in public spaces"
-    excerpt: "(Reuters) — The European Union is considering banning facial recognition technology in public areas for up to five years to give it time to work out how to prevent abuses, according to proposals seen by Reuters. The plan by the EU’s executive — set out in an 18-page white paper — comes amid a global debate about the systems driven by ..."
-    publishedDateTime: 2020-01-17T14:21:00Z
-    sourceUrl: https://venturebeat.com/2020/01/17/eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-spaces/
-    ampUrl: https://venturebeat.com/2020/01/17/eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-spaces/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/17/eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-spaces/amp/
+      - url: https://cnet4.cbsistatic.com/img/Tiid1ZAgHJWSHQdKzyENKcS7TFo=/756x567/2020/01/16/ceedacb8-85c9-4017-8972-6591c818f319/mg-2832.jpg
+        width: 756
+        height: 567
+  - title: "Phenom People raises $30 million for AI recruitment platform used by Microsoft, others"
+    excerpt: "Phenom People, a human resources (HR) platform that leverages artificial intelligence (AI) to help companies attract new talent, has raised $30 million in a series C round of funding led by WestBridge Capital, with participation from eBay founder Pierre Omidyar’s VC firm Omidyar Ventures, AXA Venture Partners, Sierra Ventures, Sigma Prime ..."
+    publishedDateTime: 2020-01-16T14:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/16/phenom-people-raises-30-million-for-ai-recruitment-platform-used-by-microsoft-others/
+    ampUrl: https://venturebeat.com/2020/01/16/phenom-people-raises-30-million-for-ai-recruitment-platform-used-by-microsoft-others/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/phenom-people-raises-30-million-for-ai-recruitment-platform-used-by-microsoft-others/amp/
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
+    quality: 179
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2020/01/Phenom-People-Front-Lobby.jpg?fit=2544%2C1227&strip=all
+        width: 2544
+        height: 1227
+  - title: "Björk creates an AI composition that creates music that creates music to the weather"
+    excerpt: "The AI will create dynamic new variations of Björk's original arrangements based on the changing weather patterns and position of the sun . Called ‘Kórsafn,’ which means ‘choir archive’ in Icelandic, the composition will be played continuously ..."
+    publishedDateTime: 2020-01-17T22:41:00Z
+    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7900725/Bj-rk-creates-AI-composition-creates-music-creates-music-weather.html
+    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7900725/amp/Bj-rk-creates-AI-composition-creates-music-creates-music-weather.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7900725/amp/Bj-rk-creates-AI-composition-creates-music-creates-music-weather.html
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 150
+    images:
+      - url: https://i.dailymail.co.uk/1s/2020/01/17/22/23542750-0-image-a-28_1579300849679.jpg
+        width: 636
+        height: 382
+  - title: "Microsoft President Brad Smith calls for AI regulation at Davos"
+    excerpt: "“We should not wait for the technology to mature before we start to put principles, and ethics, and even rules in place to govern AI,” Smith said. Why it matters: Microsoft is leading a growing pack of tech companies calling for AI regulations at a time when the public is growing more wary of the power that the technology industry wield"
+    publishedDateTime: 2020-01-21T18:36:00Z
+    sourceUrl: https://www.geekwire.com/2020/microsoft-president-brad-smith-calls-ai-regulation-davos/
+    ampUrl: https://www.geekwire.com/2020/microsoft-president-brad-smith-calls-ai-regulation-davos/amp/
+    cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-president-brad-smith-calls-ai-regulation-davos/amp/
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
     quality: 89
     images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/12/s1.reutersmedia.net_-e1579126395666.jpg?fit=1200%2C601&strip=all
+      - url: https://cdn.geekwire.com/wp-content/uploads/2019/09/20190920_Brad_Smith_1301-630x450.jpg
+        width: 630
+        height: 450
+  - title: "Tech in the classroom? Microsoft says AI and VR could help future students focus better"
+    excerpt: "while AI-powered speech recognition and translation tools let students hear what is being said in their native language. Anthony Salcito, the vice president of Microsoft Education, said at the conference: \"We need to recognize the need to embrace a hybrid intelligence to be able to achieve more. With new technology, we will have to think ..."
+    publishedDateTime: 2020-01-22T17:00:00Z
+    sourceUrl: https://www.zdnet.com/article/tech-in-the-classroom-microsoft-says-ai-and-vr-could-help-future-students-focus-better/
+    ampUrl: https://www.zdnet.com/google-amp/article/tech-in-the-classroom-microsoft-says-ai-and-vr-could-help-future-students-focus-better/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tech-in-the-classroom-microsoft-says-ai-and-vr-could-help-future-students-focus-better/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 81
+    images:
+      - url: https://zdnet2.cbsistatic.com/hub/i/r/2019/12/02/40cd7c2c-f3c9-4ab1-a8e0-7e2ad0a0e566/thumbnail/1200x675/8af153799adc1462f393ed4bae80a6bf/thumb.jpg
         width: 1200
-        height: 601
-  - title: "EU mulls five-year ban on facial recognition tech in public areas"
-    excerpt: "The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters."
-    publishedDateTime: 2020-01-17T01:52:00Z
-    sourceUrl: https://www.reuters.com/article/us-eu-ai-idUSKBN1ZF2QL
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZF2QL
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZF2QL
+        height: 675
+  - title: "Seattle AI startup drew interest from Amazon, Microsoft, Intel before selling to Apple"
+    excerpt: "(GeekWire Photo / Taylor Soper) Apple wasn’t the only tech giant eyeing Xnor.ai. GeekWire broke the news on Wednesday that Apple acquired Seattle startup Xnor.ai, paying around $200 million for the three-year-old company that specializes in low-power, edge-based artificial intelligence tools. Exclusive: Apple acquires Xnor.ai, edge AI spin ..."
+    publishedDateTime: 2020-01-16T18:37:00Z
+    sourceUrl: https://www.geekwire.com/2020/seattle-ai-startup-drew-interest-amazon-microsoft-intel-selling-apple/
+    ampUrl: https://www.geekwire.com/2020/seattle-ai-startup-drew-interest-amazon-microsoft-intel-selling-apple/amp/
+    cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-ai-startup-drew-interest-amazon-microsoft-intel-selling-apple/amp/
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
+      name: GeekWire
+      domain: geekwire.com
+    quality: 79
     images:
-      - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
-        width: 1200
-        height: 630
-  - title: "Europe might ban facial recognition in public spaces for up to 5 years"
-    excerpt: "Facial recognition technology may soon be banned in the public spaces of the European Union. The European Commission is considering a temporary ban, lasting 3-5 years, on such technology in public spaces, for private and public organizations alike. This is according to a draft white paper on artificial intelligence, obtained by Euractiv and ..."
-    publishedDateTime: 2020-01-17T14:41:00Z
-    sourceUrl: https://mashable.com/article/eu-facial-recognition-ban/
-    ampUrl: https://mashable.com/article/eu-facial-recognition-ban.amp
-    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/eu-facial-recognition-ban.amp
+      - url: https://cdn.geekwire.com/wp-content/uploads/2020/01/200115-xnor-door-630x473.jpg
+        width: 630
+        height: 473
+  - title: "Washington state wants to regulate artificial intelligence, as Microsoft lobbies for new rules"
+    excerpt: "Washington state could become a pioneer in regulating artificial intelligence if lawmakers, and homegrown tech giant Microsoft, get their way. A series of bills introduced this legislative session seek to blaze a trail for this new frontier of technological innovation. The legislation focuses on biometric screening and digital profiling."
+    publishedDateTime: 2020-01-24T18:23:00Z
+    sourceUrl: https://www.geekwire.com/2020/washington-state-wants-regulate-artificial-intelligence-microsoft-lobbies-new-rules/
+    ampUrl: https://www.geekwire.com/2020/washington-state-wants-regulate-artificial-intelligence-microsoft-lobbies-new-rules/amp/
+    cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/washington-state-wants-regulate-artificial-intelligence-microsoft-lobbies-new-rules/amp/
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
+      name: GeekWire
+      domain: geekwire.com
+    quality: 75
     images:
-      - url: https://mondrian.mashable.com/2020%252F01%252F17%252F7e%252Faa4856d86c7c402887ddee86110e215e.c80a4.jpg%252F1200x630.jpg?signature=axZn3vvlYSj68lH8DIH9qHic0mA=
-        width: 1200
-        height: 630
-  - title: "Google CEO backs temporary ban on facial recognition"
-    excerpt: "Google and Alphabet CEO Sundar Pichai supports a temporary ban on facial recognition technology in the European Union. Activists and technologists have called the controversial technology racially biased, and voiced concerns about privacy, regarding its use by governments and law enforcement. “I think it is important that governments and ..."
-    publishedDateTime: 2020-01-21T17:22:00Z
-    sourceUrl: https://www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar
-    ampUrl: https://www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar.amp
-    cdnAmpUrl: https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar.amp
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 89
-    images:
-      - url: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/headshot-new.jpg?ve=1&tl=1
-        width: 340
-        height: 340
-  - title: "Google: Temporary Ban on Facial-Recognition Tech Might Be Necessary"
-    excerpt: "Google's CEO made the comments as the European Commission is considering a moratorium on using facial-recognition technologies in public spaces. The proposed ban would last for three to five years so regulators can assess the risks of the technology."
-    publishedDateTime: 2020-01-21T22:04:00Z
-    sourceUrl: https://www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary
-    ampUrl: https://www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary?amp=true
-    cdnAmpUrl: https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary?amp=true
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 74
-    images:
-      - url: https://www.pcmag.com/images/pcmag-social-share.jpg
-        width: 997
-        height: 1201
+      - url: https://cdn.geekwire.com/wp-content/uploads/2017/03/statecapitol-630x417.jpg
+        width: 630
+        height: 417
   - title: "Microsoft disagrees with EU facial-recognition ban"
     excerpt: "Microsoft disagrees with the EU's plan to ban facial recognition, saying the only way to make the technology better is to use it. The European Commission is considering a five-year ban on facial recognition in public spaces in order to buy time to assess risks and develop legislation. The move comes as other public authorities, notably the ..."
     publishedDateTime: 2020-01-21T10:49:00Z
@@ -150,34 +165,6 @@ related:
       - url: https://media.itpro.co.uk/image/upload/v1570817110/itpro/2018/12/microsoft_facial_recognition.jpg
         width: 1280
         height: 720
-  - title: "Alphabet CEO backs temporary ban on facial-recognition, Microsoft disagrees"
-    excerpt: "The EU’s proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium,"
-    publishedDateTime: 2020-01-20T21:07:00Z
-    sourceUrl: https://www.reuters.com/article/us-google-eu-idUSKBN1ZJ18O
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZJ18O
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZJ18O
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 72
-    images:
-      - url: https://s3.reutersmedia.net/resources/r/?m=02&d=20200120&t=2&i=1478908454&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0J107
-        width: 863
-        height: 545
-  - title: "Facial recognition tech to find the Holocaust's lost horrors"
-    excerpt: "An old photograph and modern face recognition technology could help two Israeli brothers find out how their father survived the Nazi Holocaust. Francesca Lynagh reports."
-    publishedDateTime: 2020-01-21T16:01:00Z
-    sourceUrl: https://www.reuters.com/video/watch/idOVBX4GGOB
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: https://static.reuters.com/resources/r/?d=20200121&i=OVBX4GGOB&r=OVBX4GGOB&t=2
-        width: 960
-        height: 540
   - title: "Microsoft and Google just can't agree on proposed ban on facial recognition"
     excerpt: "Google CEO Sundar Pichai has expressed support for Europe's proposed temporary ban on facial recognition, but Microsoft's top lawyer, Brad Smith, has cautioned against using a 'meat cleaver' for what should be a surgical operation. The two tech execs on Monday responded to the European Commission's proposal to ban the use of facial ..."
     publishedDateTime: 2020-01-21T11:32:00Z
@@ -189,420 +176,234 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
-  - title: "UPDATE 1-Alphabet CEO backs temporary ban on facial-recognition technology over misuse worry"
-    excerpt: "BRUSSELS, Jan 20- The chief executive of Google parent company Alphabet on Monday backed an EU proposal to temporarily ban facial-recognition technology because of the possibility that it could be used for nefarious purposes."
-    publishedDateTime: 2020-01-20T14:54:00Z
-    sourceUrl: https://www.cnbc.com/2020/01/20/reuters-america-update-1-alphabet-ceo-backs-temporary-ban-on-facial-recognition-technology-over-misuse-worry.html
-    ampUrl: https://www.cnbc.com/amp/2020/01/20/reuters-america-update-1-alphabet-ceo-backs-temporary-ban-on-facial-recognition-technology-over-misuse-worry.html
-    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/20/reuters-america-update-1-alphabet-ceo-backs-temporary-ban-on-facial-recognition-technology-over-misuse-worry.html
+  - title: "The AI Eye: Microsoft Expands Partnership with Genesys, IBM IBM Launches Policy Lab with AI Policy Imperatives"
+    excerpt: "One of the biggest challenges is connecting the details of every interaction across all channels to ensure each customer has a seamless experience. By leveraging Microsoft's Azure cloud and AI technologies, Genesys is helping enterprises create a seamless customer journey with Microsoft's trusted, secure and scalable platform.\" IBM (NYSE ..."
+    publishedDateTime: 2020-01-24T18:29:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-microsoft-expands-partnership-with-genesys-ibm-nyse-ibm-launches-policy-lab-with-ai-policy-imperatives-2020-01-24
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 63
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
     images:
-      - url: https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Alphabet CEO Sides With EU on Facial-Recognition Tech Moratorium, But Microsoft Isn't Convinced"
-    excerpt: "Alphabet and Google CEO Sundar Pichai recently came out in support of a European Union proposal for instating a temporary ban on facial-recognition technology until officials beef up privacy regulations. “I think it is important that governments and regulations tackle it sooner rather than later and give a framework for it,” he said Monday ..."
-    publishedDateTime: 2020-01-21T01:35:00Z
-    sourceUrl: https://gizmodo.com/alphabet-ceo-sides-with-eu-on-facial-recognition-tech-m-1841119655
-    ampUrl: https://gizmodo.com/alphabet-ceo-sides-with-eu-on-facial-recognition-tech-m-1841119655/amp
-    cdnAmpUrl: https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/alphabet-ceo-sides-with-eu-on-facial-recognition-tech-m-1841119655/amp
+  - title: "HCL Technologies unveils a dedicated Microsoft Business Unit"
+    excerpt: "This will extend Microsoft's offerings of Business Applications, Microsoft Dynamics 365, Microsoft Azure, loT, and Al/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10. The HCL Microsoft Business Unit will create intellectual property extending the Microsoft platform for ..."
+    publishedDateTime: 2020-01-22T09:20:00Z
+    sourceUrl: https://www.indiainfoline.com/article/news-sector-information-technology/hcl-technologies-unveils-a-dedicated-microsoft-business-unit-120012200467_1.html
+    ampUrl: https://www.indiainfoline.com/article-amp/news-sector-information-technology/hcl-technologies-unveils-a-dedicated-microsoft-business-unit-120012200467_1.html
+    cdnAmpUrl: https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/hcl-technologies-unveils-a-dedicated-microsoft-business-unit-120012200467_1.html
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 62
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 59
     images:
-      - url: https://i.kinja-img.com/gawker-media/image/upload/s--CZyG925X--/c_scale,f_auto,fl_progressive,q_80,w_800/rkvdxghinp3toasyjnon.jpg
+      - url: https://content.indiainfoline.com/_media/iifl/img/misc/2019-09/17/full/hcl-technologies-1568695467-04161350.jpg
+        width: 350
+        height: 233
+  - title: "Microsoft And Genesys Expand Azure Partnership"
+    excerpt: "“By running the Genesys customer experience solution on this dependable cloud environment, enterprises will be able to maximize their investment in Microsoft Azure through simplified management and maintenance requirements, centralized IT expertise, reduced costs, and more.” Through cloud and artificial intelligence (AI), enterprise ..."
+    publishedDateTime: 2020-01-23T20:15:00Z
+    sourceUrl: https://winbuzzer.com/2020/01/23/microsoft-and-genesys-expand-azure-partnership-xcxwbn/
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 54
+    images:
+      - url: https://winbuzzer.com/wp-content/uploads/2020/01/MS-Nadella-SatyaGenesys-CEO-Bates-Tony-Microsoft.jpg
+        width: 1024
+        height: 803
+  - title: "Microsoft is throwing support behind these Hopkins AI and data science startups"
+    excerpt: "Through a new program, Microsoft is supporting five AI and data science startups founded in Johns Hopkins‘ FastForward program. The teams are the first to receive Microsoft acceleration awards. It’s a way that the storied tech company is working with new ventures, and is doing so with a Baltimore-based university. “Johns Hopkins has a ..."
+    publishedDateTime: 2020-01-14T18:15:00Z
+    sourceUrl: https://technical.ly/baltimore/2020/01/14/microsoft-acceleration-awards-grants-hopkins-artificial-intelligence-data-science-startups/
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 50
+    images:
+      - url: https://technical.ly/baltimore/wp-content/uploads/sites/3/2017/05/ff1812.jpg
+        width: 1200
+        height: 900
+  - title: "Feeding the world responsibly and sustainably with Artificial Intelligence by ABB and Microsoft"
+    excerpt: "Through an artificial intelligence (AI) for salmon analytics pilot, ABB and Microsoft co-created a solution with NRS to produce quality food in a safer and more environmentally responsible way. The pilot showed that NRS can increase the efficiency and safety of its workers, who now aren’t required to be at open sea as often as before."
+    publishedDateTime: 2020-01-23T13:52:00Z
+    sourceUrl: https://news.microsoft.com/de-ch/2020/01/22/feeding-the-world-responsibly-and-sustainably-with-artificial-intelligence-by-abb-and-microsoft/
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 40
+    images:
+      - url: https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/418/2020/01/Image_-_ABB_Microsoft_salmon_partnership_2-1024x576.jpg
+        width: 1024
+        height: 576
+  - title: "Microsoft promises to be carbon negative by 2030"
+    excerpt: "\"Microsoft's expanding efforts to help fossil fuel companies drill more oil and gas with machine-learning and other AI technologies.\" Along with the other major cloud providers, Microsoft continues to pursue lucrative contracts with fossil fuel companies, with an Azure division dedicated to the sector. In the customer stories section of its ..."
+    publishedDateTime: 2020-01-17T12:32:00Z
+    sourceUrl: https://www.datacenterdynamics.com/news/microsoft-promises-be-carbon-negative-2030/
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg
+        width: 1200
+        height: 630
+  - title: "Google and Microsoft leaders at odds over facial recognition ban"
+    excerpt: "The EU's proposal for a temporary ban on facial recognition technology has won backing from Alphabet CEO Sundar Pichai but got a cool response from Microsoft president Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban was akin to using a meat ..."
+    publishedDateTime: 2020-01-20T22:50:00Z
+    sourceUrl: https://www.arnnet.com.au/article/670382/google-microsoft-leaders-odds-over-facial-recognition-ban/
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/sundar_pichai_google_2018_2.jpg
         width: 800
-        height: 533
-  - title: "Cambridge becomes 4th Mass. community to ban face recognition tech"
-    excerpt: "The Cambridge facial tech ban doesn’t prevent corporations or institutions - such as Harvard or MIT - from conducting research on face recognition or even monitoring people coming to their buildings."
-    publishedDateTime: 2020-01-14T19:49:00Z
-    sourceUrl: https://www.bizjournals.com/boston/news/2020/01/14/cambridge-becomes-4th-mass-community-to-ban-face.html
-    ampUrl: https://www.bizjournals.com/boston/news/2020/01/14/cambridge-becomes-4th-mass-community-to-ban-face.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2020/01/14/cambridge-becomes-4th-mass-community-to-ban-face.amp.html
+        height: 500
+  - title: "HCL launches dedicated Microsoft business unit"
+    excerpt: "The decision will extend Microsoft’s offerings of business applications, Microsoft Dynamics 365, Microsoft Azure, Internet of Things (IoT), and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10."
+    publishedDateTime: 2020-01-21T16:30:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/hcl-launches-dedicated-microsoft-business-unit/story-L5PKlrRC4HGuV3mjGiI4wK.html
+    ampUrl: https://m.hindustantimes.com/tech/hcl-launches-dedicated-microsoft-business-unit/story-L5PKlrRC4HGuV3mjGiI4wK_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/hcl-launches-dedicated-microsoft-business-unit/story-L5PKlrRC4HGuV3mjGiI4wK_amp.html
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 39
+  - title: "HCL Technologies Launches a Dedicated Microsoft Business Unit"
+    excerpt: "This will extend Microsoft's offerings of Business Applications, Microsoft Dynamics 365, Microsoft Azure, IoT, and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10. The HCL Microsoft ..."
+    publishedDateTime: 2020-01-21T13:29:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/2020/01/21/9084223.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
+    images:
+      - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
+        width: 252
+        height: 335
+  - title: "HCL launches dedicated Microsoft business unit in Noida"
+    excerpt: "The decision will extend Microsoft's offerings of business applications, Microsoft Dynamics 365, Microsoft Azure, Internet of Things (IoT), and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10, the company said in a statement. \"Increasingly, customers are making bold ..."
+    publishedDateTime: 2020-01-23T05:36:00Z
+    sourceUrl: https://www.siliconindia.com/news/business/HCL-launches-dedicated-Microsoft-business-unit-in-Noida-nid-211952-cid-3.html
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 39
+    images:
+      - url: https://www.siliconindia.com/news/newsimages/MfYXru58.jpg
+        width: 570
+        height: 367
+  - title: "EY crosses milestone to help clients deploy SAP on Microsoft Azure with strategy and solution initiatives"
+    excerpt: "/PRNewswire/ -- More large enterprises seek to accelerate innovation and increase agility across their business by migrating their mission-critical"
+    publishedDateTime: 2020-01-14T13:59:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/ey-crosses-milestone-to-help-clients-deploy-sap-on-microsoft-azure-with-strategy-and-solution-initiatives-300986661.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: https://mma.prnewswire.com/media/708904/EY_Logo.jpg?p=facebook
+        width: 600
+        height: 314
+  - title: "Edith Cowan Uni reduces IT costs with migration to Microsoft Azure"
+    excerpt: "According to Microsoft, Azure is already changing the way that ECU uses technology ... Are you working at driving AI/ML implementation? Want to stay abreast of data privacy and AI ethics requirements? Are you working hard to push predictive analytics ..."
+    publishedDateTime: 2020-01-21T03:25:00Z
+    sourceUrl: https://www.itwire.com/strategy/edith-cowan-uni-reduces-it-costs-with-migration-to-microsoft-azure.html
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 34
+  - title: "Genesys expands partnership with Microsoft Azure"
+    excerpt: "Customers will benefit from a streamlined buying process that puts them on a clear path to the cloud. The companies are also exploring and creating new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers."
+    publishedDateTime: 2020-01-23T16:22:00Z
+    sourceUrl: https://www.telecompaper.com/news/genesys-expands-partnership-with-microsoft-azure--1323890
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
+  - title: "Latest release: Automotive Artificial Intelligence Market Will Hit Big Revenues In Future | Alphabet, Microsoft Corporation, IBM Corporation"
+    excerpt: "Advance Market Analytics released the research report of Global Automotive Artificial Intelligence Market, offers a detailed overview of the factors influencing the global business scope. Automotive Artificial Intelligence Market research report shows the latest market insights with upcoming trends and breakdown of the products and services."
+    publishedDateTime: 2020-01-20T16:33:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/latest-release-automotive-artificial-intelligence-market-will-hit-big-revenues-in-future-alphabet-microsoft-corporation-ibm-corporation-2020-01-20
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "HCL launches dedicated Microsoft business unit"
+    excerpt: "Noida, Jan 21 : HCL Technologies on Tuesday announced the launch of a dedicated HCL Microsoft Business Unit to help joint customers with digital transformation initiatives. The decision will extend Microsoft's offerings of business applications, Microsoft ..."
+    publishedDateTime: 2020-01-22T05:12:00Z
+    sourceUrl: https://www.newkerala.com/news/2020/10673.htm
+    type: article
+    provider:
+      name: New Kerala
+      domain: newkerala.com
+    quality: 19
+  - title: "HCL Technologies Launches a Dedicated Microsoft Business Unit"
+    excerpt: "This will extend Microsoft’s offerings of Business Applications, Microsoft Dynamics 365, Microsoft Azure, IoT, and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10. The HCL Microsoft Business Unit will create intellectual property extending the Microsoft platform for ..."
+    publishedDateTime: 2020-01-22T04:43:00Z
+    sourceUrl: https://www.techworld.com.au/mediareleases/37785/hcl-technologies-launches-a-dedicated-microsoft/
+    type: article
+    provider:
+      name: Australian Techworld
+      domain: techworld.com.au
+    quality: 19
+  - title: "HCL Technologies launches dedicated Microsoft business unit"
+    excerpt: "Noida , Jan 22 : HCL Technologies has launched a dedicated business unit that will extend Microsoft's offerings of business applications, Microsoft Dynamics 365, Microsoft Azure, Internet of Things (IoT), artificial intelligence and machine learning. The new unit will create intellectual property extending the Microsoft platform for customer ..."
+    publishedDateTime: 2020-01-22T23:06:00Z
+    sourceUrl: https://www.newkerala.com/news/2020/10960.htm
+    type: article
+    provider:
+      name: New Kerala
+      domain: newkerala.com
+    quality: 19
+  - title: "Microsoft could test body scanners that combine millimeter-wave and machine learning"
+    excerpt: "Microsoft could test out a new type of body scanner according to new FCC filings. The scanners use millimeter-wave radiation and machine learning to detect objects. The scanners only require two fixed panels to work. The FCC filings are for the Rohde & Schwarz Quick Personnel Security Scanner. Rohde & Schwarz explain the capabilities of the ..."
+    publishedDateTime: 2020-01-22T18:10:00Z
+    sourceUrl: https://www.windowscentral.com/microsoft-could-test-body-scanners-combine-millimeter-wave-and-machine-learning
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 12
+  - title: "Amazon will ask court to halt Microsoft's JEDI work"
+    excerpt: "Amazon Web Services took an expected step in the court battle over the Defense department's JEDI cloud computing contract. A judge will decide whether to grant an injunction by Feb. 11."
+    publishedDateTime: 2020-01-15T21:28:00Z
+    sourceUrl: https://www.bizjournals.com/washington/news/2020/01/14/amazon-files-motion-to-halt-microsofts-jedi-work.html
     type: article
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 59
-    images:
-      - url: https://media.bizj.us/view/img/7486812/cambridge*600xx540-361-33-0.jpg
-        width: 540
-        height: 360
-  - title: "How the police use facial recognition, and where it falls short"
-    excerpt: "He passed out after stuffing something into his mouth. And his fingerprints, deputies reported, appeared to have been chewed off. So investigators turned to one of the oldest and largest facial recognition systems in the country: a statewide program based in Pinellas County, Florida, that began almost 20 years ago, when law enforcement agencies ..."
-    publishedDateTime: 2020-01-14T01:50:00Z
-    sourceUrl: https://www.orlandosentinel.com/featured/sns-nyt-police-facial-recognition-falls-short-20200113-r34opkrnrbhhhhidghgifh64cu-story.html
-    ampUrl: https://www.chicagotribune.com/featured/sns-nyt-police-facial-recognition-falls-short-20200113-r34opkrnrbhhhhidghgifh64cu-story.html?outputType=amp
-    cdnAmpUrl: https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-police-facial-recognition-falls-short-20200113-r34opkrnrbhhhhidghgifh64cu-story.html?outputType=amp
+    quality: 4
+  - title: "Neural Network Software Market Is Booming Globally with Top key vendors Google, International Business Machines, Microsoft"
+    excerpt: "Neural Network software is used to simulate, research, develop, and apply artificial neural networks, software concepts adapted from biological neural networks, and in some cases, a wider array of adaptive systems such as artificial intelligence and machine learning. Apart from this, the research report offers the vital key segmentation of the ..."
+    publishedDateTime: 2020-01-20T10:19:00Z
+    sourceUrl: https://www.openpr.com/news/1900816/neural-network-software-market-is-booming-globally-with-top-key
     type: article
     provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 59
-    images:
-      - url: https://www.chicagotribune.com/resizer/zvBykLjQuHpA183lPUW5jbRQwd4=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/QFTFUXZSXVF4HLTSDJQJT46L74.jpg
-        width: 1200
-        height: 960
-  - title: "EU considers temporary ban on facial recognition in public spaces"
-    excerpt: "European Union leaders are considering a ban on the use of facial recognition in public spaces for up to five years until safeguards to mitigate the technology's risks are in place, according to a draft document obtained by POLITICO. Building on Europe's existing tough privacy laws, a \"future regulatory framework could go further and include a ..."
-    publishedDateTime: 2020-01-17T12:30:00Z
-    sourceUrl: https://www.politico.eu/article/eu-considers-temporary-ban-on-facial-recognition-in-public-spaces/
-    ampUrl: https://www.politico.eu/article/eu-considers-temporary-ban-on-facial-recognition-in-public-spaces/amp/
-    cdnAmpUrl: https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-considers-temporary-ban-on-facial-recognition-in-public-spaces/amp/
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 59
-    images:
-      - url: https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-826006490-1200x628.jpg
-        width: 1200
-        height: 628
-  - title: "EU eyes temporary ban on facial recognition in public places"
-    excerpt: "Draft white paper suggest prohibition lasting three to five years is being considered"
-    publishedDateTime: 2020-01-17T12:14:00Z
-    sourceUrl: https://www.theguardian.com/technology/2020/jan/17/eu-eyes-temporary-ban-on-facial-recognition-in-public-places
-    ampUrl: https://amp.theguardian.com/technology/2020/jan/17/eu-eyes-temporary-ban-on-facial-recognition-in-public-places
-    cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/17/eu-eyes-temporary-ban-on-facial-recognition-in-public-places
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: https://i.guim.co.uk/img/media/b13037cc01ce14221d85853f02edf109cd977a0f/0_152_6085_3651/master/6085.jpg?width=605&quality=85&auto=format&fit=max&s=70a13a67598f06697e73012e621a09fc
-        width: 605
-        height: 363
-  - title: "Facial recognition: EU considers ban of up to five years"
-    excerpt: "The European Commission has revealed it is considering a ban on the use of facial recognition in public areas for up to five years. Regulators want time to work out how to prevent the technology being abused. The technology allows faces captured on CCTV to be checked in real time against watch lists, often compiled by police. Exceptions to the ..."
-    publishedDateTime: 2020-01-17T13:46:00Z
-    sourceUrl: https://www.bbc.co.uk/news/technology-51148501
-    ampUrl: https://www.bbc.co.uk/news/amp/technology-51148501
-    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51148501
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/16930/production/_110546429_gettyimages-1137809049.jpg
-        width: 1024
-        height: 576
-  - title: "Google backs EU’s proposed facial recognition ban; Microsoft disagrees"
-    excerpt: "A ban is like “using a meat cleaver instead of a scalpel to solve potential problems”, he said. Smith also focussed on the benefits of facial recognition technology, citing the example of its use in finding missing children. It is the government’s responsibility to understand how technology is being used, identifying problem areas before ..."
-    publishedDateTime: 2020-01-21T13:41:00Z
-    sourceUrl: https://www.thehindubusinessline.com/info-tech/google-backs-eus-proposed-facial-recognition-ban-microsoft-disagrees/article30616303.ece
-    ampUrl: https://www.thehindubusinessline.com/info-tech/google-backs-eus-proposed-facial-recognition-ban-microsoft-disagrees/article30616303.ece/amp/
-    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/google-backs-eus-proposed-facial-recognition-ban-microsoft-disagrees/article30616303.ece/amp/
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 59
-    images:
-      - url: https://www.thehindubusinessline.com/blink/talk/xzq9q3/article30105303.ece/ALTERNATES/LANDSCAPE_615/LEAD-IMAGE
-        width: 615
-        height: 384
-  - title: "The EU is considering banning facial recognition in public for 5 years"
-    excerpt: "p class=”dropcap”>In a bid to curb the misuse of facial recognition technology, the European Commission has revealed that it’s considering a ban on the use of facial recognition in public areas for up to 5 years. While the use of facial recognition is on the rise, the European regulators want time to draft rules to prevent the technology ..."
-    publishedDateTime: 2020-01-21T09:02:00Z
-    sourceUrl: https://www.xda-developers.com/eu-considering-banning-facial-recognition-public/
-    ampUrl: https://www.xda-developers.com/eu-considering-banning-facial-recognition-public/amp/
-    cdnAmpUrl: https://www-xda--developers-com.cdn.ampproject.org/c/s/www.xda-developers.com/eu-considering-banning-facial-recognition-public/amp/
-    type: article
-    provider:
-      name: XDA Developers
-      domain: xda-developers.com
-    quality: 59
-    images:
-      - url: https://www.xda-developers.com/files/2020/01/IMG20200117113419-300x225.jpg
-        width: 300
-        height: 225
-  - title: "Face recognition app to be used in Telangana Municipal polls on pilot basis"
-    excerpt: "In a first-of-its-kind in India, the Telangana State Election Commission will be using facial recognition app on a pilot basis in 10 selected polling stations in a bid to counter impersonation by voters. The initiative will be implemented in Kompally Municipality of Medchal Malkajgiri district, an official release said. However, a negative ..."
-    publishedDateTime: 2020-01-20T06:48:00Z
-    sourceUrl: https://yourstory.com/2020/01/face-recognition-app-telangana-municipal-polls
-    ampUrl: https://yourstory.com/2020/01/face-recognition-app-telangana-municipal-polls/amp
-    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/face-recognition-app-telangana-municipal-polls/amp
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 57
-    images:
-      - url: https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/Imagevmji-1579496216280.jpg?fm=png&auto=format
-        width: 800
-        height: 400
-  - title: "Facial recognition tech tests tolerance of public in Britain"
-    excerpt: "LONDON -- When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology's divisiveness, even the head of a neighboring police force said he opposed it. The South Wales police deployed vans equipped with the technology outside ..."
-    publishedDateTime: 2020-01-17T05:15:00Z
-    sourceUrl: https://www.paducahsun.com/news/general/facial-recognition-tech-tests-tolerance-of-public-in-britain/article_8982dcc0-f9d9-50a2-a7f6-07973c09239c.html
-    type: article
-    provider:
-      name: Paducah Sun
-      domain: paducahsun.com
-    quality: 54
-    images:
-      - url: https://bloximages.chicago2.vip.townnews.com/paducahsun.com/content/tncms/custom/image/ebed5d9a-1305-11e7-b976-df2470edf52a.jpg
-        width: 1200
-        height: 630
-  - title: "Cambridge bans facial recognition technology, becoming fourth community in Massachusetts to do so"
-    excerpt: "The Cambridge City Council voted Monday night to ban the municipal use of facial recognition technology, becoming the fourth community in the state to do so, the ACLU of Massachusetts announced. A bill before the State House would also establish a statewide moratorium on the use of facial recognition technology and other forms of biometric ..."
-    publishedDateTime: 2020-01-14T11:48:00Z
-    sourceUrl: https://www.masslive.com/news/2020/01/cambridge-bans-facial-recognition-technology-becoming-fourth-community-in-massachusetts-to-do-so.html
-    ampUrl: https://www.masslive.com/news/2020/01/cambridge-bans-facial-recognition-technology-becoming-fourth-community-in-massachusetts-to-do-so.html?outputType=amp
-    cdnAmpUrl: https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/01/cambridge-bans-facial-recognition-technology-becoming-fourth-community-in-massachusetts-to-do-so.html?outputType=amp
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 46
-    images:
-      - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/RXABJ627LZF3NJCLJJTBYKDJJU.JPG
-        width: 800
-        height: 600
-  - title: "Springfield councilors renew call for ban on facial recognition"
-    excerpt: "Ramos cites an American Civil Liberties Union of Massachusetts study released earlier Monday that used photos of Boston Red Sox and Celtics players to demonstrate limitations of Amazon Rekognition software. The ACLU fed photos of 188 New England athletes ..."
-    publishedDateTime: 2020-01-10T20:52:00Z
-    sourceUrl: https://www.masslive.com/news/2020/01/springfield-councilors-renew-call-for-ban-on-facial-recognition.html
-    ampUrl: https://www.masslive.com/news/2020/01/springfield-councilors-renew-call-for-ban-on-facial-recognition.html?outputType=amp
-    cdnAmpUrl: https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/01/springfield-councilors-renew-call-for-ban-on-facial-recognition.html?outputType=amp
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 44
-    images:
-      - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/QAN4PSN47JDHXNZQBFAT5UGBLQ.jpg
-        width: 1024
-        height: 789
-  - title: "Voice Recognition technology and its growing influence"
-    excerpt: "Natural Language Processing derives meaning from human languages by relying on machine learning techniques. Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills this void but also unite all faster means of ..."
-    publishedDateTime: 2020-01-11T11:43:00Z
-    sourceUrl: https://www.thewindowsclub.com/voice-recognition-technology
-    ampUrl: https://www.thewindowsclub.com/voice-recognition-technology/amp
-    cdnAmpUrl: https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp
-    type: article
-    provider:
-      name: TWCN Tech News
-      domain: thewindowsclub.com
-    quality: 44
-    images:
-      - url: https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png
-        width: 600
-        height: 271
-  - title: "Massachusetts City Renews Calls for Facial Recognition Ban"
-    excerpt: "Ramos cites an American Civil Liberties Union of Massachusetts study released earlier Monday that used photos of Boston Red Sox and Celtics players to demonstrate limitations of Amazon Rekognition software. The ACLU fed photos of 188 New England athletes ..."
-    publishedDateTime: 2020-01-13T20:22:00Z
-    sourceUrl: https://www.govtech.com/public-safety/Massachusetts-City-Renews-Calls-for-Facial-Recognition-Ban.html
-    ampUrl: https://www.govtech.com/public-safety/Massachusetts-City-Renews-Calls-for-Facial-Recognition-Ban.html?AMP
-    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Massachusetts-City-Renews-Calls-for-Facial-Recognition-Ban.html?AMP
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 44
-    images:
-      - url: https://media2.govtech.com/images/facial2.jpg
-        width: 940
-        height: 630
-  - title: "Alphabet CEO backs temporary ban on facial-recognition technology"
-    excerpt: "Part of this includes a moratorium of up to five years on using facial recognition technology in public areas, to give the EU time to work out how to prevent abuses, the paper said. \"It can be immediate, but maybe there's a waiting period before we really think about how it's being used,\" Pichai said. \"It's up to governments to charter the ..."
-    publishedDateTime: 2020-01-20T18:29:00Z
-    sourceUrl: https://www.aljazeera.com/ajimpact/alphabet-ceo-backs-temporary-ban-facial-recognition-technology-200120172909980.html
-    ampUrl: https://www.aljazeera.com/amp/ajimpact/alphabet-ceo-backs-temporary-ban-facial-recognition-technology-200120172909980.html
-    cdnAmpUrl: https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/ajimpact/alphabet-ceo-backs-temporary-ban-facial-recognition-technology-200120172909980.html
-    type: article
-    provider:
-      name: Al Jazeera English
-      domain: aljazeera.com
-    quality: 44
-    images:
-      - url: https://www.aljazeera.com/mritems/imagecache/mbdxlarge/mritems/Images/2020/1/20/dccfa1973fd14e5abe2bd26378c6542c_18.jpg
-        width: 583
-        height: 325
-  - title: "Europe mulls five year ban on facial recognition in public... with loopholes for security and research"
-    excerpt: "Just an FYI: That cool funky CI/CD tool you're installing now could be next year's legacy tech The European Commission is weighing whether to ban facial recognition systems in public areas for up to five years, according to a draft report on artificial intelligence policy in the European Union. A copy of the unreleased report [PDF] was ..."
-    publishedDateTime: 2020-01-17T21:48:00Z
-    sourceUrl: https://www.theregister.co.uk/2020/01/17/eu_ban_facial_recognition/
-    ampUrl: https://www.theregister.co.uk/AMP/2020/01/17/eu_ban_facial_recognition/
-    cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/01/17/eu_ban_facial_recognition/
-    type: article
-    provider:
-      name: The Register
-      domain: theregister.co.uk
-    quality: 43
-    images:
-      - url: https://regmedia.co.uk/2020/01/17/shutterstock_facial_recognition.jpg
-        width: 1000
-        height: 527
-  - title: "Software detects backdoor attacks on facial recognition"
-    excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from cyberattacks becomes essential. An Army project conducted by ..."
-    publishedDateTime: 2020-01-15T00:00:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/uarl-sdb011520.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
-        width: 900
-        height: 300
-  - title: "Software Detects Backdoor Attacks on Facial Recognition"
-    excerpt: "As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from cyberattacks becomes essential. An Army project conducted by researchers at Duke University and led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran ..."
-    publishedDateTime: 2020-01-16T15:04:00Z
-    sourceUrl: https://www.defensemedianetwork.com/stories/software-detects-backdoor-attacks-facial-recognition/
-    type: article
-    provider:
-      name: defensemedianetwork.com
-      domain: defensemedianetwork.com
-    quality: 39
-    images:
-      - url: https://www.defensemedianetwork.com/wp-content/uploads/2020/01/original.jpg
-        width: 1500
-        height: 844
-  - title: "EU considers five-year ban on public facial recognition tech"
-    excerpt: "Facial recognition tech in the EU may be banned for up to five years in order to develop an ethical framework for its use. With a number of privacy and ethical concerns raised across the world by the roll-out of public facial recognition tech, the EU is considering a temporary ban on its use. According to Reuters, such a ban could last for up ..."
-    publishedDateTime: 2020-01-17T10:49:00Z
-    sourceUrl: https://www.siliconrepublic.com/machines/eu-facial-recognition-ban
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: https://www.siliconrepublic.com/wp-content/uploads/2020/01/AdobeStock_230414646.jpeg
-        width: 800
-        height: 600
-  - title: "It's too late to ban face recognition – here's what we need instead"
-    excerpt: "Calls for an outright ban on face recognition technology are growing louder, but it is already too late. Given its widespread use by tech companies and the police, permanently rolling back the technology is impossible. It was widely reported this week that the European Commission is considering a temporary ban on the use of face recognition in ..."
-    publishedDateTime: 2020-01-23T11:43:00Z
-    sourceUrl: https://www.newscientist.com/article/2231066-its-too-late-to-ban-face-recognition-heres-what-we-need-instead/
-    ampUrl: https://www.newscientist.com/article/2231066-its-too-late-to-ban-face-recognition-heres-what-we-need-instead/amp/
-    cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2231066-its-too-late-to-ban-face-recognition-heres-what-we-need-instead/amp/
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 39
-  - title: "Alphabet CEO Pichai backs temporary ban on facial-recognition technology"
-    excerpt: "The chief executive of Google parent company Alphabet on Monday backed an EU proposal to temporarily ban facial-recognition technology because of the possibility that it could be used for nefarious purposes. \"I think it is important that governments and regulations tackle it sooner rather than later and gives a framework for it,\" Sundar Pichai ..."
-    publishedDateTime: 2020-01-20T19:43:00Z
-    sourceUrl: https://www.itnews.com.au/news/alphabet-ceo-pichai-backs-temporary-ban-on-facial-recognition-technology-536769
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 38
-    images:
-      - url: https://i.nextmedia.com.au/News/2020-01-20T145332Z_1_LYNXMPEG0J1CD_RTROPTP_3_GOOGLE-EU.JPG
-        width: 800
-        height: 526
-  - title: "Sundar Pichai backs temporary ban on facial-recognition, Microsoft disagrees"
-    excerpt: "The EU’s proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban was ..."
-    publishedDateTime: 2020-01-21T03:18:00Z
-    sourceUrl: https://www.financialexpress.com/industry/technology/sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees/1829873/
-    ampUrl: https://www.financialexpress.com/industry/technology/sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees/1829873/lite/
-    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees/1829873/lite/
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 36
-  - title: "Lawmakers Working on Legislation to ‘Pause’ Use of Facial Recognition Technology"
-    excerpt: "House lawmakers—and, according to those representatives, their constituents—are wary of facial recognition and are working on legislation that would halt its progress as Congress and federal regulators get their arms around how the technology is being ..."
-    publishedDateTime: 2020-01-15T20:10:00Z
-    sourceUrl: https://www.nextgov.com/emerging-tech/2020/01/lawmakers-working-legislation-pause-use-facial-recognition-technology/162470/
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 34
-    images:
-      - url: https://cdn.nextgov.com/media/img/upload/2020/01/15/NGface20200115/open-graph.jpg
-        width: 400
-        height: 400
-  - title: "Surprising results after activists test facial recognition technology on Denver City Council"
-    excerpt: "Swatling ran a test with Amazon’s Rekognition software. He compared the photos of Denver City Council members to about 2,000 photos from the Denver County Sex Offender Registry. It took him three days to run the data. “The results we got back were pretty astounding,” Swatling said. “In some cases, as many as four false positives from a ..."
-    publishedDateTime: 2020-01-14T05:33:00Z
-    sourceUrl: https://www.thedenverchannel.com/news/local-news/surprising-results-after-activists-test-facial-recognition-technology-on-denver-city-council
-    ampUrl: https://www.thedenverchannel.com/news/local-news/surprising-results-after-activists-test-facial-recognition-technology-on-denver-city-council?_amp=true
-    cdnAmpUrl: https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/local-news/surprising-results-after-activists-test-facial-recognition-technology-on-denver-city-council?_amp=true
-    type: article
-    provider:
-      name: 7News and TheDenverChannel.com
-      domain: thedenverchannel.com
-    quality: 33
-    images:
-      - url: https://x-default-stgec.uplynk.com/ausw/slices/8d1/0e3a3b3bc3ae4d6eac785fb8a26bdb6b/8d18871f1b9b4c1781a22de73289bd7e/poster_74d992e1d3da49f3bc0cc1ce7922fe77.jpg
-        width: 1280
-        height: 720
-  - title: "Springfield City Council moves to ban facial recognition; says systems are unproven, inaccurate"
-    excerpt: "Springfield police don’t use facial recognition programs. But tech companies including Amazon with its Rekognition system, are pitching the systems to police agencies. Ramos cites an American Civil Liberties Union of Massachusetts study released earlier Monday that used photos of Boston Red Sox and Celtics players to demonstrate limitations ..."
-    publishedDateTime: 2020-01-14T01:27:00Z
-    sourceUrl: https://www.masslive.com/news/2020/01/springfield-city-council-moves-to-ban-facial-recognition-says-systems-are-unproven-inaccurate.html
-    ampUrl: https://www.masslive.com/news/2020/01/springfield-city-council-moves-to-ban-facial-recognition-says-systems-are-unproven-inaccurate.html?outputType=amp
-    cdnAmpUrl: https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/01/springfield-city-council-moves-to-ban-facial-recognition-says-systems-are-unproven-inaccurate.html?outputType=amp
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 32
-    images:
-      - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/MB7WOSFZ5NDATGIURQGKWKKPIY.jpg
-        width: 2176
-        height: 1578
-  - title: "Aussie entrepreneur launches “disturbing and unethical” facial recognition tech in Silicon Valley"
-    excerpt: "Founded by Hoan Ton-That, Clearview AI is a secretive Silicon Valley startup that has been reportedly operating in stealth mode for some time. It’s facial recognition app allows users to take a picture of a person and upload it, to access public photos of that person, and the sites on which they appear (think Facebook and YouTube)."
-    publishedDateTime: 2020-01-22T05:11:00Z
-    sourceUrl: https://www.smartcompany.com.au/startupsmart/news/aussie-clearview-ai/
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 26
-    images:
-      - url: https://www.smartcompany.com.au/content/uploads/2020/01/Clearview-AI.jpg
-        width: 681
-        height: 333
-  - title: "EU may ban facial-recognition technology over fears of abuse"
-    excerpt: "Foo Yun Chee The European Union is considering banning facial-recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses. The plan by the EU's executive - set out in an 18-page white paper - comes amid a global debate about the systems driven by artificial intelligence and widely used by law ..."
-    publishedDateTime: 2020-01-17T03:40:00Z
-    sourceUrl: https://www.independent.ie/world-news/europe/eu-may-ban-facial-recognition-technology-over-fears-of-abuse-38869556.html
-    type: article
-    provider:
-      name: Independent.ie
-      domain: independent.ie
-    quality: 24
-    images:
-      - url: https://www.independent.ie/world-news/12217/38869626.ece/ALTERNATES/h342/PANews_P-0a107241-55a5-458e-b5f7-aff1c8748256_I1.jpg
-        width: 608
-        height: 342
-  - title: "EU Considering Banning Face Recognition Technology In Public"
-    excerpt: "The BBC is reporting that the EU is considering a five-year ban on facial recognition in public faces for up to five years. Regulators want to establish whether the technology is being misused and are considering new legislation to govern the technology."
-    publishedDateTime: 2020-01-20T13:53:00Z
-    sourceUrl: https://www.mediapost.com/publications/article/345888/eu-considering-banning-face-recognition-technology.html?edition=116895
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 19
-  - title: "Alphabet CEO Sundar Pichai backs temporary ban on facial-recognition"
-    excerpt: "BRUSSELS: The EU's proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban ..."
-    publishedDateTime: 2020-01-21T04:43:00Z
-    sourceUrl: https://www.livemint.com/news/world/alphabet-ceo-sundar-pichai-backs-temporary-ban-on-facial-recognition-11579580121877.html
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 19
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "FKufVKfJw5yjNFBf0T5jV5DKYd3zPljWhifms8bqW0kWt9feM9yFgQ9Pm0mXl7M1ghETOcmroZJHC1JunZ/TA0pMU37GWdC4zcwJTKxQ7cR+z9gE82OWknzKwiOWzbTbnbIUBV5NuYhaziBWFffnkCExlBbRA1SoJOSfu33rkwb9aTLrPV7H+Hy5GcXLSX10It/FXpRcl8K5DU01GSQ0tgYKBaS8nEoYgBJBuPuqj/7m+SaqrNh7OWHgIBGK4Jhj2+R0JZSR/XMuREA75wTLgwvCjjSieZN8xhCoYfwhAEjeRwNfXH6ZwYjOT8skmSGYiiygvm9K1C1dourSik9Jz7SrYq5amRNpkd5hwzqewOrLVhx78xnamcbl/0Z1PvZy+WhYzaSec1PAYYBhzYCID7VpOPYkrYC+dzpQCivl0MkEGI68OQJ6McWjwZSFeWu7fHwyS3u7bdAwK8ENgZOY8Q==;YMSdX4oIitndN9/nA/jrKQ=="
 ---

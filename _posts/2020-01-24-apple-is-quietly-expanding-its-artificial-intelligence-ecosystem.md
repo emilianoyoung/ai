@@ -39,6 +39,19 @@ related:
       - url: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F554243%2Fgettyimages-1037156090.jpg&w=700&op=resize
         width: 700
         height: 466
+  - title: "Apple's low-power AI acquisition will bolster its surging AR play"
+    excerpt: "Apple acquired Xnor.ai, and the startup's low-power, edge-based AI tools will allow Apple to add AI features to power-constrained devices."
+    publishedDateTime: 2020-01-17T15:07:00Z
+    sourceUrl: https://www.businessinsider.com/apple-artificial-intelligence-startup-xnorai-augmented-reality-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: https://i.insider.com/5ab12aa51225bc29008b4c30?width=1200&format=jpeg
+        width: 900
+        height: 450
 
 secured: "fKII9NwOvMLhuzc0cbvrDsgfRKWXStuN3FGfWotUeU8pTSA0/hVh+zDCK1/9a0YTEY+IsVn90aro6AoZWGQ81bW/EKVizRxf2gVzUVERT6iU3+CqbktNrqjU+56kAc5F4r5x2DDO0u7l5iOXtu5mnrb1IeQwzj2044thDUT9SAcoG5AmNwQCrXE8lB7eleIGdfHhPiGxf/FzgrP67/m9dQjjhHNJpAecJ1zg3T3dI/VVFf1FR5paArs7U0Sruloaovxvora2URBQkY782HRUaNVSWfvVMIVShbibEhaHI/2Zc/AihpFjcaT6RW6/xQnyY9HOHRXJ236b6j1ggHpje0a4/NHrC6vnYXs6g0cy6mfdF4+2wU8NLN6M5gC6HxGjX3BhM7qZ5mbvhzOZPePcEN5Wgj4hZ8TTindt7eKet49CdpUKrv3t8R9UJDMJdILCcvIBbkLspW2n4DJ16c2TanQEs8MvhsfWi3+UjWlqm9Q=;eUhvgHHk3ITMVoJkiOqNow=="
 ---

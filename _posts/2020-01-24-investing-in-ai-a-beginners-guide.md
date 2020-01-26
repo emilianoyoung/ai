@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Investing in AI: A Beginner's Guide"
-excerpt: "Advances in AI features should help improve the value of Microsoft's Azure-based services. As such, it's already established itself as an important role in the self-driving car space. NVIDIA's chips are also playing a big role in current applications of AI ..."
+excerpt: "Advances in AI features should help improve the value of Microsoft's Azure-based services. As such, it's already established itself as an important role in the self-driving car space. NVIDIA's chips are also playing a big role in current applications of AI within the healthcare space, with the company partnered with General Electric to provide ..."
 publishedDateTime: 2020-01-24T19:00:00Z
 sourceUrl: https://www.fool.com/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 ampUrl: https://www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     height: 466
     title: "Investing in AI: A Beginner's Guide"
 
-related:
-  - title: "Dialing Into AI in 2020: Why Investing Now is Key"
-    excerpt: "Autonomous vehicles, robot performed surgeries, even understanding human sentiment is not far ... AI in the Palm of Your Hand Apple’s $200 million acquisition of Xnor.ai, a Seattle startup specializing in low-power, edge-based artificial intelligence tools, is the most recent of many investments across the industry to indicate AI will ..."
-    publishedDateTime: 2020-01-22T09:46:00Z
-    sourceUrl: https://www.geekwire.com/sponsor-post/dialing-ai-2020-investing-now-key/
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 69
-    images:
-      - url: https://cdn.geekwire.com/wp-content/uploads/2020/01/630px-wide.jpg
-        width: 630
-        height: 500
-
-secured: "JKJ1usW+KkpUard5VyaHaoVz+FhuGEBozg8KgUW8WgnlGWJ7QNwR8awaaK5qSXucHANM0nhtumrWwCq62WQh1Z/q35mqqH0v38GoAOGW6lR7boC+MUhX+h4gp9tPuGRv6NBhLzMAy4hjLpE1RTS64uvOJ0hOPPg4/aCq/V9ib97hOjw/d+dLHY0jJCpegvnCORyZIxVtVHeOtqYLi3tgehkjBGiUcoRC0nb6n5NSlWEcqrxuXAGtECNo9DVEQoUz9vMU0G/66+woL+WgA3HrbITSK+bE+f32G179Jhu29Kf287bipRRiZpP1cCftrCJS;+Vxb78B+MSpk5m62W3PlSw=="
+secured: "2/QABbmbfeWKTuysNSaJTtHyJqySgS80tniB0zP5+UAy3svyFrXcSdr9SoO2KN79dt7ETt5nNwdX1JE8rWSSHvxXatrzFuqYsHMBfDPz4XsqQJAmXTYOvvqr0Ls8qvlP5iPOIbfDfKzMSOLWQdwFexXIch3yVLr1A2YpzyX1UCXN2BXeQQ+afq3kPF0nBSPGKVJ01K8L9apT/mEzlhfwsO149gy5BIarSEWUU/KLUZsjP/Wmu7ecznueMr1xFKIr44xAvl9Cs72m0G2YAkwp6Cqd23dDNiiCZI+76yX+6GMl0a+SL6rl6loXD9dRhLNU;fPmCJL92I0maLsz84FTSqg=="
 ---
 

@@ -24,17 +24,21 @@ topics:
   - AI in Finance
 
 related:
-  - title: "SaaS startup Samya.ai raises $6 million from Sequoia India"
-    excerpt: "Samya.ai is focused on solving the supply-demand equation in the volatile and complex consumer goods industry using technology. Aditi Shrivastava | ETtech | Updated: January 20, 2020, 18:06 IST (L-R) Deepinder Dhingra, Shelly Singh, Shailendra Singh, Paven Palety Samya.ai, a SaaS platform that helps the consumer packaged goods industry optimize ..."
-    publishedDateTime: 2020-01-20T12:00:00Z
-    sourceUrl: https://tech.economictimes.indiatimes.com/news/startups/saas-startup-samya-ai-raises-6-million-from-sequoia-india/73432128
-    ampUrl: https://tech.economictimes.indiatimes.com/amp/news/startups/saas-startup-samya-ai-raises-6-million-from-sequoia-india/73432128
-    cdnAmpUrl: https://tech-economictimes-indiatimes-com.cdn.ampproject.org/c/s/tech.economictimes.indiatimes.com/amp/news/startups/saas-startup-samya-ai-raises-6-million-from-sequoia-india/73432128
+  - title: "Using cloud, AI for KYC and ID management for African enterprises"
+    excerpt: "To get more insight into the impact of cloud, AI and automation technologies in the Know Your Customer and ID verification ... With the advent of cloud technology providers such as Microsoft Azure and AWS coming to South Africa, it makes it easier for smaller businesses to provide services to companies. This has provided us with the ability ..."
+    publishedDateTime: 2020-01-23T08:33:00Z
+    sourceUrl: https://www.cio.com/article/3515001/using-cloud-and-ai-for-kyc-and-id-management-for-african-enterprises.html
+    ampUrl: https://www.cio.com/article/3515001/using-cloud-and-ai-for-kyc-and-id-management-for-african-enterprises.amp.html
+    cdnAmpUrl: https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3515001/using-cloud-and-ai-for-kyc-and-id-management-for-african-enterprises.amp.html
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 37
+      name: CIO
+      domain: cio.com
+    quality: 61
+    images:
+      - url: https://images.techhive.com/images/article/2014/10/artificial_intelligence_virtual_digital_identity_binary_stream_thinkstock-100528010-large.jpg
+        width: 1200
+        height: 900
 
 secured: "8+9tD3uKff2CJgvDUZOXIreQ7ykGFNE+3hTiZj1pHzutefVJfmLnaLX5Wg3pDBxUKL+SnUwo/psl1u+Wunzh3P2f5mXPhyT6zr59A7CfyJrYfzjhliDSwGv1wsJf3ID1igrWrYdmkZwX/6QKqY0PRV/1OHoeHe2aF+LhWVi35xeifiUtOPxtcOd4itOu300skoJMbn2Wcs+Zb9BPy5l+EDvQk0rEYJ0PvUy8Nh/t+pyc7DbAgLiBlUh0ucOOwLY04cn/1x6Hf16yyzdqYUlmfbtmMkrKHaZ+96p7rJKMt50DqLIdbFD2AjQwv3UBGhgC;fMT3LfBWs4xe/TNQmqryew=="
 ---

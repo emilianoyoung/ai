@@ -8,7 +8,7 @@ ampUrl: https://www.moneycontrol.com/news/business/bahrain-karnataka-sign-pact-o
 cdnAmpUrl: https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/bahrain-karnataka-sign-pact-on-cooperation-in-fintech-ai-cyber-security-4853121.html/amp
 type: article
 quality: 57
-heat: 77
+heat: 67
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
       - url: https://mma.prnewswire.com/media/466044/Anonos_Logo.jpg?p=facebook
         width: 1079
         height: 565
-  - title: "Bahrain and Karnataka sign Memorandum of Understanding promoting cooperation in Fintech, AI, IoT and cyber-security"
-    excerpt: "Build robust FinTech, Artificial Intelligence (AI), Internet of Things (IoT) and Cybersecurity ecosystems where startups and technology firms engage in external partnerships with corporates ..."
-    publishedDateTime: 2020-01-24T11:26:00Z
-    sourceUrl: https://news.webindia123.com/news/Articles/Business/20200124/3494590.html
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "7m7yCOGWFAq+snretu9PMS8UEdcurGCqKmVW63TUyS7ewfhXdrDINDI4XO+fYH3FsoPMeXPrniERHBJ3iuScuHoJhLGHuIgF/20iGfzr/nFMIbxvDMUqICrw1xpgMtr/YF0EyWKupVWv7NNY6W8GjP4un2ayx8zVyqE0F+aomsDyr68XzyagbtdmjFmrDiSo8BwTlsxVfQkeEd0L74O7MNYgg9tuF+MnvmEBDxQSCeQf1DGvb4DsokTUBXzPv98SMzfDxxNgjFWYTtBTNlhHAG75cYaJFGXKUszsD5UOaBThdnZPCtH0l7bF6Z49Ojz4;uI5Q8QPYPVw0Gh/SP+apQg=="
 ---

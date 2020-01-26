@@ -26,79 +26,88 @@ images:
     title: "Rise of the killer robots: The future of war"
 
 related:
-  - title: "Unearth the future of agriculture at TC Sessions: Robotics+AI with the CEOs of Traptic, Farmwise and Pyka"
-    excerpt: "Robotics+AI on March 3 with the founders of Traptic, Pyka, and Farmwise. Traptic, and its co-founder and CEO Lewis Anderson, you may remember from Disrupt SF 2019, where it was a finalist in the Startup Battlefield. The company has developed a robotic berry picker that identifies ripe strawberries and plucks them off the plants with a gentle grip."
-    publishedDateTime: 2020-01-22T17:11:00Z
-    sourceUrl: https://techcrunch.com/2020/01/22/unearth-the-future-of-agriculture-at-tc-sessions-roboticsai-with-the-ceos-of-traptic-farmwise-and-pyka/
-    ampUrl: https://techcrunch.com/2020/01/22/unearth-the-future-of-agriculture-at-tc-sessions-roboticsai-with-the-ceos-of-traptic-farmwise-and-pyka/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/22/unearth-the-future-of-agriculture-at-tc-sessions-roboticsai-with-the-ceos-of-traptic-farmwise-and-pyka/amp/
+  - title: "Nations dawdle on agreeing rules to control 'killer robots' in future wars"
+    excerpt: "Countries are rapidly developing “killer robots” - machines with artificial intelligence (AI) that independently kill - but are moving at a snail’s pace on agreeing global rules over their use in future wars,"
+    publishedDateTime: 2020-01-17T15:45:00Z
+    sourceUrl: https://www.reuters.com/article/us-global-rights-killer-robots-idUSKBN1ZG151
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZG151
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZG151
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 102
-    images:
-      - url: https://techcrunch.com/wp-content/uploads/2020/01/speaker_3_robotics_agrotech-2.png?w=1024
-        width: 1024
-        height: 558
-  - title: "AI and robots could be the future of agriculture — Strictly Robots"
-    excerpt: "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ..."
-    publishedDateTime: 2020-01-16T21:53:00Z
-    sourceUrl: https://mashable.com/video/farmwise-ai-robots-farming/
-    ampUrl: https://mashable.com/video/farmwise-ai-robots-farming.amp
-    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/farmwise-ai-robots-farming.amp
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
+      name: Reuters
+      domain: reuters.com
     quality: 87
     images:
-      - url: https://mondrian.mashable.com/2020%252F01%252F16%252Ffb%252F4ce1af61f56d418791bd1943a0e241bf.d3358.png%252F1200x630.png?signature=2_OfVvw_btp4UlWKx25cVJvrcxI=
+      - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
         width: 1200
         height: 630
-  - title: "Diligent’s Vivian Chu and Labrador’s Mike Dooley will discuss assistive robotics at TC Sessions: Robotics+AI"
-    excerpt: "At TC Sessions: Robotics+AI at U.C. Berkeley on March 3, we’ll be speaking with a pair of founders developing offerings for precisely these needs. Vivian Chu is the cofounder and CEO of Diligent Robotics. The company has developed the Moxi robot to help assist with chores and other non-patient tasks, in order to allow caregivers more time to ..."
-    publishedDateTime: 2020-01-21T00:34:00Z
-    sourceUrl: https://techcrunch.com/2020/01/20/diligents-vivian-chu-and-labradors-mike-dooley-will-discuss-assistive-robotics-at-tc-sessions-roboticsai/
-    ampUrl: https://techcrunch.com/2020/01/20/diligents-vivian-chu-and-labradors-mike-dooley-will-discuss-assistive-robotics-at-tc-sessions-roboticsai/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/20/diligents-vivian-chu-and-labradors-mike-dooley-will-discuss-assistive-robotics-at-tc-sessions-roboticsai/amp/
+  - title: "Killer robots must have human control, experts warn"
+    excerpt: "Countries are rapidly developing 'killer robots' - machines with artificial intelligence that independently kill - but are moving at a snail's pace on agreeing global rules over their use in future wars, warn technology and human rights experts. From drones and missiles to tanks and submarines, semi-autonomous weapons systems have been used for ..."
+    publishedDateTime: 2020-01-17T15:14:00Z
+    sourceUrl: https://www.dailymail.co.uk/news/article-7899479/Killer-robots-human-control-experts-warn.html
+    ampUrl: https://www.dailymail.co.uk/news/article-7899479/amp/Killer-robots-human-control-experts-warn.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7899479/amp/Killer-robots-human-control-experts-warn.html
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 68
-    images:
-      - url: https://techcrunch.com/wp-content/uploads/2020/01/VIV.png?w=1024
-        width: 1024
-        height: 558
-  - title: "Is the future of robots in good hands?"
-    excerpt: "How robots do this is the subject of in-depth research worldwide, including at NASA’s Johnson Space Center, using different combinations of sensors, point clouds, object libraries, and artificial intelligence (AI), among other technologies. For example, NASA’s Robonaut 2 humanoid is being trained to recognise, pick up, and use tools in ..."
-    publishedDateTime: 2020-01-21T11:25:00Z
-    sourceUrl: https://diginomica.com/future-robots-good-hands
-    ampUrl: https://diginomica.com/future-robots-good-hands?amp
-    cdnAmpUrl: https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/future-robots-good-hands?amp
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
+      name: Mail Online
+      domain: dailymail.co.uk
     quality: 59
     images:
-      - url: https://diginomica.com/sites/default/files/images/2020-01/Screenshot%202020-01-21%20at%2010.58.55.png
-        width: 1128
-        height: 882
-  - title: "The future of AI in warfare and counterterrorism"
-    excerpt: "In fact, in some ways Richemond-Barak’s presentation was an attempt to balance a discussion of AI and war that has mostly revolved around the worldwide civil society Campaign to Stop Killer Robots. The campaign was launched ... then even if human operators are in the loop, they may start to undervalue their human intuition and base too ..."
-    publishedDateTime: 2020-01-23T14:49:00Z
-    sourceUrl: https://www.jpost.com/Jpost-Tech/The-future-of-AI-in-warfare-and-counterterrorism-615112
+      - url: https://i.dailymail.co.uk/1s/2020/01/17/15/23526948-0-image-a-121_1579274069115.jpg
+        width: 636
+        height: 382
+  - title: "AI Expert Calls 'killer Robots' Greater Threat To Humans Than Climate Change"
+    excerpt: "An AI expert said that ‘killer robots’ will become a bigger threat to humans than the impending climate change and called for the need for a 'Greta Thunberg'. An Artificial Intelligence expert has claimed that ‘killer robots’ will become a greater threat to humans than the impending climate change. Referring to the teenage Swedish ..."
+    publishedDateTime: 2020-01-19T09:30:00Z
+    sourceUrl: https://www.republicworld.com/world-news/rest-of-the-world-news/ai-expert-calls-killer-robots-greater-threat-to-humans-than-climate.html
     type: article
     provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 51
+    images:
+      - url: https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/vrmzawngbkv7vvgh_1579421972.jpeg?tr=f-jpeg
+        width: 1242
+        height: 708
+  - title: "‘Rise of the killer robots: the future of war’"
+    excerpt: "Sir , – Laura Nolan deserves great credit for protesting Google’s role in the development of the US military’s artificial intelligence project Maven and for lobbying for a United Nations treaty to ban autonomous weapons (Joe Humphreys, “Rise of the killer robots: The future of war”, January 16th). Ms Nolan says she thinks that with ..."
+    publishedDateTime: 2020-01-20T00:30:00Z
+    sourceUrl: https://www.irishtimes.com/opinion/letters/rise-of-the-killer-robots-the-future-of-war-1.4144365
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
     quality: 39
     images:
-      - url: https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/452274
-        width: 822
-        height: 537
+      - url: https://www.irishtimes.com/polopoly_fs/1.3619339.1536160376!/image/image.jpg
+        width: 1080
+        height: 564
+  - title: "Nations dawdle on agreeing rules to control ‘killer robots’ in future wars"
+    excerpt: "NAIROBI: Countries are rapidly developing \"killer robots\" – machines with artificial intelligence (AI) that independently kill – but are moving at a snail's pace on agreeing global rules over their use in future wars, warn technology and human rights experts. From drones and missiles to tanks and submarines, semi-autonomous weapons systems ..."
+    publishedDateTime: 2020-01-19T22:35:00Z
+    sourceUrl: https://www.thestar.com.my/tech/tech-news/2020/01/20/nations-dawdle-on-agreeing-rules-to-control-killer-robots-in-future-wars
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
+    images:
+      - url: https://apicms.thestar.com.my/uploads/images/2020/01/17/498447.jpg
+        width: 1240
+        height: 825
+  - title: "As Killer Robots Loom, Demands Grow to Keep Humans in Control of Use of Force"
+    excerpt: "These countries are investing heavily in military applications of artificial intelligence (AI) with the goal of gaining a technological advantage ... They call efforts to regulate killer robots “premature” and reject concerns that such weapons will threaten the right to life and principles of human dignity, or that they would fail to ..."
+    publishedDateTime: 2020-01-15T23:21:00Z
+    sourceUrl: https://www.hrw.org/world-report/2020/country-chapters/killer-robots-loom-in-2020
+    type: article
+    provider:
+      name: Human Rights Watch
+      domain: hrw.org
+    quality: 36
+    images:
+      - url: https://www.hrw.org/sites/default/files/styles/open_graph/public/multimedia_images_2020/202001wr_essay_robots_1.jpg?itok=TZz46gcb
+        width: 1200
+        height: 630
 
 secured: "8EswfT3qvjMVZB5FtuOkaabZFis0Sl82lDQKykq2f6Jjo8nZfQc7Cd2R3dd5DKZad7BOK4aHSVH130ps6oGSXpaoYZX0IKXw4iS8LI/NZw7Bcz5+rT5x38l+Vj0i2Nc6RW+fBWFtNJphQ+jMhoWLoUmDyNG+7TsOjtCGyi2TkJChnvNZmtgJp0Akhzs+cGI/JRyXnRYW9s1D75buQ0J1bgkSXrb1Poyk+OEAnbNr9zbyQE58UYprtHLiVM1bFX4McfN3gmFbRI3izWpWPJ3dQJLHzDG8aFWkDmgb5vn8/LQ=;aaxPJVpGckeMwR8nXkiACw=="
 ---

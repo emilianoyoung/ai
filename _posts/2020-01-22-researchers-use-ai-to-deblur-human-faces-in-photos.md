@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/22/researchers-use-ai-to-deblur-human-fa
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/researchers-use-ai-to-deblur-human-faces-in-photos/amp/
 type: article
 quality: 187
-heat: 187
+heat: 197
 published: true
 
 provider:
@@ -27,6 +27,21 @@ images:
     width: 1200
     height: 600
     title: "Researchers use AI to deblur human faces in photos"
+
+related:
+  - title: "How the Application of Neuroscience in Design Can Separate Us from Artificial Intelligence"
+    excerpt: "But what is it that makes us respond this way? Why do some spaces appeal to our senses better than others? And in an era of artificial intelligence, how can designers tap into those sciences to design spaces that help us continue to develop our humanistic traits and skills? Frederick Marks, president of the Academy of Neuroscience for Architect ..."
+    publishedDateTime: 2020-01-22T17:15:00Z
+    sourceUrl: https://www.interiordesign.net/articles/17530-how-the-application-of-neuroscience-in-design-can-separate-us-from-artificial-intelligence/
+    type: article
+    provider:
+      name: Interior Design
+      domain: interiordesign.net
+    quality: 27
+    images:
+      - url: https://d4qwptktddc5f.cloudfront.net/interior-design-thinklab-012220-National-Office-Furniture.jpg
+        width: 770
+        height: 616
 
 secured: "6M7hrdCasXxOEacgwI2Iju9aZmOl/ssgvNlfY5PDO49hY/UyHZGKiXYH0H7i90gP82/jM5gttzDa8OJ4s81rpLU1/4fpiqhlOPZoUDSEuivyP9CqJrQaQ/w+9T/RSCZkI2uoBDiy/4+IAso/ZGsdqA6EQdNfqz3VMFv+3OJ7Jwwmtr7WSwqMPcbsTQNv+/bdQstIubd5z5uJtI5iTQkQysZP0GIoo70DZGIiEr2OG/kOdODzGWWHq/OCYys83gqWBJ52JIAkJpNpJMAmxXuWbaLTOuDg8P+7Wa3bJfoxmALdzsJ7VvD4BOb5gOM9pOqdfsA+8D98VryRNMjvRBTQXD/EXtYb0s1Lbus3f/3VOaua7fZf1ueVIgjOp/BQ8xI38w5tPXg00D0OtpVeH2O3PQhnRO19WDf+r6z+5iEbC5HkyDKEUTxNcCzOXTCeYyB7dQRxK20oej6+1v3Ye32iIAEIZ/q4N0XcrgPQ2hZtnf0l5n/jyx4CwYv+NtYrV8gH;3IDwJimzljbYvAyx0wGTkQ=="
 ---

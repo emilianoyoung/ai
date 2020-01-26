@@ -33,44 +33,7 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/11/1573720765750856_upscaled_image_x4-e1573743944240.jpg?fit=1200%2C600&strip=all
         width: 1200
         height: 600
-  - title: "CES trade show to spotlight big tech trends in 5G, self-driving cars, 8K TVs and more"
-    excerpt: "Gigantic consumer electronics show in Las Vegas features about 40 San Diego companies showing off their latest technologies."
-    publishedDateTime: 2020-01-06T14:06:00Z
-    sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more
-    ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
-    cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 37
-    images:
-      - url: https://ca-times.brightspotcdn.com/dims4/default/3de7005/2147483647/strip/true/crop/3024x1975+0+146/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb6%2F73%2Fcfca9b914994bd002b870005233e%2Fwd.jpg
-        width: 320
-        height: 209
-  - title: "Qualcomm pushes into self-driving cars with Snapdragon Ride Platform"
-    excerpt: "Semiconductor maker Qualcomm Inc. is making a play for the automotive sector with the launch of its first self-driving car ... including the artificial intelligence software needed to avoid ..."
-    publishedDateTime: 2020-01-07T02:02:00Z
-    sourceUrl: https://siliconangle.com/2020/01/06/qualcomm-pushes-self-driving-cars-snapdragon-ride-platform/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 24
-    images:
-      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/Qualcomm-Snapdragon-Ride.png
-        width: 1233
-        height: 880
-  - title: "CES 2020 Spotlights Tech Trends: Self-Driving Cars, 8K TVs and 5G"
-    excerpt: "Others, however, are harder to forecast. What new artificial intelligence service will blossom to become the next Amazon Alexa or Google Home? Can self-driving car technology take a meaningful step forward? CES, the sprawling consumer electronics trade show that opens Tuesday and runs through Friday in Las Vegas, may provide a clue when it ..."
-    publishedDateTime: 2020-01-06T18:04:00Z
-    sourceUrl: https://www.cpapracticeadvisor.com/small-business/news/21120119/ces-2020-spotlights-tech-trends-selfdriving-cars-8k-tvs-and-5g
-    type: article
-    provider:
-      name: CPA Practice Advisor
-      domain: cpapracticeadvisor.com
-    quality: 4
 
-secured: "FzouDJ8A4ynpduFVbTM75I5WxiL9X9lgWePuDowHLO9xR86wyj79pBgYxIvZUUPW5tx0HvQihmNLc89jQx4jQoHbV38hynyYguYtIaZlcQgrMU1Y5xva0ZLsXNFUzSxb8Ig3TY4hs7Xn3wobNMZgJ1fsxKG+NXuDnWiRcl/shXCcMbBr973skTk4Fgmm0vEad+OAK4/f/dAm55qGmfYlLoypBFzXOHfvhFODFo6RUFOljlZkOcCh/SSl89hT8qo7ghe5Po9C/MrNPMuv5xrmAyOt9RCfybMmn9h4SllLvDAfS0nATWQ05f3paxI3nspC;1vADiUi1q4+xzabME4PPPw=="
+secured: "rOvYgPhLUjtYTWyQgVthIB9tq2BNHqEAcobet7DVRcv9lJxVmdni1YQzcOzuiiFjIL91Jv6l7zEj+Y20UeZVH0SwaZPIZgXLK99gbowGsWw0LhGyAwGacEtWllKHgrFw3sW8EkXmX5pSYexP7SEj8h2Y14OO1wfINsXrZVCiJ3bQmopX6WJXyvWihCQp8znAZCHeRCwz+9vLD1FahhvtWh2IwdG7nfl3vEB5Z4uJVi5/yfxYv9hQ4OVt1Q6yzo37W5ehF0lRDmOrDp2+mXD30Sb3LLSV/byCrOOmIu4wLyyf96/AT6/Lzlpn5/EsTwnG;7UXs3x8dcuEcVBivAmN9YA=="
 ---
 

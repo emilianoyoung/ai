@@ -27,6 +27,17 @@ images:
     height: 630
     title: "The AI Eye: IBM Joins I.AM+ for Ethical AI Adoption, Accenture, Qualcomm and InterContinental Hotels Collaborate for Event Planning"
 
+related:
+  - title: "The AI Eye: Healthcare and Medical Just One Prominent Segment in Rapidly Growing and Broadening AI Market"
+    excerpt: "Its core technologies - such as machine learning, deep learning, natural language processing (NLP) and computer vision - have enabled AI to penetrate and become indispensable in everything from autonomous vehicles, virtual assistants, energy, voice and text translation, retail, healthcare and more. And this is all happening fast. A report from ..."
+    publishedDateTime: 2020-01-23T13:26:00Z
+    sourceUrl: https://www.finanznachrichten.de/nachrichten-2020-01/48675186-the-ai-eye-healthcare-and-medical-just-one-prominent-segment-in-rapidly-growing-and-broadening-ai-market-296.htm
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 2
+
 secured: "8ArSfEToQ2sgp6GoYG/25eXFk8mOQuMJdNxRAvs4kLfRT4339Vw542l2X/cjK51upunb/wFq0sZyz/7MN0kjMJLMw3IPp5bRNkUewfBrxTa8Exg6ccMDVVRbRBc+dOt5NepU0pnQF/uw65RHMnzi/SbFZa7IrsP6PnSNSRV+InhPwk+GAjzkjlUSpuWeffpCucLWDO3rufyTwqw2LKzOb0X/OfJfJsBh/mg4MJWR5WwHSHSgNaySrS+MjNwOuNmuanLdN+l0WwjDMBhVivM0tAB9dLrIgyCz3g00oo1nOvU=;rqGbnmLsa6mkiq82uiN4CQ=="
 ---
 

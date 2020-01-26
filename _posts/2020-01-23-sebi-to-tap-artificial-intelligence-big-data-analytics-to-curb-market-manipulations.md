@@ -81,15 +81,6 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 32
-  - title: "Europe Deep Learning in Machine Vision Market Is Expected to Reach Usd 104.59 Million"
-    excerpt: "Press release from: Data Bridge Market Research Pvt. Ltd. Europe Deep Learning in Machine Vision Market,By Application (Image Classification, Optical Character Recognition, Bar Code Detection, Anomaly Detection), By End-User (Automotive, Electronics, Food & Beverage, Healthcare, Aerospace & Defense, Others), ByGeography (Germany, France ..."
-    publishedDateTime: 2020-01-23T18:49:00Z
-    sourceUrl: https://www.openpr.com/news/1906733/europe-deep-learning-in-machine-vision-market-is-expected
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 12
 
 secured: "JpbBwn+PgwAA4SXDpFWv+iqzKH7Yegj4MTu/j1Rd1cJaitPLAJUIBVmuiN5xr2tQlHcC4kNyPOlbh9a8Fh/W+4yX3NNop09xLqTsRgQD3ooj0VuWSmBObt0qEFkkiVeuBcwtthJhdXIYaJSyyONjzME5tICRa+Xw/RBEeU8KLfOeaR6CmVsIz77TLW4nhVy0AX0y1vRXiEJIbBgDNKln+g6xYn/+GPdt395YIBkM4+kHzTHemldy4ALIGlMUqpE2xhbofGzmeo4yrp5pruSOrXC8L6xm4z+9/5yk291Ro5bkI6PK+nxw4zD1Kg5XAV8a;8Z5ETbKmWqnnDS2A9ucEXA=="
 ---

@@ -30,22 +30,22 @@ images:
     title: "Nine AI Marketing Trends Set To Explode In 2020"
 
 related:
-  - title: "Top minds in machine learning predict where AI is going in 2020"
-    excerpt: "If you’re interested in taking a look back, last year we spoke with people like Facebook AI Research chief scientist Yann LeCun, Landing.ai founder Andrew Ng, and Accenture global responsible AI ..."
-    publishedDateTime: 2020-01-02T14:16:00Z
-    sourceUrl: https://venturebeat.com/2020/01/02/top-minds-in-machine-learning-predict-where-ai-is-going-in-2020/
-    ampUrl: https://venturebeat.com/2020/01/02/top-minds-in-machine-learning-predict-where-ai-is-going-in-2020/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/top-minds-in-machine-learning-predict-where-ai-is-going-in-2020/amp/
+  - title: "AI creativity will bloom in 2020, all thanks to true web machine learning"
+    excerpt: "TensorFlow.js is great new creative tool in the developer's arsenal. Machine learning has been trotted out as a trend to watch for many years now. But there’s good reason to talk about it in the ..."
+    publishedDateTime: 2020-01-02T08:05:00Z
+    sourceUrl: https://thenextweb.com/podium/2020/01/02/ai-creativity-will-bloom-in-2020-all-thanks-to-true-web-machine-learning/
+    ampUrl: https://thenextweb.com/podium/2020/01/02/ai-creativity-will-bloom-in-2020-all-thanks-to-true-web-machine-learning/amp/
+    cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/01/02/ai-creativity-will-bloom-in-2020-all-thanks-to-true-web-machine-learning/amp/
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 88
     images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/12/jeff-dean-anima-anandkumar-celeste-kidd-dario-gil-soumith-chintata.png?fit=1200%2C629&strip=all
-        width: 1200
-        height: 629
+      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/12/Untitled-design26-796x417.png
+        width: 796
+        height: 417
 
-secured: "5hNxmbVEBgc3CJtMdzQ+aAN92dYvSEnJ2SbU5nJLYqWJLsAqYxD7zehB+F5aSmEQ90un29WoKnQneSfy7relA8FY7jAJXEG/R7HnUu7AkHfFVw977iiEl+/nuwnv3S7BUt0PZgXRD/MtE6cAN4iYNTHRmeDnJKJtMNKO5DsOTXrUKJXAXQzZoepdMaFdchvq31juGa+yB0mCuD65i09HZolPQqjOa+pWlUPX7ZxGP3IEAyUtaTMIh9QEL+e+s/d8ZSgAJIBnQehFcWvS9bpnz9vj0u3gNhnY79EEdn6ArNEpYg5C6WMgKGlSwjquRBxh;xZ+z99pgN//CjO2V8DTD9Q=="
+secured: "AbZGUtdo7FMOimtIbhD/Cc4ztEgvyIb+iCYGbBJOe3g41iQYMif6dWyfFhee6sON8Ux3G/UOl1cJUIgpOyeKXuG330Z4Xq3CZ+mpn/sG1WTyMUIrH1143Kro3maWMMIbx4SV0M0enD099745uJmqSZzsHJX+h1qH63vbAW3ixfcuAP0QGSOFuKqEqjwSP7UxF77dpxwJFbHB5ciGb837BTIgZr48iFiciUgrBTcwSZ/1pqT8EpqgMWTGWGp+WXTbvLNVy/F+j+NfvU1/11FllPCD6aY3TJ9p61gkGSLE6P1jYi3a+RQuTdTds38sHymY;kHyQveXXKQInXMrmzudSnQ=="
 ---
 

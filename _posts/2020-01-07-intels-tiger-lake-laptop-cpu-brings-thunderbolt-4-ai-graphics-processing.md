@@ -45,6 +45,21 @@ related:
       - url: https://zdnet1.cbsistatic.com/hub/i/2020/01/07/97b8676c-9886-4528-b8e9-30514da51ca5/intel-tiger-lake-4.jpg
         width: 627
         height: 432
+  - title: "Intel's first discrete GPU is built for developers"
+    excerpt: "It also promised \"double digit\" CPU performance increases with Tiger Lake, and \"massive\" AI improvements. Apart from that, it again revealed no additional performance data. As we've already noted in our AMD vs. Intel CES 2020 explainer, AMD has unveiled very specific products and plans, while Intel has just announced upcoming products and been ..."
+    publishedDateTime: 2020-01-09T16:00:00Z
+    sourceUrl: https://www.engadget.com/2020/01/09/intel-xe-d1g-software-development-vehicle/
+    ampUrl: https://www.engadget.com/amp/2020/01/09/intel-xe-d1g-software-development-vehicle/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/09/intel-xe-d1g-software-development-vehicle/
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D2560%252C1440%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C900%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252Fe2f080e0-32c5-11ea-8f6f-37137cd1d902%26client%3Da1acac3e1b3290917d92%26signature%3Da06d205743b2b87fd7053dfb965a6a535c1f922a&client=amp-blogside-v2&signature=c3c0854f900a4547e7c71aeea1722fbf77cd645c
+        width: 600
+        height: 350
   - title: "Intel 'Tiger Lake' mobile processors will use new Xe GPU architecture"
     excerpt: "As a \"first-look\" of the processor, the CES 2020 presentation offered a general overview for the chips, which will have optimizations for the CPU, AI accelerators, and the GPU to achieve \"double ..."
     publishedDateTime: 2020-01-07T13:15:00Z
@@ -60,6 +75,19 @@ related:
       - url: https://photos5.appleinsider.com/gallery/34074-60961-intel-tiger-lake-board-xl.jpg
         width: 870
         height: 485
+  - title: "Intel makes a splash at CES with AI, autonomous driving tech and Tiger Lake chips"
+    excerpt: "The AI announcement was aimed straight at the current tech battlefield of autonomous-vehicle technology. After emerging during the 2010s, it’s now potentially set to deliver in the 2020s, with likely consolidation of companies along the way. Intel Chief Executive Officer Bob Swan started his CES conference with new from Mobileye NV ..."
+    publishedDateTime: 2020-01-07T03:47:00Z
+    sourceUrl: https://siliconangle.com/2020/01/06/intel-makes-splash-ces-autonomous-driving-tech-ai-tiger-lake/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 49
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/intel.jpg
+        width: 690
+        height: 560
   - title: "Intel previews the first Xe-based discrete GPU"
     excerpt: "Looking at its event schedule you can see a selection of conferences about AI and automotive type projects. However, we did see the Ghost Canyon NUC, Comet Lake-H processors, and a Tiger Lake processors tease yesterday. The iconic chipmaker has now ..."
     publishedDateTime: 2020-01-07T13:42:00Z
@@ -73,19 +101,6 @@ related:
       - url: https://hexus.net/media/uploaded/2020/1/463cda5c-1cd0-404a-a261-802c7dcef04f.jpg
         width: 515
         height: 221
-  - title: "Multicore processor integrates neural processing unit"
-    excerpt: "The i.MX 8M Plus combines a NPU delivering 2.3 tera operations per second (TOPS) with a Quad-core Arm Cortex-A53 sub-system running at up to 2 GHz, an independent real-time sub-system with an 800-MHz Cortex-M7, a 800-MHz audio DSP for voice and natural language processing, dual camera image signal processors (ISPs), and a 3D GPU for rich ..."
-    publishedDateTime: 2020-01-13T14:59:00Z
-    sourceUrl: https://www.embedded.com/multicore-processor-integrates-neural-processing-unit/
-    type: article
-    provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 24
-    images:
-      - url: https://www.embedded.com/wp-content/uploads/2020/01/img20200113094030NXP-unveils-first-i-MX-applicati_0.jpg
-        width: 700
-        height: 393
 
 secured: "NYrYqbJEE1KCMcwd4MK03yY+aQo7OPCZOzvsbvFGsePaBef6sUThiIuZ0vcy/Wsh52UvT70cbcNZrI5KVaFduM4HEMfB/aTJDis4xphOLUjMol/aNKHLe0DeyJaWgnkBF+jRcMaEYiXo5X7jOlINB9UNm4hoQItPlv4ZQz9PIyDPWdh16Cn0T4PUrumYvhc8KLzoy7x/+WCr94rDA27LCo4hRo0raE1ZIWlyYckf8c+T2h1GhnvcjdfONnef4jzGyiz0tpOFxFDrSk2DH9SqCfl8JNI3zHxZ7AjIKWekiqx53CZuoVURbdyUaMVyY4158wz6j+UQepKjHZfPH1vBtYOk8rQs+5XgQ+ZE1kEd1Yw10vqPL5Zojl8JhBatVI6IBJlV3nEprbR3hyBl9V8o8q+O2S4aEwYUxgQO0UZOUgCe+Zi6fv1okjL0GU5xCTGYHS+pbHG6R15HeD0oJJGYjQ==;Eu1t+3NnQPAtcTTLGlgCmA=="
 ---

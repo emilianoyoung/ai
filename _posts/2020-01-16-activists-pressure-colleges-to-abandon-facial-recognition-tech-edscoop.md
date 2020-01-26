@@ -52,21 +52,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?fit=1200%2C600&strip=all
         width: 1200
         height: 600
-  - title: "Congress moves toward facial recognition regulation"
-    excerpt: "A bipartisan group in Congress is working on legislation that could regulate the use of facial recognition by the private sector, federal government, and law enforcement. “We have a ..."
-    publishedDateTime: 2020-01-15T19:27:00Z
-    sourceUrl: https://venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/
-    ampUrl: https://venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/08/facial-recognition.png?fit=1200%2C600&strip=all
-        width: 1200
-        height: 600
   - title: "The top facial recognition cameras of 2020"
     excerpt: "Many home security cameras nowadays have facial recognition, which lets you create a database of friends and family members who regularly visit your house. Then, when the camera sees a face, it determines whether or not it's someone in your database of known faces. The software can be hit or miss, based on a variety of factors, from ..."
     publishedDateTime: 2020-01-14T11:06:00Z
@@ -82,21 +67,6 @@ related:
       - url: https://cnet4.cbsistatic.com/img/BZx8A20yN8Le8NFHcd363ASKdQM=/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg
         width: 3413
         height: 1920
-  - title: "Google favors temporary facial recognition ban as Microsoft pushes back"
-    excerpt: "The regulation of facial recognition is emerging as a key disagreement among the world’s biggest tech companies, with Alphabet and Google CEO Sundar Pichai suggesting a temporary ban, as recently suggested by the EU, might be welcome, while Microsoft’s chief legal officer Brad Smith cautions against such intervention. “I think it is ..."
-    publishedDateTime: 2020-01-21T11:51:00Z
-    sourceUrl: https://www.theverge.com/2020/1/21/21075001/facial-recognition-ban-google-microsoft-eu-sundar-pichai-brad-smith
-    ampUrl: https://www.theverge.com/platform/amp/2020/1/21/21075001/facial-recognition-ban-google-microsoft-eu-sundar-pichai-brad-smith
-    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/21/21075001/facial-recognition-ban-google-microsoft-eu-sundar-pichai-brad-smith
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 89
-    images:
-      - url: https://cdn.vox-cdn.com/thumbor/2ls_1ADJfdpajQ3z17fE91W2qRU=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66136415/acastro_180730_1777_facial_recognition_0001.0.jpg
-        width: 1400
-        height: 933
   - title: "College students demand schools ban facial recognition"
     excerpt: "First, they stopped facial recognition from coming to Coachella. Now they want to protect universities. Prolific digital rights activism organization Fight for the Future has partnered with the group Students for Sensible Drug Policy to stop facial recognition technology from coming to college campuses. The coalition put out a petition that ..."
     publishedDateTime: 2020-01-14T22:07:00Z
@@ -123,19 +93,6 @@ related:
       - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-facial-recognition-college.jpg
         width: 1280
         height: 720
-  - title: "Cambridge City Council Votes to Ban Facial Recognition Technology"
-    excerpt: "The Cambridge City Council unanimously approved a measure to ban the use of facial recognition technology in a 9-0 vote Monday night. Following the lead of Brookline, Northampton, and Somerville, Cambridge is the fourth city in Massachusetts to restrict ..."
-    publishedDateTime: 2020-01-15T17:37:00Z
-    sourceUrl: https://www.thecrimson.com/article/2020/1/16/cambridge-city-council-bans-facial-recognition/
-    type: article
-    provider:
-      name: The Harvard Crimson
-      domain: thecrimson.com
-    quality: 39
-    images:
-      - url: https://s3.amazonaws.com:443/thumbnails.thecrimson.com/photos/2017/12/12/171522_1326747.jpg.635x423_q95_crop-smart_upscale.jpg
-        width: 635
-        height: 423
   - title: "Activists: Facial Recognition on College Campuses Decreases Security"
     excerpt: "Digital rights group Fight for the Future is collaborating with Students for Sensible Drug Policy to launch a nationwide effort to ban facial recognition technology from university campuses across the United States. The two groups jointly announced Tuesday ..."
     publishedDateTime: 2020-01-16T22:39:00Z
@@ -216,37 +173,6 @@ related:
       - url: https://regmedia.co.uk/2020/01/16/shutterstock_somebodys_watching_me.jpg
         width: 1000
         height: 563
-  - title: "CyberLink and VIVOTEK Announce Strategic Partnership Combining Facial Recognition and IP Surveillance Solutions"
-    excerpt: "CyberLink Corp. (5203.TW), a pioneer of AI and facial recognition technologies, announced a strategic partnership with VIVOTEK (3454.TW), the global leading IP surveillance solution provider, adding CyberLink's FaceMe® AI facial recognition engine to VIVOTEK's IP surveillance solutions. The new collaboration will be showcased in VIVOTEK's ..."
-    publishedDateTime: 2020-01-16T18:39:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-cyberlink-vivotek-announce-strategic-partnership-combining-facial-recognition-/2020/01/16/9082949.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-    images:
-      - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
-        width: 252
-        height: 335
-  - title: "How Facial Recognition Market will Grow at Highest CAGR"
-    excerpt: "The global facial recognition market growth in the forecast period is premised on the rising incidents of identity theft. According to a study conducted by a California-based private research firm, Javelin Strategy, in 2017, 16.7 million Americans fell victim to identity theft crimes. Further, 1 million children in the US in 2017 were victims ..."
-    publishedDateTime: 2020-01-17T10:28:00Z
-    sourceUrl: https://www.openpr.com/news/1899358/how-facial-recognition-market-will-grow-at-highest-cagr
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
-  - title: "Despite what you may think, face recognition surveillance isn’t inevitable"
-    excerpt: "In 2019, we proved face recognition surveillance isn’t inevitable. Now, it’s time for Congress to rein in the technology once and for all. Even the private sector demonstrated it had a responsibility to act in the face of the growing threat of face surveillance. Axon, the country’s largest body camera supplier, announced it would ban ..."
-    publishedDateTime: 2020-01-15T23:00:00Z
-    sourceUrl: https://www.fastcompany.com/90452524/despite-what-you-may-think-face-recognition-surveillance-isnt-inevitable
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
 
 secured: "OiMW1gnc+Vn4fOrhyVkwOlxz1jG5vbSqJmip+xcBKPBCZ+LRmj8246h7bnVbv96eZgcXF859sy1kd94nam+kiH7wTqwwRK+9ychIgil7V9wRTtaSxN0ygEmmlRpGVhY/uGF4pUJ4GFUnhpcBzYSzqIlCvL+1Yo+y+LlAxZ5kzr39xQoxHQdtfearhrSrR3aGWzpl7Q2X+0yvsN4tGAMGlZMS16XLptwshv7hUJvVcOTmzeFJgzObzll8ZkmbOG8vfjV0W2wW+e6zwfZhgAmvQInPjW1snvIO1SnY56enKm0=;HIwQasQ/pVsuHS4uSrj5pA=="
 ---

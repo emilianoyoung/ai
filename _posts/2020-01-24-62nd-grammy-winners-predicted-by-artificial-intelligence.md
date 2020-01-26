@@ -8,8 +8,8 @@ ampUrl: https://www.techrepublic.com/google-amp/article/62nd-grammy-winners-pred
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/62nd-grammy-winners-predicted-by-artificial-intelligence/
 type: article
 quality: 89
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechRepublic
@@ -28,6 +28,66 @@ images:
     width: 1200
     height: 675
     title: "62nd Grammy winners predicted by artificial intelligence"
+
+related:
+  - title: "Grammys go high-tech with IBM and artificial intelligence"
+    excerpt: "Along with Versace and Jean Paul Gaultier, artificial intelligence and Natural Language Processing will be important accessories on the 62nd Annual Grammys' red carpet. IBM will enhance the red carpet livestream with Grammy Insights with Watson this Sunday at the Staples Center in Los Angeles. The team at IBM took over 18 million documents and ..."
+    publishedDateTime: 2020-01-23T20:17:00Z
+    sourceUrl: https://www.techrepublic.com/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/
+    ampUrl: https://www.techrepublic.com/google-amp/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 91
+    images:
+      - url: https://tr3.cbsistatic.com/hub/i/r/2020/01/23/cee06460-61dc-4c72-b883-c33e460bdf62/resize/1200x/fde53f4a02e376c99dc52ef6bfbcaa1e/ibm-2020-grammys-photo-app-brandi-carlile-02.jpg
+        width: 1200
+        height: 862
+  - title: "The Grammys go high-tech with IBM and artificial intelligence"
+    excerpt: "Along with Versace and Jean Paul Gaultier, artificial intelligence and Natural Language Processing will be important accessories on the 62nd Annual Grammys' red carpet. IBM will enhance the red carpet livestream with Grammy Insights with Watson this Sunday at the Staples Center in Los Angeles. The team at IBM took over 18 million documents and ..."
+    publishedDateTime: 2020-01-23T20:17:00Z
+    sourceUrl: https://www.techrepublic.com/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/
+    ampUrl: https://www.techrepublic.com/google-amp/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 89
+    images:
+      - url: https://tr3.cbsistatic.com/hub/i/r/2020/01/23/cee06460-61dc-4c72-b883-c33e460bdf62/resize/1200x/fde53f4a02e376c99dc52ef6bfbcaa1e/ibm-2020-grammys-photo-app-brandi-carlile-02.jpg
+        width: 1200
+        height: 862
+  - title: "Going high-tech with IBM and AI at the Grammys"
+    excerpt: "Artificial intelligence will be the best new accessory at the Grammys in Los Angeles this year, thanks to IBM Watson. The real truth about deepfakes and how to stop them 3:44 Stopping the brain drain: Why universities need to hold onto machine-learning professors 1:01 How to get started as a data scientist 2:11 AI is vital for business but it's ..."
+    publishedDateTime: 2020-01-24T18:54:00Z
+    sourceUrl: https://www.techrepublic.com/videos/going-high-tech-with-ibm-and-ai-at-the-grammys/
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
+    images:
+      - url: https://tr2.cbsistatic.com/hub/i/r/2020/01/23/1d4356f0-3881-4265-b4fd-2612966a6fcf/thumbnail/770x578/6520e06957888db5598c53c32b7954d5/20200123-teena-karen.jpg
+        width: 770
+        height: 578
+  - title: "GRAMMY Insights With Watson To Bring Real-Time Artist Insights To GRAMMY Red Carpet Using AI"
+    excerpt: "This year IBM is enhancing the fan expereince with the all-new GRAMMY Insights with Watson! GRAMMY Insights with Watson will analyze the red carpet video and audio in real-time to generate artist insights that will be overlaid during the livestream on GRAMMY.com. Using artificial intelligence and natural language processing, Watson will ..."
+    publishedDateTime: 2020-01-20T20:12:00Z
+    sourceUrl: https://www.grammy.com/grammys/news/grammy-insights-watson-bring-real-time-artist-insights-grammy-red-carpet-using-ai
+    ampUrl: https://www.grammy.com/grammys/news/grammy-insights-watson-bring-real-time-artist-insights-grammy-red-carpet-using-ai?amp
+    cdnAmpUrl: https://www-grammy-com.cdn.ampproject.org/c/s/www.grammy.com/grammys/news/grammy-insights-watson-bring-real-time-artist-insights-grammy-red-carpet-using-ai?amp
+    type: article
+    provider:
+      name: GRAMMY.com
+      domain: grammy.com
+    quality: 63
+    images:
+      - url: https://www.grammy.com/sites/com/files/styles/twitter_image/public/bebe_rexha-1097524394.jpg?itok=SktfgJxf
+        width: 600
+        height: 300
 
 secured: "5qA9an1pfVLentuc6pCHvzAte3dsdPlaa8S3X6qPh0Gyi1zP9ZlCrCUyZ7ytthXiPsGSUkTHBoCom9jYWnbXoU3uQXCJ7Ysr40oNAmvvXQulQE5lNTS3AZ2wEHBr4atw3JfL5EH3Oq/eRnmjbL2JbeyFgBV9IIH/YBCkcMHT66WxnaNopRJh5RepwkilZmuPSOj9TqcOQyHjjWfOCpXKjTHSEe0tGkWorCCLBJEgfod8QnDa9GGz/q++pYcJxC/T9YoEm1dlNuJsDCqjhJwbCbUNcrTMOjOAAfHqCEA/2I/x23hhEWVjr2tXJ3W/90WX8p8EdM623wiToqt1bnzMxtedK9fvAokU2rYO/tzMVQrLQYxIODQAEIjk4Db7npVnQ4WipajaTMQDSbp4IYLXDIUFlcxd6Ct5NRQNqrELrgDuyTN/UVVSVql14Xg29KcRXFTWVI+1nK77XSZBDuk57kTKYLWJSFkfTZAL85VLdPo=;4uMJ1nlUvmTiJMtiLQ546g=="
 ---

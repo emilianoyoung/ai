@@ -8,8 +8,8 @@ ampUrl: https://www.engadget.com/amp/2020/01/19/ai-and-machine-learning-training
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/19/ai-and-machine-learning-training/
 type: article
 quality: 104
-heat: 144
-published: true
+heat: -1
+published: false
 
 provider:
   name: Engadget
@@ -30,32 +30,79 @@ images:
     title: "Dive into AI and machine learning with this $40 training"
 
 related:
-  - title: "Explore Machine Learning and Data Science With This $35 Training Bundle"
-    excerpt: "Looking forward into the next decade, machines are likely to become much smarter. In the meantime, they need to start learning by analyzing vast amounts of data. The Machine Learning & Data Science Certification Training Bundle helps you explore this exciting field, with eight in-depth courses. You even learn how to build your own intelligent apps."
-    publishedDateTime: 2020-01-13T13:17:00Z
-    sourceUrl: https://www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/
-    ampUrl: https://www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/amp/
-    cdnAmpUrl: https://www-xda--developers-com.cdn.ampproject.org/c/s/www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/amp/
+  - title: "World's First 'Living Machine' Created Using Frog Cells and Artificial Intelligence"
+    excerpt: "Related: The 6 Strangest Robots Ever Created \"They're neither a traditional robot nor a known species of animal,\" study co-author Joshua Bongard, a computer scientist and robotics expert at the University of Vermont, said in a statement. \"It's a new class of artifact: a living, programmable organism.\" Algorithms shaped the evolution of the ..."
+    publishedDateTime: 2020-01-14T21:15:00Z
+    sourceUrl: https://www.livescience.com/frogbots-living-robots.html
+    ampUrl: https://www.livescience.com/amp/frogbots-living-robots.html
+    cdnAmpUrl: https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/frogbots-living-robots.html
     type: article
     provider:
-      name: XDA Developers
-      domain: xda-developers.com
-    quality: 76
+      name: Live Science
+      domain: livescience.com
+    quality: 153
     images:
-      - url: https://cdnp0.stackassets.com/5ba888586ee1a96e846bc654b9a0a8c6da713ad9/store/7b6b3231a4694dfd6099b7db365850910b12b892bbcf9d6098196ba944cb/sale_17701_primary_image.jpg
-        width: 630
-        height: 473
-  - title: "Accelerating Learning Through AI At Cerego And TechStyle"
-    excerpt: "Cerego, an AI-based learning management system, helps fashion retailer TechStyle accelerate learning for call center agents."
-    publishedDateTime: 2020-01-23T16:10:00Z
-    sourceUrl: https://www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/
-    ampUrl: https://www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/amp/
+      - url: https://cdn.mos.cms.futurecdn.net/hPio9oXE73b6NhFJiBF2HD-1200-80.jpg
+        width: 800
+        height: 450
+  - title: "2020: The year of seeing clearly on AI and machine learning"
+    excerpt: "Late last year, I complained to Richard Socher, chief scientist at Salesforce and head of its AI projects, about the term \"artificial intelligence\" and that we should use more accurate terms such as machine learning or smart machine systems, because \"AI\" creates unreasonably high expectations when the vast majority of applications are ..."
+    publishedDateTime: 2020-01-14T18:04:00Z
+    sourceUrl: https://www.zdnet.com/article/2020-the-year-of-seeing-clearly-on-ai-and-machine-learning/
+    ampUrl: https://www.zdnet.com/google-amp/article/2020-the-year-of-seeing-clearly-on-ai-and-machine-learning/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2020-the-year-of-seeing-clearly-on-ai-and-machine-learning/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: https://zdnet4.cbsistatic.com/hub/i/2018/11/30/eb36294b-a7fb-4514-ab2b-8f58d536211a/20140909-idf-56.jpg
+        width: 640
+        height: 574
+  - title: "Silicon Valley Event On Machine Learning Tackles The Latest Riddles Vexing AI Self-Driving Cars"
+    excerpt: "There’s a child’s riddle that asks you to indicate what can be held in your left hand and yet cannot be held in your right hand. Take a moment to ponder this riddle. Your first thought might be that anything that could be held in your left hand should also be able to be held in your right hand,"
+    publishedDateTime: 2020-01-18T15:55:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/18/silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/18/silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/18/silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 67
+    quality: 94
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1172913287%2F0x0.jpg%3FcropX1%3D931%26cropX2%3D6060%26cropY1%3D0%26cropY2%3D3415
+        width: 1200
+        height: 799
+  - title: "Investing in 2020: Exploring AI, Machine Learning, & Alt Data"
+    excerpt: "Connecting “data, workflows and financial models into a single integrated system” Patel believes ... an AI-based identity verification service provider. “Using machine learning algorithms, investment data can be optimized to enhance portfolio management, as well as operational efficiency. It leads to better reporting, higher accuracy ..."
+    publishedDateTime: 2020-01-17T10:10:00Z
+    sourceUrl: https://www.financemagnates.com/cryptocurrency/news/investing-in-2020-exploring-ai-machine-learning-alt-data/
+    ampUrl: https://www.financemagnates.com/cryptocurrency/news/investing-in-2020-exploring-ai-machine-learning-alt-data/amp/
+    cdnAmpUrl: https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/cryptocurrency/news/investing-in-2020-exploring-ai-machine-learning-alt-data/amp/
+    type: article
+    provider:
+      name: Finance Magnates
+      domain: financemagnates.com
+    quality: 59
+    images:
+      - url: https://www.financemagnates.com/wp-content/uploads/2020/01/david-metzler-300x300.jpg
+        width: 300
+        height: 300
+  - title: "Artificial Intelligence and Machine Learning"
+    excerpt: "Intelligence has the potential to transform health care delivery and the patient experience. While artificial intelligence (AI) is still in the early stages of adoption, some organizations have started to incorporate intelligence into their clinical workflow and business operations to improve quality of care, patient satisfaction and engagement ..."
+    publishedDateTime: 2020-01-13T17:47:00Z
+    sourceUrl: https://www.aha.org/sponsored-executive-dialogues/2020-01-13-artificial-intelligence-and-machine-learning
+    type: article
+    provider:
+      name: aha.org
+      domain: aha.org
+    quality: 56
+    images:
+      - url: https://www.aha.org/sites/default/files/2020-01/Cerner_ExecDialogue_AI_120919_Banner.jpg
+        width: 1500
+        height: 1038
   - title: "Understand AI and Machine Learning With This $40 Training Bundle"
     excerpt: "You don’t have to look far. Every day, there’s another news story about the impact of artificial intelligence and machine learning on our daily lives. Like how AI researchers are using something as mundane as insurance claim data to more accurately diagnose cases of amyotrophic lateral sclerosis (ALS) well before conventional methods."
     publishedDateTime: 2020-01-16T16:00:00Z
@@ -69,15 +116,28 @@ related:
       - url: https://www.extremetech.com/wp-content/uploads/2020/01/sale_25319_primary_image_wide.jpg
         width: 992
         height: 558
-  - title: "Enabling AI with Intel’s Deep Learning Boost"
-    excerpt: "Getting more performance out of a system to handle machine-learning (ML) chores can be done using Intel’s Deep Learning Boost. I talked with Huma Abidi, Director of Engineering, Artificial Intelligence and Deep Learning at Intel, to find out more."
-    publishedDateTime: 2020-01-14T17:15:00Z
-    sourceUrl: https://www.electronicdesign.com/technologies/embedded-revolution/article/21120470/enabling-ai-with-intels-deep-learning-boost
+  - title: "World’s First “Living Machine” Created Using Frog Cells and Artificial Intelligence"
+    excerpt: "“They’re neither a traditional robot nor a known species of animal,\" study co-author Joshua Bongard, a computer scientist and robotics expert at the University of Vermont, said in a statement. “It’s a new class of artifact: a living, programmable ..."
+    publishedDateTime: 2020-01-16T00:32:00Z
+    sourceUrl: https://www.scientificamerican.com/article/worlds-first-living-machine-created-using-frog-cells-and-artificial-intelligence/
     type: article
     provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 38
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 33
+    images:
+      - url: https://static.scientificamerican.com/sciam/cache/file/83D375C9-1D39-4143-BF6130D51C152549.jpg
+        width: 790
+        height: 496
+  - title: "Meet the xenobot: World’s first living, self-healing robots created from frog stem cells"
+    excerpt: "However, their lifespan can increase to several weeks in nutrient-rich environments. And although the supercomputer — a powerful piece of artificial intelligence — plays a big role in building these robots, it’s “unlikely” that the AI could have evil intentions. “At the moment though it is difficult to see how an AI could create ..."
+    publishedDateTime: 2020-01-16T13:57:00Z
+    sourceUrl: https://kfor.com/2020/01/16/meet-the-xenobot-worlds-first-living-self-healing-robots-created-from-frog-stem-cells/
+    type: article
+    provider:
+      name: Oklahoma's News
+      domain: kfor.com
+    quality: 10
 
 secured: "V/h/xdV11R30k09fJ9Tbw22y75xkogEemikrIpMjCIud/KVSqAcbdxpR30Kp+fi8g5wrvyvezgz59OdlvQEmyDnLBBnp7UCgIYwy7gVuyZ732AvdSuOLi748+DvniuntHglpCx7rV5hg29iotgdZ5Z1a8AcjaxoAkRHzayOzNgM2DCwKeHiReyaX81F9hFzyumXdU4YNywClLG7Mdh/UDZO1WEi5AsnYNVfocPyioj+CRpiHAjkBU0FnUwd8OZ0lNJ7vLZgLA8wbk2sJZJgRY2TzgwiQghGx/2a+Ay15SpuVIRlLtHEfVp9D9VSGXUFg6wP3dno5nCM7Jb2KqOeE4uUslZfEUcuCUhugOdatReFv/23bUW6EpvVtKmY+r3PIMlyjPZucDg8NDg3t0+6d3GYTwYnLONX4N2ZUCV3Ys1LPY+E798l+zxImIl3mLC9oEU+88uTuMbxMSTvzbujw0w==;ivIk8/LtLyTzL4Z547QjOA=="
 ---

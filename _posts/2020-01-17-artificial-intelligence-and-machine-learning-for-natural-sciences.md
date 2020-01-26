@@ -18,19 +18,54 @@ topics:
   - Machine Learning
 
 related:
-  - title: "The battle for ethical AI at the world’s biggest machine-learning conference"
-    excerpt: "The study claimed to be able to generate faces — including aspects of a person’s age, gender and ethnicity — on the basis of voices. Machine-learning scientists criticized it on Twitter as being transphobic and pseudoscientific. One solution could be to introduce ethical review at conferences. NeurIPS 2019 included for the first time a ..."
-    publishedDateTime: 2020-01-24T18:10:00Z
-    sourceUrl: https://www.nature.com/articles/d41586-020-00160-y
+  - title: "The Case for a Light Hand With AI and a Hard Line on China"
+    excerpt: "Last week, at the WIRED HQ at CES, I spoke with Michael Kratsios, the chief technology officer of the United States. We dug into the government’s recent regulatory framework for AI, the potential for an AI cold war with China, and whether or not the NSA is building a quantum computer. The conversation has been lightly edited for clarity."
+    publishedDateTime: 2020-01-14T15:00:00Z
+    sourceUrl: https://www.wired.com/story/light-hand-ai-hard-line-china/
+    ampUrl: https://www.wired.com/story/light-hand-ai-hard-line-china/amp
+    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/light-hand-ai-hard-line-china/amp
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 55
+      name: Wired
+      domain: wired.com
+    quality: 87
     images:
-      - url: https://media.nature.com/lw1024/magazine-assets/d41586-020-00160-y/d41586-020-00160-y_17582428.jpg
-        width: 1024
-        height: 576
+      - url: https://media.wired.com/photos/5e18caa890f5f5000872b7b5/master/pass/Biz-Kratsios-IMG_6970.jpg
+        width: 2400
+        height: 1600
+  - title: "Uses And Limitations Of AI In Chip Design"
+    excerpt: "From there, formal will give valuable input to the whole system verification. SE: One of the problems with those chips, particularly the ones used for safety, is that the AI running on those systems are basically opaque. Is there any progress in understanding what can go wrong with those algorithms? Brinkmann: The machine learning guys are ..."
+    publishedDateTime: 2020-01-15T18:46:00Z
+    sourceUrl: https://semiengineering.com/uses-and-limitations-of-ai-in-chip-design/
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 54
+    images:
+      - url: https://i1.wp.com/semiengineering.com/wp-content/uploads/2020/01/raik-brinkmann.jpg-1.png?fit=320%2C206&#038;ssl=1
+        width: 320
+        height: 206
+  - title: "Blockchain, AI and Analytic Reasoning are the most in-demand hard skills for 2020"
+    excerpt: "Computer skills including Blockchain and AI top the list of the most in-demand skills in Australian companies for 2020. LinkedIn has revealed the top 10 most in-demand hard skills by Australian companies in 2020 as well as the five in-demand soft skills. There are over 50,000 professional skills in the world, according to LinkedIn, and the ..."
+    publishedDateTime: 2020-01-20T09:12:00Z
+    sourceUrl: https://www.news.com.au/finance/work/careers/blockchain-ai-and-analytic-reasoning-are-the-most-indemand-hard-skills-for-2020/news-story/c976357fe4b3addccc47fd1a81b0383c
+    ampUrl: https://amp.news.com.au/finance/work/careers/blockchain-ai-and-analytic-reasoning-are-the-most-indemand-hard-skills-for-2020/news-story/c976357fe4b3addccc47fd1a81b0383c
+    cdnAmpUrl: https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/finance/work/careers/blockchain-ai-and-analytic-reasoning-are-the-most-indemand-hard-skills-for-2020/news-story/c976357fe4b3addccc47fd1a81b0383c
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 32
+  - title: "China Artificial Intelligence Market"
+    excerpt: "self-driving cars, smart robots (that can learn from their surroundings and build on their capabilities based on inbuild knowledge) and military applications. Get Sample Copy of China Artificial Intelligence Market at: https://www.omrglobal.com/request ..."
+    publishedDateTime: 2020-01-14T08:35:00Z
+    sourceUrl: https://www.openpr.com/news/1895426/china-artificial-intelligence-market-2020-global-trends
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 21
 
 secured: "2pKrxcSymN6en6olivsvQ+3QqQjk2t23v6FHpzT69z/YCcNz9tlXyhEGvLD0v/sTbrO8qWO7+5kKkmWNgaO4TT1d9MrzwS3RuvPCbRUCe21GhOVEuk7HhdFXJSf+aAIiqjglcjdQt2X9vZpkPsaL2ABpcllPxLAPQ9NqMzgyywf8aMQGyI6tqe88X0hBJ5JnF1XVod+dctsEr0ha5H4jz9tkBve2jpoTV+NhSehVNyGg7dFH6NTxgoFH9FkAonQiBChjIlrAp6BQvoyKCEUAUnTwxitgsHmuQT4Ig+anuGGwPeqqH76d8kagPKZy/pA6q+O8Dj3YroqfN8gj6e9mkZAt6seDQyL3tOcpfkTbIrLNlMKg/hQdPhE/bD/tvcLowbxdoDN3KTXqU/7e2AM/ekCw7NlmQRWuVP8R3fCXzlkQb0B6AWFZqDjMtAIQG2tUu0/z53yWFMVBM8nI/EZ12R5P2ykHv28o1VmDbgTJA1k=;A5DMqiw+PYwyaw/Us8vSSA=="
 ---

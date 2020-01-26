@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/ai-in-the-court-are-robot-judge
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-in-the-court-are-robot-judges-next/
 type: article
 quality: 106
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     width: 1200
     height: 675
     title: "AI in the court: Are robot judges next?"
+
+related:
+  - title: "AI Moves to Court: The Growing Footprints of AI in the Legal Industry"
+    excerpt: "Reportedly, the app will translate Supreme Court judgments in over 9 regional languages. The discussion of AI is currently more robust in criminal courts than in civil courts. The technology has been proposed in order to supervise and recognize defendants ..."
+    publishedDateTime: 2020-01-24T18:36:00Z
+    sourceUrl: https://www.analyticsinsight.net/ai-moves-court-growing-footprint-ai-legal-industry/
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: https://www.analyticsinsight.net/wp-content/uploads/2020/01/716bd7b6-b76a-11e9-8a88-aa6628ac896c.jpg
+        width: 2048
+        height: 1152
 
 secured: "9Mf5kxG1G+6Br2SAxE1+puUK4QFFbaExUb0Ngo32A4pMgQZ6GLNUFT1h4AsCEycAUJVQEDAiP6+pJI4GLHLkc/gzE61QKjC+2geUDGzqW/Ki8TtOuMVmY3hqVZxrFI331hh+6n0HpN5xf1l4a0pJvOAUCHVbueiYFJT5zD2ruBZMpa5Yb5y4c05gKE9V4osXYkkcOCP3GowP0U1Q+jsCty0Lj5meDbdHMkyZiyKz0qb14FyeEbx8jibrDF6SAhbPOHj8xDx8CkEQGVjnQLo+E2B9UF+5KThSi45BfDpSfM+d1F6LPX/aOB/ryPQzNJeVclMaWGvapF1DIJz0E6MpEmNy4J6Z4f/WuSs112C/6CONIGatoQktyUiE14ToKNOva6Pr8fmf0rDmCOsfNvmcJd9pPS6pWjPo/gUhKzy8JMYZzNCqUWs57VsrEBGuArVsutjsTpaREsxOyPtWlV+EVQ==;gc4y7e+obpeUJLovkal12Q=="
 ---

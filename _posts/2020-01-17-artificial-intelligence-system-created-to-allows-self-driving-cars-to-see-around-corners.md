@@ -71,21 +71,6 @@ related:
       - url: https://scitechdaily.com/images/Imaging-Around-Corners-777x524.jpg
         width: 777
         height: 524
-  - title: "The AI that allows self-driving cars to ‘see’ around corners"
-    excerpt: "Researchers at US universities have created an imaging system powered by artificial intelligence that could help self-driving cars \"see\" around corners in minute detail to identify hazards. The imaging system uses a conventional camera sensor and a laser beam that can be \"bounced\" off walls and onto objects to create a pattern – visually ..."
-    publishedDateTime: 2020-01-16T15:00:00Z
-    sourceUrl: https://www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/
-    ampUrl: https://www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/amp/
-    cdnAmpUrl: https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/amp/
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 59
-    images:
-      - url: https://www.telegraph.co.uk/content/dam/technology/2019/08/23/TELEMMGLPICT000206524925_trans%2B%2BKU-op6n8Xxa2ymKjnWOvoZ3L9sb6nC3JvvgkmFaL7wc.jpeg
-        width: 2501
-        height: 1563
 
 secured: "bBiSpJSWrZ/PvVFiMOGPNsucG150yZ80g14BJDLCyLJRKPaeQaXbg8bfzabcNTAOr4O95MfYdd4mVqRILvonX+ycacojRaN3theGXodeV4ifKJWa3lgIsBzfyN/YgRXP05QJH3WhO3vbcUD85c6DOXnyPwML3+UbvZ2AVpaK+O75/1U46RvAhEf+ECU+Rk9Ps/lBbUHvOdk147N11s0VhwvGW4ObLpYfEJEp5Cs9GMGJzPKQPPF5hQYaZEjCQ3G4X4/AMDCskJIyFmLd0kNVTvpFxlQTWPXtjPMXBktoCpkaSd6uKY68bnCdfsIYMoz2eQkCJvPIaCJjq63l2uxX2m7T8s5A4JWGWlpRl1pdfNysBA8vVrQCVGUy/ZBBhjx8D7UURXsRfosbizQ9x9f7Jq2GJQAgXdia8ViedYRlPShaHhuLoFh3WXPhdQkdhJV4kH8iv4e1fKtZTbXQaQCyTQ==;YjDkMUUA8XSPgSShu4DE6A=="
 ---

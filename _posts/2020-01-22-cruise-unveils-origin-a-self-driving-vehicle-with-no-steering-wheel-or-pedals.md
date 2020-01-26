@@ -41,6 +41,36 @@ related:
       - url: https://cdn.vox-cdn.com/thumbor/_Cq8RBeDpZ0BOd8CsPhQ7orclbI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66141735/vpavic_200121_3874_0010.0.jpg
         width: 1400
         height: 933
+  - title: "Will Qualcomm Overtake NVIDIA in Driverless Cars?"
+    excerpt: "Today, a growing list of companies -- including Ford, Toyota, Daimer's Mercedes-Benz, and Baidu-- have partnered with NVIDIA across various self-driving projects. NVIDIA's automotive revenue accounted for 5% of its top line last quarter. Qualcomm launched its first line of Snapdragon Automotive chipsets in early 2016. It tried to buy NXP ..."
+    publishedDateTime: 2020-01-15T16:15:00Z
+    sourceUrl: https://www.fool.com/investing/2020/01/15/will-qualcomm-overtake-nvidia-in-driverless-cars.aspx
+    ampUrl: https://www.fool.com/amp/investing/2020/01/15/will-qualcomm-overtake-nvidia-in-driverless-cars.aspx
+    cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/15/will-qualcomm-overtake-nvidia-in-driverless-cars.aspx
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 89
+    images:
+      - url: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F553428%2Fimage-6-a-woman-sits-in-a-driverless-car.jpg&w=700&op=resize
+        width: 700
+        height: 466
+  - title: "Autonomous, for real. Optimus Ride self-driving shuttles want to be fully driverless in 2020"
+    excerpt: "Optimus Ride, an MIT spinoff, has started operating its autonomous vehicles at Paradise Valley Estates in Fairfield, California. The shuttles, which have been carrying passengers for a couple of months now, follow deployments at the Seaport District in Boston, the Halley Rise mixed-use district in Reston, Virginia, and the Brooklyn Navy Yard in ..."
+    publishedDateTime: 2020-01-23T20:49:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/autonomous-for-real-optimus-ride-self-driving-shuttles-want-to-be-fully-driverless-in-2020/
+    ampUrl: https://www.cnet.com/google-amp/news/autonomous-for-real-optimus-ride-self-driving-shuttles-want-to-be-fully-driverless-in-2020/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/autonomous-for-real-optimus-ride-self-driving-shuttles-want-to-be-fully-driverless-in-2020/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 78
+    images:
+      - url: https://cnet3.cbsistatic.com/img/cxTt3rulZLzCQQHX2q_jjKRRsyk=/756x567/2020/01/23/5c1b2d6c-ded7-4d52-ac38-f406e31d69a6/optimusrideweb.jpg
+        width: 756
+        height: 567
   - title: "GM's Cruise unveils its first driverless vehicle"
     excerpt: "This is not Cruise's first foray into driverless cars. For years it has been testing modified Chevrolet Bolt ... Other car makers are in a race to launch self-driving cars using the latest artificial intelligence (AI) technologies although they are being held back by safety concerns and regulations. A number of fatalities involving autonomous ..."
     publishedDateTime: 2020-01-22T05:31:00Z
@@ -101,6 +131,54 @@ related:
       - url: https://www.motortrend.com/uploads/sites/5/2020/01/Cruise-Origin-Self-Driving-Pod-Loading-Passengers.jpg
         width: 2048
         height: 1152
+  - title: "Driverless Trucks Coming Your Way?"
+    excerpt: "The company is seeking to transform long-haul trucking by using AI (artificial intelligence) to create self-driving trucks ... Nevertheless, the fact that many companies are investing in driverless trucking technology and that TuSimple’s tests have been so successful give us reason to believe we may be seeing them sooner than we think."
+    publishedDateTime: 2020-01-16T14:19:00Z
+    sourceUrl: https://www.jewishpress.com/sections/scitech/electronics-today/driverless-trucks-coming-your-way/2020/01/16/
+    type: article
+    provider:
+      name: Jewish Press
+      domain: jewishpress.com
+    quality: 39
+    images:
+      - url: https://www.jewishpress.com/wp-content/uploads/Halperin-Tech-Talk-logo_JP_a.jpg
+        width: 900
+        height: 500
+  - title: "Kubota launches wacky driverless concept tractor"
+    excerpt: "In celebration of its 130th birthday, Kubota has unveiled a driverless concept tractor that’s battery powered and uses artificial intelligence to operate autonomously. The four-track X Tractor concept was revealed at an event in Kyoto, Japan, last week and takes the firm’s vision of operator-free tractors a few steps on from the more ..."
+    publishedDateTime: 2020-01-21T10:12:00Z
+    sourceUrl: https://www.fwi.co.uk/machinery/technology/kubota-launches-wacky-driverless-concept-tractor
+    type: article
+    provider:
+      name: Farmers Weekly
+      domain: fwi.co.uk
+    quality: 39
+    images:
+      - url: https://fwi-wp-assets-live.s3-eu-west-1.amazonaws.com/sites/1/2020/01/1-MAIN_Kubota-driverless-tractor-c-Kubota.jpg
+        width: 900
+        height: 507
+  - title: "Driverless farm machinery may lead to new business model"
+    excerpt: "AUSTIN, Texas — As agricultural equipment gains enough “artificial intelligence” to become fully autonomous, it’s likely to change the on-farm role of machinery, experts say. The cost and complexity of owning and maintaining driverless farm machinery may steer agriculture toward a fee-for-service model instead of growers buying ..."
+    publishedDateTime: 2020-01-22T18:43:00Z
+    sourceUrl: https://www.capitalpress.com/ag_sectors/research/driverless-farm-machinery-may-lead-to-new-business-model/article_345e9f7c-3cec-11ea-b368-cf7703dd0c58.html
+    type: article
+    provider:
+      name: Capital Press
+      domain: capitalpress.com
+    quality: 39
+    images:
+      - url: https://bloximages.newyork1.vip.townnews.com/capitalpress.com/content/tncms/assets/v3/editorial/e/f8/ef8129d5-4597-5a29-9a1d-23ae242215b9/5bdb6085c006a.image.jpg?resize=840%2C630
+        width: 840
+        height: 630
+  - title: "Tech Roundup Episode 7 – Driverless Cars and Artificial Intelligence"
+    excerpt: "From The Federalist Society [1]: In this episode, Adam Thierer and Caleb Watney discuss the emerging questions surrounding the progress of driverless car technology and its regulation."
+    publishedDateTime: 2020-01-22T18:17:00Z
+    sourceUrl: https://www.rstreet.org/2020/01/22/tech-roundup-episode-7-driverless-cars-and-artificial-intelligence/
+    type: article
+    provider:
+      name: R Street Institute
+      domain: rstreet.org
+    quality: 34
   - title: "GM and Honda unveil self-driving car with no steering wheel or pedals"
     excerpt: "GM and Honda, automakers with more than 160 years of experience between them, have thrown tradition out the window by unveiling the Origin, a new self-driving vehicle. The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rear view mirror. Its doors slide rather than swing open. There's no ..."
     publishedDateTime: 2020-01-22T18:52:00Z

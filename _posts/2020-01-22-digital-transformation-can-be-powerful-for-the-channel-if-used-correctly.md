@@ -26,17 +26,6 @@ images:
     title: "Digital transformation can be powerful for the channel, if used correctly"
 
 related:
-  - title: "Surf to success: B2B startups in India ride the digital transformation wave"
-    excerpt: "From automated phone orders using AI assistants to testing driverless cars with Ford ... AI is one of the big driving forces behind digital transformation. With Artificial Intelligence in the picture, the way businesses operate is changing rapidly across ..."
-    publishedDateTime: 2020-01-23T06:58:00Z
-    sourceUrl: https://www.dqindia.com/surf-success-b2b-startups-india-ride-digital-transformation-wave/
-    ampUrl: https://www.dqindia.com/surf-success-b2b-startups-india-ride-digital-transformation-wave/amp/
-    cdnAmpUrl: https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/surf-success-b2b-startups-india-ride-digital-transformation-wave/amp/
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 22
   - title: "Understanding the ideology of digital transformation"
     excerpt: "The Four Technology Vectors The four technologies shaping our future, according to Siebel, are cloud computing, big data, AI, and IoT. In a nutshell: Cloud computing provides convenient access for all businesses to essentially unlimited compute and storage, with major providers (Amazon Web Services [AWS], Microsoft’s Azure, Google Cloud ..."
     publishedDateTime: 2020-01-21T15:41:00Z

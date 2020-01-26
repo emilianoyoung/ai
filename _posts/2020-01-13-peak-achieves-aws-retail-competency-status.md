@@ -33,6 +33,19 @@ related:
       - url: https://www.zawya.com/resources/img/zawya-logo-en-social.png
         width: 1200
         height: 878
+  - title: "Fractal Named Certified Retail Competency Partner by Amazon Web Services (AWS)"
+    excerpt: "/PRNewswire/ -- Fractal (https://fractal.ai), a global leader in artificial intelligence and analytics, powering decision-making in Fortune 100"
+    publishedDateTime: 2020-01-13T23:33:00Z
+    sourceUrl: https://www.prnewswire.com/in/news-releases/fractal-named-certified-retail-competency-partner-by-amazon-web-services-aws--867019761.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 65
+    images:
+      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+        width: 600
+        height: 315
 
 secured: "zD/C+eFoLunc5IngIo0XBum9+J3X3KSW/58hmT50QLgFiRvSnHNGiTPH9JceEYEDLVH80rBUd7Rk17xsiq7quilNVRM52tqzei/fUvipZFitggtQ/vVjOmRp5DPxrb5GCce3yviBAA/eXEV+kUeuLCtOmnFzifBocuiVl44TgIH9bfWKYy1iSMv/PfG2Q9Cic3Nqna/KLRCMS5p1a1OU55z9zSSjz+qPyLjJSIb2SgIz2+ByoHC2WV1H3padQNK2eBatxLC8R6ZH1e3zRgI8aFLWddlKHq+8e1YVow8tvB5px9Hv1xOfIe2GXhYbFwHQ;NB8liEPtf8Y8Quit6zITSQ=="
 ---

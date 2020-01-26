@@ -18,58 +18,92 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Baidu secures licenses to test self-driving cars in Beijing"
-    excerpt: "Tech giant Baidu is slowly but surely progressing toward the launch of a commercial robot-taxi fleet in mainland China. This week, the company announced that it has secured licenses to test ..."
-    publishedDateTime: 2019-12-31T16:58:00Z
-    sourceUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/
-    ampUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
+  - title: "Riding in a self-driving car is the best way to end CES 2020"
+    excerpt: "or \"WTF?!\" or \"eww.\" And for me, the best way to close the books on this madness is to enjoy a few quiet minutes of reflection in the ultimate goal of so many of the automotive technologies Roadshow writes about: the all-seeing, all-knowing, self-driving car. That term \"self-driving\" is used way too freely. No matter what your best friend or ..."
+    publishedDateTime: 2020-01-10T17:02:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/ces-2020-self-driving-car-ride/
+    ampUrl: https://www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: CNET
+      domain: cnet.com
+    quality: 74
     images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/11/1573720765750856_upscaled_image_x4-e1573743944240.jpg?fit=1200%2C600&strip=all
+      - url: https://cnet3.cbsistatic.com/img/G7dx4_rD5mD3I0MM4few-N7lGlQ=/2020/01/10/bb8e1c20-5424-414e-b461-769417e79571/yandex-ogi.jpg
         width: 1200
-        height: 600
-  - title: "CES trade show to spotlight big tech trends in 5G, self-driving cars, 8K TVs and more"
-    excerpt: "Gigantic consumer electronics show in Las Vegas features about 40 San Diego companies showing off their latest technologies."
-    publishedDateTime: 2020-01-06T14:06:00Z
-    sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more
-    ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
-    cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
+        height: 630
+  - title: "A Seattle Startup Puts Its Pizza Making Robot to the Test at CES 2020"
+    excerpt: "\"That labor shortage results in high turnover, poorly trained workers, poor quality of food,\" explained Wood. This AI powered pizza robot from a Seattle startup named Picnic can assemble 300 perfect pizzas an hour #CES2020 pic.twitter.com/WOaqphS84E — Rich DeMuro (@richdemuro) January 8, 2020 Picnic’s robot is modular, meaning it can expand ..."
+    publishedDateTime: 2020-01-15T13:59:00Z
+    sourceUrl: https://ktla.com/2020/01/15/seattle-startup-picnic-pizza-robot-ces-2020/
+    ampUrl: https://ktla.com/2020/01/15/seattle-startup-picnic-pizza-robot-ces-2020/amp/
+    cdnAmpUrl: https://ktla-com.cdn.ampproject.org/c/s/ktla.com/2020/01/15/seattle-startup-picnic-pizza-robot-ces-2020/amp/
     type: article
     provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 37
+      name: KTLA
+      domain: ktla.com
+    quality: 59
     images:
-      - url: https://ca-times.brightspotcdn.com/dims4/default/3de7005/2147483647/strip/true/crop/3024x1975+0+146/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb6%2F73%2Fcfca9b914994bd002b870005233e%2Fwd.jpg
-        width: 320
-        height: 209
-  - title: "Qualcomm pushes into self-driving cars with Snapdragon Ride Platform"
-    excerpt: "Semiconductor maker Qualcomm Inc. is making a play for the automotive sector with the launch of its first self-driving car ... including the artificial intelligence software needed to avoid ..."
-    publishedDateTime: 2020-01-07T02:02:00Z
-    sourceUrl: https://siliconangle.com/2020/01/06/qualcomm-pushes-self-driving-cars-snapdragon-ride-platform/
+      - url: https://tribktla.files.wordpress.com/2020/01/screen-shot-2020-01-14-at-10.09.00-am.png
+        width: 1200
+        height: 698
+  - title: "Carmakers move from cars to building cities at CES"
+    excerpt: "But he said the carmaker needed to be on top of all the megatrends shaping society in the next decades: urbanisation, environmentalism, an ageing society, the power of 5G wireless connectivity and the potential for artificial intelligence to reinvent ... its new production line in Shanghai, or to Waymo, the Google sibling whose self-driving ..."
+    publishedDateTime: 2020-01-07T18:07:00Z
+    sourceUrl: https://www.ft.com/content/8089bb56-30fe-11ea-9703-eea0cae3f0de
+    ampUrl: https://amp.ft.com/content/8089bb56-30fe-11ea-9703-eea0cae3f0de
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8089bb56-30fe-11ea-9703-eea0cae3f0de
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: The Financial Times
+      domain: ft.com
+    quality: 44
+    images:
+      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2Fa4e8f394-313b-11ea-a329-0bcf87a328f2?source=google-amp&fit=scale-down&width=500
+        width: 500
+        height: 281
+  - title: "I rode in a self-driving car that's basically powered by a high-end gaming PC"
+    excerpt: "I've been a fan of science fiction since I learned to read. I grew up tearing through Heinlein, Asimov, Herbert, and many other authors, and for decades I've been looking forward to taking a ride in a fully autonomous self-driving vehicle. Now, it's finally happened—probably 10 years later than I originally expected in my youthful ignorance ..."
+    publishedDateTime: 2020-01-13T18:05:00Z
+    sourceUrl: https://www.pcgamer.com/i-rode-in-a-self-driving-car-thats-basically-powered-by-a-high-end-gaming-pc/
+    ampUrl: https://www.pcgamer.com/amp/i-rode-in-a-self-driving-car-thats-basically-powered-by-a-high-end-gaming-pc/
+    cdnAmpUrl: https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/i-rode-in-a-self-driving-car-thats-basically-powered-by-a-high-end-gaming-pc/
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 41
+    images:
+      - url: https://cdn.mos.cms.futurecdn.net/59dKqs9cbdXobWjM6vbrAc-1200-80.jpg
+        width: 1200
+        height: 675
+  - title: "Baidu Gets Licenses to Test Self-Driving Vehicles"
+    excerpt: "Chinese multinational technology company Baidu announced on December 30 it was granted 40 road test licenses for passenger-carrying autonomous driving by regulators in Beijing. The tech giant is one of the first companies in China to be given green lights to self-driving cars for carrying passengers on Beijing’s roads. Up to now, Baidu Apollo ..."
+    publishedDateTime: 2020-01-10T05:53:00Z
+    sourceUrl: https://steelguru.com/auto/baidu-gets-licenses-to-test-self-driving-vehicles/554691
+    type: article
+    provider:
+      name: Steel News
+      domain: steelguru.com
+    quality: 39
+    images:
+      - url: https://steelguru.com/uploads/news/baidu-autonomous-cars_42031.jpg
+        width: 1200
+        height: 800
+  - title: "For Self-Driving Cars, Lidar Amps Up at CES 2020"
+    excerpt: "LAS VEGAS – If self-driving cars are failing to live up to their initial hype, it isn’t for lack of investment in lidar, which is broadly agreed to be a key sensor technology needed for their eventual success. With Bosch’s recent announcement that it’s making lidar sensors for autonomous cars, it seems like the list of auto-related ..."
+    publishedDateTime: 2020-01-09T16:01:00Z
+    sourceUrl: https://www.extremetech.com/electronics/304053-for-self-driving-cars-lidar-amps-up-at-ces-2020
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
     quality: 24
     images:
-      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/Qualcomm-Snapdragon-Ride.png
-        width: 1233
-        height: 880
-  - title: "Baidu testing self-driving cars in Beijing"
-    excerpt: "Baidu (BIDU-0.1%) has secured licenses to test self-driving vehicles carrying passengers on designated roads in Beijing, according to Venture Beat. The company's self-driving cars have traveled ..."
-    publishedDateTime: 2019-12-31T18:38:00Z
-    sourceUrl: https://seekingalpha.com/news/3528976-baidu-testing-self-driving-cars-in-beijing
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
+      - url: https://www.extremetech.com/wp-content/uploads/2020/01/Velodyne-Lidars.jpg
+        width: 1344
+        height: 742
 
 secured: "NnmxhI3B1tidk90ra3IqC78at1NlgrR41n9anXWRxUdYxJBzvDkNwTVmlc1ziqBh/BD69i48Q0QTcqjhDeJ0IS9x2THwU+FBI8qHQSFss92FKEecwLze6aIQ+B4QoZXZV9c4VOgYxq0AQ0xzsOC6MNWEFLKHGnxOxKVVy/Zbv1O3AqR4DLcKy6SC7fAj14V1c5oWCgzpUubVeQUniTCvBjp7QH2K1vLwXpDcWRfyoVRT3URm1UHJ2NLydxFDcODcGV9+ZBFBas8XyW133nXN1pXxe4SNSf7LmocX5dwXw9GxRi3cQW48y64FrSnjGYoPJG6lO1CnmJ8txsSAd7V1eDEwRvqDDaTtT9WGqIVcOMlFo+A71tGk6j0fi9Q67VpTEJvRftKrfxDhJ6dqGT+HTfxFY4ZLcD9tWelPQ2ifgaroy90tylIC696u25fK/JJ9pgzIg9FRRbgII2TZD8ytGw==;ZzTjQYju6PDzFaU3MIoTCw=="
 ---

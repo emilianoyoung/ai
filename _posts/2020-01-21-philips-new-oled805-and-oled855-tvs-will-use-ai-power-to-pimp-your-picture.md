@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-21T16:00:00Z
 sourceUrl: https://www.techradar.com/news/philips-new-oled805-and-oled855-tvs-will-use-ai-power-to-pimp-your-picture
 type: article
 quality: 145
-heat: 145
+heat: 155
 published: true
 
 provider:
@@ -19,6 +19,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Philips intros 805/855 OLED TV range with AI-driven picture processing"
+    excerpt: "It's also compatible with Amazon Alexa, too. The latest tech to be incorporated on the chip is improved AI functionality - most big TV makers are now using AI to improve picture quality and upscaling and as with others this is aided by a database of existing content to compare footage to. As well as the new OLED range, will also be a new ..."
+    publishedDateTime: 2020-01-21T16:27:00Z
+    sourceUrl: https://www.pocket-lint.com/tv/news/philips/150819-philips-intros-805-855-oled-tv-range-with-new-picture-processing-engine
+    type: article
+    provider:
+      name: Pocket-lint
+      domain: pocket-lint.com
+    quality: 19
 
 secured: "fGsBgRSTme0hJwNNMieeERHtDuOJFEBlL0GmWjLa8eCCunMKnxFMYoFp0Nh4qktF14fGlRs4Lw71Im+Ula9wPaeMD6Iujd45Eii9ENeU/U7bNUdqOEHDqTL1KnRhF5yS4Jn2Qq0X89M3ErXNBDyTiZiLCV8JaF76q13v/bxoBMW4jChkBPlU/QL6iNNX3vNj+wAYnaJ3Sy80/ktf9G2NgYb+whl9lw1doDxgknXxFegdtBBAdwLJ4WtOoUWx07o6sJWz6KSGvpplGfT8lNyWgwqQPYrkap7W2eRADYXsU2qr+RvVpDLQthl3ixSmUc2pVVnPAZ3OwL2SrkxgWe3j8LJRbn68B9wPUWDASlue0F2ldvB4oYoX5iZeOOpe9OEdIBcwZMDSaLrs9t5GMJ9Xxj2jR9bZW8UuKMQvDyuc2hxspHAP/3nLdWvzKuJzJj2C4PUQcxj1srqxRTsVQBNUQkeUBRbR5lGnStg2F7DaUck=;DT8yEkpnYR5aUFWO+GLLqw=="
 ---

@@ -64,6 +64,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 19
+  - title: "Image Recognition Market is Striving in Worldwide with Top Key Players 2020 | IBM Corporation, Imagga Technologies Ltd., Amazon Web Services, Inc"
+    excerpt: "Growing popularity of media cloud services and increasing pace of technological advancements in facial recognition technology drive the growth of the global image recognition market. Moreover, surge in the number of mobile devices equipped with cameras and rise in demand for security applications and products laden with image recognition features supplement the market growth."
+    publishedDateTime: 2020-01-17T03:12:00Z
+    sourceUrl: https://www.benzinga.com/press-releases/20/01/wr15140449/image-recognition-market-is-striving-in-worldwide-with-top-key-players-2020-ibm-corporation-imag
+    ampUrl: https://amp.benzinga.com/amp/content/15140449
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15140449
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "WB3uYz80cgYIKVGUcJy1YAGr1lZJXsthAUBfFWQSRAhdkJXSfBELDKWgsgigHMITUv6mcRhvfdYo7ywyCePaJePKq5dklHTwU0X63ZRPo/YgqewTn+ZUM/Y5oeBqBMJOyFK+VbjyOfI8DGCp+bL/m2dCb/Rlvj/p5VBJ7wUzuH1Lhh0184ulSWlUhUf62Da57a9EYwaM/RQj2ivAh+h3xxF879vfCec+yvWLJblQ77BZLgHB2sa0o4esHznr5Ylb1Y6bNxN6IxgeIDfNh1Q0U7n5p/xSKVtqTpAIdPmZDUI=;ndWC1kAGb0sTpLSv6xFiAw=="
 ---

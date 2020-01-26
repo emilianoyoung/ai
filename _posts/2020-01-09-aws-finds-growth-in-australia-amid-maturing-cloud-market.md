@@ -8,8 +8,8 @@ ampUrl: https://www.computerweekly.com/news/252476477/AWS-finds-growth-in-Austra
 cdnAmpUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252476477/AWS-finds-growth-in-Australia-amid-maturing-cloud-market?amp=1
 type: article
 quality: 59
-heat: 59
-published: false
+heat: 69
+published: true
 
 provider:
   name: Computer Weekly
@@ -24,6 +24,21 @@ images:
     width: 1200
     height: 400
     title: "AWS finds growth in Australia amid maturing cloud market"
+
+related:
+  - title: "Azure Australia wins new privacy protection"
+    excerpt: "Microsoft Azure has been certified as a data processor for the new international standard ... “Modern business is driven by digital transformation, including the ability to deeply understand data and unlock the power of big data analytics and AI,” the blog post read. “But before customers – and regulators – will allow you to leverage ..."
+    publishedDateTime: 2020-01-14T22:34:00Z
+    sourceUrl: https://www.crn.com.au/news/azure-scores-iso-iec-27701-privacy-standard-certification-536497
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 39
+    images:
+      - url: https://i.nextmedia.com.au/News/crn-690_azure_cloud.jpg
+        width: 690
+        height: 428
 
 secured: "yCKz+mOvl65tBsgJeR2M4KdV2UCzZ7us3rpVNPzH6T9fCNoZJjQra2Ch6irq1liP21wfsadCCbUXF1KMt1aM7oQJiOM23pw6/oCjkNBBoGgR/MA5g2VhMX/P+qSoo96lIp4D8lczJ/a56CIJdNTOEzH1IdjOjEl+3vUGiVrJKBrJ+dmMN77M0+at9Jxi++VSdN9aWaIb3W7GB6VgdQcBMgNV3TueDb3y8ui7nqiyKzWJZC5FHHF+fPPNIcd0vHcdoabSTtqUWtJUseohMbmSaxm+LeP//f4eGNE3q4sTISr31qu/64/MpocioJXeqsfN7PlTe1tQP7+o3R/4FDgNghuZ+GTR3vvCM5Tymu6R30KQJgGw5w1i6d6mF2gAD0jlRwJWIOc79pum+D0R1e7gc/ev8zJhjFUndDiwIvNTRMmzXcAUI+84ssD/avS0/vDppcoK2Hw874oDwU/XLa+DzA==;SKC9K7zkgmMFv1CH/eXaJQ=="
 ---

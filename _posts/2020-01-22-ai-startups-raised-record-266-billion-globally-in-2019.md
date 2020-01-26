@@ -44,6 +44,21 @@ related:
       - url: https://images.wsj.net/im-145341/social
         width: 1280
         height: 640
+  - title: "AI: the topic that got sidelined in the British election"
+    excerpt: "... Generation Artificial Intelligence Plan”, revealing its ambition to create an AI industry worth 1 trillion RM by 2030. Perhaps the most comprehensive of all, the plan involves a suite of initiatives that span R&D, talent development, regulations, ethics and security. Closer to home, France announced its own AI plan in 2018. Designed to ..."
+    publishedDateTime: 2020-01-21T10:50:00Z
+    sourceUrl: https://www.techradar.com/nz/news/ai-the-topic-that-got-sidelined-in-the-british-election
+    ampUrl: https://www.techradar.com/nz/amp/news/ai-the-topic-that-got-sidelined-in-the-british-election
+    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/ai-the-topic-that-got-sidelined-in-the-british-election
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 89
+    images:
+      - url: https://cdn.mos.cms.futurecdn.net/XRZnyNZVHb27CjWT9rGzg7-1200-80.jpg
+        width: 970
+        height: 545
   - title: "CB Insights: AI startup funding hit new high of $26.6 billion in 2019"
     excerpt: "As part of an annual look at global AI investment trends, CB Insights today reports that AI startups raised a record $26.6 billion in 2019 spanning more than 2,200 deals worldwide. That’s compared to roughly 1,900 deals totaling $22.1 billion in 2018 and about 1,700 deals totaling $16.8 billion in 2017. The reported high in AI investments ..."
     publishedDateTime: 2020-01-22T14:00:00Z

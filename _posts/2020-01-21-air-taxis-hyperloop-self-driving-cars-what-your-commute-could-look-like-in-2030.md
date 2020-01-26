@@ -8,7 +8,7 @@ ampUrl: https://amp.usatoday.com/amp/2794123001
 cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2794123001
 type: article
 quality: 53
-heat: 53
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,23 @@ images:
     width: 640
     height: 481
     title: "Air taxis, Hyperloop, self-driving cars: What your commute could look like in 2030"
+
+related:
+  - title: "New Apple self-driving car patent could turn Siri into your personal chauffeur"
+    excerpt: "Apple wants to patent a new technology that would allow you to use voice commands to tell your self-driving car where you want to go, with the car doing the navigation, driving, and parking for you. The end result would be a Siri-like system for controlling your self-driving car. The patent application, titled “Guidance of Autonomous Vehicles ..."
+    publishedDateTime: 2020-01-23T19:24:00Z
+    sourceUrl: https://www.digitaltrends.com/cars/new-apple-self-driving-car-patent-could-turn-siri-into-your-personal-chauffeur/
+    ampUrl: https://www.digitaltrends.com/cars/new-apple-self-driving-car-patent-could-turn-siri-into-your-personal-chauffeur/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/new-apple-self-driving-car-patent-could-turn-siri-into-your-personal-chauffeur/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 70
+    images:
+      - url: https://icdn3.digitaltrends.com/image/digitaltrends/lexus-rx450h-apple-smart-car-press-image-1-1200x630-c-ar1.91.jpg
+        width: 1200
+        height: 628
 
 secured: "eqOWoeQoZ5SJwhtby7+aXqCVWlIbZe1Q/I/SPtbciw23wjby9mQs9zwLrkXvqkqHSUQDJ+BuN+EKGNxRtf4R2VhRO/P4l416ZUMUr3IuY0H1pyD6vnKO84vS98pBhqpC5n5/g9Z5GdROxKe+K9HKc/SwmeF4iBcRvxvSpMMqbSoI22bQXqxxdIBGxUrnw8v/MZVeeAba3NENSJUzAHjYsQOZV0sgzv8V4BivcVJxfqsiUATtA5rauwOn38XOxv26ENjamy89oYpVzrHCFK/ICHkbJj1XnPCh8H+i7cszr5HmeCJSKzWAlPIskwlPDl3ZOT43+94gczHJ1clKBbhbiXpEEBD2ISoQbt5TAjJGY722vUn+6+dHkjP4GqUFBJVtEih9FKGu3iP5vTrjvwAXnw8uq/YJW95krleNFQAmqGqohGhdoJQN8whVkju4JMG8R7fRi91Z0f+r3YvFa8m80Q==;hAIYt74RjbYnUkoWH3nWBA=="
 ---

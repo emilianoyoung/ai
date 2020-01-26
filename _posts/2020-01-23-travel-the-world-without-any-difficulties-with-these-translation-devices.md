@@ -39,6 +39,19 @@ related:
       - url: https://images.idgesg.net/images/article/2020/01/sale_25025_primary_image_wide-100826738-large.jpg
         width: 1200
         height: 600
+  - title: "Save 34% on the Mesay 3.0 PRO: AI Global Translator"
+    excerpt: "We have a great deal for our readers on the Mesay 3.0 PRO: AI Global Translator in the Geeky Gadgets Deals store today, you can save 34% off the normal price. Wherever you are in the world, language shouldn’t be an obstacle. Thanks to the newest MESAY3, you can now easily converse in 76 different languages. MESAY3 is a smart voice interpreter ..."
+    publishedDateTime: 2020-01-23T16:39:00Z
+    sourceUrl: https://www.geeky-gadgets.com/save-34-on-the-mesay-3-0-pro-ai-global-translator-23-01-2020/
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: https://www.geeky-gadgets.com/wp-content/uploads/2020/01/Mesay-3.0-PRO.jpg
+        width: 700
+        height: 525
 
 secured: "k/PpGyQXjERbqgnqxZaIvYqUemyLcEOd3Pkv9CWJZGyiW2lVuY8RaOGJ59IisZvsyMEianGLEwOJsHfZAYSRYOMwgLJvdbtSZsn0G2hk1oLruLTO3iOwCiUhouQ8JA2/nqDmY2EucoLP6vi8fFnxj48wKWmO3Xj0+hUoM1GoeJU0CMaT4ORTKXCanvI0A0W+pxBr4TwiYS5r3vbjqsjX12yFRqoi7FWz3JYc2/9WjeHs0053WCb3P6HJ9gVMd0RH9BvCNzJea1PusVyDDi/lAYQKiWPpZtmSWZuJv9a0movE/fsNTv8hI2XKbb7/70juJdtRF+L73dBqU9gk8tF8I4iK+rsam947HsPLisdvtr0x6dPFrisUVcmUsjX4nuXoobQwm0com8duNtZDFu55t2/Ubsqt2/pUOpFPI1/873rlg7UkDQGmMTnDRYW4km/SRhEIVIAzuDPxRwbl7g7GySjDgnU+U9j5NQF7MPaOSN4=;ZHaK7Ifjsyjxxbf3EwYo1A=="
 ---

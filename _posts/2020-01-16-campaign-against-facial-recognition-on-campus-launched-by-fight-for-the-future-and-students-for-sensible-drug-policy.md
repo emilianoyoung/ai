@@ -26,17 +26,21 @@ images:
     title: "Campaign against facial recognition on campus launched by Fight for the Future and Students for Sensible Drug Policy"
 
 related:
-  - title: "The future of travel: Voice recognition, reducing carbon footprint, Instagrammable destinations and more"
-    excerpt: "From booking with the aid of voice technology and sustainable alternatives such as rail services, to facial recognition technology at security its an ever changing world of travel out there. The surveys shows that half of Gen Z and millennials consider how ‘Instagrammable’ their destination will be when booking. How many “likes” will it ..."
-    publishedDateTime: 2020-01-14T11:28:00Z
-    sourceUrl: https://www.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP.html
-    ampUrl: https://m.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP_amp.html
-    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP_amp.html
+  - title: "Universal Studios' Secret Life Of Pets Attraction Will Use Facial Recognition To Turn Guests Into Stray Dogs"
+    excerpt: "This morning Universal Studios Hollywood revealed some new details about the forthcoming The Secret Life of Pets: Off the Leash attraction, including the fact that it will use facial recognition technology as well as gesture tracking in order to turn those on the ride into unique stray dogs. What's most intriguing about the new attraction ..."
+    publishedDateTime: 2020-01-22T18:53:00Z
+    sourceUrl: https://www.cinemablend.com/news/2488924/universal-studios-secret-life-of-pets-attraction-will-use-facial-recognition-to-turn-guests-into-stray-dogs?pv=related_list
+    ampUrl: https://amp.cinemablend.com/news/2488924/universal-studios-secret-life-of-pets-attraction-will-use-facial-recognition-to-turn-guests-into-stray-dogs
+    cdnAmpUrl: https://amp-cinemablend-com.cdn.ampproject.org/c/s/amp.cinemablend.com/news/2488924/universal-studios-secret-life-of-pets-attraction-will-use-facial-recognition-to-turn-guests-into-stray-dogs
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 7
+      name: Cinema Blend
+      domain: cinemablend.com
+    quality: 40
+    images:
+      - url: https://img.cinemablend.com/quill/c/a/f/e/4/a/cafe4af26bbaae7202ee6c7b7d447eb9ae15e12f.jpg
+        width: 1200
+        height: 600
 
 secured: "1Fk6TScEc63R0hj+6Leull9AS1Bf68QlFQ26u51rxBrKUXOJIjpBIhZPcG5jeGNdp0o94ND0Ta4TDYsepGZXVABOzbySRCRxPddgWStczaBFQAgvvzfJ+q977Kk7vHbbc5zDDZKk2Fc7YGbqRJQrFwt1Kid49UP1BJOd46PtM3bTX4YaS1dIiNRS+QO/9kjKIWP7ixsYLR8djNgGk7TntAF5SX3C7YgQg+cbwWYTYSYRAzeA6s2OY7BvmQYIEfXRp9dJGGVHsph6pd8uIja5K0yc7qa3t7oLkKHcUar9v+VZaoY6pGkZ82HxMBcB8/OyWZyWIK1CEUNnMvEMv15KEPWKj0FARPovBZL1Zjyta3NnW+gTXKyf79ANkkre8MQXvHEF13clSJ0Y8AGoyLMwXxR566Nf50jImFXIzGv4kDVo5FcpCN5vXpmQcuEe7suJXD0Zf+bLTjQO8lzugDktmQ==;sWR6mcTKIrKs970p8W+/2w=="
 ---

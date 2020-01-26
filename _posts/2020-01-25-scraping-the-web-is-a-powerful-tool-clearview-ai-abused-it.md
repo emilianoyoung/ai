@@ -8,8 +8,8 @@ ampUrl: https://www.wired.com/story/clearview-ai-scraping-web/amp
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/clearview-ai-scraping-web/amp
 type: article
 quality: 87
-heat: 139
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wired
@@ -29,6 +29,51 @@ images:
     title: "Scraping the Web Is a Powerful Tool. Clearview AI Abused It"
 
 related:
+  - title: "Clearview AI’s facial-recognition app is a nightmare for stalking victims"
+    excerpt: "The latest example of Silicon Valley’s hubris is the facial-recognition app Clearview AI. The small startup’s app is so powerful that someone could walk up to you on the street, snap your photo, and quickly find out your name, address, and phone number ..."
+    publishedDateTime: 2020-01-22T17:41:00Z
+    sourceUrl: https://www.digitaltrends.com/news/clearview-ai-facial-recognition-domestic-violence-stalking/
+    ampUrl: https://www.digitaltrends.com/news/clearview-ai-facial-recognition-domestic-violence-stalking/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/clearview-ai-facial-recognition-domestic-violence-stalking/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 88
+    images:
+      - url: https://icdn3.digitaltrends.com/image/digitaltrends/facial-recognition-composite-feature-1200x630-c-ar1.91.jpg
+        width: 1200
+        height: 628
+  - title: "New Jersey halts police use of creepy Clearview AI facial-recognition app"
+    excerpt: "New Jersey is ahead of the curve — at least when it comes to stopping its law enforcement from using the creepy and potentially biased facial-recognition app Clearview AI. The app, which scraped billions of photos from the likes of Facebook, YouTube, Venmo, and other online platforms, drew the world's attention last weekend following a ..."
+    publishedDateTime: 2020-01-24T23:59:00Z
+    sourceUrl: https://mashable.com/article/clearview-ai-facial-recognition-app-ban-police-new-jersey/
+    ampUrl: https://mashable.com/article/clearview-ai-facial-recognition-app-ban-police-new-jersey.amp
+    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/clearview-ai-facial-recognition-app-ban-police-new-jersey.amp
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 88
+    images:
+      - url: https://mondrian.mashable.com/2020%252F01%252F24%252F53%252Fc9b7bd94080a4f81b5f99ec464adff04.08837.jpg%252F1200x630.jpg?signature=yAzYMITbCIxJTHhBnTyFoFDHPXg=
+        width: 1200
+        height: 630
+  - title: "Rogue NYPD cops are using facial recognition app Clearview"
+    excerpt: "Rogue NYPD officers are using facial recognition software that the department’s own facial recognition unit doesn’t want to touch because of concerns about security and potential for abuse, The Post has learned. The NYPD’s facial recognition unit kicked the tires on a controversial app, Clearview, which has scraped millions of photos from ..."
+    publishedDateTime: 2020-01-23T17:23:00Z
+    sourceUrl: https://nypost.com/2020/01/23/rogue-nypd-cops-are-using-sketchy-facial-recognition-app-clearview/
+    ampUrl: https://nypost.com/2020/01/23/rogue-nypd-cops-are-using-sketchy-facial-recognition-app-clearview/amp/
+    cdnAmpUrl: https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/01/23/rogue-nypd-cops-are-using-sketchy-facial-recognition-app-clearview/amp/
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: https://thenypost.files.wordpress.com/2020/01/nypd-3-1.jpg?quality=90&strip=all&w=1200
+        width: 1200
+        height: 800
   - title: "Meet Clearview AI, the secretive company that might end privacy as we know it"
     excerpt: "The system — whose backbone is a database of more than 3 billion images that Clearview claims to have scraped from Facebook ... research,” according to a document provided to Nehlen and later posted online. Ton-That said the company never actually offered such services. The company soon changed its name to Clearview AI and began marketing ..."
     publishedDateTime: 2020-01-18T14:10:00Z
@@ -59,6 +104,19 @@ related:
       - url: https://www.orlandosentinel.com/resizer/oZrdNHcxpttOUshyFpRzZViOTZc=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/6ZYRERIGSNBEVEWMOA6S7BMDIU.jpg
         width: 1200
         height: 800
+  - title: "Clearview AI facial recognition tool being used by more than 600 US police agencies"
+    excerpt: "The New York Times published a lengthy profile on Sunday of a company called Clearview AI that has developed a breakthrough facial recognition app ... is a database of more than three billion images that Clearview claims to have scraped from Facebook, YouTube, Venmo and millions of other websites—goes far beyond anything ever constructed ..."
+    publishedDateTime: 2020-01-22T05:49:00Z
+    sourceUrl: https://www.wsws.org/en/articles/2020/01/22/face-j22.html
+    type: article
+    provider:
+      name: World Socialist Web Site
+      domain: wsws.org
+    quality: 50
+    images:
+      - url: https://www.wsws.org/img/open-graph-icon.png
+        width: 1500
+        height: 785
   - title: "Class-action lawsuit filed against controversial Clearview AI startup"
     excerpt: "A lawsuit -- seeking class-action status -- was filed this week in Illinois against Clearview AI, a New York-based startup that has scraped social media networks for people's photos and created one of the biggest facial recognition databases in the world. The secretive startup was exposed last week in an explosive New York Times report which ..."
     publishedDateTime: 2020-01-24T17:05:00Z
@@ -91,6 +149,6 @@ related:
       domain: indiatimes.com
     quality: 37
 
-secured: "ekqPm+CkTDVvHd+e5ReXtfJYO1L36aqoue+N2A5KeMz9beQLfQaYIOq8w3FvmcEbgDXoBjnovqFNPk9ZK4Bj6nkxL/ntx09dcpEwWdm56brhYtO65Ef08nzaGAOeSHTXwXzb5HXEuvtc2jISnJfoULPShXxh9dcJvwnM/KfMY3Bg+gc0IIKQWO7EPDr0KBzQcAcI1SrhZTeTvi8xeNoPuqhC6yzRVOCMS0RaGFK/M92SEltFIk1zd7PnaOYwo9kG74AfOUx3iiO8wfau9mkiFnmuL4B2TuBpG2e9XQQWdTXchgZuCko4Wl8TvOQfp/+8Y0DwxXyNbvCn1XDiigVMNAuMaX3kfQ5IJTeJPvaQPP3+nRVDU/ZOYHrwOpazC7ugjHCFBN0nFeEEzBwCOOqdf1Td05mQ5GLV8yCkaj9iQ+ARoEWoSgVowzlfq7Z9MB1XPQ2ULz0Es+IIkVrpQT/SHhTIp7pJxOzDROnu/gqODAg=;yJmeP34MU/5gtFqxpj93xA=="
+secured: "o/nszqITxr1ZjjESO42Vtn+fOAlHoph7hjR4x2WCDTEiDgnM7bt+7pC4Pt9tVR+/CtdhusdsQEyCILMtkoqeDe41S/gpkVhJux/rlj8acNQ10qNs2z2coscamYo1+Vo890lJp9+QLP8vpro+s8uLO/l4Cu9qnaatW9bBn9l8IKdK1R6okJMBrcEIHO8nmaxWRJ4bo99pNLjoERiteIlP5PLNDsJnGPPxr8OiGborbenZtXJS4CjiGevuvlQ1zSsr8WIESKDBNzjatg6vopWn75AGSfbsYfr/RQO6sJcM0enc+f/nHG/s2rm/4ztQOTA2Go9DfGsEtY/cQWgY1r0bbSIMcAXq3WWB4Okl1ymPBVe6n5SMiH7AwHAyPeFcPbqkl0F9ErclkVzEjL4XHV6U/IXvTUboRGek4zKOoAaWs73dZX+GqQVDw/nCmIl3HV2UqlFao8ZN12ZPcquwI8pDkAb/rKn2Qm8I0f0KKP7I3Xc=;5PW3cDhlKWCoH25F52Cj8w=="
 ---
 

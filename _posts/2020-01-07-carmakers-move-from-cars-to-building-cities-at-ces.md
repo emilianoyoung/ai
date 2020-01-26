@@ -26,21 +26,6 @@ images:
     title: "Carmakers move from cars to building cities at CES"
 
 related:
-  - title: "Toyota is building a 'smart' city to test AI, robots and self-driving cars"
-    excerpt: "Carmaker Toyota has unveiled plans for a 2,000-person \"city of the future\" near Japan's Mount Fuji, where it will test emerging technologies in a real-life environment."
-    publishedDateTime: 2020-01-08T10:21:00Z
-    sourceUrl: https://www.cnn.com/style/article/ces-toyota-big-smart-city/index.html
-    ampUrl: https://www.cnn.com/style/amp/ces-toyota-big-smart-city/index.html
-    cdnAmpUrl: https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ces-toyota-big-smart-city/index.html
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 87
-    images:
-      - url: http://cdn.cnn.com/cnnnext/dam/assets/200108111821-woven-city-toyota-big-1-super-tease.jpg
-        width: 1100
-        height: 619
   - title: "Riding in a self-driving car is the best way to end CES 2020"
     excerpt: "or \"WTF?!\" or \"eww.\" And for me, the best way to close the books on this madness is to enjoy a few quiet minutes of reflection in the ultimate goal of so many of the automotive technologies Roadshow writes about: the all-seeing, all-knowing, self-driving car. That term \"self-driving\" is used way too freely. No matter what your best friend or ..."
     publishedDateTime: 2020-01-10T17:02:00Z
@@ -56,6 +41,36 @@ related:
       - url: https://cnet3.cbsistatic.com/img/G7dx4_rD5mD3I0MM4few-N7lGlQ=/2020/01/10/bb8e1c20-5424-414e-b461-769417e79571/yandex-ogi.jpg
         width: 1200
         height: 630
+  - title: "A Seattle Startup Puts Its Pizza Making Robot to the Test at CES 2020"
+    excerpt: "\"That labor shortage results in high turnover, poorly trained workers, poor quality of food,\" explained Wood. This AI powered pizza robot from a Seattle startup named Picnic can assemble 300 perfect pizzas an hour #CES2020 pic.twitter.com/WOaqphS84E — Rich DeMuro (@richdemuro) January 8, 2020 Picnic’s robot is modular, meaning it can expand ..."
+    publishedDateTime: 2020-01-15T13:59:00Z
+    sourceUrl: https://ktla.com/2020/01/15/seattle-startup-picnic-pizza-robot-ces-2020/
+    ampUrl: https://ktla.com/2020/01/15/seattle-startup-picnic-pizza-robot-ces-2020/amp/
+    cdnAmpUrl: https://ktla-com.cdn.ampproject.org/c/s/ktla.com/2020/01/15/seattle-startup-picnic-pizza-robot-ces-2020/amp/
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 59
+    images:
+      - url: https://tribktla.files.wordpress.com/2020/01/screen-shot-2020-01-14-at-10.09.00-am.png
+        width: 1200
+        height: 698
+  - title: "I rode in a self-driving car that's basically powered by a high-end gaming PC"
+    excerpt: "I've been a fan of science fiction since I learned to read. I grew up tearing through Heinlein, Asimov, Herbert, and many other authors, and for decades I've been looking forward to taking a ride in a fully autonomous self-driving vehicle. Now, it's finally happened—probably 10 years later than I originally expected in my youthful ignorance ..."
+    publishedDateTime: 2020-01-13T18:05:00Z
+    sourceUrl: https://www.pcgamer.com/i-rode-in-a-self-driving-car-thats-basically-powered-by-a-high-end-gaming-pc/
+    ampUrl: https://www.pcgamer.com/amp/i-rode-in-a-self-driving-car-thats-basically-powered-by-a-high-end-gaming-pc/
+    cdnAmpUrl: https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/i-rode-in-a-self-driving-car-thats-basically-powered-by-a-high-end-gaming-pc/
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 41
+    images:
+      - url: https://cdn.mos.cms.futurecdn.net/59dKqs9cbdXobWjM6vbrAc-1200-80.jpg
+        width: 1200
+        height: 675
   - title: "Baidu Gets Licenses to Test Self-Driving Vehicles"
     excerpt: "Chinese multinational technology company Baidu announced on December 30 it was granted 40 road test licenses for passenger-carrying autonomous driving by regulators in Beijing. The tech giant is one of the first companies in China to be given green lights to self-driving cars for carrying passengers on Beijing’s roads. Up to now, Baidu Apollo ..."
     publishedDateTime: 2020-01-10T05:53:00Z
@@ -69,6 +84,28 @@ related:
       - url: https://steelguru.com/uploads/news/baidu-autonomous-cars_42031.jpg
         width: 1200
         height: 800
+  - title: "For Self-Driving Cars, Lidar Amps Up at CES 2020"
+    excerpt: "LAS VEGAS – If self-driving cars are failing to live up to their initial hype, it isn’t for lack of investment in lidar, which is broadly agreed to be a key sensor technology needed for their eventual success. With Bosch’s recent announcement that it’s making lidar sensors for autonomous cars, it seems like the list of auto-related ..."
+    publishedDateTime: 2020-01-09T16:01:00Z
+    sourceUrl: https://www.extremetech.com/electronics/304053-for-self-driving-cars-lidar-amps-up-at-ces-2020
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 24
+    images:
+      - url: https://www.extremetech.com/wp-content/uploads/2020/01/Velodyne-Lidars.jpg
+        width: 1344
+        height: 742
+  - title: "CES 2020 Spotlights Tech Trends: Self-Driving Cars, 8K TVs and 5G"
+    excerpt: "Others, however, are harder to forecast. What new artificial intelligence service will blossom to become the next Amazon Alexa or Google Home? Can self-driving car technology take a meaningful step forward? CES, the sprawling consumer electronics trade show that opens Tuesday and runs through Friday in Las Vegas, may provide a clue when it ..."
+    publishedDateTime: 2020-01-06T18:04:00Z
+    sourceUrl: https://www.cpapracticeadvisor.com/small-business/news/21120119/ces-2020-spotlights-tech-trends-selfdriving-cars-8k-tvs-and-5g
+    type: article
+    provider:
+      name: CPA Practice Advisor
+      domain: cpapracticeadvisor.com
+    quality: 4
 
 secured: "lDuZtYXGeMbeuIlJVnkQkoCFee8fdDLbBC8DaSFSihhnBRq7VRXvrBlidz+AXdSLExjb7hCMMvSHGpmuKnKKUGS3avyJVpiYU6ghaqV/ACJKp4OkB9JrHnC0JXwQ/xhb3cJfNTJFH4gVy7qR8tZCcPm4fnGhRCSiYAW1pbj0GJuH+Kl9IhcOUVU5nzqB6Inh9Q6dnvyisrg11KHBSe7Z1Ixx0Lmf547lHrqY0O8zzn1SmHJ8OIi/X4JqGmlbOKsDQZxtMCZG4EbBgUnWG/VwtgjGS1b0xL5I6ugRuNarVGpBoGCEdmViGk+oKox/D02fhXdG3lHKJIOPd4HF5rDQ7B/1njXX8Xtm0tMEI7VAwSk7uds3Dc//uEhAvUE9GstdGOGV5ePzJbv++ElF7StbGoElRKyn92WUyKQON6qrzoJvhd5g2bjiew17vQZtcCa6kk4QIX0hro0uYw+GCATF7A==;wqDmjhA4TErC38tq2F+C+w=="
 ---

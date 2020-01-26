@@ -25,17 +25,6 @@ images:
     height: 878
     title: "MoHAP takes part in the 45th Arab Health 2020 with innovative preventive healthcare projects and smart services"
 
-related:
-  - title: "OptraHEALTH Collaborates with Microsoft Azure to Serve Genomic Health Industry with the Launch of GeneFAX Pro"
-    excerpt: "Opt-into our eNewsletter NOW! For the Latest Trending Financial News Topics in Cannabis, Tech, Biotechs, Precious Metals, Energy, Renewable Energy and much more! Please visit us on a daily basis to stay up to date with Latest Buzz in Financial and Economic News! www.financialbuzz.com Located on Wall Street in the heart of New York City’s ..."
-    publishedDateTime: 2020-01-21T17:59:00Z
-    sourceUrl: https://www.financialbuzz.com/optrahealth-collaborates-with-microsoft-azure-to-serve-genomic-health-industry-with-the-launch-of-genefax-pro/
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 15
-
 secured: "3mANj3hBts6E3Lh51+4P+QrgtJ8V971Qo7RdNIOvLoy5JkxussD77/rKt57pQa0WQl09uac/ngarGiAtSjxNQPnPcAH5e/4Y3bUTZl1vbXMnAMIle6/f6DVO7QNH82djlrGc3hsDu8nkVQF2Y88xSfgvx3LK97qb905a/8y7W7N/r1ZhOGVaP6SfW/54tqFO53+kgIUZ87LP26QgVoZaKpufRPO7l2aBCorrrsKZMGRqomCnEDLiikyjviSe54gF7JYECxxMIZh0ShX4EX38SfpCf1Z0CoRBjp1yNcRe/CzNOGxtkzGTiw/2coAuMDY5;6lOxw5y3bo0yRHehvUWD9g=="
 ---
 

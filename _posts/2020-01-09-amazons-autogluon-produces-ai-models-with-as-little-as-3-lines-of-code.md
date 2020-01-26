@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/09/amazons-autogluon-produces-ai-models-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/09/amazons-autogluon-produces-ai-models-with-as-little-as-three-lines-of-code/amp/
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -31,6 +31,19 @@ images:
     title: "Amazon’s AutoGluon produces AI models with as little as 3 lines of code"
 
 related:
+  - title: "Amazon aims to democratize deep learning with new library AutoGluon"
+    excerpt: "“We developed AutoGluon to truly democratize machine learning, and make the power of deep learning available to all developers,” said Jonas Mueller, AWS applied scientist. According to ..."
+    publishedDateTime: 2020-01-10T16:00:00Z
+    sourceUrl: https://sdtimes.com/ai/amazon-aims-to-democratize-deep-learning-with-new-library-autogluon/
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 84
+    images:
+      - url: https://sdtimes.com/wp-content/uploads/2020/01/download-1.png
+        width: 1440
+        height: 810
   - title: "Amazon’s AutoGluon automates deep learning for devs"
     excerpt: "Amazon has created an open source toolkit for automated machine learning, called AutoGluon, designed to make it easier for software developers to take advantage of deep learning models in their applications. AutoGluon is intended for both machine learning experts and beginners, the company says. Officially launched January 9, AutoGluon lets ..."
     publishedDateTime: 2020-01-10T11:15:00Z

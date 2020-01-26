@@ -24,48 +24,21 @@ images:
     title: "Intelligent Automation Benefits Across Businesses: Industry Implementation and Key Market Players"
 
 related:
-  - title: "AI Chipset Market is Expanding Due to Adoption of Industrial Automation"
-    excerpt: "Chipset Market: By Component, [Hardware (Processors, CPU, GPU, ASIC, FPGA, Memory and Network) and Software). By Technology [ (Machine Learning, Natural Language Processing, and Others (Deep Learning and Computer Vision)] – Forecast Till 2023 Artificial Intelligence Chipset Market Research Report- Forecast till 2023 A white box server can be referred to as the computer framework in large data centers."
-    publishedDateTime: 2020-01-20T11:05:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15149083/ai-chipset-market-is-expanding-due-to-adoption-of-industrial-automation
-    ampUrl: https://amp.benzinga.com/amp/content/15149083
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15149083
+  - title: "Robots and Humans: Combined potential will help businesses deliver unprecedented results"
+    excerpt: "In addition to the industrial and professional robots, India is also one of the growing markets for software robots, including Robotic Process Automation (RPA), cognitive, and Artificial Intelligence (AI)-driven process ... unprecedented outcomes to their stakeholders. The start-up ecosystem for robots (industrial, professional services ..."
+    publishedDateTime: 2020-01-22T11:10:00Z
+    sourceUrl: https://www.businesstoday.in/opinion/columns/robots-and-humans-help-businesses-organisations-deliver-unprecedented-results-ai-machine-learning/story/394410.html
+    ampUrl: https://m.businesstoday.in/lite/story/robots-and-humans-help-businesses-organisations-deliver-unprecedented-results-ai-machine-learning/1/394410.html
+    cdnAmpUrl: https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/robots-and-humans-help-businesses-organisations-deliver-unprecedented-results-ai-machine-learning/1/394410.html
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 76
+      name: Business Today
+      domain: businesstoday.in
+    quality: 50
     images:
-      - url: https://www.abnewswire.com/uploads/1579519636.jpeg
-        width: 417
-        height: 455
-  - title: "Artificial Intelligence in Healthcare Market Advanced Technology and New Innovations by 2023 – Welltok, Intel, Nvidia, Google"
-    excerpt: "Market Industry Reports (MIR) has announced the addition of the “Global Artificial Intelligence in Healthcare Market Research Report 2019” The report focuses on global major leading industry players with information such as company profiles, product picture and specification. Artificial intelligence assists the machines to perform any task ..."
-    publishedDateTime: 2020-01-20T12:39:00Z
-    sourceUrl: https://www.techworld.com.au/mediareleases/37700/artificial-intelligence-in-healthcare-market/
-    type: article
-    provider:
-      name: Australian Techworld
-      domain: techworld.com.au
-    quality: 7
-  - title: "Global Automotive Artificial Intelligence Market Industry Trends, Estimation & Forecast, 2018 - 2025"
-    excerpt: "NVIDIA Corporation, Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation, Micron Technology, Otto Motors, BMW, Tesla Inc., and Toyota are some of the key players operating in the global automotive artificial intelligence market."
-    publishedDateTime: 2020-01-20T10:41:00Z
-    sourceUrl: https://www.openpr.com/news/1900862/global-automotive-artificial-intelligence-market-industry
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
-  - title: "World IoT Chip Markets to 2029: Increasing Demand for IoT Chips in Smart Manufacturing Applications Augments Robust Industry Growth"
-    excerpt: "/PRNewswire/ -- The \"Global IoT Chip Market: Focus on Type, End-use Industry and Region - Analysis and Forecast, 2019-2029\" report has been added"
-    publishedDateTime: 2020-01-24T15:45:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/world-iot-chip-markets-to-2029-increasing-demand-for-iot-chips-in-smart-manufacturing-applications-augments-robust-industry-growth-300992810.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
+      - url: https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/robots_humans_505_220120035608.jpg
+        width: 505
+        height: 264
 
 secured: "+lXMNx9SIjrqolktJAayJikMYtlBrG4ET0ZBKSov/PMOobSFL0LSd05DFBnfCWPHSNjEPDh/bIFFqggZ+g23g8FVzdu+RAQg/qh/IYwvFqqhyZQvuzBtTC31zoY9z1mU7jHPsHXpz/3r0Vn/x+Ty4r+fygugjus/Su0X+pkPN4yAnfcvBH/M/1MZ9cDcWssUSkyQKm9ip074DXxSTILBFQoV+LDeG6OXNkL1C6xRvdTJAkbGK6lP1M4vK1GdawIS6UfGLgAcg+npAI54RmK9JfFr/Q5Hs4k+8Rb0ElUVQbth0hp+4m/+9SezBjEqGZosrwfG+8i/zORsiG9Lux4kpPTjbRs5OpmVM3rkId4gl3oaAQPc2o2cSUuh8dntm/NHGHfYHzqXDccyFLInU77PgaeDHIPKxVO8Q3qB2YBmYAk6jx0aIKrIoTw1Vc9AKjpBdZkvcvSqYpz2A9rygtrL7w==;ApNttzrsnFXD7/f6AJUiSg=="
 ---

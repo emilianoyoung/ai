@@ -8,7 +8,7 @@ ampUrl: https://www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-
 cdnAmpUrl: https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy?amp=true
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -28,6 +28,21 @@ images:
     width: 1028
     height: 578
     title: "Facial-Recognition Technology Doesn't Have to Destroy Privacy"
+
+related:
+  - title: "Cambridge City Council Votes to Ban Facial Recognition Technology"
+    excerpt: "The Cambridge City Council unanimously approved a measure to ban the use of facial recognition technology in a 9-0 vote Monday night. Following the lead of Brookline, Northampton, and Somerville, Cambridge is the fourth city in Massachusetts to restrict ..."
+    publishedDateTime: 2020-01-15T17:37:00Z
+    sourceUrl: https://www.thecrimson.com/article/2020/1/16/cambridge-city-council-bans-facial-recognition/
+    type: article
+    provider:
+      name: The Harvard Crimson
+      domain: thecrimson.com
+    quality: 39
+    images:
+      - url: https://s3.amazonaws.com:443/thumbnails.thecrimson.com/photos/2017/12/12/171522_1326747.jpg.635x423_q95_crop-smart_upscale.jpg
+        width: 635
+        height: 423
 
 secured: "dXA1NtiqVgX62v8s87ZGxmw6aDNBeWvW7thaSD2LQ8wtA7oNu4AdCcc2Ijq3mTSU1++IxIDIxb+KG/xU00pnI5tF/M/DrE/X1mwcAb7IdpwtAAAMt1ESyL51OvgwyGCsJ8lDZNv/bLj/64VBNxSkRrTSlBvOeiOco+Pvs7tys4PO/UglxmYJu4k4S/alyOZv68OqHZHB0+WtPjtrrYBexyeO/LEkVQUfPWfAH+9a4rZK/idrEZBgIct6R9OAvIk3m8HwL/Cj8kd4GPnVe4pgnrcPVhlTffOmp/v768//iIX+iP04hqgW4jlCHr9hezdsMRPUytbuJfpbi8kV/pmBeIfmX0Pqzyx1k67ELJLemfT7aRRLiUuMy8NtY3moyyvTKUAZsXqAhRCp5wx1pVD89UpLusz3x5mWr9FbtRgSpN/mG3bZCVy8rZACY9vAcfRgjElnNJ4fjIurUlo5hrFfWw==;3ek+voAPOK/VOTQOKffMXQ=="
 ---

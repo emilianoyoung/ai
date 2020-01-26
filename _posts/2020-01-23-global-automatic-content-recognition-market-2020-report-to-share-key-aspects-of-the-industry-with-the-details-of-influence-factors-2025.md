@@ -28,19 +28,6 @@ images:
     title: "Global Automatic Content Recognition Market 2020: Report to Share Key Aspects of The Industry with The Details of Influence Factors- 2025"
 
 related:
-  - title: "Computer Vision Market- What Are The Main Factors That Contributing Towards Industry Growth?"
-    excerpt: "At Verified Market Intelligence, we provide a market study that encompasses both qualitative and quantitative assessments of latest trends for the market segmentations classified by our analysts. According to our research team,"
-    publishedDateTime: 2020-01-20T05:51:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/computer-vision-market--what-are-the-main-factors-that-contributing-towards-industry-growth-2020-01-20
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Mobile Artificial Intelligence Market Continue to Grow as Industry Spends Big to Reclaim Market 2029"
     excerpt: "A recent market research analysis titled, Mobile Artificial Intelligence Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Mobile Artificial Intelligence market covering industry surroundings,"
     publishedDateTime: 2020-01-23T06:34:00Z
@@ -54,32 +41,41 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Natural Language Processing Market- What Are The Main Factors That Contributing Towards Industry Growth?"
-    excerpt: "The Global Natural Language Processing Market was valued at USD 7.86 billion in 2016 and is projected to reach USD 30.48 billion by 2025, growing at a CAGR of 16.25% from 2017 to 2025. Natural language processing (NLP) is a field of computer science,"
-    publishedDateTime: 2020-01-23T08:28:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-market--what-are-the-main-factors-that-contributing-towards-industry-growth-2020-01-23
+  - title: "Artificial Intelligence in Social Media Market Augmented Expansion to Be Registered by 2020-2029"
+    excerpt: "A recent market research analysis titled, Artificial Intelligence in Social Media Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Artificial Intelligence in Social Media market covering industry surroundings,"
+    publishedDateTime: 2020-01-16T08:05:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-social-media-market-augmented-expansion-to-be-registered-by-2020-2029-2020-01-16
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 56
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "The latest market research, trends, and landscape in the growing AI chatbot industry"
-    excerpt: "Get a sneak peak into the chatbot and AI chat market that is growing fast! The latest industry research, trends and stats from our Intelligence Report."
-    publishedDateTime: 2020-01-23T21:48:00Z
-    sourceUrl: https://www.businessinsider.com/chatbot-market-stats-trends
+  - title: "How Does AI Contribute to the Efficiency of the Utility Industry?"
+    excerpt: "AI also maps the ideal layout for new energy farms and storage spaces as the enterprise scales. Hence, utility companies should start deploying AI as soon as possible. It will not only empower the companies to reduce costs but also expand access to renewable power and preserve the natural environment."
+    publishedDateTime: 2020-01-25T03:33:00Z
+    sourceUrl: https://www.cioreview.com/news/how-does-ai-contribute-to-the-efficiency-of-the-utility-industry-nid-31102-cid-41.html
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
     images:
-      - url: https://i.insider.com/5e29ec4762fa81053f03e106?width=1200&format=jpeg
-        width: 1200
-        height: 600
+      - url: https://www.cioreview.com/news_new/companyimages/10xwg.zzfij.Avertraguys.jpg
+        width: 430
+        height: 300
+  - title: "AI in Retail and e-Commerce Market Continues To Show Positive Growth"
+    excerpt: "IBM, SAP, AWS, and Microsoft are the key players in the AI in retail and e-commerce market. In 2017, Godrej Interio, a leading furniture brand in India, collaborated with IBM and selected Watson Commerce for increasing customer engagement and experience. Kroger, one of the America's largest grocery store chain, and Microsoft partnered in ..."
+    publishedDateTime: 2020-01-24T06:43:00Z
+    sourceUrl: https://www.openpr.com/news/1907036/ai-in-retail-and-e-commerce-market-continues-to-show-positive
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
 
 secured: "FRrSYFXHFctVTy92aMQUO+Sz4Uv+EuBACXHHi/70beNteBHMMvh2KMQo41rCx9wcA8X20HZdmlhhHsE5klHKZaiQIOjfGGilSKh2WkWwTiXYnade1n5RoSl/CxStqW4k5GcJG22NdWSkHy1t7Xa91MEyIRJSUEd/+6dR1oSDaguQOt4iqgpV3vwOLzPaEk3Pgjitn11IPyn/OF8jKA26geg/YVT3MXkb8MVA4OMBCm031wb5bN5ae12BTPQ8yUtycq0zKCbvQ9PBdtS7ZNALHQNYsbeyWTV3AMKvWi1oWK7UMEcZZwq67dcVZwm+ATCM;YC+ceKky9b3wDKhLm5fhjA=="
 ---

@@ -24,21 +24,19 @@ images:
     title: "what3words Voice API features Speechmatics automatic speech recognition technology"
 
 related:
-  - title: "Why your business should focus on understanding speech over voice recognition"
-    excerpt: "If you have ever had to repeat “yes” six times to your automated telephone banking assistant, you’d be forgiven for thinking that automatic speech recognition (ASR) has a long way yet to go."
-    publishedDateTime: 2020-01-23T10:44:00Z
-    sourceUrl: https://thenextweb.com/podium/2020/01/23/why-your-business-should-focus-on-understanding-speech-over-voice-recognition/
-    ampUrl: https://thenextweb.com/podium/2020/01/23/why-your-business-should-focus-on-understanding-speech-over-voice-recognition/amp/
-    cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/01/23/why-your-business-should-focus-on-understanding-speech-over-voice-recognition/amp/
+  - title: "Raspberry Pi offline speech recognition system using Mozilla’s Deepspeech Engine"
+    excerpt: "Raspberry Pi enthusiasts interested in setting up off-line speech recognition on their Raspberry Pi 4 mini PC may be interested in a project published to the Hackster.io website this week by member Dmitry Maslov. The project is based on Mozilla’s Deepspeech Engine 0.6.1 and is equipped with a re-speaker and offers a service “faster than ..."
+    publishedDateTime: 2020-01-23T14:35:00Z
+    sourceUrl: https://www.geeky-gadgets.com/raspberry-pi-offline-speech-recognition-system-using-mozillas-deepspeech-engine-23-01-2020/
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 71
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 34
     images:
-      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Untitled-design40-796x417.png
-        width: 796
-        height: 417
+      - url: https://www.geeky-gadgets.com/wp-content/uploads/2020/01/Raspberry-Pi-offline-speech-recognition.jpg
+        width: 700
+        height: 500
 
 secured: "ZqiyerbIAL/g6rQMixb3bryuDwUhKvdx09xm2IwdHBZH7e6EP1BQ/iXN25bxmRwsdYdxo8A0XdXaWcMTKfgcA9RjahS3/hwleMDZXirRytxWb508Ornt6FgdzAawSknL5YVTUuRH1i2QJVi4yqwUlPeAPQzYwV4/ztXDJ4mmpQCo/DT72vQJDQOZsMO+T9n1htiH66T7B7A1DQKe7rTTm0WvyevCk3xDcHPJlqmryV4JEOQtr6Rp+TMVSbuFlkYit3BaS+u9vgChSXfT3vEKGCnr6fAZlHgAh0YaUc4G94Hsd8FEgHgDiiKrDakRs5thaBsSUNEo0ReCUGsFgIpIT6wt6hYnf9JKp/r9MNlCE2Ju4tYwkNL+jfIzd2PlwUDyU5fwlllHIHy+BdD2k5qHSk1WtDf93hk0FDDWGs//osD+XpwoJvnn1zC/RSy/OBdebZr14jslBJmreFwgOnVSnw==;4/onFG7sTbyEHIjd4FRvkg=="
 ---

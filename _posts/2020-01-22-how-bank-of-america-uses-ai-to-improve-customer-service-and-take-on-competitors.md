@@ -8,7 +8,7 @@ ampUrl: https://www.itpro.co.uk/technology/artificial-intelligence-ai/354510/how
 cdnAmpUrl: https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354510/how-bank-of-america-uses-ai-to-improve-customer?amp
 type: article
 quality: 100
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "How Bank of America uses AI to improve customer service and take on competitors"
 
 related:
+  - title: "Air New Zealand using computer vision AI"
+    excerpt: "Air New Zealand is trialling the latest in computer vision artificial intelligence (AI) in its search for innovative ways to continually improve aircraft turn times and better on-time performance. The new technology, made available through a partnership with leading technology start-up Assaia and alongside Auckland Airport, uses computer vision ..."
+    publishedDateTime: 2020-01-22T20:10:00Z
+    sourceUrl: https://www.scoop.co.nz/stories/BU2001/S00141/air-new-zealand-using-computer-vision-ai.htm
+    ampUrl: https://m.scoop.co.nz/stories/BU2001/S00141/air-new-zealand-using-computer-vision-ai.htm
+    cdnAmpUrl: https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2001/S00141/air-new-zealand-using-computer-vision-ai.htm
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 74
+    images:
+      - url: https://m.scoop.co.nz/stories/images/1512/smcnz.png
+        width: 268
+        height: 250
   - title: "Where Voice Experiences Fit in Customer Service"
     excerpt: "Fluss added that voice is the most ubiquitous and easiest form of interaction for most people, and the cost of the underlying technology for voice recognition has dropped. “When a customer is calling into the enterprise it’s because they tried web and mobile and still have questions, couldn’t complete their transaction, or because they ..."
     publishedDateTime: 2020-01-16T15:56:00Z
@@ -45,17 +60,19 @@ related:
       - url: https://www.cmswire.com/~/media/e66e4fbac85346988b8614552b01df68.jpg?mw=1024&hash=F9A672BDE93FDCF1491E09293D8024FD552E99A6
         width: 640
         height: 480
-  - title: "Building a Customer Service Dream Team"
-    excerpt: "It’s not uncommon for customer questions to involve looking for answers in multiple systems–why did the financial system deliver an incorrect ... That same platform should provide the self-service capabilities customers expect, drive customer resolutions faster with machine learning, and provide analytics to continually measure and improve ..."
-    publishedDateTime: 2020-01-22T03:14:00Z
-    sourceUrl: https://www.business2community.com/customer-experience/building-a-customer-service-dream-team-02277241
-    ampUrl: https://www.business2community.com/customer-experience/building-a-customer-service-dream-team-02277241/amp
-    cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/customer-experience/building-a-customer-service-dream-team-02277241/amp
+  - title: "Apple Acquires a Company that Forbes described as one the most Promising Artificial Intelligence companies in America"
+    excerpt: "A new report posted today claims that Apple has acquired Seattle based Xnor.ai, a spin-off from Paul Allen’s Allen Institute for Artificial Intelligence. XNOR.ai aimed at making state-of-the-art AI capabilities cheaper and more accessible. GeekWire notes in their exclusive report that \"The arrangement suggests that Xnor’s AI-enabled image ..."
+    publishedDateTime: 2020-01-16T01:36:00Z
+    sourceUrl: https://www.patentlyapple.com/patently-apple/2020/01/apple-acquires-a-company-that-forbes-described-as-one-the-most-promising-artificial-intelligence-companies-in-america.html
     type: article
     provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 24
+      name: Patently Apple
+      domain: patentlyapple.com
+    quality: 14
+    images:
+      - url: https://www.patentlyapple.com/.a/6a0120a5580826970c0240a4b45ead200c-600wi
+        width: 600
+        height: 330
 
 secured: "0M/PgvPWqBVBVeCfE/ZFOtlxl+RbV73IunJjrPpJWh1geu/7JaNKPuWfphBeDZzIGoM1jmT9B/c0SbP52uTuC+Zozk1/MncI7TmKYxe0QnrH6xjp5OU/pK4L1D6gwyGvK1w/bpzu38PFUsR5dCqdniq2KyILuX60OagvY1sdJW7FUECI2H4sscPlRCD0YPHl/XRqu2xBMYMgpTTmpG/pMkzqXwTd+N4OsFv4c29E80LSSXeon7ihnE5YHK09FAjkrj51y8kl+6betjMxggzugUCq2ijgqMQhftNS62tL47c8jJB1hDSYFzCRRfRcRw5J;ArBqh3hm5yKLkIzGcOJmww=="
 ---

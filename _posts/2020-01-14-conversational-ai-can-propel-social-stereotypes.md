@@ -8,8 +8,8 @@ ampUrl: https://www.wired.com/story/opinion-conversational-ai-can-propel-social-
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-conversational-ai-can-propel-social-stereotypes/amp
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: Wired
@@ -29,43 +29,17 @@ images:
     title: "Conversational AI Can Propel Social Stereotypes"
 
 related:
-  - title: "Five Conversational AI Predictions For 2020"
-    excerpt: "The year 2020 will be an exciting time for conversational artificial intelligence (AI), as chatbots join forces with other digital assistants and integrate deeper into back-end technologies to deliver better user experiences and increase productivity."
-    publishedDateTime: 2020-01-10T11:08:00Z
-    sourceUrl: https://www.forbes.com/sites/forbescommunicationscouncil/2020/01/10/five-conversational-ai-predictions-for-2020/
-    ampUrl: https://www.forbes.com/sites/forbescommunicationscouncil/2020/01/10/five-conversational-ai-predictions-for-2020/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/01/10/five-conversational-ai-predictions-for-2020/amp/
+  - title: "Dating apps need women. Advertisers need diversity. AI companies offer a solution: fake people"
+    excerpt: "Another company says it’s moving past AI-generated headshots and into the generation of full, fake human bodies as early as this month. The AI software used to create such faces is freely available and improving rapidly, allowing small startups to easily create fakes that are so convincing they can fool the human eye. The systems train on ..."
+    publishedDateTime: 2020-01-13T14:31:00Z
+    sourceUrl: https://www.seattletimes.com/business/dating-apps-need-women-advertisers-need-diversity-ai-companies-offer-a-solution-fake-people/
+    ampUrl: https://www.seattletimes.com/business/dating-apps-need-women-advertisers-need-diversity-ai-companies-offer-a-solution-fake-people/?amp=1
+    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/dating-apps-need-women-advertisers-need-diversity-ai-companies-offer-a-solution-fake-people/?amp=1
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1130053721/960x0.jpg?fit=scale
-        width: 711
-        height: 474
-  - title: "Conversational AI Market 2020 Analysis, Growth by Top Companies, Trends by Types and Application, Forecast to 2025 – Market Research Engine"
-    excerpt: "New York, January 14, 2020: Based on Type, the global Conversational AI market is segmented in Intelligent Virtual Assistants and Chatbots. The report also bifurcates the global Conversational AI market based on Technology in Machine Learning and Deep Learning,"
-    publishedDateTime: 2020-01-14T08:34:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/conversational-ai-market-2020-analysis-growth-by-top-companies-trends-by-types-and-application-forecast-to-2025-market-research-engine-2020-01-14-41753458
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "AI Chips: 5 Predictions for 2020"
-    excerpt: "Will Intel’s acquisition of Israeli AI accelerator startup Habana Labs last month kick-start a surge of acquisitions? This market is absolutely teeming with chip startups, many of whom are reaching a level of maturity where they are revealing their architectures and starting to produce measurable results. As established semiconductor ..."
-    publishedDateTime: 2020-01-17T01:04:00Z
-    sourceUrl: https://www.eetindia.co.in/news/article/AI-Chips-5-Predictions-for-2020
-    type: article
-    provider:
-      name: eetindia.co.in
-      domain: eetindia.co.in
-    quality: 34
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 25
   - title: "Vonage Partners with Artificial Solutions to Deliver Conversational AI"
     excerpt: "Artificial Solutions® is the leading specialist in enterprise-strength conversational AI, a form of Artificial Intelligence that allows people to communicate with applications, websites and devices in everyday, humanlike natural language via voice, text, touch or gesture input. Designed for the global enterprise, the Company's advanced ..."
     publishedDateTime: 2020-01-16T13:39:00Z

@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/16/how-ai-technol
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/16/how-ai-technology-will-change-the-way-we-treat-advertising-in-2020/amp/
 type: article
 quality: 87
-heat: 147
+heat: 127
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     title: "How AI Technology Will Change The Way We Treat Advertising In 2020"
 
 related:
-  - title: "Machine Learning Market Rising Trends and Technology Advancements 2020 to 2026"
-    excerpt: "The Global Machine Learning Market is carefully researched in the report while largely concentrating on top players and their business tactics, geographical expansion, market segments, competitive landscape,"
-    publishedDateTime: 2020-01-17T08:54:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-market-rising-trends-and-technology-advancements-2020-to-2026-2020-01-17
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "The Top 10 Artificial Intelligence Trends Everyone Should Be Watching In 2020"
     excerpt: "Artificial Intelligence (AI) has undoubtedly been the technology story of the 2010s ... AI will increasingly be monitoring and refining business processes While the first robots in the workplace were mainly involved with automating manual tasks such as manufacturing and production lines, today's software-based robots will take on the repetitive ..."
     publishedDateTime: 2020-01-14T23:15:00Z
@@ -55,6 +42,19 @@ related:
       - url: https://media-exp1.licdn.com/dms/image/C4D12AQFXksQAM4u1_w/article-cover_image-shrink_600_2000/0?e=1584576000&v=beta&t=Ra4q0V6V0nExM8vWqzHT4Se_pQWfOByCgh-V1bqAUqk
         width: 1384
         height: 600
+  - title: "Business Challenge 2020: Keeping Pace with the Rising Expectations for Artificial Intelligence"
+    excerpt: "NEW YORK, Jan. 16, 2020 /PRNewswire/ -- In the next decade, artificial intelligence (AI ... noticeable differences in the pace of AI adoption across five industries (healthcare, financial services, transportation, technology and retail)."
+    publishedDateTime: 2020-01-16T14:32:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/2020/01/16/9082753.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 27
+    images:
+      - url: https://mma.prnewswire.com/media/648978/KPMG_Logo.jpg
+        width: 400
+        height: 295
   - title: "What Are The Top 5 Fintech Trends Everyone Should Be Watching In 2020?"
     excerpt: "Here are the top 5 fintech trends everyone should be watching in 2020 because they will impact anything that involves money. 1. Hyper-personalization via big data and AI For many years, marketing experts espoused the benefits of personalization to attract customers and keep them loyal. Today, thanks to big data and artificial intelligence that ..."
     publishedDateTime: 2020-01-12T23:03:00Z
@@ -81,32 +81,6 @@ related:
       - url: https://www.washingtonpost.com/pbox.php?url=https://palomaimages.washingtonpost.com/pr2/43572665e7be2b8ca08046d9a801d074-GK2R6OFINYI6TBZTJDEHENPTSY-680-453-70-8.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517
         width: 1484
         height: 988
-  - title: "Cognitive Computing Technology Market 2020 – 2023: Business Trends, Emerging Technologies, Size, Global Segments and industry Profit Growth"
-    excerpt: "The study indicates that by technology segment, natural language processing is the most prominent technology used in the cognitive computing industry owing to its integral capacity to process natural language interactions. At present, automated reasoning and information recovery technologies have limited applications thereby, restricting the ..."
-    publishedDateTime: 2020-01-22T11:20:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15161098/cognitive-computing-technology-market-2020-2023-business-trends-emerging-technologies-size-global
-    ampUrl: https://amp.benzinga.com/amp/content/15161098
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15161098
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 10
-    images:
-      - url: https://www.abnewswire.com/uploads/1579690500.png
-        width: 800
-        height: 428
-  - title: "Image Recognition Market is Striving in Worldwide with Top Key Players 2020 | IBM Corporation, Imagga Technologies Ltd., Amazon Web Services, Inc"
-    excerpt: "Growing popularity of media cloud services and increasing pace of technological advancements in facial recognition technology drive the growth of the global image recognition market. Moreover, surge in the number of mobile devices equipped with cameras and rise in demand for security applications and products laden with image recognition features supplement the market growth."
-    publishedDateTime: 2020-01-17T03:12:00Z
-    sourceUrl: https://www.benzinga.com/press-releases/20/01/wr15140449/image-recognition-market-is-striving-in-worldwide-with-top-key-players-2020-ibm-corporation-imag
-    ampUrl: https://amp.benzinga.com/amp/content/15140449
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15140449
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "IG5p5uI+qhNZd2rq6CXpF3VfDOy5MpXTi51+clGeQ3UzmUbEXTc6WaNNh/UnZluTIHXKLaP2diCzhMBVOWe3J62iwP4DbuPgEbmaH9EAIXyfzyQz2QsF1Qos4BRKOkKRZlf+VW2gVrYSE6OMMWBxLDqxFf+OI1b7k2SeMl4U/A0TKQ3iErZB5FEVREsoX5n49qkYlveg10o6QhBwWyAOWI8IlReNvZT8tMxiP9DKKfPMJ0y7eQMIWcP5N4s4FgVUktwG+m8NB7LfThdDQNBy3CxOpWq6iVxNkU133VkpVaJrb2SjWD6Yg4NJdpMLI9wdnw8ubu+ySL7kqpzvdcUd0WXkIeqC99b3cj6bLZX9rdZsC/wiihv1sHnSv7w1DN5B4eV5YyRyxYhm9aHmTyDEnTLyAFpgo2KRuyL8zIx31taZdyHp1qnXXIQ9W55ABdIS+Buwa6F6OF0wBci8JLjveg==;0O/89XTfEpNTD4vt0VzDNw=="
 ---

@@ -27,6 +27,21 @@ images:
     height: 400
     title: "Quickstart: Create and manage knowledge base"
 
+related:
+  - title: "Quickstart: Personalizer client library"
+    excerpt: "The Personalizer client is a PersonalizerClient object that authenticates to Azure using Microsoft.Rest.ServiceClientCredentials ... If you want to clean up and remove a Cognitive Services subscription, you can delete the resource or resource group. Deleting the resource group also deletes any other resources associated with it."
+    publishedDateTime: 2020-01-18T01:49:00Z
+    sourceUrl: https://docs.microsoft.com/en-us/azure/cognitive-services/personalizer/sdk-learning-loop
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 24
+    images:
+      - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
+        width: 400
+        height: 400
+
 secured: "lpZ+laKpgN7eeAFnl4pL3itERlXaQIs43EFjm/QYOXCd6k0OT1hL6j/3p9BJXKGp2/Cy8x/PncuHz51xmSoICgXXG4mCxy2hEvgGvZfPGTU25gI8mbEHGACpUw7Ay2NNoOZQyJL6NllunEHPer/6BQP6IRBxfF/jShp+68IulZCg6zuswRaVc5kdFddx9LBNtEuopvyJY3rv89fmEl1xxaqmMQHR3lffc2K9Rs5Vrr16knbozG0ph+utdGnBDC6px2aJHGhyaelrGq1DGQRZ+bsHWh6dISDCShCHVTH4ApI=;nSitQwERvriKrzYwhqvtQA=="
 ---
 

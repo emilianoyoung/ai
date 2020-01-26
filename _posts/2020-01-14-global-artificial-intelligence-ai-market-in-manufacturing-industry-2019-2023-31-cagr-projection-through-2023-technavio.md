@@ -1,56 +1,58 @@
 ---
 category: news
 title: "Global Artificial Intelligence (AI) Market in Manufacturing Industry 2019-2023 | 31% CAGR Projection Through 2023 | Technavio"
-excerpt: "market in manufacturing industry is expected to post a CAGR of around 31% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia."
+excerpt: "report=IRTNTR32119 As per Technavio, the increasing human-robot collaboration will have a positive impact on the market and contribute to its growth significantly over the forecast period. This research report also analyzes other important trends and market drivers that will affect market growth over 2019-2023. Global Artificial Intelligence ..."
 publishedDateTime: 2020-01-14T06:30:00Z
-sourceUrl: https://www.benzinga.com/pressreleases/20/01/b15116989/global-artificial-intelligence-ai-market-in-manufacturing-industry-2019-2023-31-cagr-projection-th
-ampUrl: https://amp.benzinga.com/amp/content/15116989
-cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15116989
+sourceUrl: https://www.businesswire.com/news/home/20200113005995/en/Global-Artificial-Intelligence-AI-Market-Manufacturing-Industry
 type: article
-quality: 47
-heat: 47
+quality: 27
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: https://mms.businesswire.com/media/20200113005995/en/767292/4/Global_Artificial_Intelligence_%28AI%29_Market_in_Manufacturing_Industry_2019-2023.jpg
-    width: 480
-    height: 270
+  - url: https://mms.businesswire.com/media/20200113005995/en/767292/23/Global_Artificial_Intelligence_%28AI%29_Market_in_Manufacturing_Industry_2019-2023.jpg
+    width: 1200
+    height: 627
     title: "Global Artificial Intelligence (AI) Market in Manufacturing Industry 2019-2023 | 31% CAGR Projection Through 2023 | Technavio"
 
 related:
-  - title: "Global Closed-circuit Television (CCTV) Camera Market 2019-2023 | Introduction of Deep Learning Technology to Boost Growth | Technavio"
-    excerpt: "Some vendors are integrating the latest technologies such as AI, deep learning, and machine learning with CCTVs to improve video surveillance capabilities. For instance, in 2018, Zhejiang Dahua Technology introduced IP-based cameras with built-in facial ..."
-    publishedDateTime: 2020-01-13T20:00:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20200113005538/en/Global-Closed-circuit-Television-CCTV-Camera-Market-2019-2023
+  - title: "Artificial Intelligence (AI) Market Forecast 2023 | How Much of the Stock Market is Traded by AI"
+    excerpt: "Artificial Intelligence (AI) Market Research Report – Forecast To 2023 Market Highlights The global market for artificial intelligence (AI) can expect to attain a highly impressive growth rate of 48% during the forecast period (2017-2023),"
+    publishedDateTime: 2020-01-08T07:54:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-forecast-2023-how-much-of-the-stock-market-is-traded-by-ai-2020-01-08
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 7
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
     images:
-      - url: https://mms.businesswire.com/media/20200113005538/en/767042/23/Global_CCTV_Camera_Market_2019-2023.jpg
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
-        height: 627
-  - title: "Global Natural Language Processing (NLP) Market is Set to Reach USD 23.0 billion by 2024, Observing a CAGR of 20.0% during 2019–2024: VynZ Research"
-    excerpt: "NEW YORK, Jan. 08, 2020 (GLOBE NEWSWIRE) -- The global natural language processing (NLP) market is expected to grow at a CAGR of 20.0% during the forecast period with its market size predicted to ..."
-    publishedDateTime: 2020-01-08T13:08:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/g15093385/global-natural-language-processing-nlp-market-is-set-to-reach-usd-23-0-billion-by-2024-observing-a
-    ampUrl: https://amp.benzinga.com/amp/content/15093385
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15093385
+        height: 630
+  - title: "Global Artificial Intelligence (AI) Market in BFSI Sector 2019-2023 | 32% CAGR Projection Through 2023 | Technavio"
+    excerpt: "market in BFSI sector is expected to post a CAGR of more than 32% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia."
+    publishedDateTime: 2020-01-14T03:00:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/b15116798/global-artificial-intelligence-ai-market-in-bfsi-sector-2019-2023-32-cagr-projection-through-2023-
+    ampUrl: https://amp.benzinga.com/amp/content/15116798
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15116798
     type: article
     provider:
-      name: benzinga.com
+      name: Benzinga.com
       domain: benzinga.com
-    quality: 1
+    quality: 52
+    images:
+      - url: https://mms.businesswire.com/media/20200113005533/en/766971/4/Global_Artificial_Intelligence_%28AI%29_Market_in_BFSI_Sector_2019-2023_.jpg
+        width: 480
+        height: 270
 
-secured: "0T9rSHrUQJTgPVkb2G6jDNK3gTbULcCjgcsSg4fG5wO9DgOnvn5wjPuT6GPEPVP3cU+sh6gQO/fHdiJ3MNqU8fK/jkgGEaK5Ed2DpKH7ejuB26KVJ0kJRYR5ic2glQ3CZ1sUgd+PJKkm+UQURp/1TiL5iwAGwVPOYmHDIxUyEfpkHTluwPV/1MI0eclY3oo9gJLxbXNU8WNs4K+TUbXlbUWqDU51BrNpEd8m080Odug0D0ida0X/v45zAJpFhcaQ9ROC7+2x8lXApIIDTkwPLaV000QBzzB1Q5yVaoC5/6Xmihgn4U+4ADdbBqQMt3TT;jXaM6dawg3HBsEqiGtMJXg=="
+secured: "3XP0XgaTkIT0h1Zn7DfQFKscNAsdwUC4ExR3JR2F9qqvTr3TVIVeAZ8nuwrxpeDva/NGI8NaSwJBJx/cQooyjXWWe3jtVdYeGj8tJLsX3RhEQ/VJUfJuddQGQM5xajYKMv0zv2MPezuJOq7UYpxTWPBd/pbcQhyzV0061nRcPwzNJ8PDJId+d0dBOoJLo5eox155I9IyI+HRsKOUISY9uXx6vFwdbAPLS1kMJ2m2FC87UbG/6AKTPb2gv6Ja3KoA3x9iGw99l6SSLHIXrB4okCE7wL0UDpr7BZwTKthvuq2yX30YTMe0gLAh8/BZDcMo;XLZ8JVhdXXQ3+si0agfMNg=="
 ---
 

@@ -8,8 +8,8 @@ ampUrl: https://www.brookings.edu/research/the-case-for-ai-transparency-requirem
 cdnAmpUrl: https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/the-case-for-ai-transparency-requirements/amp/
 type: article
 quality: 59
-heat: 59
-published: false
+heat: 69
+published: true
 
 provider:
   name: Brookings Institution
@@ -24,6 +24,21 @@ images:
     width: 3500
     height: 1918
     title: "The case for AI transparency requirements"
+
+related:
+  - title: "Ethical AI is Built On Transparency, Accountability and Trust"
+    excerpt: "Dr. Steven Mintz explores the principles governing the ethical use of AI. Ethics are important, whether in our personal or professional lives. Most people believe that ethical behavior encompasses standards such as honesty, fairness, integrity ..."
+    publishedDateTime: 2020-01-16T12:34:00Z
+    sourceUrl: https://www.corporatecomplianceinsights.com/ethical-use-artificial-intelligence/
+    type: article
+    provider:
+      name: corporatecomplianceinsights.com
+      domain: corporatecomplianceinsights.com
+    quality: 54
+    images:
+      - url: https://www.corporatecomplianceinsights.com/wp-content/uploads/2020/01/AI-human.jpg
+        width: 1000
+        height: 500
 
 secured: "VgWXV1agKGPBgu52+XN801FfAO9DReq7JKaprvCjpxvMRpmwZVVMHRm2QIxkr1rCxBt1TlNnGq0oxIz+rhCQepUUi/1mh5Bpp5icfZeDxNOOPL//OnWDYESRvvRtQZO7hJ2EBtAtkZ+AZMaoceWwwhUQ0LI2o2jKtp6f37uw3bIKRwIFwnRHgPQ6mXpLqd7SBpKb5ahc4HPWoDC97Zxn+24Tbi34vnU4KHvmssM9Q1sDWMDL3sihdqriKcaAKKCZYnvKQfoGvk0OtWwxe9yz8cpkdlAt9qxZiE/pC95Gw9jAu3MKOc6EP1KtfhbnFzkcncGn4xCnMZPq9EUPkNLZuJOC+pLJCEMlmRQ8ffVhHCrPTBfo4EY0e8LRNV5YA3VUKP58KtPevdzi51ygaQ/lgHRxNWsvBITB9mO7yIcfAcgxtFNmYyk+eEhRWcb/Jv0vvdd6Ls86UyadJzmZdf21Iw==;EENtn1WNiNXosa/EiMdYLA=="
 ---

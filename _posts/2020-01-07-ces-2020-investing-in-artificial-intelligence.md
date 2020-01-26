@@ -19,17 +19,84 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Mark Cuban Talks Investing in AI and Regulating Big Tech at Variety’s CES Summit"
-    excerpt: "One important reason why he believes that is because the behemoths are “doing the research that’s keeping our country competitive with other countries in terms of AI.” If Facebook ..."
-    publishedDateTime: 2020-01-09T01:49:00Z
-    sourceUrl: https://variety.com/2020/biz/news/mark-cuban-ai-tikok-variety-entertainment-summit-1203461358/
-    ampUrl: https://variety.com/2020/biz/news/mark-cuban-ai-tikok-variety-entertainment-summit-1203461358/amp/
-    cdnAmpUrl: https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/biz/news/mark-cuban-ai-tikok-variety-entertainment-summit-1203461358/amp/
+  - title: "AI in 2020: From Experimentation to Adoption"
+    excerpt: "Advances in data discovery and management, skills training and AI explainability are driving the rate of AI adoption faster than many predicted."
+    publishedDateTime: 2020-01-07T19:15:00Z
+    sourceUrl: https://www.forbes.com/sites/ibm/2020/01/07/ai-in-2020-from-experimentation-to-adoption/
+    ampUrl: https://www.forbes.com/sites/ibm/2020/01/07/ai-in-2020-from-experimentation-to-adoption/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ibm/2020/01/07/ai-in-2020-from-experimentation-to-adoption/amp/
     type: article
     provider:
-      name: Variety
-      domain: variety.com
-    quality: 34
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e135cf50bf81b0006244a5e%2F0x0.jpg
+        width: 800
+        height: 450
+  - title: "Five Conversational AI Predictions For 2020"
+    excerpt: "The year 2020 will be an exciting time for conversational artificial intelligence (AI), as chatbots join forces with other digital assistants and integrate deeper into back-end technologies to deliver better user experiences and increase productivity."
+    publishedDateTime: 2020-01-10T11:08:00Z
+    sourceUrl: https://www.forbes.com/sites/forbescommunicationscouncil/2020/01/10/five-conversational-ai-predictions-for-2020/
+    ampUrl: https://www.forbes.com/sites/forbescommunicationscouncil/2020/01/10/five-conversational-ai-predictions-for-2020/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/01/10/five-conversational-ai-predictions-for-2020/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1130053721/960x0.jpg?fit=scale
+        width: 711
+        height: 474
+  - title: "Future of Cartesian Robot Market 2020: Integration of Artificial Intelligence and Big Data"
+    excerpt: "Cartesian Robots Market Research Report and Forecast to 2019-2024 Report provide extensive research on the fast-evolving Cartesian Robots Market. It also gives the competitive landscape of the leading companies with regional and Global analysis of the market till 2027."
+    publishedDateTime: 2020-01-14T10:16:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/future-of-cartesian-robot-market-2020-integration-of-artificial-intelligence-and-big-data-2020-01-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "CES 2020: Older adults embrace AI with transparency"
+    excerpt: "Tonya Hall talks with Kari Olson, chief innovation and technology officer at Front Porch, about how older adults are beginning to understand and embrace AI."
+    publishedDateTime: 2020-01-14T14:01:00Z
+    sourceUrl: https://www.zdnet.com/video/ces-2020-older-adults-embrace-ai-with-transparency/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
+    images:
+      - url: https://zdnet4.cbsistatic.com/hub/i/r/2020/01/14/8d8ebb00-3f91-4110-adc1-769ce1d616d0/thumbnail/770x578/8cdde30d9fe62b9ee966452220fe3f7f/thumb.jpg
+        width: 770
+        height: 578
+  - title: "AI in 2020: Artificial Intelligence? Or just plain artificial?"
+    excerpt: "But that hasn’t stopped AI from becoming one of the buzziest terms thrown around by technology and financial services experts. Fintech startups use the word to make products appear cutting-edge and established firms find they have to offer “AI” to remain competitive. The products they are referring to as AI, though, are often little more ..."
+    publishedDateTime: 2020-01-10T22:21:00Z
+    sourceUrl: https://www.investmentnews.com/ai-in-2020-artificial-intelligence-or-just-plain-artificial-176281
+    type: article
+    provider:
+      name: InvestmentNews
+      domain: investmentnews.com
+    quality: 54
+    images:
+      - url: https://s32566.pcdn.co/wp-content/uploads/2020/01/CoverStory-image-20200113-900x600-1.jpg
+        width: 900
+        height: 600
+  - title: "Fluent.ai Named CES 2020 Innovation Honoree for its Advancements in Voice Recognition Technology"
+    excerpt: "The speech technology start-up will be highlighted for its Multi-Wake Word and Intent Recognition technology, in addition to announcing a new partnership with COMMAX Inc."
+    publishedDateTime: 2020-01-06T14:04:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2020/01/06/1966557/0/en/Fluent-ai-Named-CES-2020-Innovation-Honoree-for-its-Advancements-in-Voice-Recognition-Technology.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 6
 
 secured: "N/2ojyLuOAXsXeykbO9zy1J7+IEz3yIaquTZkuZNolyiQ+GBx816BRkPvdn3GJy+N+7qtrELEg/ZtJVL6NcGLe5ookSdV5Agr+sxSCV57GHEko9m+NZ0Q1EsRh1ZU5iz9n/1v9EBEAc31eR7QsrGQpJM3bvOt2jQhesJ5+8TpyAKITmPZbCSU54xl44u3ePio3VqQOC0XXRHeJV33JVkHUekT7nWIK2prmN2U9URI5ZjgAgzeiBb28lRHclzfnY1xWbLInbxCHb80ULNOkk7D78HUWo7fdxjlrZQezRN7kaMQ87YmjvyG4xZ+cTxKejN01rs0zxY4tDbzFjCYJ/XKxrlbJKrpwdWr3r1lZH1JUB4vanIw8ZjeAbC/RAq/KwaDoz+KsBmB193W2X2QJ7Ysyy7iTrlFcZ8Mn9r1SR1BmLT51v+d+t7bL41aIOrXKW55w3mrr4wemekVWrTQkmHmg==;bXwdGyBbhhQGPgMckRhv3g=="
 ---

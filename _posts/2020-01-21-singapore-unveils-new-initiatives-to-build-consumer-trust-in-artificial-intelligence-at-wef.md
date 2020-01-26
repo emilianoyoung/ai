@@ -39,6 +39,15 @@ related:
       - url: https://zdnet2.cbsistatic.com/hub/i/2020/01/22/0d371627-35ec-44a9-83fe-7238305ce185/singapore-model-ai-governance-framework-second-edition-compendium-of-use-cases-pdf1.png
         width: 913
         height: 582
+  - title: "AI and drone startup Clobotics bags $10m to expand to Singapore"
+    excerpt: "Shanghai- and Seattle-headquartered computer vision technology company Clobotics has raised US$10 million in its pre-series B+ round from Tiger Investment, 36Kr reported on Wednesday. The new funds will be channeled toward research and development as well as the company’s expansion to Singapore. Clobotics closed its US$22 million pre-series B ..."
+    publishedDateTime: 2020-01-17T01:54:00Z
+    sourceUrl: https://www.techinasia.com/clobotics-bags-10m-expand-singapore
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 47
   - title: "Singapore sets up AI governance initiative to build consumer trust"
     excerpt: "A compendium of use cases; and c. The second edition of the model AI governance framework. According to the press release, the framework has been adopted by over fifteen organisations of all sizes internationally – from financial giants such as DBS, HSBC, Mastercard and Visa, fintech firms such as Suade Labs, to technology firms such as ..."
     publishedDateTime: 2020-01-23T03:49:00Z

@@ -29,19 +29,19 @@ images:
     title: "Don't want a robot stealing your job? Take a course on AI and machine learning."
 
 related:
-  - title: "Driverless Trucks Coming Your Way?"
-    excerpt: "The company is seeking to transform long-haul trucking by using AI (artificial intelligence) to create self-driving trucks ... Nevertheless, the fact that many companies are investing in driverless trucking technology and that TuSimple’s tests have been so successful give us reason to believe we may be seeing them sooner than we think."
-    publishedDateTime: 2020-01-16T14:19:00Z
-    sourceUrl: https://www.jewishpress.com/sections/scitech/electronics-today/driverless-trucks-coming-your-way/2020/01/16/
+  - title: "Robots could harness AI to master sandwich making"
+    excerpt: "Dr Baihua Li and her researchers are developing machine vision and embedded AI technology for the company’s 'Delta' robots ... such as items being misplaced or missing. Eventually, the robots could make and package sandwiches from start to finish without human intervention, allowing human workers to focus on “higher-value” activities."
+    publishedDateTime: 2020-01-23T16:27:00Z
+    sourceUrl: https://eandt.theiet.org/content/articles/2020/01/robots-could-harness-ai-to-master-sandwich-making/
     type: article
     provider:
-      name: Jewish Press
-      domain: jewishpress.com
-    quality: 39
+      name: IET
+      domain: theiet.org
+    quality: 54
     images:
-      - url: https://www.jewishpress.com/wp-content/uploads/Halperin-Tech-Talk-logo_JP_a.jpg
-        width: 900
-        height: 500
+      - url: https://eandt.theiet.org/media/10420/man-holding-sandwiches-happily.jpg?crop=0,0.17273888888888889,0,0.3331986111111111&cropmode=percentage&width=1200&height=450&rnd=132242685970000000
+        width: 1200
+        height: 450
 
 secured: "pAJ6h3Kpl5ZQWAP5haYvM52zOvfo9k1JHK0hC0Mu/xMOrvHlwmX67b+blPNt7A3tUdvXEXJrFYS+1rnHv4+q2H5WuOLi4SRsaiSpBvnJE4QHvJBOkjVjYvZv7P7KrdOpFHxI7BMACtpKEiJbFDqkECkTw75sj9SabP5zcKTsuSkprkH71afyePE2YLFo1y//sce2PQlRVOvOA/MPVUayUEcv+QE3jHcob56/yq24/R/72zcGPgBsxTKP3LlunTqLoHnJO/UquE/BeAqU5l5DRokOJQRjr1eOA/AwPSHMQoa3H8fnx5vPzDMN6zDUkh8pg5rM6y66Pn4Ed28eGnl/YwLlHOG62huQTh5siGY6CJaM/7rdc8eEKuzBMKwZKNSWVO9LBODNJRshxBrjr6YaHSRZ1ybJbXkRDbh3DM4+oMZjC+lVN3GZhQq8LH/DTFGlv14/38gTKOk3EcmsVZ1xvA==;5A1vupTieDCpi7xkGI9IQQ=="
 ---

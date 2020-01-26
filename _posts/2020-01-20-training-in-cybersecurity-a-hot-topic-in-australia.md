@@ -39,19 +39,36 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1189050036%2F0x0.jpg
         width: 1200
         height: 570
-  - title: "How LG’s Artificial Intelligence Is Changing How Consumers Use Appliances, Improving Sustainability And Doing Our Laundry Better"
-    excerpt: "One of the biggest trends at CES 2020 was Artificial Intelligence or AI. Advances in this type of technology have truly changed the way consumers use many devices in a relatively short period. And we’ve only just begun to discover the potential of what it can do."
-    publishedDateTime: 2020-01-20T16:20:00Z
-    sourceUrl: https://www.forbes.com/sites/amandalauren/2020/01/20/how-lgs-artificial-intelligence-is-changing-how-consumers-use-appliances-improving-sustainability-and-doing-our-laundry-better/
+  - title: "3 Big Takeaways From NRF 2020: Omnichannel Holidays, AI And The Measured Store"
+    excerpt: "It’s important to gauge retailers’ moods at NRF not least because it’s usually the first warning you have as to what holiday results are going to be like."
+    publishedDateTime: 2020-01-21T02:56:00Z
+    sourceUrl: https://www.forbes.com/sites/nikkibaird/2020/01/20/three-big-take-aways-from-nrf-2020-omnichannel-holidays-ai-and-the-measured-store/
+    ampUrl: https://www.forbes.com/sites/nikkibaird/2020/01/20/three-big-take-aways-from-nrf-2020-omnichannel-holidays-ai-and-the-measured-store/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nikkibaird/2020/01/20/three-big-take-aways-from-nrf-2020-omnichannel-holidays-ai-and-the-measured-store/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 55
+    quality: 83
     images:
-      - url: https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e25c0dd8b6cf300071c7e19%2F960x0.jpg
-        width: 600
-        height: 315
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1193597438%2F0x0.jpg
+        width: 1200
+        height: 800
+  - title: "Three Big Take-Aways from NRF 2020: Omnichannel Holidays, AI, and the Measured Store"
+    excerpt: "It’s important to gauge retailers’ moods at NRF not least because it’s usually the first warning you have as to what holiday results are going to be like."
+    publishedDateTime: 2020-01-20T20:39:00Z
+    sourceUrl: https://www.forbes.com/sites/nikkibaird/2020/01/20/three-big-take-aways-from-nrf-2020-omnichannel-holidays-ai-and-the-measured-store/
+    ampUrl: https://www.forbes.com/sites/nikkibaird/2020/01/20/three-big-take-aways-from-nrf-2020-omnichannel-holidays-ai-and-the-measured-store/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nikkibaird/2020/01/20/three-big-take-aways-from-nrf-2020-omnichannel-holidays-ai-and-the-measured-store/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 80
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1193597438%2F0x0.jpg
+        width: 1200
+        height: 800
   - title: "Artificial Intelligence in Cybersecurity Market is anticipated to grow at a CAGR of ~22.3% from 2019 to 2030"
     excerpt: "Market Industry Reports (MIR) has published a new report titled \"Artificial Intelligence in Cybersecurity Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2019-2030.\" According to the report,"
     publishedDateTime: 2020-01-23T12:53:00Z
@@ -63,19 +80,6 @@ related:
     quality: 48
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "What Is AI and How Can It Improve an Organization’s Security Posture?"
-    excerpt: "and translation between languages.” Gartner states that “Artificial intelligence applies advanced analysis and logic-based techniques, including machine learning, to interpret events, support and automate decisions, and take actions.” To summarize, AI in cybersecurity refers to a set of capabilities similar to human abilities that allow ..."
-    publishedDateTime: 2020-01-17T14:57:00Z
-    sourceUrl: https://securityintelligence.com/posts/what-is-ai-and-how-can-it-improve-an-organizations-security-posture/
-    type: article
-    provider:
-      name: Hack
-      domain: securityintelligence.com
-    quality: 39
-    images:
-      - url: https://securityintelligence.com/wp-content/uploads/2020/01/internal_what-is-ai-and-how-can-it-improve-an-organizations-security-posture.jpg
         width: 1200
         height: 630
   - title: "Microsoft Azure Sentinel Debuts in Hong Kong Providing Stronger Cybersecurity Offering for Local Businesses"
@@ -100,6 +104,28 @@ related:
       name: Robotics & Automation News
       domain: roboticsandautomationnews.com
     quality: 17
+  - title: "Client Note: Apple’s AI Acquisition, A $5B Challenger Bank Valuation, Snyk Becomes A Cybersecurity Unicorn, And More"
+    excerpt: "Also covered are an open banking mega-round, SoftBank invests in an IoT startup, and Amazon's hand-based payments. Want the full post? Become a CB Insights customer. If you’re already a customer, log in here."
+    publishedDateTime: 2020-01-22T17:33:00Z
+    sourceUrl: https://www.cbinsights.com/research/apple-ai-acquisition-challenger-bank-snyk-cybersecurity-unicorn/
+    type: article
+    provider:
+      name: CB Insights
+      domain: cbinsights.com
+    quality: 14
+    images:
+      - url: https://s3.amazonaws.com/cbi-research-portal-uploads/2020/01/22112245/climate-change_news-coverage_CN_012220.png
+        width: 512
+        height: 276
+  - title: "Bahrain and Karnataka sign Memorandum of Understanding promoting cooperation in Fintech, AI, IoT and cyber-security"
+    excerpt: "Build robust FinTech, Artificial Intelligence (AI), Internet of Things (IoT) and Cybersecurity ecosystems where startups and technology firms engage in external partnerships with corporates ..."
+    publishedDateTime: 2020-01-24T11:26:00Z
+    sourceUrl: https://news.webindia123.com/news/Articles/Business/20200124/3494590.html
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "z6fB2vBcoJ2oEXf6nPncLBmD+zfrYoWROlZbUuL/joFihOCNzy5vxIlgB8DnVe+Ng8zJ5TJPKmh1tcGyQqZ0IvjPW/zmKIJC8lUfOjY/fsgYl6fSw+05KMza+KpoL6+3EDyRjPgdniRjYr5sxmMNlo2/mvr6Z33inR1/v2T79Uh6seGIryG2w3kewfmtkJ7IpOzMOJAZ9tj+PyJDZUN+37WEvkLktuihRIIKMjgtLh495TUxjvduB/leavJ+W1mJSc9pe91In8uF+bu4EfVzrPm3YDZ9Zaz4D5hit/yZe/8=;WQVvZQ66MY+T+MW4ruct0g=="
 ---

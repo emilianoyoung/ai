@@ -8,8 +8,8 @@ ampUrl: https://www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020/?amp
 type: article
 quality: 85
-heat: 115
-published: true
+heat: -1
+published: false
 
 provider:
   name: Digital Trends
@@ -30,47 +30,88 @@ images:
     title: "Qualcomm’s self-driving car made me never want to touch a steering wheel again"
 
 related:
-  - title: "I Took a Test Ride in Qualcomm’s Experimental Self-Driving Car on a Busy Freeway"
-    excerpt: "A company known for its smartphone chips wants to power self-driving cars! We’re taking a test \"ride\" in their experimental vehicle! Qualcomm is a San Diego based company best known for its smartphone chips. Now, they want want to be the brains behind self driving cars, too. Recently I took a ride in their experimental prototype car ..."
-    publishedDateTime: 2020-01-20T13:30:00Z
-    sourceUrl: https://ktla.com/2020/01/20/qualcomm-snapdragon-ride-self-driving-car-test-las-vegas-ces-freeway/
-    ampUrl: https://ktla.com/2020/01/20/qualcomm-snapdragon-ride-self-driving-car-test-las-vegas-ces-freeway/amp/
-    cdnAmpUrl: https://ktla-com.cdn.ampproject.org/c/s/ktla.com/2020/01/20/qualcomm-snapdragon-ride-self-driving-car-test-las-vegas-ces-freeway/amp/
+  - title: "Looking for an affordable phone? Wait for Qualcomm’s new mid-range chipsets"
+    excerpt: "Combined with an improved Adreno 618 GPU, users can expect a significant leap in day-to-day as well as gaming performance over the Snapdragon 712. Imaging is one of the key focus areas for Qualcomm and the 720G gets a Spectra 350L ISP that enables image capture at up to 192MP as well as HEIF support. There are improvements in the AI engine as ..."
+    publishedDateTime: 2020-01-21T08:44:00Z
+    sourceUrl: https://www.androidauthority.com/qualcomm-snapdragon-460-662-720g-1076318/
+    ampUrl: https://www.androidauthority.com/qualcomm-snapdragon-460-662-720g-1076318/amp/
+    cdnAmpUrl: https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/qualcomm-snapdragon-460-662-720g-1076318/amp/
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 102
+    images:
+      - url: https://cdn57.androidauthority.net/wp-content/uploads/2020/01/Qualcomm-Snapdragon-460-662-and-720G-Mobile-Platforms-Chip-Case-920x470.jpg
+        width: 920
+        height: 470
+  - title: "Qualcomm’s launched a trio of 4G chips: 5G ain’t going mainstream anytime soon"
+    excerpt: "The chip also features support for Qualcomm aptX audio and comes with an integrated X15 LTE modem. Phones with it will support 4K video recording and the ability to shoot 192-megapixel photos. As a final perk it also has Qualcomm’s latest fifth-generation AI engine. The engine has already been seen in the company’s top end chips and offers ..."
+    publishedDateTime: 2020-01-21T10:01:00Z
+    sourceUrl: https://www.trustedreviews.com/news/qualcomms-launched-trio-4g-chips-5g-aint-going-mainstream-anytime-soon-3971591
+    ampUrl: https://www.trustedreviews.com/news/qualcomms-launched-trio-4g-chips-5g-aint-going-mainstream-anytime-soon-3971591/amp
+    cdnAmpUrl: https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/qualcomms-launched-trio-4g-chips-5g-aint-going-mainstream-anytime-soon-3971591/amp
+    type: article
+    provider:
+      name: Trusted Reviews
+      domain: trustedreviews.com
+    quality: 70
+    images:
+      - url: https://ksassets.timeincuk.net/wp/uploads/sites/54/2020/01/qualcomm_snapdragon_460_662_and_720g_mobile_platforms_-_chip_case-1024x683.jpg
+        width: 1024
+        height: 683
+  - title: "Qualcomm announces three new chips for 4G smartphones"
+    excerpt: "Expect it to see in higher-end smartphones, with features like on-device AI operations, and high-resolution displays of up to 2520 x 1080. The chip includes the X15 LTE modem, with support for ..."
+    publishedDateTime: 2020-01-21T02:22:00Z
+    sourceUrl: https://pocketnow.com/qualcomm-announces-three-new-chips-for-4g-smartphones
+    ampUrl: https://pocketnow.com/qualcomm-announces-three-new-chips-for-4g-smartphones/amp
+    cdnAmpUrl: https://pocketnow-com.cdn.ampproject.org/c/s/pocketnow.com/qualcomm-announces-three-new-chips-for-4g-smartphones/amp
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 59
+    images:
+      - url: https://pocketnow.com/wp/../files/2020/01/qualcomm_snapdragon_460_662_and_720g_mobile_platforms_-_chip_case-1280x854.jpg
+        width: 1280
+        height: 854
+  - title: "Qualcomm's latest chips will bring better cameras, AI to cheaper phones"
+    excerpt: "Each system-on-chip features a Hexagon digital signal processor — the first time that's been included with one of the chip maker's 4 series chipsets for budget phones — which should mean better AI-powered experiences across a range of phones. Here's a closer look at what each new Snapdragon processor promises: Snapdragon 720G: Like the ..."
+    publishedDateTime: 2020-01-21T07:03:00Z
+    sourceUrl: https://www.tomsguide.com/news/snapdragon-720g-snapdragon-662-snapdragon-460
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 54
+    images:
+      - url: https://cdn.mos.cms.futurecdn.net/Q4YsrK95LJmz7QKPL5fr5X-1200-80.jpeg
+        width: 1200
+        height: 828
+  - title: "Qualcomm’s three new phone chips skip 5G for a good reason"
+    excerpt: "That focus on India is also evident in some of the features these new chips are touting. Specifically ... Also shipping on the 720G is Qualcomm’s 5th-gen AI engine and the X15 LTE modem, which supports 3-carrier aggregation, 4×4 MIMO and download speeds of up to 800Mbps. The processor also supports Wi-Fi 6 and Bluetooth 5.1, and it ..."
+    publishedDateTime: 2020-01-21T14:33:00Z
+    sourceUrl: https://www.slashgear.com/qualcomms-three-new-phone-chips-skip-5g-for-a-good-reason-21607303/
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 49
+  - title: "I Took a Test Drive in Qualcomm’s Self-Driving Car on a Busy Freeway"
+    excerpt: "A company known for its smartphone chips wants to power self-driving cars! We’re taking a test drive in their experimental vehicle! Qualcomm is a San Diego based company best known for it’s smartphone chips! Now they want want to be the brains behind self driving cars, too. When you think self-driving cars, you might think Tesla ..."
+    publishedDateTime: 2020-01-20T14:28:00Z
+    sourceUrl: https://ktla.com/2020/01/20/i-took-a-test-drive-in-qualcomms-self-driving-car-on-a-busy-freeway/
+    ampUrl: https://ktla.com/2020/01/20/i-took-a-test-drive-in-qualcomms-self-driving-car-on-a-busy-freeway/amp/
+    cdnAmpUrl: https://ktla-com.cdn.ampproject.org/c/s/ktla.com/2020/01/20/i-took-a-test-drive-in-qualcomms-self-driving-car-on-a-busy-freeway/amp/
     type: article
     provider:
       name: KTLA
       domain: ktla.com
-    quality: 39
+    quality: 44
     images:
       - url: https://tribktla.files.wordpress.com/2020/01/image-2020-01-20-055529.jpg?quality=85&strip=all&w=1200
         width: 1200
         height: 900
-  - title: "Qualcomm Moves Toward Self-Driving Vehicle Tech"
-    excerpt: "Its foray into safety-autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo and Intel-Mobileye. In addition, Tesla and other automakers have their own in-house initiatives. Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar’s ..."
-    publishedDateTime: 2020-01-09T18:30:00Z
-    sourceUrl: https://www.ttnews.com/articles/qualcomm-moves-toward-self-driving-vehicle-tech
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/qualcomm2.jpg?itok=5ZO9Ahao
-        width: 470
-        height: 246
-  - title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
-    excerpt: "Its foray into safety/autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo and Intel-Mobileye. In addition, Telsa and other automakers have their own in-house initiatives. Ford bought artificial intelligence startup Argo for US$1bil (RM4.07bil) to bolster its autonomous driving work. GM acquired Sidecar ..."
-    publishedDateTime: 2020-01-13T00:35:00Z
-    sourceUrl: https://www.thestar.com.my/tech/tech-news/2020/01/13/qualcomms-new-snapdragon-ride-platform-is-first-step-toward-self-driving-cars
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 20
-    images:
-      - url: https://apicms.thestar.com.my/uploads/images/2020/01/10/485282.jpg
-        width: 1240
-        height: 827
 
 secured: "2Wq8j1Y2lOR0VII9URYh8UNZI1aN7nLSSfrxA9H8qp4j82+RehinstsWKg9tGNpvzpWGqT3TFXJb5Ge/ciDCoy0xfpt7PI6irKsT9ZxfM/faCJHr5AHdtPXlLpsFPUYYUTi1dx+g8B/bbjVMOe9EZPboxrAsPadiFkfey4+890C+2kgR4/hD62Lv5RtZ+1tdq7DMc/+6VfhlJe9zY/61BuT7UXEqe4fFH5SLnZEPs6xRrXKqa9hRANOO2yaq4/4Y7QxkCpyPH21uhxkSzfX8AmwTmAyae2qPP2+RcWzG5fW3SeVxUNEQbW1CPZ+cvm4HaqiVB8wqO2zUftGlhI7qKTpOs2MpJ5lZ9RtAOxmiOYhjcfNbb5VMflDdePFEEkQ/wr/POM0c4UsDS7H9ApZKGzn5yRl1h65sJnAd42UF5/Sl2UxOOWmsPAgu9OmvtXGOHVHr387yhmnScMilYwfqGw==;me3XZ6tNGpIZNO2RaHharw=="
 ---

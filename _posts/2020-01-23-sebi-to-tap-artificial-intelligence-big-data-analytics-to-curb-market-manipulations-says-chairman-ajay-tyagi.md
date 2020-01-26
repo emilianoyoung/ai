@@ -79,15 +79,6 @@ related:
       - url: https://static-news.moneycontrol.com/static-mcnews/2019/04/Adani_logo-378x213.jpg
         width: 378
         height: 213
-  - title: "Europe Deep Learning in Machine Vision Market Is Expected to Reach Usd 104.59 Million"
-    excerpt: "Press release from: Data Bridge Market Research Pvt. Ltd. Europe Deep Learning in Machine Vision Market,By Application (Image Classification, Optical Character Recognition, Bar Code Detection, Anomaly Detection), By End-User (Automotive, Electronics, Food & Beverage, Healthcare, Aerospace & Defense, Others), ByGeography (Germany, France ..."
-    publishedDateTime: 2020-01-23T18:49:00Z
-    sourceUrl: https://www.openpr.com/news/1906733/europe-deep-learning-in-machine-vision-market-is-expected
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 12
 
 secured: "8fbClSYLrledfHjAZKtsfS2WPFE1Pk+TepEphCHxqP+mIhRuFDq0Pk1GO9RgDrPMbOSFb+HRyVOoxcxXsLIZvy7qXOwjT9D2x9Z70WTkJfD6h1z93Sg2GhBVGnaN25yl0xFZxSJAZA8k2IIiY+ycm8SrIyhyqUN3m9hZ0QaF2K+7PWovhXQYV+Wb+QAmg004Gd3dZ9IAv9GOgEaWTYvSMlb6pYpjR+kqOcMJ9hK7eeVYzPSSHttB21DGdaCTgYp21Uu+sh1yLoh5nMqj+veq/1RzFSRQDWzGypvqJzVXL5AS2fLe7tYDqXWBZw3s9qOkl2nGxLdK+HE8/7/1JIFGrP9qmcJr0aCRbYoOBRBUTEokt9hUJPrhSDwLxPM07t06t60VqJYRt8jikrnUe015BCnstPaeHe3WdfBkeFe2KADBPo5BQ3mCMzZFrwx9DEaMIpOlBpZBiKCZaa+AMUZkCVG+AdmqLwXRsdnTj91B06w=;gtKMLzi0ckvoQTsTufZ3Ww=="
 ---

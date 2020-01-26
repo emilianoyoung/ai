@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-20T17:49:48Z
 sourceUrl: https://aws.amazon.com/blogs/machine-learning/interpreting-3d-seismic-data-automatically-using-amazon-sagemaker/
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -41,19 +41,6 @@ related:
       - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/21/nlp-model-tuning-3.gif
         width: 800
         height: 297
-  - title: "Machine Dubbing: Amazon AI Opens New Chapter in Automating Media Localization"
-    excerpt: "Cloud-dubbing is so 2019. Machine translation researchers are exploring a new frontier in natural language processing, machine dubbing. A January 2020 research paper by a team at Amazon AI, a unit of Amazon Web Services (AWS), explored new techniques to make automatic dubbing appear more natural. As the paper pointed out, the demand for ..."
-    publishedDateTime: 2020-01-24T07:10:00Z
-    sourceUrl: https://slator.com/technology/machine-dubbing-amazon-ai-opens-new-chapter-in-automating-media-localization/
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 36
-    images:
-      - url: https://slator.com/assets/2020/01/aws_machinedubbing.png
-        width: 600
-        height: 400
 
 secured: "UmT5xMgGKVP0w8fibAWkSv6qbXUHJWLrTyLPmEg8k/Ia2Y5pnitOhZUY8DCbl+tO0FQAHhvx6VEoJ6M+fg+snbPuAVnjYJA4pu6xsj1Rq3TAozObja18vfEpHBrHhmljfk4IwDtVl4PUu2lbU1lKZPa9yJWml1cAI7V+18PkuTppAcwAM3bOL3m0zvHMEt6thpkgbMEW6MqxIS5sKkBQcW0JM8eV7n1oTrv+5DkMbakBJ8c5NIViJ5a6jDM9jwdyf93iIgYxnVcfxHNxnSl/A2DrayJ28KdUTqusri/LLJ5QyoTqq+t8LJl1K8LpBCPj;vRUZqhE9zu81tol0QK/HQw=="
 ---

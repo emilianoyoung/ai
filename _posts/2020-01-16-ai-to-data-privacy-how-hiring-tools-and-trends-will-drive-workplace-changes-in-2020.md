@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/alonzomartinez/2020/01/16/ai-to-data-privac
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alonzomartinez/2020/01/16/ai-to-data-privacy-how-hiring-tools-and-trends-will-drive-workplace-changes-in-2020/amp/
 type: article
 quality: 80
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -27,19 +27,6 @@ images:
     width: 1200
     height: 763
     title: "AI To Data Privacy: How Hiring Tools And Trends Will Drive Workplace Changes In 2020"
-
-related:
-  - title: "10 Data and Analytics Trends to Watch in 2020"
-    excerpt: "Here are 10 to watch in 2020: Analyst Marcus Borba says Auto machine learning (AutoML), the ability to automate the entire process of developing and managing machine learning models, will also help data scientists focus on what matters versus the mundane. In addition, it will help prevent errors, as well as make machine learning capabilities ..."
-    publishedDateTime: 2020-01-22T16:51:00Z
-    sourceUrl: https://www.business2community.com/business-intelligence/10-data-and-analytics-trends-to-watch-in-2020-02277191
-    ampUrl: https://www.business2community.com/business-intelligence/10-data-and-analytics-trends-to-watch-in-2020-02277191/amp
-    cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-intelligence/10-data-and-analytics-trends-to-watch-in-2020-02277191/amp
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 24
 
 secured: "MlDtlqT7VPo8ZLxWsOpcqT5EZnzMqKy8So8n5BayvqTEloRlWwbf92q7q2bid/7MLnBKt+3zA0SxEuOvY1FmFt8gKpqJYCvdhHOIxZjNFxTpaTbWkzYJ3g0okaY/EWMwlgH8CDAMB85svwspyIHEdsW/xFWd867i/rvddslQe7tWqiTLK6HErXErBRrS/mL5s+2XwPKGgJCzqOjE9KVXn8MuWLgJz6qS42I4TNwgNDzM4yRtzshjdAf3VHLPCODrVm4HfSuj60sMnAhfVn5KucEleZ00nBBcPzpvLX/lGVUXxPAJjR6u9MIq4aWE+44l6Qie2w7nmbt33OsW8L2w+Gl6k+FsgENt+MTaDW5ReXlD6HhIdfZ5/niGCdL1wsbAtm5USv8173PtRAMtv1KC/8MBKXn2qb9zGH3VZRlQVnitt1b5mscX8+WbdiKBt91+UWX11u77Of5/7Dpz5r/8GA==;6j3mpmd3TiObTvxZNorqtQ=="
 ---

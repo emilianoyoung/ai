@@ -28,6 +28,36 @@ images:
     title: "Ambarella Enables Artificial Intelligence on a Wide Range of Connected Cameras Using Amazon SageMaker Neo"
 
 related:
+  - title: "Ambarella shows off new robotics platform and AWS AI programming deal"
+    excerpt: "Santa Clara, California-based company will demo the robotics platform and the Amazon SageMaker Neo technology for training machine-learning models at CES 2020, the big tech trade show in Las Vegas ..."
+    publishedDateTime: 2020-01-02T10:04:00Z
+    sourceUrl: https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/
+    ampUrl: https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2020/01/Ambarella-and-AWS-CES-2020.jpg?fit=1200%2C646&strip=all
+        width: 1200
+        height: 646
+  - title: "Ambarella unveils new AI chips for automotive cameras and driver assistance"
+    excerpt: "The Santa Clara, California-based company unveiled the CV22FS and CV2FS automotive camera system-on-chips (SoCs) with CVflow AI processing and ASIL-B compliance to enable safety-critical applications. Ambarella will also demo applications with its existing chips — as well as a robotics platform and Amazon SageMaker Neo technology for training ..."
+    publishedDateTime: 2020-01-06T10:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/06/ambarella-unveils-new-ai-chips-for-automotive-cameras-and-driver-assistance/
+    ampUrl: https://venturebeat.com/2020/01/06/ambarella-unveils-new-ai-chips-for-automotive-cameras-and-driver-assistance/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/ambarella-unveils-new-ai-chips-for-automotive-cameras-and-driver-assistance/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2020/01/ambarella-2.jpg?fit=1200%2C655&strip=all
+        width: 1200
+        height: 655
   - title: "Ambarella collaborates with AWS and enables AI on connected cameras using Amazon SageMaker Neo"
     excerpt: "Ambarella, Inc., an artificial intelligence (AI) vision silicon company, announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo to train machine learning (ML) models once and run them on any device equipped with an Ambarella CVflow-powered AI vision system on chip (SoC). Until now, developers had ..."
     publishedDateTime: 2020-01-08T11:05:00Z
@@ -43,16 +73,7 @@ related:
       - url: https://security-img.scdn6.secure.raxcdn.com/news/612/uk-counter-unmanned-aircraft-strategy-to-tackle-malicious-drones-use-920x533.jpg
         width: 612
         height: 355
-  - title: "ZephyrTel Taps AI and ML with Amazon SageMake for Innovations in Telco Software Solutions"
-    excerpt: "ZephyrTel announced that it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to accelerate the migration of its end-to-end Telco software solutions suite and develop new innovations utilising artificial intelligence and machine learning (AI/ML) with Amazon SageMaker. ZephyrTel had entered into a SCA with AWS ..."
-    publishedDateTime: 2020-01-06T02:34:00Z
-    sourceUrl: https://www.thefastmode.com/technology-solutions/16165-zephyrtel-taps-ai-and-ml-with-amazon-sagemake-for-innovations-in-telco-software-solutions
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 10
 
-secured: "AzBStsYBhJdUOl3cAUBFtXdUJnlITHvpoClnqs2xDGiq3n6KQAnugQklbL85KSoqVvz7S/h9FSFGPboi7z0nic+EomzA+DxuOFgzdnX0gAieSm6Rz1x83FfFR8r//CcE93hj3p26tVzD41QPC/qquuK+4lkZveluoK2Pl/OcbIv9kjsM1BNVNSjnE2Fq9srYrQ1uE+ljH/vCMUgOm9mG52NuLXmaH/0TrbD475L+PahKZz7jf4QL2WYbQmiy7fGO5yiHYYZ1xaqN8YFxB7wN/mrZCcxV5EvePJfLd6qaH0h++DSDDwUJBKXjeMlK2SRB;pBvoPjHFXCP43Z/vw4XWdA=="
+secured: "2EMrEy77XFDFDhb7GDke9jso6geWnDfJA2u8CMLoh7rfTn/Gb0MYxVt+7t3YFtyDoipBpXfbSHkVL2H4mH6rN2kEoC/ORvAYQ50i1RoVuVYVPG57d9oLnEN+5hgjT8QVETMfTRb64dX055i/V/YfAqM8lk6aZAiDFxFX8D+/tAQ3IC6irQVaPuQUBkH1fzdcTRmrLgNknMFMmzWu2+2OQuyoNzCDi84PmlQmIFf86xpi4bg3hx0f5ZWNNOKPwn3VK7VUYNf1mSiQlIDamPckaBmKnJKZaVlMVdxnDIiC98/7cFabJW8+WmX6UiqG/EBG;Y0Xh3hnymy8Tvls9oZohig=="
 ---
 

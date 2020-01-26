@@ -8,8 +8,8 @@ ampUrl: https://www.deccanherald.com/amp/sunday-herald/sh-top-stories/being-huma
 cdnAmpUrl: https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/sunday-herald/sh-top-stories/being-human-in-the-age-of-artificial-intelligence-795461.html
 type: article
 quality: 57
-heat: 67
-published: true
+heat: -1
+published: false
 
 provider:
   name: Deccan Herald
@@ -25,21 +25,21 @@ images:
     title: "Being human in the age of Artificial Intelligence"
 
 related:
-  - title: "The age of artificial humans is here"
-    excerpt: "or more intelligent than human beings falls under the brand of artificial general intelligence (AGI). In fact, Cross referred to Soul Machines as an “AGI research\" company instead of an AI research firm. AGI is pretty much every world-dominating robot or AI you have seen in movies, like, say, The Terminator or Avengers: Age of Ultron."
-    publishedDateTime: 2020-01-16T15:57:00Z
-    sourceUrl: https://www.livemint.com/technology/tech-news/the-age-of-artificial-humans-is-here-11579187404431.html
-    ampUrl: https://www.livemint.com/technology/tech-news/the-age-of-artificial-humans-is-here/amp-11579187404431.html
-    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/the-age-of-artificial-humans-is-here/amp-11579187404431.html
+  - title: "Leading AI Luminary Has An Idea To Ensure Humans Remain In Control"
+    excerpt: "Professor of Computer Science at the University of California, Berkeley and an Adjunct Professor of Neurological Surgery at the University of California, San Francisco, Stuart Russell, has written the most read text book on AI."
+    publishedDateTime: 2020-01-13T14:09:00Z
+    sourceUrl: https://www.forbes.com/sites/peterhigh/2020/01/13/leading-ai-luminary-has-an-idea-to-ensure-humans-remain-in-control/
+    ampUrl: https://www.forbes.com/sites/peterhigh/2020/01/13/leading-ai-luminary-has-an-idea-to-ensure-humans-remain-in-control/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterhigh/2020/01/13/leading-ai-luminary-has-an-idea-to-ensure-humans-remain-in-control/amp/
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 44
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: https://images.livemint.com/img/2020/01/16/600x338/artificialhuman_1579187524244.jpg
-        width: 600
-        height: 337
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1ba133da6d380006296aa7%2F0x0.jpg
+        width: 1199
+        height: 654
 
 secured: "eGaoLrenntAIlpgOCqsJ/8Pi9FWcJNLbTrpuaa7umrqUzmv2lB3PLZQnlcpo7P4oNaxRLWLH7IvDT6n6FqDpHmvbCeodc5RXCapGXuyzROuPEqv90iXpzr3cg+Uc8g+P4Ox4SMMUBAywgPO2BHDwl3oit/IgoBKhhy8WNnfAQmYL5jCjajg6H4As9vpkz2x+G09R+2lomgk7WiRCcFhFL1lLtOdnEyecG6NVWJacSiqX1p5ZmY5PArBUV5TVYHnCFrrJG4/piWZBfCgpMa6LU3pfPtVhNUxEEx7L7ccNIju/N8N4Zkr788O5MLRLW40zCUW+WwWeSPzF0gnZPX85CMVKgPaKWyJhLx+790oLHde39rsHApE7ID+wSsqtEnEgNFWp63o5QpQe7bVyd+iz2tO1KuZTdyJgjIUH+tiPt2Uu2wF/FKf7ZyxPrkocz3yFKkZMq8QEzdQC5uwhRews1Q==;Qht75AAqSZXrkmQA83CJ8A=="
 ---

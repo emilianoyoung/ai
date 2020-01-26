@@ -41,19 +41,6 @@ related:
       - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/06/12/seismic-1.gif
         width: 600
         height: 424
-  - title: "Machine Dubbing: Amazon AI Opens New Chapter in Automating Media Localization"
-    excerpt: "Cloud-dubbing is so 2019. Machine translation researchers are exploring a new frontier in natural language processing, machine dubbing. A January 2020 research paper by a team at Amazon AI, a unit of Amazon Web Services (AWS), explored new techniques to make automatic dubbing appear more natural. As the paper pointed out, the demand for ..."
-    publishedDateTime: 2020-01-24T07:10:00Z
-    sourceUrl: https://slator.com/technology/machine-dubbing-amazon-ai-opens-new-chapter-in-automating-media-localization/
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 36
-    images:
-      - url: https://slator.com/assets/2020/01/aws_machinedubbing.png
-        width: 600
-        height: 400
 
 secured: "z6Kgq5q4a89mgQ7Qop6Z/epJCB0XTqYhJiteJnxYm51DbAM6FGJI9kWGlF9vwpD8u+TQRsTILA7qumbyXK+baYKl3S6Wg3QYsyo5Tx1TDYWaFj2Teu8Pygf/3jrWlBT1SamMUqfAf0F4XgEHS1VvTmhZLa3KFbbzzFJGiYvBowd1xD7uUfsNW5w0ry/hYtfqzlVMDbYc5r2X1hA4jvAzTaGxHjGMXQj55JBbp7pCPtOScc25iBkuepfSaXVxPCgFdV8DD8hSwX0hq47wia1RCou4MXMFzH4VHqRIDphbviiHApunfKEhtjWWgO50qSzdD6KcMb5CWEnzUt1Le4RXpw==;x6GrbiLkkIoSe19ZPBl/jw=="
 ---

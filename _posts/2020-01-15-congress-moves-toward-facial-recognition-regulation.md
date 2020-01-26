@@ -31,227 +31,153 @@ images:
     title: "Congress moves toward facial recognition regulation"
 
 related:
-  - title: "Advocates ask colleges to avoid facial recognition as surveillance grows"
-    excerpt: "To that end, digital rights advocacy group Fight for the Future today launched a campaign to get facial recognition off of college campuses. The campaign is partnering with student advocacy groups at The George Washington University in Washington, DC, and DePaul University in Chicago. \"Facial-recognition surveillance spreading to college ..."
-    publishedDateTime: 2020-01-14T21:24:00Z
-    sourceUrl: https://arstechnica.com/tech-policy/2020/01/advocates-ask-colleges-to-avoid-facial-recognition-as-surveillance-grows/
+  - title: "Chinese City Uses Facial Recognition to Shame Pajama Wearers"
+    excerpt: "Local officials apologized, but the crackdown on a common — and comfortable — practice has raised a rare outcry over privacy in a country accustomed to surveillance. BEIJING — When officials in an eastern Chinese city were told to root out “uncivilized behavior,"
+    publishedDateTime: 2020-01-21T15:50:00Z
+    sourceUrl: https://www.nytimes.com/2020/01/21/business/china-pajamas-facial-recognition.html
+    ampUrl: https://www.nytimes.com/2020/01/21/business/china-pajamas-facial-recognition.amp.html
+    cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/21/business/china-pajamas-facial-recognition.amp.html
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 168
+      name: New York Times
+      domain: nytimes.com
+    quality: 189
     images:
-      - url: https://cdn.arstechnica.net/wp-content/uploads/2020/01/GettyImages-1167712182-760x380.jpg
-        width: 760
-        height: 380
-  - title: "Fight for the Future launches campaign to keep facial recognition off U.S. college campuses"
-    excerpt: "Fight for the Future, the Boston-based nonprofit promoting causes related to copyright legislation, online privacy, and internet censorship, today announced that it will team up with advocacy group Students for Sensible Drug Policy to launch an effort to ban facial recognition from university campuses in the U.S. To kick start the grassroots ..."
-    publishedDateTime: 2020-01-14T11:00:00Z
-    sourceUrl: https://venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/
-    ampUrl: https://venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/amp/
+      - url: https://static01.nyt.com/images/2020/01/21/business/21china-pajamas/21china-pajamas-facebookJumbo.jpg
+        width: 1050
+        height: 550
+  - title: "Facial recognition scanners are coming to PHL next week"
+    excerpt: "Facial recognition scanners will be used on select outbound international flights starting Jan. 21. The technology is meant to increase security and speed up the boarding process. It's part of a 45-day pilot program where three brands will be tested to determine which will be installed permanently. Only noncitizens are required to be scanned."
+    publishedDateTime: 2020-01-17T23:16:00Z
+    sourceUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html
+    ampUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
+    cdnAmpUrl: https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 94
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 159
     images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?fit=1200%2C600&strip=all
+      - url: https://www.inquirer.com/resizer/Bqd7C0g_vqzmOp6vDtoU_K9St20=/1200x0/center/middle/www.inquirer.com/resizer/Gfpkh9hliXlyDb-XZGMx3v92mn8=/1200x0/center/middle/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/IM55BNURYVFVFBQDQ6VYGZYAUA.jpg
         width: 1200
+        height: 908
+  - title: "Facebook Says Technical Error Caused Vulgar Translation of Chinese Leader's Name"
+    excerpt: "YANGON (Reuters) - Facebook Inc on Saturday blamed a technical error for Chinese leader Xi Jinping’s name appearing as “Mr Shithole” in posts on its platform when translated into English from Burmese,"
+    publishedDateTime: 2020-01-20T00:04:00Z
+    sourceUrl: https://www.usnews.com/news/world/articles/2020-01-18/facebook-apologizes-after-vulgar-translation-of-chinese-leaders-name
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 127
+  - title: "Facial Recognition and the Danger of Automated Authoritarianism"
+    excerpt: "The company is, however, developing facial recognition software that would make it possible for wearers of augmented-reality glasses to ID folks walking down a street in real-time. Of course, such a technology could easily be harnessed to networked surveillance cameras so that government agents could track where a citizen is and with whom that ..."
+    publishedDateTime: 2020-01-21T22:43:00Z
+    sourceUrl: https://reason.com/2020/01/21/facial-recognition-and-the-danger-of-automated-authoritarianism/
+    ampUrl: https://reason.com/2020/01/21/facial-recognition-and-the-danger-of-automated-authoritarianism/?amp
+    cdnAmpUrl: https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/01/21/facial-recognition-and-the-danger-of-automated-authoritarianism/?amp
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 59
+    images:
+      - url: https://d2eehagpk5cl65.cloudfront.net/img/c800x450-w800-q80/uploads/2020/01/DesignCellsScienceLibraryPhotosNewscom-800x450.jpg
+        width: 800
+        height: 450
+  - title: "Supreme Court declines to hear Facebook facial recognition case"
+    excerpt: "The Supreme Court on Tuesday declined to take up a high-profile court battle over whether users can sue Facebook for using facial recognition technology on their photos without proper consent."
+    publishedDateTime: 2020-01-21T15:55:00Z
+    sourceUrl: https://thehill.com/policy/technology/479126-supreme-court-declines-to-hear-facebook-facial-recognition-case
+    ampUrl: https://thehill.com/policy/technology/479126-supreme-court-declines-to-hear-facebook-facial-recognition-case?amp
+    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/479126-supreme-court-declines-to-hear-facebook-facial-recognition-case?amp
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 59
+    images:
+      - url: https://thehill.com/sites/default/files/facebooklogo_112819getty.jpg
+        width: 980
+        height: 551
+  - title: "Chinese city uses facial recognition to shame pajama wearers"
+    excerpt: "BEIJING — When officials in an eastern Chinese city were told to root out “uncivilized behavior,” they were given a powerful tool to carry out their mission: facial recognition software. Among their top targets? People wearing pajamas in public. On Monday, the urban management department of Suzhou, a city of 6 million people in Anhui ..."
+    publishedDateTime: 2020-01-22T04:50:00Z
+    sourceUrl: https://www.seattletimes.com/nation-world/chinese-city-uses-facial-recognition-to-shame-pajama-wearers/
+    ampUrl: https://www.seattletimes.com/nation-world/chinese-city-uses-facial-recognition-to-shame-pajama-wearers/?amp=1
+    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/chinese-city-uses-facial-recognition-to-shame-pajama-wearers/?amp=1
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 59
+    images:
+      - url: https://static.seattletimes.com/wp-content/uploads/2020/01/01212020_nightgownbiker_214352-300x258.jpg
+        width: 300
+        height: 258
+  - title: "As use of facial recognition expands, travelers worry about privacy"
+    excerpt: "But it turns out the practice of collecting their biometric data is far more common than travelers may think. Delta launched optional facial-recognition technology in Atlanta in 2018 after two years of testing. Since then, the airline has expanded biometric boarding to Minneapolis, Salt Lake City, New York, Detroit and Los Angeles. The carrier ..."
+    publishedDateTime: 2020-01-23T17:36:00Z
+    sourceUrl: https://www.washingtonpost.com/lifestyle/travel/as-use-of-facial-recognition-expands-travelers-worry-about-privacy/2020/01/23/ee6d7650-3d59-11ea-baca-eb7ace0a3455_story.html
+    ampUrl: https://www.washingtonpost.com/lifestyle/travel/as-use-of-facial-recognition-expands-travelers-worry-about-privacy/2020/01/23/ee6d7650-3d59-11ea-baca-eb7ace0a3455_story.html?outputType=amp
+    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/travel/as-use-of-facial-recognition-expands-travelers-worry-about-privacy/2020/01/23/ee6d7650-3d59-11ea-baca-eb7ace0a3455_story.html?outputType=amp
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 59
+    images:
+      - url: https://www.washingtonpost.com/resizer/qlSIvIjsFWvc-xUok2uPzgvC_tQ=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SQXXU3R5MYI6VL7CBEHLG63AWE.jpg
+        width: 1440
+        height: 918
+  - title: "Chinese AI companies stress social responsibility"
+    excerpt: "\"Today we are applying AI technology to fields such as education and health ... he said during an introduction of the company’s latest products, which included a real-time translator with support for 60 languages, a smart education companion and a language learning portal to teach Chinese to students of all levels. Although it was a 2019 ..."
+    publishedDateTime: 2020-01-14T23:02:00Z
+    sourceUrl: https://www.thestar.com.my/tech/tech-news/2020/01/15/chinese-ai-companies-stress-social-responsibility
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: https://apicms.thestar.com.my/uploads/images/2020/01/14/492015.jpg
+        width: 1240
+        height: 826
+  - title: "EU considers five-year ban on public facial recognition tech"
+    excerpt: "Facial recognition tech in the EU may be banned for up to five years in order to develop an ethical framework for its use. With a number of privacy and ethical concerns raised across the world by the roll-out of public facial recognition tech, the EU is considering a temporary ban on its use. According to Reuters, such a ban could last for up ..."
+    publishedDateTime: 2020-01-17T10:49:00Z
+    sourceUrl: https://www.siliconrepublic.com/machines/eu-facial-recognition-ban
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: https://www.siliconrepublic.com/wp-content/uploads/2020/01/AdobeStock_230414646.jpeg
+        width: 800
         height: 600
-  - title: "The top facial recognition cameras of 2020"
-    excerpt: "Many home security cameras nowadays have facial recognition, which lets you create a database of friends and family members who regularly visit your house. Then, when the camera sees a face, it determines whether or not it's someone in your database of known faces. The software can be hit or miss, based on a variety of factors, from ..."
-    publishedDateTime: 2020-01-14T11:06:00Z
-    sourceUrl: https://www.cnet.com/news/top-facial-recognition-home-security-cameras-for-2020-google-nest-hello/
-    ampUrl: https://www.cnet.com/google-amp/news/top-facial-recognition-home-security-cameras-for-2020-google-nest-hello/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/top-facial-recognition-home-security-cameras-for-2020-google-nest-hello/
+  - title: "Facebook Apologizes for Vulgar Translation of Chinese Leader’s Name"
+    excerpt: "Advertising Kenneth Wong, a Burmese language instructor at the University of California, Berkeley, said when he first saw the translation he thought someone intentionally made it to embarrass Xi. But on closer inspection of the original Burmese post, Wong said, he could see how a machine would make that error. Xi’s name sounds similar to ..."
+    publishedDateTime: 2020-01-19T19:46:00Z
+    sourceUrl: https://www.seattletimes.com/nation-world/facebook-apologizes-for-vulgar-translation-of-chinese-leaders-name/
+    ampUrl: https://www.seattletimes.com/nation-world/facebook-apologizes-for-vulgar-translation-of-chinese-leaders-name/?amp=1
+    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/facebook-apologizes-for-vulgar-translation-of-chinese-leaders-name/?amp=1
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: https://cnet4.cbsistatic.com/img/BZx8A20yN8Le8NFHcd363ASKdQM=/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg
-        width: 3413
-        height: 1920
-  - title: "Google favors temporary facial recognition ban as Microsoft pushes back"
-    excerpt: "The regulation of facial recognition is emerging as a key disagreement among the world’s biggest tech companies, with Alphabet and Google CEO Sundar Pichai suggesting a temporary ban, as recently suggested by the EU, might be welcome, while Microsoft’s chief legal officer Brad Smith cautions against such intervention. “I think it is ..."
-    publishedDateTime: 2020-01-21T11:51:00Z
-    sourceUrl: https://www.theverge.com/2020/1/21/21075001/facial-recognition-ban-google-microsoft-eu-sundar-pichai-brad-smith
-    ampUrl: https://www.theverge.com/platform/amp/2020/1/21/21075001/facial-recognition-ban-google-microsoft-eu-sundar-pichai-brad-smith
-    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/21/21075001/facial-recognition-ban-google-microsoft-eu-sundar-pichai-brad-smith
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 24
+  - title: "As with Google and Microsoft, facial recognition regulation is a hot topic for Chinese tech companies"
+    excerpt: "The country known for its ubiquitous use of facial recognition is now quietly preparing for more controls on facial recognition. The technology is used in China for everything from , but consumers are starting to push back. “The awareness of protecting data privacy is increasing among Chinese compared to several years ago,” said Jeffrey ..."
+    publishedDateTime: 2020-01-22T02:55:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3047062/google-and-microsoft-facial-recognition-regulation-hot-topic-chinese
+    ampUrl: https://amp.scmp.com/tech/big-tech/article/3047062/google-and-microsoft-facial-recognition-regulation-hot-topic-chinese
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3047062/google-and-microsoft-facial-recognition-regulation-hot-topic-chinese
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 89
-    images:
-      - url: https://cdn.vox-cdn.com/thumbor/2ls_1ADJfdpajQ3z17fE91W2qRU=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66136415/acastro_180730_1777_facial_recognition_0001.0.jpg
-        width: 1400
-        height: 933
-  - title: "College students demand schools ban facial recognition"
-    excerpt: "First, they stopped facial recognition from coming to Coachella. Now they want to protect universities. Prolific digital rights activism organization Fight for the Future has partnered with the group Students for Sensible Drug Policy to stop facial recognition technology from coming to college campuses. The coalition put out a petition that ..."
-    publishedDateTime: 2020-01-14T22:07:00Z
-    sourceUrl: https://mashable.com/article/college-students-facial-recognition-ban/
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 69
-    images:
-      - url: https://mondrian.mashable.com/2020%252F01%252F14%252Fe2%252F5244d9a79187456ca695c1415b52ab3b.7d03a.jpg%252F1200x630.jpg?signature=8MNeI53xaYiJp9UQtLrldvnJY4o=
-        width: 1200
-        height: 630
-  - title: "The battle against facial recognition goes to college"
-    excerpt: "“The reason that we’re coming at this so hard and so quickly is because there is really aggressive marketing by facial recognition companies to use scare tactics to get administrations to sign onto this technology,” says Erica Darragh, a national board member of the group Students for Sensible Drug Policy, or SSDP. (A company called ..."
-    publishedDateTime: 2020-01-14T11:00:00Z
-    sourceUrl: https://www.fastcompany.com/90451470/the-battle-against-facial-recognition-goes-to-college?partner=feedburner
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 54
-    images:
-      - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-facial-recognition-college.jpg
-        width: 1280
-        height: 720
-  - title: "Cambridge City Council Votes to Ban Facial Recognition Technology"
-    excerpt: "The Cambridge City Council unanimously approved a measure to ban the use of facial recognition technology in a 9-0 vote Monday night. Following the lead of Brookline, Northampton, and Somerville, Cambridge is the fourth city in Massachusetts to restrict ..."
-    publishedDateTime: 2020-01-15T17:37:00Z
-    sourceUrl: https://www.thecrimson.com/article/2020/1/16/cambridge-city-council-bans-facial-recognition/
-    type: article
-    provider:
-      name: The Harvard Crimson
-      domain: thecrimson.com
-    quality: 39
-    images:
-      - url: https://s3.amazonaws.com:443/thumbnails.thecrimson.com/photos/2017/12/12/171522_1326747.jpg.635x423_q95_crop-smart_upscale.jpg
-        width: 635
-        height: 423
-  - title: "Activists: Facial Recognition on College Campuses Decreases Security"
-    excerpt: "Digital rights group Fight for the Future is collaborating with Students for Sensible Drug Policy to launch a nationwide effort to ban facial recognition technology from university campuses across the United States. The two groups jointly announced Tuesday ..."
-    publishedDateTime: 2020-01-16T22:39:00Z
-    sourceUrl: https://www.campussafetymagazine.com/university/facial-recognition-college-campuses/
-    type: article
-    provider:
-      name: Campus Safety Magazine
-      domain: campussafetymagazine.com
-    quality: 39
-    images:
-      - url: https://www.campussafetymagazine.com/wp-content/uploads/2020/01/facial-recognition.jpg
-        width: 1000
-        height: 500
-  - title: "2019 Proved We Can Stop Face Recognition Surveillance"
-    excerpt: "This piece originally appeared on Fast Company. In 2019, we proved face recognition surveillance isn’t inevitable. Now, it’s time for Congress to rein in the technology once and for all. Even the private sector demonstrated it had a responsibility to act in the face of the growing threat of face surveillance. Axon, the country’s largest ..."
-    publishedDateTime: 2020-01-17T18:26:00Z
-    sourceUrl: https://www.aclu.org/news/privacy-technology/2019-was-the-year-we-proved-face-recognition-surveillance-isnt-inevitable/
-    type: article
-    provider:
-      name: Aclu.org
-      domain: aclu.org
-    quality: 39
-    images:
-      - url: https://www.aclu.org/news/images/share/default_fb_share.png
-        width: 1200
-        height: 630
-  - title: "EU suggests temporary ban on facial recognition"
-    excerpt: "EU states should consider banning facial-recognition technology from public places for the next five years to give governments a chance to assess risks of abuse, the European Commission said in a proposal, Reuters reports. The ban would exempt security services and research projects. EU states should also create special authorities to monitor ..."
-    publishedDateTime: 2020-01-17T06:31:00Z
-    sourceUrl: https://euobserver.com/tickers/147180
-    type: article
-    provider:
-      name: EUobserver
-      domain: euobserver.com
-    quality: 39
-    images:
-      - url: https://s3.eu-central-1.amazonaws.com/euobs-media/6e5f90e3e78121ba09aefe7419b47a16-480x.jpg
-        width: 480
-        height: 270
-  - title: "Facial recognition surveillance is authoritarian and has no place in our society"
-    excerpt: "We shouldn’t have to change how we live our lives to protect ourselves from unwarranted surveillance (Photo: Steffi Loos/Getty) The fight to ban the use of facial recognition in public places is gaining momentum. Last week, it emerged the EU is considering halting the use of this authoritarian technology to allow for a proper assessment of ..."
-    publishedDateTime: 2020-01-20T16:47:00Z
-    sourceUrl: https://inews.co.uk/opinion/facial-recognition-surveillance-is-authoritarian-and-has-no-place-in-our-society-1370329
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 34
-    images:
-      - url: https://inews.co.uk/images-i.jpimedia.uk/imagefetch/https://inews.co.uk/wp-content/uploads/2020/01/GettyImages-826000302-1.jpg
-        width: 2353
-        height: 1499
-  - title: "CyberLink integrates facial recognition engine into VIVOTEK’s IP surveillance solutions"
-    excerpt: "VIVOTEK, the global leading IP surveillance solution provider, and CyberLink, a pioneer of AI and facial recognition technologies, announced they have entered into a strategic partnership, which will integrate CyberLink’s FaceMe AI facial recognition engine into VIVOTEK’s IP surveillance solutions. “Founded in 2000, VIVOTEK has been ..."
-    publishedDateTime: 2020-01-17T00:32:00Z
-    sourceUrl: https://www.helpnetsecurity.com/2020/01/17/vivotek-cyberlink/
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 31
-    images:
-      - url: https://img.helpnetsecurity.com/wp-content/uploads/2019/12/08122003/insecure64.jpg
-        width: 304
-        height: 430
-  - title: "Activists pressure colleges to abandon facial-recognition tech (EdScoop)"
-    excerpt: "\"Promoted as a technology to create a safer and more secure world, facial-recognition software, which is capable of identifying a person from a digital image or a video frame, is beginning to pop up at colleges across the country — but digital rights ..."
-    publishedDateTime: 2020-01-16T20:37:00Z
-    sourceUrl: https://www.avnetwork.com/news/activists-pressure-colleges-to-abandon-facial-recognition-tech-edscoop
-    type: article
-    provider:
-      name: AV Network
-      domain: avnetwork.com
-    quality: 23
-    images:
-      - url: https://cdn.mos.cms.futurecdn.net/UfZPqWvHAnhiMM9LBmGWAn-1200-80.jpg
-        width: 750
-        height: 422
-  - title: "Facial-recognition algos vary wildly, US Congress told, as politicians try to come up with new laws on advanced tech"
-    excerpt: "... in with a single cloud giant's toolset – or bring together best tools from a bunch of vendors Vid A recent US government report investigating the accuracy of facial recognition systems across different demographic groups has sparked fresh questions on how the technology should be regulated. The House Committee on Oversight and Reform ..."
-    publishedDateTime: 2020-01-16T06:12:00Z
-    sourceUrl: https://go.theregister.co.uk/feed/www.theregister.co.uk/2020/01/16/facial_recognition_congress/
-    ampUrl: https://www.theregister.co.uk/AMP/2020/01/16/facial_recognition_congress/
-    cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/01/16/facial_recognition_congress/
-    type: article
-    provider:
-      name: The Register
-      domain: theregister.co.uk
-    quality: 21
-    images:
-      - url: https://regmedia.co.uk/2020/01/16/shutterstock_somebodys_watching_me.jpg
-        width: 1000
-        height: 563
-  - title: "CyberLink and VIVOTEK Announce Strategic Partnership Combining Facial Recognition and IP Surveillance Solutions"
-    excerpt: "CyberLink Corp. (5203.TW), a pioneer of AI and facial recognition technologies, announced a strategic partnership with VIVOTEK (3454.TW), the global leading IP surveillance solution provider, adding CyberLink's FaceMe® AI facial recognition engine to VIVOTEK's IP surveillance solutions. The new collaboration will be showcased in VIVOTEK's ..."
-    publishedDateTime: 2020-01-16T18:39:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-cyberlink-vivotek-announce-strategic-partnership-combining-facial-recognition-/2020/01/16/9082949.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-    images:
-      - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
-        width: 252
-        height: 335
-  - title: "How Facial Recognition Market will Grow at Highest CAGR"
-    excerpt: "The global facial recognition market growth in the forecast period is premised on the rising incidents of identity theft. According to a study conducted by a California-based private research firm, Javelin Strategy, in 2017, 16.7 million Americans fell victim to identity theft crimes. Further, 1 million children in the US in 2017 were victims ..."
-    publishedDateTime: 2020-01-17T10:28:00Z
-    sourceUrl: https://www.openpr.com/news/1899358/how-facial-recognition-market-will-grow-at-highest-cagr
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
-  - title: "Despite what you may think, face recognition surveillance isn’t inevitable"
-    excerpt: "In 2019, we proved face recognition surveillance isn’t inevitable. Now, it’s time for Congress to rein in the technology once and for all. Even the private sector demonstrated it had a responsibility to act in the face of the growing threat of face surveillance. Axon, the country’s largest body camera supplier, announced it would ban ..."
-    publishedDateTime: 2020-01-15T23:00:00Z
-    sourceUrl: https://www.fastcompany.com/90452524/despite-what-you-may-think-face-recognition-surveillance-isnt-inevitable
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 24
 
 secured: "m5JR2EeGyUGoBHnCt4kK/sCot2yC+6RAZNIrOiG8ACSk0JwQSIjKTj0qLHgBDzSpuzllXOoLnsFwUklgCI9R+Tkei4IQTtcwEa0vx42syne1EgTWRTeXd4xkhTERH6euMeUnyJfoMyLwBLsqpFD6nVC1wyXT9cWNO1BJXIkby92czMfD24MK4cfzeUW509vhi8+bSbR1T5hCpEu+H7IMK8oVvlxKOzSasvjSRW4QUgQ+N+SAdAcnTSZgg+sbTNpAGcNZMZq6K1EHz7g2QeQcSCNB/RFNCoathor81VGSH1/e/P8uPpDuSMy2EZCGPnYVoTo8Cyv8iPFMVfM5t2xNEkiLlVHR8OxfSc9MopFTXFwKvCRGIaafjRMSE2sALV6/QYJQFZWoMJ9bh0Z+TRZzupq5EAb7zvDNuWKFSKfze1bAD/XeAFQQ9TFeVw7L4uu1oRMpCeRBlwdm+XpO9eE8RA==;6zdWn/gqN/a8EvCaBaroUQ=="
 ---

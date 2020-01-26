@@ -39,19 +39,45 @@ related:
       - url: https://thumbor.forbes.com/thumbor/500x279/https://specials-images.forbesimg.com/imageserve/5e202a29735f8c000799f8da/960x0.jpg?fit=scale
         width: 500
         height: 279
-  - title: "PROTXX Launches Collaboration with Alberta Healthcare and Machine Learning Innovation Ecosystems"
-    excerpt: "/PRNewswire/ -- Silicon Valley-based digital healthcare technology pioneer PROTXX, Inc. today announced a broad collaboration with Alberta-based"
-    publishedDateTime: 2020-01-14T12:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/protxx-launches-collaboration-with-alberta-healthcare-and-machine-learning-innovation-ecosystems-300985235.html
+  - title: "Europe considering tough new rules for artificial intelligence"
+    excerpt: "Bloomberg—The European Union is considering new legally binding requirements for developers of artificial intelligence in an effort to ensure modern technology is developed and used in an ethical way. The EU’s executive arm is set to propose the new rules apply to “high-risk sectors,” such as healthcare and transportation, and suggest ..."
+    publishedDateTime: 2020-01-16T20:38:00Z
+    sourceUrl: https://www.healthdatamanagement.com/articles/europe-considering-tough-new-rules-for-artificial-intelligence
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
+      name: Health Data Management
+      domain: healthdatamanagement.com
+    quality: 39
     images:
-      - url: https://mma.prnewswire.com/media/1065213/PROTXX_innovations.jpg?p=facebook
-        width: 1000
-        height: 524
+      - url: https://sourcemedia.brightspotcdn.com/dims4/default/ea40303/2147483647/strip/true/crop/1600x840+0+30/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2Fc3%2F68%2Fa7382d1144bb873148b05dd34d27%2Fhealth-data-management-social-share-image.png
+        width: 1200
+        height: 630
+  - title: "Artificial intelligence project chosen for national healthcare competition - with $1 million on the line"
+    excerpt: "A UVA Health proposal to reduce hospital readmissions was among 25 submissions chosen - from more than 300 applications - for a national competition seeking ideas on how artificial intelligence can improve healthcare. The UVA Health data science team will compete alongside proposals from organizations that include IBM and Mayo Clinic in the ..."
+    publishedDateTime: 2020-01-10T20:33:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/uovh-uhp011020.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
+    images:
+      - url: https://www.eurekalert.org/multimedia/pub/web/221276_web.jpg
+        width: 1440
+        height: 1080
+  - title: "Artificial intelligence project chosen for national healthcare competition - with $1 million on the line"
+    excerpt: "A UVA Health proposal to reduce hospital readmissions was among 25 submissions chosen - from more than 300 applications - for a national competition seeking ideas on how artificial intelligence can improve healthcare. The UVA Health data science team will compete alongside proposals from organizations that include IBM and Mayo Clinic in the ..."
+    publishedDateTime: 2020-01-11T13:21:00Z
+    sourceUrl: https://eurekalert.org/pub_releases/2020-01/uovh-uhp011020.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
+    images:
+      - url: https://www.eurekalert.org/multimedia/pub/web/221276_web.jpg
+        width: 1440
+        height: 1080
 
 secured: "XqknkvusA90yHu7j1FyMwMz5llaZeJQOVrb3Whp/X/q7+PHT51x0mzoHU81zrj+Cp0ib27a5uKIrSijlaXTjPLxQH6ZkwZwYOhVKHhbQMuD5A1hID8XpH2sDBSYxojan+ZwxTd/ohH58pKpNZtCjFKpr3QhDLjST4Bt5KCpU3w83EGS6AI3n8wZjpgSDQrJebBh41zavunzIg/V+GxQA3t+VTyym95U+GLxmVCmHsL/qA3pKRTqrSyL2iWgo7+8zcaK2njXLja19kojR7+BKn9meZTytd6FIRwccb5LGCJo=;e9XMg+gSK2UDHM5SK302kg=="
 ---

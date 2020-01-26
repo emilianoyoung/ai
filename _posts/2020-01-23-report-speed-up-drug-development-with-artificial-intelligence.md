@@ -24,6 +24,19 @@ images:
     title: "Report: Speed up drug development with artificial intelligence"
 
 related:
+  - title: "Report: Whichever country claims AI supremacy this decade will rule the Earth"
+    excerpt: "Gill argues that AI, like steam power, electricity, and information systems technology ... This feature of Eastern rule is juxtaposed by a dead-in-the-water startup economy that’s holding China back in some major ways. Per Gill’s report: China has neither the entrepreneurial nimbleness of America nor the capable public finance systems ..."
+    publishedDateTime: 2020-01-22T03:22:00Z
+    sourceUrl: https://thenextweb.com/artificial-intelligence/2020/01/21/report-whichever-country-claims-ai-supremacy-this-decade-will-rule-the-earth/
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 64
+    images:
+      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2015/12/robots-1200x600.jpg
+        width: 1200
+        height: 600
   - title: "Report: Speed up drug development with artificial intelligence"
     excerpt: "The first part of the report, prepared by the National Academy of Medicine, is titled “Artificial Intelligence in Healthcare: the Hope, the Hype, the Promise, the Peril.” The second part, prepared by the GAO, is called “Artificial Intelligence in Health Care: Benefits and Challenges of Machine Learning in Drug Development.” The report ..."
     publishedDateTime: 2020-01-22T22:04:00Z

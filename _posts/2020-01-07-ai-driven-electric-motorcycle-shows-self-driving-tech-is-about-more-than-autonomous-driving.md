@@ -30,32 +30,34 @@ images:
     title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than Autonomous Driving"
 
 related:
-  - title: "VW's all-electric ID Buzz van is a platform for self-driving efforts - Electrek"
-    excerpt: "The ID Buzz still seems almost too cool (and far away) to be true. But at CES 2020, the new chief of VW self-driving told Electrek that the Buzz is also the basis of VW’s first self-driving vehicles for limited commercial use by 2022. That’s a good sign that the ultimate electric hipster van is on track. “The ID Buzz will be our first L4 ..."
-    publishedDateTime: 2020-01-12T16:28:00Z
-    sourceUrl: https://electrek.co/2020/01/10/interview-vws-hip-all-electric-id-buzz-van-is-a-platform-for-its-self-driving-efforts/
-    ampUrl: https://electrek.co/2020/01/10/interview-vws-hip-all-electric-id-buzz-van-is-a-platform-for-its-self-driving-efforts/amp/
-    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/01/10/interview-vws-hip-all-electric-id-buzz-van-is-a-platform-for-its-self-driving-efforts/amp/
+  - title: "Multiple standards to emerge in 2020 for AI-driven vehicles"
+    excerpt: "Today, neither industry nor government can assess the safety of self-driving cars. Without tools or common yardsticks ... For example, Safety First for Automated Driving (SaFAD) is led by Aptiv, Audi, Baidu, BMW, Continental, Daimler, FCA US LLC, HERE, Infineon, Intel, and Volkswagen. The group published a white paper last summer on how ..."
+    publishedDateTime: 2020-01-07T17:01:00Z
+    sourceUrl: https://www.embedded.com/multiple-standards-to-emerge-in-2020-for-ai-driven-vehicles/
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 70
-    images:
-      - url: https://electrek.co/wp-content/uploads/sites/3/2020/01/id-buzz-beach.jpg?quality=82&strip=all&w=1000
-        width: 1000
-        height: 501
-  - title: "Baidu partners with Wind River for autonomous driving technology"
-    excerpt: "This platform will come with an Autosar Adaptive-based software architecture clubbed with Baidu's Apollo autonomous driving open architecture.ETAuto | January 08, 2020, 16:36 IST As the company claims, this will cater to the next generation of self-driving vehicles. New Delhi: Chinese internet search engine Baidu has joined hands with Wind ..."
-    publishedDateTime: 2020-01-08T11:06:00Z
-    sourceUrl: https://auto.economictimes.indiatimes.com/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435
-    ampUrl: https://auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435
-    cdnAmpUrl: https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
+      name: Embedded
+      domain: embedded.com
     quality: 39
+    images:
+      - url: https://www.embedded.com/wp-content/uploads/2020/01/img20200107085828A-Wave-of-AV-Safety-Standards-to_0.jpg
+        width: 640
+        height: 342
+  - title: "CES trade show to spotlight big tech trends in 5G, self-driving cars, 8K TVs and more"
+    excerpt: "Gigantic consumer electronics show in Las Vegas features about 40 San Diego companies showing off their latest technologies."
+    publishedDateTime: 2020-01-06T14:06:00Z
+    sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more
+    ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
+    cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 37
+    images:
+      - url: https://ca-times.brightspotcdn.com/dims4/default/3de7005/2147483647/strip/true/crop/3024x1975+0+146/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb6%2F73%2Fcfca9b914994bd002b870005233e%2Fwd.jpg
+        width: 320
+        height: 209
 
 secured: "SLnY1HbholwVWOsP9ebf8vnP+1mrUCz5nmnuT9Uqyr5T2qmVMlTI81gsyutVcSMjv0p1o8zZgSI+j/Mal8rTEc2+WC+mtTO1Jaz/Jptb8LuDkzz779YbAxlrAQPzOeeE8k9NTSQjILe3RBJ3BPZEI2Dh4tmwsNKQOfLymfeKGFmx6AzO2rCoz4FQ+Z6F4fiX344Rzh4q0C6O2DeWzkVSVgtgqsR3e61cjp0LoRNzPDcRn3QeEW4lmHm2n8c2L2s68IOjtVYX3GeuwcPIYdehRU1CttFGncFdwyDPjvfI025cc0Hvks90DWPhfazaftV+A+iTIlnhPHntP16TauQcociRQSl42R4Nz4TL73j4ARBsPKWu4vHzFJRQgqb703ZLxJS59ODVTjSxSLb+URpPAYhZaVhcCKNEQWcdt7vFPmX3h2ztvBOBf6rxjy7mNq5pola4nIgNFnO9LjVk5yxduA==;QW1MBmYKq4XmfENmVk2+HQ=="
 ---

@@ -28,21 +28,21 @@ images:
     title: "What Is The Artificial Intelligence Of Things? When AI Meets IoT"
 
 related:
-  - title: "Meet the robots that may be coming to an airport near you"
-    excerpt: "Robots are staffing airports around the world and performing such tasks as check-in, security and concierge services. Nearly half of the world’s airlines and 32% of its airports are seeking a partner to further investigate robotics and automated vehicles in the next three years,"
-    publishedDateTime: 2020-01-11T20:31:00Z
-    sourceUrl: https://www.cnbc.com/2020/01/10/meet-the-robots-that-may-be-coming-to-an-airport-near-you.html
-    ampUrl: https://www.cnbc.com/amp/2020/01/10/meet-the-robots-that-may-be-coming-to-an-airport-near-you.html
-    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/10/meet-the-robots-that-may-be-coming-to-an-airport-near-you.html
+  - title: "How HPC, AI, and IoT Drive the Future of Smarter Vehicles"
+    excerpt: "These can take the training data for AI models that are deployed on devices inside smart ... will require high bandwidth to keep the high performance GPU and CPU cores fed. In addition to being at the front end of autonomous driving and smart cities ..."
+    publishedDateTime: 2020-01-07T20:44:00Z
+    sourceUrl: https://www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/
+    ampUrl: https://www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/amp/
+    cdnAmpUrl: https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/amp/
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 104
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
     images:
-      - url: https://image.cnbcfm.com/api/v1/image/106328864-1578670951519preview-1.jpg?v=1578671880
-        width: 2849
-        height: 1875
+      - url: https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/ab_traffic_smart.jpg
+        width: 1300
+        height: 500
 
 secured: "UPYEwmVLCf6WLjk4WvAaQfCn92YSnD/9NtuOOPOhc6gUaHUiNKFBrCoWpgn4h3r73d+u1yY/GdXxdPE1g0BvT1vdDWaL8VqCBxOF9QunFVHu+mlieobClOdYPPBY98eANqpEON1cwVODy+c+tlPKuSJUzII+1E9B09NfxJnobMr6vZywmx/V2rZ1Br0SfcqHoalkFPM4uhyfBRLsYOD4/c9yvYNX6u7CqQ7iMpmKKRSLqcKhhkabsz7UEjbHNQR/bornjs5i3/Scg7jn84VlKxsb2TeuBlQDMyK0aKgaf3QFLGukZDWqxwMYMdlZBVPFDuX2xRHjvviHggbnc5lFd9shBbM6Oc9KOy5BaZePc+Q77QtwaZXOdozmR6gDtNupZLzKy0C5hMMGTpQQQ07Hu7zJpHGrb3vnWIgVOA3BqegXl+IXcitqevKW/RLZ/MAwfla8V+3mH1L7DwPb9wTX9Q==;HeRbLwdhOppBVq354I54lw=="
 ---

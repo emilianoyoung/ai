@@ -8,7 +8,7 @@ ampUrl: https://www.itpro.co.uk/business-strategy/digital-transformation/354620/
 cdnAmpUrl: https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/digital-transformation/354620/nhs-to-inject-more-robots-into-healthcare-with-uwe?amp
 type: article
 quality: 89
-heat: 109
+heat: 89
 published: true
 
 provider:
@@ -28,30 +28,6 @@ images:
     width: 1295
     height: 736
     title: "NHS to inject more robots into healthcare with UWE Bristol partnership"
-
-related:
-  - title: "Health Catalyst becomes 1st healthcare member of Partnership on AI"
-    excerpt: "The Partnership on Artificial Intelligence to Benefit People and Society, founded by Amazon, Google, Microsoft and other tech giants to research and distribute best practices on the responsible use of AI, welcomed Health Catalyst as a partner on Jan. 22. The startup's addition to the coalition makes it the first solely healthcare-focused member ..."
-    publishedDateTime: 2020-01-23T17:35:00Z
-    sourceUrl: https://www.beckershospitalreview.com/artificial-intelligence/health-catalyst-becomes-1st-healthcare-member-of-partnership-on-ai.html
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/4.jpg
-        width: 400
-        height: 300
-  - title: "AKA and Softbank Partnership to Bring AI Robot to Classrooms"
-    excerpt: "Artificial Intelligence company AKA has announced a partnership with SoftBank Robotics China that will help to bring Pepper the robot to English classrooms in China. SoftBank’s Pepper is already one of the most popular interactive Artificial Intelligence-powered robots in the world. With more than 10,000 units sold worldwide, Pepper can be ..."
-    publishedDateTime: 2020-01-22T19:46:00Z
-    sourceUrl: https://mobileidworld.com/aka-softbank-partnership-bring-ai-robot-classrooms-012201/
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 34
 
 secured: "xQKBkw9K9Ud6ANMiJ1ppo0MapEVN3dxWHNbqNqEHfsYgX8SdKp2H6mOOPQv0Zo7XZcnzBP/heXIbPx/hvivvbTt/+TUIWn+/LOfWf3dbwdLiYbsmxC4hXgd8ngdbK5WxUWvtT7+Tiv/rbPt7nDjwZe253Ju7uLBFt25/KPNr2kQn2jczjFfeHLXIT6fYZXnWK0gE09swo/mKLbx6muYasF+xekaCIaeeL3VZ/1PaBbFOIiaIWqgJ0mxuwmCOWL/ejFfvTyemh/lbfvfAnhxD5DefY5kLz7Ch+GtzI0L75kVVItSljNqm11xvfEHLkUsC;yOJmQVMBjRJFaY2MY6TKrw=="
 ---

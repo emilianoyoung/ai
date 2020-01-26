@@ -8,8 +8,8 @@ ampUrl: https://www.engadget.com/amp/2020/01/23/bjork-microsoft-ai-lobby-score-s
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/23/bjork-microsoft-ai-lobby-score-soundtrack/
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Engadget
@@ -29,21 +29,15 @@ images:
     title: "Bjork and an AI collaborated on an eerie soundtrack for a hotel lobby"
 
 related:
-  - title: "I had a lovely time in an AI-generated Björk hotel lobby soundscape"
+  - title: "AI-generated Björk hotel lobby soundscape made me hear the weather"
     excerpt: "I'm in that hotel lobby, listening. There's a pattern to the music. It's connected to a camera on the roof, gazing at moving clouds and birds. The composition is AI-driven. The best part is, it's invisible and it works. I stay and listen for an hour. Björk created a new AI-generated experimental ambient musical piece in collaboration with ..."
-    publishedDateTime: 2020-01-17T13:23:00Z
-    sourceUrl: https://www.cnet.com/news/i-had-a-lovely-time-in-an-ai-generated-bjork-hotel-lobby-soundscape/
-    ampUrl: https://www.cnet.com/google-amp/news/i-had-a-lovely-time-in-an-ai-generated-bjork-hotel-lobby-soundscape/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/i-had-a-lovely-time-in-an-ai-generated-bjork-hotel-lobby-soundscape/
+    publishedDateTime: 2020-01-24T20:55:00Z
+    sourceUrl: https://www.cnet.com/news/ai-generated-bjork-hotel-lobby-soundscape-made-me-hear-the-weather/
     type: article
     provider:
       name: CNET
       domain: cnet.com
-    quality: 187
-    images:
-      - url: https://cnet4.cbsistatic.com/img/Tiid1ZAgHJWSHQdKzyENKcS7TFo=/756x567/2020/01/16/ceedacb8-85c9-4017-8972-6591c818f319/mg-2832.jpg
-        width: 756
-        height: 567
+    quality: 47
 
 secured: "aFm4jPP38YDLf6C5hzronKVqtuUSldqdanK2vNuo6BPGKltrWHpOr4pdDew+QkpaoFmFp0Fq+BTES7rAS99z36G5Zvt5RIwwr72NjFc39gv3YtIqgYjvtazPyezg1L2CMO6SoXRrct2likYx7ZQPpngWTsLK79UC1DxdQysl81G5MxBrroAfz+KXf9Rs+HtUztauSBEQ6jhKblzLEyhpc2iuFyKezEPSeZH1JNNGbRfJFpUGFNBq/q0Z3/5tdcdEw9CRVTewxgIMm2kt5guhnDvwHvRc47t4YkKdgCNtFtGiDxtav3nmJrGxcGU09/en48NjqyxgMPHKHMA+9jH99Ao51vFMLJk0UO0xGEMaDyujY3UgOP3xoUbF+mx7LdroPIFk3koepCmQXJ7hld5ENKf+TnnFxjam/wl0diooRHAux4EqTTKiGitifRjj5cy9UfFobBaMxrCNvWMYPedVNCddyA+fh7tQYCwppvh+89o=;uOmfVI5QIzdWsYyQti8N1w=="
 ---

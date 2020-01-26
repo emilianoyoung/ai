@@ -41,19 +41,21 @@ related:
       - url: https://sm.pcmag.com/t/pcmag_uk/news/t/the-us-mil/the-us-military-wants-long-range-in-the-dark-facial-recognit_jcw7.620.jpg
         width: 620
         height: 349
-  - title: "Maloney dives headfirst into facial recognition"
-    excerpt: "Rep. Carolyn Maloney, the newly installed chair of the House Oversight and Reform Committee, signalled on Wednesday that Congress could soon introduce legislation to regulate the use of facial recognition technology. “Our committee is committed to ..."
-    publishedDateTime: 2020-01-16T16:01:00Z
-    sourceUrl: https://www.cityandstateny.com/articles/policy/technology/maloney-dives-headfirst-facial-recognition.html
+  - title: "Facial recognition reveals AI's darker sides"
+    excerpt: "The emergence of artificial intelligence technology in everyday life can be unsettling, says WEF AI expert Kay Firth-Butterfield in an interview with DW. That is why regulation is urgently needed."
+    publishedDateTime: 2020-01-23T09:00:00Z
+    sourceUrl: https://www.dw.com/en/facial-recognition-reveals-ais-darker-sides/av-52116841
+    ampUrl: https://amp.dw.com/en/facial-recognition-reveals-ais-darker-sides/av-52116841
+    cdnAmpUrl: https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/facial-recognition-reveals-ais-darker-sides/av-52116841
     type: article
     provider:
-      name: City & State New York
-      domain: cityandstateny.com
-    quality: 39
+      name: Deutsche Welle
+      domain: dw.com
+    quality: 74
     images:
-      - url: https://www.cityandstateny.com/sites/default/files/all/styles/mobile_home_page_header__360x362_/public/CarolynMaloney-AFGE-Flickr.jpg?itok=7jg1HUri&c=3ce9829a3b7105e18b1cc8549aed6eb1
-        width: 360
-        height: 362
+      - url: https://www.dw.com/static/stills/images/vdt/2020/beng200123_004_qwibutterfiel_01g.jpg
+        width: 512
+        height: 288
 
 secured: "R0XSvyU9oOFRbXfl72XCL4OUvdx8HkINjVp2IR3o8uky3IDcL5Hcb3X59JtpfIy6QL8JAD4MvxpibJUVYSApx5RbCIs8tvSHGM06jVUQmrtZeLzqN0qSk87FFFsZ+lS2UERrnxJKwlzIX23/AikQrWJAe3mcq0z+zgmpOu1R/uM6+sNZy9c1lpF9iDqCyoYtgWIjNqiNwj+rv3VH5buvs/0nBIbmpd4wPdEIwJCNMMWZ0CsLLnBi52a9ba2Y4Z1JH0Y9xBj5l8oMPLGumByiFP/GQcCLGXSySOEZMPgwNBs=;fgr7q/nRZ3OuhJPvOcuX2g=="
 ---

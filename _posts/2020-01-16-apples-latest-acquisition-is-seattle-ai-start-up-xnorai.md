@@ -18,49 +18,94 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Apple’s latest AI acquisition leaves some Wyze cameras without people detection"
-    excerpt: "Earlier today, Apple confirmed it purchased Seattle-based AI company Xnor.ai (via MacRumors). Acquisitions at Apple’s scale happen frequently, though rarely do they impact everyday people on the day of their announcement. This one is different. Cameras from fellow Seattle-based company Wyze, including the Wyze Cam V2 and Wyze Cam Pan ..."
-    publishedDateTime: 2020-01-15T21:09:00Z
-    sourceUrl: https://www.theverge.com/2020/1/15/21067594/apple-acquires-xnor-ai-wyze-camera-people-detection-feature
-    ampUrl: https://www.theverge.com/platform/amp/2020/1/15/21067594/apple-acquires-xnor-ai-wyze-camera-people-detection-feature
-    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/15/21067594/apple-acquires-xnor-ai-wyze-camera-people-detection-feature
+  - title: "Macworld speculates that Apple bought Xnor.ai to make Siri smarter"
+    excerpt: "That cuts to Apple’s main privacy argument. We’ve long suspected that the reason why Siri lags Google Assistant and Amazon Alexa is that Apple doesn’t collect the same kind of information that those companies do and is thus at a disadvantage […] By embedding Edge AI into Apple’s own chip via the Neural Engine or a new co-processor ..."
+    publishedDateTime: 2020-01-21T12:39:00Z
+    sourceUrl: https://9to5mac.com/2020/01/21/make-siri-smarter/
+    ampUrl: https://9to5mac.com/2020/01/21/make-siri-smarter/amp/
+    cdnAmpUrl: https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2020/01/21/make-siri-smarter/amp/
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 83
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 159
     images:
-      - url: https://cdn.vox-cdn.com/thumbor/nfIULNMvKIPLvLANqIRqNurHj8g=/0x0:1599x1066/1400x933/filters:focal(673x406:927x660):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66109524/Wyze_Labs_Inc_WyzeCam.0.jpg
-        width: 1400
-        height: 933
-  - title: "Apple's Acquisition of AI Company Leaves Wyze Cameras Without People Detection"
-    excerpt: "Apple's recent purchase of Seattle startup Xnor.ai, which specializes in on-device artificial intelligence, appears to have had a knock-on effect on home security cameras made by Wyze, another Seattle-based company. The Verge reports that the Wyze Cam V2 and Wyze Cam Pan rely on Xnor.ai's on-device people detection, but now that Apple owns the ..."
-    publishedDateTime: 2020-01-16T11:05:00Z
-    sourceUrl: https://www.macrumors.com/2020/01/16/wyze-cameras-lost-people-detection-apple-xnor/
-    ampUrl: https://www.macrumors.com/2020/01/16/wyze-cameras-lost-people-detection-apple-xnor/amp/
-    cdnAmpUrl: https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/01/16/wyze-cameras-lost-people-detection-apple-xnor/amp/
+      - url: https://9to5mac.com/wp-content/uploads/sites/6/2020/01/Make-Siri-smarter.jpg?quality=82&strip=all&w=1000
+        width: 1000
+        height: 500
+  - title: "Making Siri smarter – is that why Apple bought Xnor.ai? - 9to5Mac"
+    excerpt: "That cuts to Apple’s main privacy argument. We’ve long suspected that the reason why Siri lags Google Assistant and Amazon Alexa is that Apple doesn’t collect the same kind of information that those companies do and is thus at a disadvantage […] By embedding Edge AI into Apple’s own chip via the Neural Engine or a new co-processor ..."
+    publishedDateTime: 2020-01-22T01:10:00Z
+    sourceUrl: https://9to5mac.com/2020/01/21/make-siri-smarter/
+    ampUrl: https://9to5mac.com/2020/01/21/make-siri-smarter/amp/
+    cdnAmpUrl: https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2020/01/21/make-siri-smarter/amp/
     type: article
     provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 53
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 159
     images:
-      - url: https://images.macrumors.com/article-new/2020/01/Wyze_Labs_Inc_WyzeCam.0.jpg?retina
-        width: 1840
-        height: 1226
-  - title: "Apple Acquires a Company that Forbes described as one the most Promising Artificial Intelligence companies in America"
-    excerpt: "A new report posted today claims that Apple has acquired Seattle based Xnor.ai, a spin-off from Paul Allen’s Allen Institute for Artificial Intelligence. XNOR.ai aimed at making state-of-the-art AI capabilities cheaper and more accessible. GeekWire notes in their exclusive report that \"The arrangement suggests that Xnor’s AI-enabled image ..."
-    publishedDateTime: 2020-01-16T01:36:00Z
-    sourceUrl: https://www.patentlyapple.com/patently-apple/2020/01/apple-acquires-a-company-that-forbes-described-as-one-the-most-promising-artificial-intelligence-companies-in-america.html
+      - url: https://9to5mac.com/wp-content/uploads/sites/6/2020/01/Make-Siri-smarter.jpg?quality=82&strip=all&w=1000
+        width: 1000
+        height: 500
+  - title: "How Apple’s Xnor.ai acquisition could bring the Siri boost we’ve been waiting for"
+    excerpt: "the A13 Bionic chip already has a powerful Neural Engine, but Edge Ai could bring it to the next level. But Xnor.ai’s Edge AI engine could be the thing that brings everything together. It’s unlikely that we’ll see any fruits from Apple’s purchase in the iPhone 12 or even the iPhone 13, but Apple’s incredible silicon advancements ..."
+    publishedDateTime: 2020-01-21T11:45:00Z
+    sourceUrl: https://www.macworld.com/article/3514559/how-apple-s-xnor-ai-acquisition-could-bring-the-siri-boost-we-ve-been-waiting-for.html
+    ampUrl: https://www.macworld.com/article/3514559/how-apple-s-xnor-ai-acquisition-could-bring-the-siri-boost-we-ve-been-waiting-for.amp.html
+    cdnAmpUrl: https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3514559/how-apple-s-xnor-ai-acquisition-could-bring-the-siri-boost-we-ve-been-waiting-for.amp.html
     type: article
     provider:
-      name: Patently Apple
-      domain: patentlyapple.com
-    quality: 14
+      name: Macworld
+      domain: macworld.com
+    quality: 84
     images:
-      - url: https://www.patentlyapple.com/.a/6a0120a5580826970c0240a4b45ead200c-600wi
-        width: 600
-        height: 330
+      - url: https://images.idgesg.net/images/article/2018/04/wyze-cam-motion-tracking-100755563-large.jpg
+        width: 700
+        height: 467
+  - title: "How the Xnor.ai purchase opens Apple’s AI future"
+    excerpt: "smarter person and object identification in Photos and smart object recognition in ARKit. Another place where Apple may be able to make a difference is in CCTV video, improving playback and person recognition systems in these. Wyze delivered this using Xnor.ai. Apple’s interest in HomeKit Secure Video and its focus on HomeKit, along with its ..."
+    publishedDateTime: 2020-01-17T16:20:00Z
+    sourceUrl: https://www.computerworld.com/article/3514598/how-the-xnor-ai-purchase-opens-apple-s-ai-future.html
+    ampUrl: https://www.computerworld.com/article/3514598/how-the-xnor-ai-purchase-opens-apple-s-ai-future.amp.html
+    cdnAmpUrl: https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3514598/how-the-xnor-ai-purchase-opens-apple-s-ai-future.amp.html
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 61
+    images:
+      - url: https://images.idgesg.net/images/article/2019/02/iot_internet_of_things_lifestyle_connected_appliances_by_elenabs_gettyimages-1018211724_2400x1600-100788445-large.jpg
+        width: 1200
+        height: 800
+  - title: "Apple confirms purchase of AI startup Xnor.ai"
+    excerpt: "Apple confirmed to Axios it has purchased Xnor.ai, a Seattle-based startup that specializes in putting artificial intelligence on devices rather than via centralized servers. Why it matters: Doing AI work on devices is a key trend, especially for Apple ..."
+    publishedDateTime: 2020-01-16T01:12:00Z
+    sourceUrl: https://www.axios.com/apple-purchase-ai-startup-xnorai-7d30c1ca-cc23-4e5f-8fdb-0bc79cfd8974.html
+    ampUrl: https://amp.axios.com/apple-purchase-ai-startup-xnorai-7d30c1ca-cc23-4e5f-8fdb-0bc79cfd8974.html
+    cdnAmpUrl: https://amp-axios-com.cdn.ampproject.org/c/s/amp.axios.com/apple-purchase-ai-startup-xnorai-7d30c1ca-cc23-4e5f-8fdb-0bc79cfd8974.html
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 57
+    images:
+      - url: https://images.axios.com/PCebkBLlBZYdriB-ovRaQrJP98Q=/198x0:2498x1294/1920x1080/2020/01/15/1579117038960.png
+        width: 1920
+        height: 1080
+  - title: "Apple Acquires Edge-Focused AI Startup Xnor.ai"
+    excerpt: "Apple has acquired Xnor.ai, a Seattle-based startup that builds AI models that run on edge devices, for approximately $200 million. GeekWire first reported the story, based on information from \"sources with knowledge of the deal.\" Because XNor.ai's technology focuses on running AI models on low-resource edge devices without sending data to the ..."
+    publishedDateTime: 2020-01-24T14:07:00Z
+    sourceUrl: https://www.infoq.com/news/2020/01/apple-acquires-xnor-ai/
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 37
+    images:
+      - url: https://res.infoq.com/news/2020/01/apple-acquires-xnor-ai/en/headerimage/apple-acquires-xnor-ai-1579740324596.jpg
+        width: 683
+        height: 512
 
 secured: "Wy50iKpRQgxBDJtuXHURzuE9h3L2sE6Zj3wymY/Ka67xc5Y6I6EfQBiLKkfhgpJnSPYnlEUSyN+GjaAttDI+MewgneKsz1YFQGN0NyXglJwxCObjxhfHXGYhsz1XGSKhjul2Uvq5uhaKn2xuhkQs15BjaHf+lW2s5NBx/6GgDMyDr9qMxhLEzp1ePnYmjtuCdMJqEJOaV81AP7MKk8JB3Qq6lVEXnkGQe/lw3Sc2UeAzIHObuKge14FTso9J8LzZ7eW4MQ2fckbxxmNZLVMvz6Jhru7M7GIr4aO13wsNklX42/j0jcbTqtLgz/ZthE2Gw2dOXAg3iemBtLgPuxPf39rbeJS2WVS6B9tNrZeSIJ6sfG6P+WVuVj4qIF07MFjXmhykHVRtMytrJg/e+a6gxHv+cSGo3NgPLhjA6kYWICJj7yIoYA1G3or72twC5ZyqfDdZ25wpHxIQi1WPYceOnw==;upw2nT25BBEg0YVVOCfvMA=="
 ---

@@ -26,90 +26,88 @@ images:
     title: "I Took a Test Drive in Qualcomm’s Self-Driving Car on a Busy Freeway"
 
 related:
-  - title: "Silicon Valley Event On Machine Learning Tackles The Latest Riddles Vexing AI Self-Driving Cars"
-    excerpt: "There’s a child’s riddle that asks you to indicate what can be held in your left hand and yet cannot be held in your right hand. Take a moment to ponder this riddle. Your first thought might be that anything that could be held in your left hand should also be able to be held in your right hand,"
-    publishedDateTime: 2020-01-18T15:55:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/18/silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/18/silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/18/silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars/amp/
+  - title: "Looking for an affordable phone? Wait for Qualcomm’s new mid-range chipsets"
+    excerpt: "Combined with an improved Adreno 618 GPU, users can expect a significant leap in day-to-day as well as gaming performance over the Snapdragon 712. Imaging is one of the key focus areas for Qualcomm and the 720G gets a Spectra 350L ISP that enables image capture at up to 192MP as well as HEIF support. There are improvements in the AI engine as ..."
+    publishedDateTime: 2020-01-21T08:44:00Z
+    sourceUrl: https://www.androidauthority.com/qualcomm-snapdragon-460-662-720g-1076318/
+    ampUrl: https://www.androidauthority.com/qualcomm-snapdragon-460-662-720g-1076318/amp/
+    cdnAmpUrl: https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/qualcomm-snapdragon-460-662-720g-1076318/amp/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 94
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 102
     images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1172913287%2F0x0.jpg%3FcropX1%3D931%26cropX2%3D6060%26cropY1%3D0%26cropY2%3D3415
+      - url: https://cdn57.androidauthority.net/wp-content/uploads/2020/01/Qualcomm-Snapdragon-460-662-and-720G-Mobile-Platforms-Chip-Case-920x470.jpg
+        width: 920
+        height: 470
+  - title: "Qualcomm’s self-driving car made me never want to touch a steering wheel again"
+    excerpt: "Matter of fact, I didn’t have to: The car itself did all of the steering. A couple of days earlier at the giant Consumer Electronics Show, Qualcomm announced a new platform for self-driving cars called Snapdragon Ride — and to showcase its powers, Qualcomm gave me a ride in an MKZ that had been tricked out with all the sensors and chips ..."
+    publishedDateTime: 2020-01-15T10:00:00Z
+    sourceUrl: https://www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020/
+    ampUrl: https://www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 85
+    images:
+      - url: https://icdn3.digitaltrends.com/image/digitaltrends/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020-2-1200x630-c-ar1.91.jpg
         width: 1200
-        height: 799
-  - title: "Let’s Teach Kids About AI Self-Driving Cars, But Only In An Unbiased Way"
-    excerpt: "What should kids know about the advent of self-driving cars? Is it necessary to teach them about self-driving cars or is it something that isn’t worth bringing to their attention? If kids are going to get taught about self-driving cars,"
-    publishedDateTime: 2020-01-21T16:47:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/21/lets-teach-kids-about-ai-self-driving-cars-but-only-in-an-unbiased-way/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/21/lets-teach-kids-about-ai-self-driving-cars-but-only-in-an-unbiased-way/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/21/lets-teach-kids-about-ai-self-driving-cars-but-only-in-an-unbiased-way/amp/
+        height: 628
+  - title: "Qualcomm’s launched a trio of 4G chips: 5G ain’t going mainstream anytime soon"
+    excerpt: "The chip also features support for Qualcomm aptX audio and comes with an integrated X15 LTE modem. Phones with it will support 4K video recording and the ability to shoot 192-megapixel photos. As a final perk it also has Qualcomm’s latest fifth-generation AI engine. The engine has already been seen in the company’s top end chips and offers ..."
+    publishedDateTime: 2020-01-21T10:01:00Z
+    sourceUrl: https://www.trustedreviews.com/news/qualcomms-launched-trio-4g-chips-5g-aint-going-mainstream-anytime-soon-3971591
+    ampUrl: https://www.trustedreviews.com/news/qualcomms-launched-trio-4g-chips-5g-aint-going-mainstream-anytime-soon-3971591/amp
+    cdnAmpUrl: https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/qualcomms-launched-trio-4g-chips-5g-aint-going-mainstream-anytime-soon-3971591/amp
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
+      name: Trusted Reviews
+      domain: trustedreviews.com
+    quality: 70
     images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1049271976%2F0x0.jpg
+      - url: https://ksassets.timeincuk.net/wp/uploads/sites/54/2020/01/qualcomm_snapdragon_460_662_and_720g_mobile_platforms_-_chip_case-1024x683.jpg
+        width: 1024
+        height: 683
+  - title: "Qualcomm announces three new chips for 4G smartphones"
+    excerpt: "Expect it to see in higher-end smartphones, with features like on-device AI operations, and high-resolution displays of up to 2520 x 1080. The chip includes the X15 LTE modem, with support for ..."
+    publishedDateTime: 2020-01-21T02:22:00Z
+    sourceUrl: https://pocketnow.com/qualcomm-announces-three-new-chips-for-4g-smartphones
+    ampUrl: https://pocketnow.com/qualcomm-announces-three-new-chips-for-4g-smartphones/amp
+    cdnAmpUrl: https://pocketnow-com.cdn.ampproject.org/c/s/pocketnow.com/qualcomm-announces-three-new-chips-for-4g-smartphones/amp
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 59
+    images:
+      - url: https://pocketnow.com/wp/../files/2020/01/qualcomm_snapdragon_460_662_and_720g_mobile_platforms_-_chip_case-1280x854.jpg
+        width: 1280
+        height: 854
+  - title: "Qualcomm's latest chips will bring better cameras, AI to cheaper phones"
+    excerpt: "Each system-on-chip features a Hexagon digital signal processor — the first time that's been included with one of the chip maker's 4 series chipsets for budget phones — which should mean better AI-powered experiences across a range of phones. Here's a closer look at what each new Snapdragon processor promises: Snapdragon 720G: Like the ..."
+    publishedDateTime: 2020-01-21T07:03:00Z
+    sourceUrl: https://www.tomsguide.com/news/snapdragon-720g-snapdragon-662-snapdragon-460
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 54
+    images:
+      - url: https://cdn.mos.cms.futurecdn.net/Q4YsrK95LJmz7QKPL5fr5X-1200-80.jpeg
         width: 1200
-        height: 800
-  - title: "That Car In California That Mysteriously Disappeared After Going Off A Cliff Is A Valuable Lesson For AI Self-Driving Cars"
-    excerpt: "Lessons learned for self-driving cars due to a conventional car that went off a cliff and disappeared altogether."
-    publishedDateTime: 2020-01-25T15:26:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/25/that-car-in-california-that-mysteriously-disappeared-after-going-off-a-cliff-is-a-valuable-lesson-for-ai-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/25/that-car-in-california-that-mysteriously-disappeared-after-going-off-a-cliff-is-a-valuable-lesson-for-ai-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/25/that-car-in-california-that-mysteriously-disappeared-after-going-off-a-cliff-is-a-valuable-lesson-for-ai-self-driving-cars/amp/
+        height: 828
+  - title: "Qualcomm’s three new phone chips skip 5G for a good reason"
+    excerpt: "That focus on India is also evident in some of the features these new chips are touting. Specifically ... Also shipping on the 720G is Qualcomm’s 5th-gen AI engine and the X15 LTE modem, which supports 3-carrier aggregation, 4×4 MIMO and download speeds of up to 800Mbps. The processor also supports Wi-Fi 6 and Bluetooth 5.1, and it ..."
+    publishedDateTime: 2020-01-21T14:33:00Z
+    sourceUrl: https://www.slashgear.com/qualcomms-three-new-phone-chips-skip-5g-for-a-good-reason-21607303/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 63
-    images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F175421479%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D285%26cropY2%3D3444
-        width: 1200
-        height: 675
-  - title: "You may soon see Uber’s self-driving cars on a D.C. road near you"
-    excerpt: "Uber has been testing self-driving cars in other markets, but they haven’t yet made it to D.C. Now, the ride-hailing company is looking to launch the vehicles here."
-    publishedDateTime: 2020-01-24T12:43:00Z
-    sourceUrl: https://www.bizjournals.com/washington/news/2020/01/24/you-may-soon-see-uber-s-self-driving-cars-on-a-d-c.html
-    ampUrl: https://www.bizjournals.com/washington/news/2020/01/24/you-may-soon-see-uber-s-self-driving-cars-on-a-d-c.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/washington/news/2020/01/24/you-may-soon-see-uber-s-self-driving-cars-on-a-d-c.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 44
-    images:
-      - url: https://media.bizj.us/view/img/11587279/uber-self-driving*600xx1500-1000-0-0.jpg
-        width: 600
-        height: 400
-  - title: "Uber set to bring self driving cars to Washington"
-    excerpt: "(ABC News) —Uber is bringing a fleet of self-driving cars to the nation’s capital to begin mapping out prospective routes — aided by human drivers at first — starting on Friday. The new self-driving cars that are expected to hit the roads in Washington, D.C., will have the initial goal of data collection, and will have a human vehicle ..."
-    publishedDateTime: 2020-01-25T00:47:00Z
-    sourceUrl: https://www.abccolumbia.com/2020/01/24/uber-set-to-bring-self-driving-cars-to-washington/
-    type: article
-    provider:
-      name: ABC Columbia
-      domain: abccolumbia.com
-    quality: 39
-    images:
-      - url: https://images.abccolumbia.com/wp-content/uploads/2020/01/volvo.jpg
-        width: 992
-        height: 558
-  - title: "The Hype of Self-Driving Cars Gives Way to Reality"
-    excerpt: "However, achieving that last goal has proved to be more of a challenge than engineers originally thought. On the congested streets of Las Vegas, I sat (helplessly) in the back seat of a self-driving Prius, watching as the wheel sawed back and forth in front of the empty driver's seat. It steered us through multiple left turns — inches from ..."
-    publishedDateTime: 2020-01-23T21:32:00Z
-    sourceUrl: https://www.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html
-    ampUrl: https://feeds.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html?_amp=true
-    cdnAmpUrl: https://feeds-aarp-org.cdn.ampproject.org/c/s/feeds.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html?_amp=true
-    type: article
-    provider:
-      name: AARP
-      domain: aarp.org
-    quality: 24
+      name: SlashGear
+      domain: slashgear.com
+    quality: 49
 
 secured: "sSZvIN1tiDaDnvhdocelWuvh0fdI2MdHFxTj/QW9uFTNR8IIwv6hkLkYEcZK1UNlfKZsqdY7P9OY1LvDkX8JFImwUwh4IfzgLB9Jn1up+9t86vgCaOTdTv2/r/mS/1Z94siXA7IZCVUDxPU2nMAFN592JEiqhKt8AJwdWA5CUxQi3jQBKu9m3jtRu2psgmuwUdAO1o+EN0EDkUpS19P+qCw1XXveHC/8AEd9ed55pCHhzuLczcM+HFcWzosN573gDCHbc+JJjI7F0gJMdrDCluNmBJuvp7qyYTHVMZbKx123Vf9ATI9lQjSL6OTz+JaTpNjCqLsUNJcUUEwcsXgTfz1gvYwnPIYxspx8tTRGzvQrkVmIA8W6B6yRkfO2HOw0qSwGknWSnyEiNjM2TmtFdffe5Y2B2hj1a/SWcTh5FsxTb5VXyjPi90KfGHiHM/rs/z4dQX3EBlPmvhkN8+t+QA==;quPslXJL3zQgrkTDn+HUQw=="
 ---

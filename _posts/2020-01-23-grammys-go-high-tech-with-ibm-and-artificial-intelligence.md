@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/grammys-go-high-tech-wit
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/
 type: article
 quality: 91
-heat: 111
+heat: 131
 published: true
 
 provider:
@@ -46,6 +46,21 @@ related:
       - url: https://tr3.cbsistatic.com/hub/i/r/2020/01/23/cee06460-61dc-4c72-b883-c33e460bdf62/resize/1200x/fde53f4a02e376c99dc52ef6bfbcaa1e/ibm-2020-grammys-photo-app-brandi-carlile-02.jpg
         width: 1200
         height: 862
+  - title: "62nd Grammy winners predicted by artificial intelligence"
+    excerpt: "If you've got coin on who'll win at the 62nd annual Grammys this Sunday, predictive tips are available, and it's not insider trading, it's artificial intelligence (AI). Last year, Boston-based data science company DataRobot successfully chose 2019's song of the year, Childish Gambino's \"This is America.\" This year, DataRobot hopes to revisit ..."
+    publishedDateTime: 2020-01-24T20:03:00Z
+    sourceUrl: https://www.techrepublic.com/article/62nd-grammy-winners-predicted-by-artificial-intelligence/
+    ampUrl: https://www.techrepublic.com/google-amp/article/62nd-grammy-winners-predicted-by-artificial-intelligence/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/62nd-grammy-winners-predicted-by-artificial-intelligence/
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 89
+    images:
+      - url: https://tr3.cbsistatic.com/hub/i/r/2020/01/23/1d4356f0-3881-4265-b4fd-2612966a6fcf/thumbnail/1200x675/a2c5ba1e810155f718f9a0d3cfc5302c/20200123-teena-karen.jpg
+        width: 1200
+        height: 675
   - title: "Going high-tech with IBM and AI at the Grammys"
     excerpt: "Artificial intelligence will be the best new accessory at the Grammys in Los Angeles this year, thanks to IBM Watson. The real truth about deepfakes and how to stop them 3:44 Stopping the brain drain: Why universities need to hold onto machine-learning professors 1:01 How to get started as a data scientist 2:11 AI is vital for business but it's ..."
     publishedDateTime: 2020-01-24T18:54:00Z
@@ -59,6 +74,21 @@ related:
       - url: https://tr2.cbsistatic.com/hub/i/r/2020/01/23/1d4356f0-3881-4265-b4fd-2612966a6fcf/thumbnail/770x578/6520e06957888db5598c53c32b7954d5/20200123-teena-karen.jpg
         width: 770
         height: 578
+  - title: "GRAMMY Insights With Watson To Bring Real-Time Artist Insights To GRAMMY Red Carpet Using AI"
+    excerpt: "This year IBM is enhancing the fan expereince with the all-new GRAMMY Insights with Watson! GRAMMY Insights with Watson will analyze the red carpet video and audio in real-time to generate artist insights that will be overlaid during the livestream on GRAMMY.com. Using artificial intelligence and natural language processing, Watson will ..."
+    publishedDateTime: 2020-01-20T20:12:00Z
+    sourceUrl: https://www.grammy.com/grammys/news/grammy-insights-watson-bring-real-time-artist-insights-grammy-red-carpet-using-ai
+    ampUrl: https://www.grammy.com/grammys/news/grammy-insights-watson-bring-real-time-artist-insights-grammy-red-carpet-using-ai?amp
+    cdnAmpUrl: https://www-grammy-com.cdn.ampproject.org/c/s/www.grammy.com/grammys/news/grammy-insights-watson-bring-real-time-artist-insights-grammy-red-carpet-using-ai?amp
+    type: article
+    provider:
+      name: GRAMMY.com
+      domain: grammy.com
+    quality: 63
+    images:
+      - url: https://www.grammy.com/sites/com/files/styles/twitter_image/public/bebe_rexha-1097524394.jpg?itok=SktfgJxf
+        width: 600
+        height: 300
 
 secured: "YMpZCDoNDYQ+zZEGLObRlZHd0ljmvlZJsOgt7ZhvM/AcpmNPBtHYPWVzWucKfee+jhxFVZn5zcXqTRlQ1aUzYNotGU0Q9KyPt8bmLeBH6EawejlojcgIriODtxSdJQVKdBlsrKwaSBtvL7DwQ0AQFNC3bGuW+rHg3bATfSRukRRiD6EAYkBJb81bJGTcOLtBX5Jr/QQpJTpI8bTPk1TUDcl29F7LH1miiw0XAzE6zEMW7G6TfdwMyZKtwu8Ug7eoQmIE1hQVj01U4qNGdbbQwNEy8bWq013yJrwBrZJ8kjgaFdCtzx5YB8cBkRZpKGujUb9wBV0WgJrNyJ1GEI/0Yj+OIk67rJYvjcYCtIS94mGh/p7QpyxM5FqvyqSkmzDkT+pK2cFNJyLNoQ3sPfJZNT78UxsPOP51G+FSKvALeUsWEn/nIeRRe16gMLehVNCsnCE1Xefe4QCvzDIG0S0/qcx/yV488RGS1FA5dvz0VUA=;IJ9+3e5WkdP1hyl82zkW7w=="
 ---

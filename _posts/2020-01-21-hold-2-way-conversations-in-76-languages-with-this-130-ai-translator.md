@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-21T15:35:00Z
 sourceUrl: https://www.macworld.com/article/3513858/hold-2-way-conversations-in-76-languages-with-this-130-ai-translator.html
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -43,6 +43,19 @@ related:
       - url: https://pocketnow.com/wp/../files/2020/01/sale_25025_primary_image.jpg
         width: 630
         height: 473
+  - title: "Save 34% on the Mesay 3.0 PRO: AI Global Translator"
+    excerpt: "We have a great deal for our readers on the Mesay 3.0 PRO: AI Global Translator in the Geeky Gadgets Deals store today, you can save 34% off the normal price. Wherever you are in the world, language shouldn’t be an obstacle. Thanks to the newest MESAY3, you can now easily converse in 76 different languages. MESAY3 is a smart voice interpreter ..."
+    publishedDateTime: 2020-01-23T16:39:00Z
+    sourceUrl: https://www.geeky-gadgets.com/save-34-on-the-mesay-3-0-pro-ai-global-translator-23-01-2020/
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: https://www.geeky-gadgets.com/wp-content/uploads/2020/01/Mesay-3.0-PRO.jpg
+        width: 700
+        height: 525
 
 secured: "sw6Qa0AmB2E0G55cWrMpsz0HFwTb/UmeLQWKUTd9hcE9FWxeXPcfacrA62tiU/M0eKDIlbSrAW1Oi0DBcUlvp8H1ZXjtAr8RvadYhGYl6eHd7gFRVyeNspbA2CbZbPnSxRChmgC8AUm3Z/pDSwhNLA6DzDDGdYUuGqNzk+CBXyaUVbTnrgFwBK/vaauNMTvpUA6qrVRMHHJBf9jO75xKUkPLtl6zQHlbhCMIpczBBWHnzuZFA5c65jVccp256z+s3ApxwSAgXedmVvb95aimIsENOwrSuX4jeq+C9+LafWSBt1Mt2Q9c37QLFg0lu/k5bdTChF/YPRcZSu+tBnYa3ABDzoolPScBGGJY3RmDA34UcDl2bDVGaNUu2MkK6ostRk1WGltSqxjLsvXr/YYR9zSpUrX8JCPMYHmKV9pcvLSojMedjRbySUeqhO+3Hd1XrlFfgG7EO16AXTTnsWt4rQ==;lV1OSzJzdVvk2JWpoD5FjQ=="
 ---
