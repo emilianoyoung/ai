@@ -6,16 +6,14 @@ This project adheres to the [Contributor Covenant Code of Conduct](CODE_OF_CONDU
 
 There are a few ways you can contribute:
 
-- Improving an existing topic or collection
-- Curating a new topic or collection
+- Improving existing content or collections
+- Curating new content or collections
 
-As you write content, check out the [Style Guide](./docs/styleguide.md) to learn what each field means, and how they should be formatted. Following the style guide will improve the chances of your contribution being accepted.
+Note: Updates won't immediately appear once we've merged your PR. We pull in these changes regularly.
 
-Note: Updates won't immediately appear once we've merged your PR. We pull in these changes regularly to GitHub.
+## Improving existing content or collection
 
-## Improving an existing topic or collection
-
-If a topic or collection already exists, it will be listed in its respective directory:
+If a content or collection already exists, it will be listed in its respective directory:
 
 - [topics/](https://github.com/github/explore/tree/master/topics)
 - [collections/](https://github.com/github/explore/tree/master/collections)
