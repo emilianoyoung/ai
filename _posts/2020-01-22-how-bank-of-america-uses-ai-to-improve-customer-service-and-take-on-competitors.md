@@ -8,7 +8,7 @@ ampUrl: https://www.itpro.co.uk/technology/artificial-intelligence-ai/354510/how
 cdnAmpUrl: https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354510/how-bank-of-america-uses-ai-to-improve-customer?amp
 type: article
 quality: 100
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -45,6 +45,19 @@ related:
       - url: https://www.cmswire.com/~/media/e66e4fbac85346988b8614552b01df68.jpg?mw=1024&hash=F9A672BDE93FDCF1491E09293D8024FD552E99A6
         width: 640
         height: 480
+  - title: "Conversational AI—A New Wave Of Chat-Enabled Customer Service"
+    excerpt: "Anyone who has tried using Google Translate on domain-specific documents can attest to just how ... Proprietary algorithms, like Automatic Semantic Understanding (ASU), can greatly enhance the language understanding capabilities of conversational AI. ASU gives virtual agents a competitive edge in understanding the underlying intent of a ..."
+    publishedDateTime: 2020-01-26T03:20:00Z
+    sourceUrl: https://insidebigdata.com/2020/01/25/conversational-ai-a-new-wave-of-chat-enabled-customer-service/
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 39
+    images:
+      - url: https://insidebigdata.com/wp-content/uploads/2020/01/AI_shutterstock_1069670762.jpg
+        width: 300
+        height: 300
   - title: "Building a Customer Service Dream Team"
     excerpt: "It’s not uncommon for customer questions to involve looking for answers in multiple systems–why did the financial system deliver an incorrect ... That same platform should provide the self-service capabilities customers expect, drive customer resolutions faster with machine learning, and provide analytics to continually measure and improve ..."
     publishedDateTime: 2020-01-22T03:14:00Z

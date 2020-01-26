@@ -41,6 +41,19 @@ related:
       - url: https://media.itpro.co.uk/image/upload/v1579733058/itpro/BoA_Erica_AI.png
         width: 2173
         height: 1082
+  - title: "Conversational AI—A New Wave Of Chat-Enabled Customer Service"
+    excerpt: "Anyone who has tried using Google Translate on domain-specific documents can attest to just how ... Proprietary algorithms, like Automatic Semantic Understanding (ASU), can greatly enhance the language understanding capabilities of conversational AI. ASU gives virtual agents a competitive edge in understanding the underlying intent of a ..."
+    publishedDateTime: 2020-01-26T03:20:00Z
+    sourceUrl: https://insidebigdata.com/2020/01/25/conversational-ai-a-new-wave-of-chat-enabled-customer-service/
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 39
+    images:
+      - url: https://insidebigdata.com/wp-content/uploads/2020/01/AI_shutterstock_1069670762.jpg
+        width: 300
+        height: 300
   - title: "Building a Customer Service Dream Team"
     excerpt: "It’s not uncommon for customer questions to involve looking for answers in multiple systems–why did the financial system deliver an incorrect ... That same platform should provide the self-service capabilities customers expect, drive customer resolutions faster with machine learning, and provide analytics to continually measure and improve ..."
     publishedDateTime: 2020-01-22T03:14:00Z

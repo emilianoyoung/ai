@@ -29,6 +29,6 @@ images:
     height: 791
     title: "AI in 2020: How use cases will drive artificial intelligence deployments"
 
-secured: "gLN9UPqgZ22sa3LiS1kwdB/UgsHqQRrrHLOV+W+Exzh+nnKfxGW33vyJVjjbJbQwC19U338y39fLxSrjOBX+Nps+NQXtCp/Ioczmv4R5bHhaUnQPX5rTOYLzwpvSi4f45c+uq3LOc2ey7IT0Fiwrws0gM4wrQ4pFNJRPTl8Zv/ha3jWhwMLFuNgdmK739aGxwFE38xU6Kgauazu177AvmMJAbJR1Z1MBRdymCIcXXF+0X2c+57mAY5tS+d/OMM6IQJ6BHviTqNIuOtkyTtI3UvG05/wbW67ZmwlN8FguL5XhVS9JH1Lijfzdwq+TvF11;+OQIyWXUyuL5k5ItXD19Xg=="
+secured: "N64YZbq7mznxNSS+2LVJx0VaJlxEjcD48F2TLkuq//sbjNbOXrO165MHB/CJAfaN2hGPQfQYd+3JCLLZCV0NvZoliyg8yIb/IrvaQz2r0CXHMsa8E4tzw7nOKR2U/dKZMF9QOKpY2M7HaSjIMsUbRJvW1zu6vumYj2cyWCO/rgO7zq4nUje6aIUmoCEQXUaTaa6qv1NhyzETTsEQ67PBZ7voM09yCq1m8EVH3DGZYvvoHuLxwiI1wjdU9iqsU9WUwShVWV1Idt/9FnhAqN7IqBrP1hw3XINtqRdyvHYaABh9FJl9E+0wjnGLc6BHQzoN;f8oAxBOYkSK+OLM35omKiA=="
 ---
 

@@ -1,23 +1,27 @@
 ---
 category: news
-title: "Building a Customer Service Dream Team"
-excerpt: "It’s not uncommon for customer questions to involve looking for answers in multiple systems–why did the financial system deliver an incorrect ... That same platform should provide the self-service capabilities customers expect, drive customer resolutions faster with machine learning, and provide analytics to continually measure and improve ..."
-publishedDateTime: 2020-01-22T03:14:00Z
-sourceUrl: https://www.business2community.com/customer-experience/building-a-customer-service-dream-team-02277241
-ampUrl: https://www.business2community.com/customer-experience/building-a-customer-service-dream-team-02277241/amp
-cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/customer-experience/building-a-customer-service-dream-team-02277241/amp
+title: "Conversational AI—A New Wave Of Chat-Enabled Customer Service"
+excerpt: "Anyone who has tried using Google Translate on domain-specific documents can attest to just how ... Proprietary algorithms, like Automatic Semantic Understanding (ASU), can greatly enhance the language understanding capabilities of conversational AI. ASU gives virtual agents a competitive edge in understanding the underlying intent of a ..."
+publishedDateTime: 2020-01-26T03:20:00Z
+sourceUrl: https://insidebigdata.com/2020/01/25/conversational-ai-a-new-wave-of-chat-enabled-customer-service/
 type: article
-quality: 24
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Business 2 Community
-  domain: business2community.com
+  name: insidebigdata.com
+  domain: insidebigdata.com
 
 topics:
   - AI
-  - AI in Finance
+  - Natural Language Processing
+
+images:
+  - url: https://insidebigdata.com/wp-content/uploads/2020/01/AI_shutterstock_1069670762.jpg
+    width: 300
+    height: 300
+    title: "Conversational AI—A New Wave Of Chat-Enabled Customer Service"
 
 related:
   - title: "How Bank of America uses AI to improve customer service and take on competitors"
@@ -50,20 +54,18 @@ related:
       - url: https://www.cmswire.com/~/media/e66e4fbac85346988b8614552b01df68.jpg?mw=1024&hash=F9A672BDE93FDCF1491E09293D8024FD552E99A6
         width: 640
         height: 480
-  - title: "Conversational AI—A New Wave Of Chat-Enabled Customer Service"
-    excerpt: "Anyone who has tried using Google Translate on domain-specific documents can attest to just how ... Proprietary algorithms, like Automatic Semantic Understanding (ASU), can greatly enhance the language understanding capabilities of conversational AI. ASU gives virtual agents a competitive edge in understanding the underlying intent of a ..."
-    publishedDateTime: 2020-01-26T03:20:00Z
-    sourceUrl: https://insidebigdata.com/2020/01/25/conversational-ai-a-new-wave-of-chat-enabled-customer-service/
+  - title: "Building a Customer Service Dream Team"
+    excerpt: "It’s not uncommon for customer questions to involve looking for answers in multiple systems–why did the financial system deliver an incorrect ... That same platform should provide the self-service capabilities customers expect, drive customer resolutions faster with machine learning, and provide analytics to continually measure and improve ..."
+    publishedDateTime: 2020-01-22T03:14:00Z
+    sourceUrl: https://www.business2community.com/customer-experience/building-a-customer-service-dream-team-02277241
+    ampUrl: https://www.business2community.com/customer-experience/building-a-customer-service-dream-team-02277241/amp
+    cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/customer-experience/building-a-customer-service-dream-team-02277241/amp
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 39
-    images:
-      - url: https://insidebigdata.com/wp-content/uploads/2020/01/AI_shutterstock_1069670762.jpg
-        width: 300
-        height: 300
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 24
 
-secured: "3cvz/WT5vp4k8OIjbEveGcbQpK9W7C9ZoVjH4/xEg6SSlntDzPhWwfEnXcsmBiSxwgIiMxu+OY83nNaYnFrZg/gBQf9B8i0znqn0hE1ata2HjPOaJO/eCyrMyzY5W+xCMSAUTE0JKMhmkPiYlXlvxniRq1a0OHC7WY7Fc4727iwAdVD3A8edOaafeNzzxQKfScnRmMKvqMy8j5VeYFQmeUp8o6417n5sDURqoy7uIjxKIwhiCmeUcUDjBNv6wzy42VgEgqlWoK1ZceVg1v+HwB052jAubOqkqBgVr00BWeCrssT78WVH6deVIrnBrq15Et7O3KdjwuSnZY/cs/Em6dkZVuNl2xNn3uXcd6www9CWbXQCfhQKUZBLbChrU6TaFW/WXbXBP0YUzVojEjVBpNWO3MabuF1RRb4KAXC/07sVsVuU8JVGSuqmQ2PEeOvMRYRj/XdWfW3RwRKubKiNMAqQS20ZM9+37cPea31EAsI=;TFEDsr9now8mcqquhNBefA=="
+secured: "UHjMBCcY0jKN7PEvq3Xl/Q+6qttimIagVNrxks9EA0VT0Ev/BNwMC11wkSYQ5eclXOpa0bZT35bzmU+OuECtXcThg0QWuvt2bEUElZQOcxDzhcvlcU9IBK7HJH0H73Ub3P9jzpyFS4lvbdIghaujkGnoDnTQJPndcYDGUDsLnd2fkN+/yxerA6Ljw+P8J17VVVmbZhJ2kgS4ZpMfIsQJ6BujNxQFuvxZEs/7OXi54EA15hDgt/0UxLqwMVG7MUvTvq38zetyHqgDjUg1IKpOeY7DoJ3Wj3cRzKKzuM8eDrrkLuxmW2vh8/4PV5ELbNkp;X9NqONrXsq0UAv8RPjQzPw=="
 ---
 
