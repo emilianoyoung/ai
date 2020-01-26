@@ -24,19 +24,19 @@ images:
     title: "LSU computer science, biology researchers finalists in IBM technology competition"
 
 related:
-  - title: "Neural Architecture and AutoML Technology"
-    excerpt: "However, the conventional ML process is human-dependent, and not all companies have the assets to put resources into an experienced data science team. AutoML might be the answer to such circumstances. AutoML focuses on automating each part of the machine learning (ML) work process to increase effectiveness and democratize machine learning so ..."
-    publishedDateTime: 2020-01-24T18:37:00Z
-    sourceUrl: https://www.analyticsinsight.net/neural-architecture-and-automl-technology/
+  - title: "Podcast: AI4Good Lab Empowers Women in Computer Science"
+    excerpt: "In this AI Podcast, Doina Precup describes why their doesn’t need to be a gender gap in computer science education. An associate professor at McGill University and research team lead at DeepMind, Precup shares her personal experiences, along with the AI4Good Lab she co-founded to give women more access to machine learning training."
+    publishedDateTime: 2020-01-20T17:12:00Z
+    sourceUrl: https://insidehpc.com/2020/01/podcast-ai4good-lab-empowers-women-in-computer-science/
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
+      name: insideHPC
+      domain: insidehpc.com
     quality: 39
     images:
-      - url: https://www.analyticsinsight.net/wp-content/uploads/2020/01/Neural-Network.jpg
-        width: 700
-        height: 394
+      - url: https://insidehpc.com/wp-content/uploads/2020/01/recup.jpg
+        width: 305
+        height: 305
 
 secured: "Rl3Zf/eDASSkPSvqFbiKFl/oQzGnzEF7jN35YTdx+B19i5hvHYkHTqVvea+23fbLfvjaMAFnFk48OKtwcheHNsDJVmcxGC2USHKnnwt5O2+25MNQURcqsfEMcl200jiOKoinzhTKqbsbIM0xz9CXY1iDuclmoPg4Mq8VV/Xk6CqfrFrfYDJ9ZxyKUncWKT/B33XOA09O8KZLeQdjB3tQYVKQyCp/tobIOrLVNekbYrUeieYdKdvYRvYcmGpDLx0XME9dqoqOGNFPylf4MmnuBrcOg6IVLPk2J1RKoSSsxokLzaIgBImGSoCXASs7r6eE;uuATREb26U/gofLtqK51Lg=="
 ---

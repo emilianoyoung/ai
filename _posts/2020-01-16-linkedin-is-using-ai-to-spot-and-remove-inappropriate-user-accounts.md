@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/16/linkedin-is-using-ai-to-spot-and-remo
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/linkedin-is-using-ai-to-spot-and-remove-inappropriate-user-accounts/amp/
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -29,23 +29,6 @@ images:
     width: 1200
     height: 600
     title: "LinkedIn is using AI to spot and remove inappropriate user accounts"
-
-related:
-  - title: "LinkedIn: Blockchain beats AI and cloud computing for hottest skill in 2020"
-    excerpt: "“Which means that you don’t have to be in financial services to be seeking new hires who have background and expertise in putting blockchain to use.” The Microsoft-owned company then urged recruiters ... How one behaves, how they think, and their cognitive skills are all examples of soft skills. While soft skills are difficult to measure ..."
-    publishedDateTime: 2020-01-13T12:45:00Z
-    sourceUrl: https://thenextweb.com/hardfork/2020/01/13/blockchain-linkedin-solidity-ethereum-cryptocurrency-jobs-recruitment/
-    ampUrl: https://thenextweb.com/hardfork/2020/01/13/blockchain-linkedin-solidity-ethereum-cryptocurrency-jobs-recruitment/amp/
-    cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/hardfork/2020/01/13/blockchain-linkedin-solidity-ethereum-cryptocurrency-jobs-recruitment/amp/
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
-    images:
-      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/05/cryptocurrency-blockchain-development-programming-ethereum-solidity-javascript-java-796x450.jpg
-        width: 796
-        height: 450
 
 secured: "4p4NFnQpIa+3IgVWWRM7MZR5dlKyz0kxHwKkkAUgqJogB9fG8DW5j4PMmcFNvQqOyKpmxXHkSDDA50olqYmpi1Hd+nXDa21btwBizrfSy8praPnbgmhi8SleHAfrXHD40gIlSuY8Y7pxbH9j06BOd00PR1PFyBfGHk3jt13E9MQLaQIbEB7PB5gEHlZJCmfkvWrNQvEjZWO6k9QiY1oTyozX4gTL0xOXzUNUOwZf9mjQcje4j9eZ0BwgN63d7GzWrjsQYUCW4r40qW7WHRub8fSp5bTogzskk/wwH0i3F3bNmnRfAaNJxz0Ps/nA8FoI/M/S6kvtDxsw4OX7uSZobpSWgyf2HVM3HetlMvxaWjVmUbzlURlGX1D1lnucKFdT1zdCKLGvBLvvKySni5Hhx5xexdo9xnzG5G/9cnPTpqfa65VUy+jWjaSIw88dxfVBdxrf62TcK4N/0YY50jy3bw==;/zqSYwGbSqmHyJzuohF+RA=="
 ---

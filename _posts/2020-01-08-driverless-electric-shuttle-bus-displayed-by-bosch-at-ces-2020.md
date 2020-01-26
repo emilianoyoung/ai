@@ -8,7 +8,7 @@ ampUrl: https://www.dailymail.co.uk/sciencetech/article-7865097/amp/Driverless-e
 cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7865097/amp/Driverless-electric-shuttle-bus-displayed-Bosch-CES-2020.html
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -24,23 +24,6 @@ images:
     width: 636
     height: 382
     title: "Driverless electric shuttle bus displayed by Bosch at CES 2020"
-
-related:
-  - title: "China tests world’s first high-speed driverless bullet train at a speed of 350 km successfully"
-    excerpt: "It has all the features connected to artificial intelligence with 5G signal, wireless charging and smart lighting. The Beijing to Zhangjiakou high-speed driverless train test was successful, 56496 crore rupees have been spent on it. The passengers will get ..."
-    publishedDateTime: 2020-01-11T10:56:00Z
-    sourceUrl: https://www.metrorailnews.in/china-tests-worlds-first-high-speed-driverless-bullet-train-at-a-speed-of-350-km-successfully/
-    ampUrl: https://www.metrorailnews.in/china-tests-worlds-first-high-speed-driverless-bullet-train-at-a-speed-of-350-km-successfully/?amp
-    cdnAmpUrl: https://www-metrorailnews-in.cdn.ampproject.org/c/s/www.metrorailnews.in/china-tests-worlds-first-high-speed-driverless-bullet-train-at-a-speed-of-350-km-successfully/?amp
-    type: article
-    provider:
-      name: Metro rail News
-      domain: metrorailnews.in
-    quality: 62
-    images:
-      - url: https://www.metrorailnews.in/wp-content/uploads/2020/01/5492.jpg
-        width: 1920
-        height: 1152
 
 secured: "cqQqvxQ2/jfUpOkYri/iEssihTyKkZ79wUYz23QhKbJGK0Iuz3ObGuu6a9aKUP3E+r2SERVXLGxwhpKqAyA53pvMxZYHj77ZrhuzO5/rl2s4gGQtJg8pM4Eme3/oaZIvNh8u6hDlemGzhJtbBEy8BQG/Y6Ts2VPX/8U16TVbgwIweIMvjDlLbyAjG76zesg6L6L4Q973bQt5e9q+a7aWZODyqRHOodNYmMd/4g4Winof5cQUWz8hEvUsEUzK9XpOia2W+1q9+bvu6DR0JdrurV7XpA9XLIupUJXBvjPBLpYtlj1wYW6Ysu5BFy2zr94AzSDxpq/P+rBPFQkSQYl/A6Nt0Rs1vlhRKE3i/aQODjFDZ9bw1Qgtq3TWZK6PWfl1c5Ba6XCO42Vn37ag6Mp6QXV3ART7iKd47vGax3ibnPsvzhozhNoEjl7eXFVolg4DLZRE+zgqHJqVB4/AD3u3qQ==;phQyfTi4fFtcXXpq4RnMTg=="
 ---

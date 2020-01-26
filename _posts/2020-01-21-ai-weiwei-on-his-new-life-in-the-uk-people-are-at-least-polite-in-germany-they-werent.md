@@ -40,19 +40,6 @@ related:
       - url: https://i.guim.co.uk/img/media/117b1c152f1ea36d839836b9396152a08a562245/0_61_6032_4165/master/6032.jpg?width=605&quality=85&auto=format&fit=max&s=e766e49e3d64b4564d359f373d5c7bc7
         width: 605
         height: 418
-  - title: "A German Casino Worker Is Suing Ai Weiwei for Saying He Showed a “Nazi Attitude”"
-    excerpt: "The complaint led Ai to “prod” his memory to relay his story: About a year ago, he played cards at the Berlin Casino in Potsdamer Platz. After playing, he approached a cashier’s window and laid his chips on the counter for redemption. The clerk behind the window, according to the artist, said in English, “You should say please,” while ..."
-    publishedDateTime: 2020-01-17T21:05:00Z
-    sourceUrl: https://hyperallergic.com/537979/german-casino-worker-ai-weiwei/
-    type: article
-    provider:
-      name: Hyperallergic
-      domain: hyperallergic.com
-    quality: 34
-    images:
-      - url: https://hyperallergic.com/wp-content/uploads/2020/01/ai_weiwei_1000.gif
-        width: 1000
-        height: 618
 
 secured: "0nT54ePubPhjJeJ6ovUJxNsdo/D0xt+WTRp4HQFYI09gGlToyPM2ZHrKgo07V3PzkQvjixCsSH/IwbTWWoXyGyG1Pu8U7o+G0Xgfdbr3x239Febo79gaeNzjH2RxHj59NvM/ymagyHpjOmWNDH+NOJkCOAAb+Fh0767Fsebc5MZaVCYhXQ+A0m0XTjbbiv2fhKW3EtMpLQalMp5F1yvAbnw9dmNt0mk8h/mPb3BccUAxl5/EGdsKLizmB9AGES02uWRUlZvw1YEOGYKLvKawn/nourUGLPeEaSSK06cGk/C4hpTyAbT6rMOOZc5K0OybTIH44lnI6noyxkLZKjbYGfplU39GhQRYiLfbJvWEyAJBfiaU3Ry5/zXm31uY66mO9N3qQW2MD4OB2goW6e9n+MSh6V3ABijUDIsI7x0UodpXr7pZmWIVIyee07ZmoPG4IuVZ8BEOblIFtRLFltOHBw==;nnESZd8mNTbtpjx8V6Z0qg=="
 ---

@@ -34,36 +34,6 @@ related:
       - url: https://media.wired.com/photos/5e2a1bb2123c60000827363b/master/pass/ai-scraping-88622242.jpg
         width: 2400
         height: 1350
-  - title: "Rogue NYPD cops are using facial recognition app Clearview"
-    excerpt: "Rogue NYPD officers are using facial recognition software that the department’s own facial recognition unit doesn’t want to touch because of concerns about security and potential for abuse, The Post has learned. The NYPD’s facial recognition unit kicked the tires on a controversial app, Clearview, which has scraped millions of photos from ..."
-    publishedDateTime: 2020-01-23T17:23:00Z
-    sourceUrl: https://nypost.com/2020/01/23/rogue-nypd-cops-are-using-sketchy-facial-recognition-app-clearview/
-    ampUrl: https://nypost.com/2020/01/23/rogue-nypd-cops-are-using-sketchy-facial-recognition-app-clearview/amp/
-    cdnAmpUrl: https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/01/23/rogue-nypd-cops-are-using-sketchy-facial-recognition-app-clearview/amp/
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: https://thenypost.files.wordpress.com/2020/01/nypd-3-1.jpg?quality=90&strip=all&w=1200
-        width: 1200
-        height: 800
-  - title: "Who is Hoan Ton-That? Will his Clearview AI bury your privacy for ever?"
-    excerpt: "His nascent company, Clearview AI, is saying it has gathered as many as 3 billion photos from sites like Facebook, Youtube, Twitter ... not surveillance and that Clearview Ai is \"an after-the-fact research tool.\" Though the technology is only being used by law enforcement agencies now, commercialisation of its use can spell danger, privacy ..."
-    publishedDateTime: 2020-01-23T10:07:00Z
-    sourceUrl: https://www.ibtimes.sg/who-hoan-ton-that-will-his-clearview-ai-bury-your-privacy-ever-38164
-    ampUrl: https://amp.ibtimes.sg/who-hoan-ton-that-will-his-clearview-ai-bury-your-privacy-ever-38164
-    cdnAmpUrl: https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/who-hoan-ton-that-will-his-clearview-ai-bury-your-privacy-ever-38164
-    type: article
-    provider:
-      name: Ellen
-      domain: ibtimes.sg
-    quality: 59
-    images:
-      - url: https://data.ibtimes.sg/en/full/32548/hoan-ton-that-founder-clearview-ai.png
-        width: 946
-        height: 660
   - title: "Meet Clearview AI, the secretive company that might end privacy as we know it"
     excerpt: "The system — whose backbone is a database of more than 3 billion images that Clearview claims to have scraped from Facebook ... research,” according to a document provided to Nehlen and later posted online. Ton-That said the company never actually offered such services. The company soon changed its name to Clearview AI and began marketing ..."
     publishedDateTime: 2020-01-18T14:10:00Z
@@ -94,19 +64,6 @@ related:
       - url: https://www.orlandosentinel.com/resizer/oZrdNHcxpttOUshyFpRzZViOTZc=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/6ZYRERIGSNBEVEWMOA6S7BMDIU.jpg
         width: 1200
         height: 800
-  - title: "Clearview AI facial recognition tool being used by more than 600 US police agencies"
-    excerpt: "The New York Times published a lengthy profile on Sunday of a company called Clearview AI that has developed a breakthrough facial recognition app ... is a database of more than three billion images that Clearview claims to have scraped from Facebook, YouTube, Venmo and millions of other websites—goes far beyond anything ever constructed ..."
-    publishedDateTime: 2020-01-22T05:49:00Z
-    sourceUrl: https://www.wsws.org/en/articles/2020/01/22/face-j22.html
-    type: article
-    provider:
-      name: World Socialist Web Site
-      domain: wsws.org
-    quality: 50
-    images:
-      - url: https://www.wsws.org/img/open-graph-icon.png
-        width: 1500
-        height: 785
   - title: "Class-action lawsuit filed against controversial Clearview AI startup"
     excerpt: "A lawsuit -- seeking class-action status -- was filed this week in Illinois against Clearview AI, a New York-based startup that has scraped social media networks for people's photos and created one of the biggest facial recognition databases in the world. The secretive startup was exposed last week in an explosive New York Times report which ..."
     publishedDateTime: 2020-01-24T17:05:00Z
@@ -127,17 +84,6 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 37
-  - title: "Ontario watchdog would be ‘very concerned’ about police using tools like Clearview AI"
-    excerpt: "Clearview AI’s website includes a testimonial from an unnamed person the company claims is ... consists of a one-to-one comparison between the photo of the traveller taken at the kiosk to the photograph stored on the chip in the travellers’ ePassport,” the spokesperson said. Vito Pilieci, a spokesperson for the privacy commissioner ..."
-    publishedDateTime: 2020-01-24T11:00:00Z
-    sourceUrl: https://globalnews.ca/news/6442933/canada-police-facial-recognition/
-    ampUrl: https://globalnews.ca/news/6442933/canada-police-facial-recognition/amp/
-    cdnAmpUrl: https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/6442933/canada-police-facial-recognition/amp/
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 32
 
 secured: "Y20x3I8MEvAtosXMRMFYDW5FIjuxjzvuJ58O72Nc8BnDv585Rs1Rn1dJTUl8oaDxKldLzG7knlzgI/1jeVGV0FyWU3bgmwwgq+Z0m2bARtKK6ocf8blLhUcUKP+4a9xCb4bgJO0zlx5QL1RYAGL3EC6M2ChUXdgRnHUKsJ4f+DQ1pNOzYFIvMrLSyRvdh6c5NmiIMXn44qL0B4SvAeqohPQHHd/IIyiK6+ldE0prsiqghBjD8KZTMnVQiL9Tc1wZIc4GA7/OguaZ+KmsjO3jQOAiSDYXCOkKWJhDFF4pm5UhXl08pOiIYDJpyerS0IxHWpdyDTsV+jouaqEWNxmM50V0t4/1s7GfVG4ltlhGaVEFBOKO0zJ1wdzjjnyAIxFKZMrwSMAkh3+NqHGJLOPY+PJd8mJt848GTp/Lg2mmOVltSe2Gne5VrJhNEWJbvE2gvUMhCOYVTKfYMtD5TaltJw==;0PmGF0dYYorXEgDT8MacQg=="
 ---

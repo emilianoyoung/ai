@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-15T18:46:00Z
 sourceUrl: https://semiengineering.com/uses-and-limitations-of-ai-in-chip-design/
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -22,54 +22,6 @@ images:
     width: 320
     height: 206
     title: "Uses And Limitations Of AI In Chip Design"
-
-related:
-  - title: "The Case for a Light Hand With AI and a Hard Line on China"
-    excerpt: "Last week, at the WIRED HQ at CES, I spoke with Michael Kratsios, the chief technology officer of the United States. We dug into the government’s recent regulatory framework for AI, the potential for an AI cold war with China, and whether or not the NSA is building a quantum computer. The conversation has been lightly edited for clarity."
-    publishedDateTime: 2020-01-14T15:00:00Z
-    sourceUrl: https://www.wired.com/story/light-hand-ai-hard-line-china/
-    ampUrl: https://www.wired.com/story/light-hand-ai-hard-line-china/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/light-hand-ai-hard-line-china/amp
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
-    images:
-      - url: https://media.wired.com/photos/5e18caa890f5f5000872b7b5/master/pass/Biz-Kratsios-IMG_6970.jpg
-        width: 2400
-        height: 1600
-  - title: "Every business can use - and afford - artificial intelligence"
-    excerpt: "Gartner's hype cycle for artificial intelligence (AI ... only available through expensive and nuanced breakthroughs such as self-driving vehicles. It's a perception that professionals encounter, and counter, every day. \"A lot of businesses think AI ..."
-    publishedDateTime: 2020-01-15T19:30:00Z
-    sourceUrl: https://www.itweb.co.za/content/4r1ly7RoeXeMpmda
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 39
-    images:
-      - url: https://www.itweb.co.za/static/pictures/2019/05/-fs-Machine-learning-2019.jpg
-        width: 816
-        height: 459
-  - title: "Artificial Intelligence and Machine Learning for Natural Sciences"
-    excerpt: "We are in particular interested in graph convolutional neural networks or generative methods such as GANs ... The candidate will be paid according to TV-L E13 (100%). The position is funded by the Artificial Intelligence program of Baden Württemberg („Künstliche Intelligenz Baden-Württemberg“ (KI-BW).)"
-    publishedDateTime: 2020-01-17T21:18:00Z
-    sourceUrl: https://www.findaphd.com/phds/project/artificial-intelligence-and-machine-learning-for-natural-sciences/?p118384
-    type: article
-    provider:
-      name: FindAPhD
-      domain: findaphd.com
-    quality: 34
-  - title: "China Artificial Intelligence Market"
-    excerpt: "self-driving cars, smart robots (that can learn from their surroundings and build on their capabilities based on inbuild knowledge) and military applications. Get Sample Copy of China Artificial Intelligence Market at: https://www.omrglobal.com/request ..."
-    publishedDateTime: 2020-01-14T08:35:00Z
-    sourceUrl: https://www.openpr.com/news/1895426/china-artificial-intelligence-market-2020-global-trends
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 21
 
 secured: "ZrZcqXdLpaegRa+HOgJUrdetftNXhKSe3q9rOTWjHrM5nbGcT1HtyUAiWtDhWy2n4LwYd67zKA4Q+uAzZ/BKKDej9pTBucXc5WoBA5PLIScdNwVc1fnhuX8fUgwGNB1Rn2kkaah3JmybPJhr875DqZPS1uCnlgy9jRqqQJih9U2JgQzvIvT1pM5VMy/DxN3LOXkxprPhSgU6zaZSIXKVONl/lQqi1UgJSKsDxKPbCVlxcjF7AdQmYWOgc6smez0XiGX9lxa4rGShAkhn2DGriVh5lTvdY93GFtuTVM2+JRc=;mU7KO62uS0jF7WU1DfYYZA=="
 ---

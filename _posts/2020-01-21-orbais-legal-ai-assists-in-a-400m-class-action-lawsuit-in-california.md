@@ -24,32 +24,21 @@ images:
     title: "ORBAI's Legal AI Assists in a $400M Class Action Lawsuit in California"
 
 related:
-  - title: "California Robotics Company Sues Business Partner Over AI Ocean Vehicle"
-    excerpt: "Los Angeles County robotics company Apium sued a maritime vehicles manufacturer for breach of contract and trade secret misappropriation in federal court Wednesday. Apium partnered with Aquabotix Technology Corp. in the competitive and fast-moving artificial intelligence space to develop robots that could swarm in the ocean, according to a ..."
-    publishedDateTime: 2020-01-23T00:07:00Z
-    sourceUrl: https://www.law.com/therecorder/2020/01/22/california-robotics-company-sues-business-partner-over-ai-ocean-vehicle/
+  - title: "Gilroy Resident Uses Company's Legal AI in $400M Lawsuit"
+    excerpt: "One of your neighbors posted in Neighbor Posts. Click through to read what they have to say. (The views expressed in this post are the author’s own.)"
+    publishedDateTime: 2020-01-21T18:45:00Z
+    sourceUrl: https://patch.com/california/gilroy/gilroy-resident-uses-companys-legal-ai-400m-lawsuit
+    ampUrl: https://patch.com/california/gilroy/amp/28533581/gilroy-resident-uses-companys-legal-ai-400m-lawsuit
+    cdnAmpUrl: https://patch-com.cdn.ampproject.org/c/s/patch.com/california/gilroy/amp/28533581/gilroy-resident-uses-companys-legal-ai-400m-lawsuit
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 69
+      name: Patch
+      domain: patch.com
+    quality: 59
     images:
-      - url: https://images.law.com/contrib/content/uploads/sites/403/2020/01/APIUM-Swarm-Robotics-Article-202001222322.jpg
-        width: 620
-        height: 372
-  - title: "Robotics Company Sues Business Partner Over AI Ocean Vehicle"
-    excerpt: "Los Angeles County robotics company Apium sued a maritime vehicles manufacturer for breach of contract and trade secret misappropriation in federal court Wednesday. Apium partnered with Aquabotix Technology Corp. in the competitive and fast-moving artificial intelligence space to develop robots that could swarm in the ocean, according to a ..."
-    publishedDateTime: 2020-01-23T15:57:00Z
-    sourceUrl: https://www.law.com/legaltechnews/2020/01/22/california-robotics-company-sues-business-partner-over-ai-ocean-vehicle-397-29809/
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 69
-    images:
-      - url: https://images.law.com/contrib/content/uploads/sites/397/2020/01/APIUM-Swarm-Robotics-Article-202001222322.jpg
-        width: 620
-        height: 372
+      - url: https://patch.com/img/cdn20/users/23599101/20200121/014544/styles/patch_image/public/orbai-ai-graphic___21134429496.jpg?width=984
+        width: 897
+        height: 673
 
 secured: "VDoFzSU6viIt7AZo61oHKNQFOkDGWPdEe5ssR8uzb5w2KvNhLs4xF7X2Pr+97RDrnnYKblDVzG/S3AiqaTJ3s5WoUs6rv0/4KT2etCZG/E74DgFbYfXRJdaZpu7KFtm1hJUMfEd5l3v9S5nnmfJIcKPofEhLUdz9nxWWfpNh9xKtGFPMEYWG6J16012NUoBB9RUqBcTrreZ234TQI15glOq68eRuchlMO91K5yytg8yiUJqk2c7D2IFp2EPTevIcUFCqi1IYu7poauMZZLYYJEBAF0qUqe6DJGSfXHo1J7U=;A3ZArAWTIyfgnGQ4ZhTsdQ=="
 ---

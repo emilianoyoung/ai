@@ -24,21 +24,6 @@ images:
     title: "Blog: How artificial intelligence is altering the landscape of liability for the healthcare industry"
 
 related:
-  - title: "How AI Supports And Accelerates Healthcare"
-    excerpt: "AI is currently most adept at helping to improve and accelerate workflows for researchers and healthcare professionals."
-    publishedDateTime: 2020-01-22T17:40:00Z
-    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-ai-supports-and-accelerates-healthcare/
-    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-ai-supports-and-accelerates-healthcare/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/how-ai-supports-and-accelerates-healthcare/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: https://thumbor.forbes.com/thumbor/711x446/https://specials-images.forbesimg.com/dam/imageserve/1147479249/960x0.jpg?fit=scale
-        width: 711
-        height: 446
   - title: "How AI Is Revolutionizing Health Care"
     excerpt: "Being a relatively new technology in health care, AI still has a long way to go, but the progress is impressive."
     publishedDateTime: 2020-01-15T19:45:00Z
@@ -54,86 +39,71 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F01%2Fa-18-2.jpg
         width: 640
         height: 640
-  - title: "How Artificial Intelligence is progressing in mental healthcare"
-    excerpt: "According to the report, suicide is among the top 20 leading causes of death worldwide. Over the years, Artificial Intelligence (AI) tools have been used to fill gaps in mental health care: be it the diagnosis or detection of the early signs of mental health issues. Now, researchers at the University of South Carolina’s Viterbi School of ..."
-    publishedDateTime: 2020-01-24T15:08:00Z
-    sourceUrl: https://www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare-11579878039985.html
-    ampUrl: https://www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare/amp-11579878039985.html
-    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare/amp-11579878039985.html
+  - title: "Artificial Intelligence or AI: Here is how it is transforming healthcare"
+    excerpt: ". AI sector has also become one of the world's highest-growth industries. ©Shutterstock. Making a breakthrough in healthcare, researchers at the University of Warwick have developed a new Artificial Intelligence (AI)-based technique that can detect low ..."
+    publishedDateTime: 2020-01-15T17:14:00Z
+    sourceUrl: https://www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/
+    ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/amp/
+    cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/amp/
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 76
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 88
     images:
-      - url: https://images.livemint.com/img/2020/01/24/600x338/Asset_1579878227723.jpg
-        width: 600
-        height: 337
-  - title: "Pichai hails AI potential in healthcare"
-    excerpt: "We know we can use artificial intelligence to make it better”, he stated ... In June 2018 Pichai highlighted the company’s aim to focus on areas beneficial to society, including healthcare, energy and transportation, and advised the tech giant will ..."
-    publishedDateTime: 2020-01-23T11:52:00Z
-    sourceUrl: https://www.mobileworldlive.com/featured-content/top-three/pichai-hails-ai-potential-in-healthcare/
-    ampUrl: https://www.mobileworldlive.com/featured-content/top-three/pichai-hails-ai-potential-in-healthcare/amp/
-    cdnAmpUrl: https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/pichai-hails-ai-potential-in-healthcare/amp/
+      - url: https://st1.thehealthsite.com/wp-content/uploads/2019/01/artificial-intelligence.jpg
+        width: 679
+        height: 365
+  - title: "NRF 2020: How AI Is Revolutionizing Retail"
+    excerpt: "“I think we’re on the verge of watching indoor location go from something that’s nice to have to a must-have technology for retailers,” he said. Retailers Grapple with the Ethics of AI Even as they’ve been more aggressive in adopting AI than most other industries, retailers are proceeding with some caution as they think through ..."
+    publishedDateTime: 2020-01-14T23:06:00Z
+    sourceUrl: https://biztechmagazine.com/article/2020/01/nrf-2020-how-ai-revolutionizing-retail
+    ampUrl: https://biztechmagazine.com/article/2020/01/nrf-2020-how-ai-revolutionizing-retail?amp
+    cdnAmpUrl: https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/01/nrf-2020-how-ai-revolutionizing-retail?amp
     type: article
     provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 74
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 59
     images:
-      - url: https://i1.wp.com/www.mobileworldlive.com/wp-content/uploads/2017/05/Pichai-IO-e1572348398144.png?fit=648%2C399&ssl=1
-        width: 648
-        height: 399
-  - title: "Health Catalyst becomes 1st healthcare member of Partnership on AI"
-    excerpt: "The Partnership on Artificial Intelligence to Benefit People and Society, founded by Amazon, Google, Microsoft and other tech giants to research and distribute best practices on the responsible use of AI, welcomed Health Catalyst as a partner on Jan. 22. The startup's addition to the coalition makes it the first solely healthcare-focused member ..."
-    publishedDateTime: 2020-01-23T17:35:00Z
-    sourceUrl: https://www.beckershospitalreview.com/artificial-intelligence/health-catalyst-becomes-1st-healthcare-member-of-partnership-on-ai.html
+      - url: https://biztechmagazine.com/sites/biztechmagazine.com/files/2020-01/CDW_modernworkforce_IR_mobile.jpg
+        width: 300
+        height: 250
+  - title: "Powering the Next Revolution: Artificial Intelligence"
+    excerpt: "Smart Cities around the globe are relying on an ever expanding deployment of IoT devices coupled with forthcoming 5G wireless infrastructure and edge computing to bring new levels of management, coordination, service and information to their citizenry. The complexity of the systems used to bring IoT, 5G, and edge computing together will be ..."
+    publishedDateTime: 2020-01-21T14:32:00Z
+    sourceUrl: https://www.computerworld.com/resources/197081/powering-the-next-revolution-artificial-intelligence
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/4.jpg
-        width: 400
-        height: 300
-  - title: "Leveraging AI and Machine Learning to Advance Interoperability in Healthcare"
-    excerpt: "Without syntactic and semantic interoperability, that diagnosis runs the risk of getting lost in translation when shared digitally with multiple health providers ... Coupled with other unstructured data, Cerner uses the data to power machine learning models and algorithms that help with earlier detection of congestive heart failure."
-    publishedDateTime: 2020-01-15T19:00:00Z
-    sourceUrl: https://hitconsultant.net/2020/01/15/leveraging-ai-and-machine-learning-to-advance-interoperability-in-healthcare/
-    type: article
-    provider:
-      name: HIT Consultant
-      domain: hitconsultant.net
-    quality: 53
-    images:
-      - url: https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2020/01/Leveraging-AI-and-Machine-Learning-to-Advance-Interoperability-in-Healthcare.png
-        width: 1127
-        height: 1057
-  - title: "Is Artificial Intelligence the key to unlock the limitless possibilities in Healthcare?"
-    excerpt: "Artificial Intelligence and Machine Learning are taking the major scoop of technological development and leading the digital transformation era. While entering the new decade with digital transformation, industries like Manufacturing, Banking, Automotive and Healthcare etc. are transformed in a manner that, there are certain tasks on which ..."
-    publishedDateTime: 2020-01-17T08:20:00Z
-    sourceUrl: https://www.ciol.com/artificial-intelligence-key-unlock-limitless-possibilities-healthcare/
-    ampUrl: https://www.ciol.com/artificial-intelligence-key-unlock-limitless-possibilities-healthcare/amp/
-    cdnAmpUrl: https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/artificial-intelligence-key-unlock-limitless-possibilities-healthcare/amp/
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 46
-  - title: "Startup’s AI tech wrist-band predicts healthcare risks to elderly"
-    excerpt: "Ramat Gan-based start-up Owlytics Healthcare has joined forces with Halma, a global group of lifesaving technology companies, to help senior citizens access its wristband healthcare monitoring device. Owlytics specializes in wearable-based analytics technology for the medical sector. The AI-based technology provides “remote patient-monitoring ..."
-    publishedDateTime: 2020-01-16T00:27:00Z
-    sourceUrl: https://www.jpost.com/Israel-News/Startups-AI-tech-wrist-band-predicts-healthcare-risks-to-elderly-614273
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
+      name: Computerworld
+      domain: computerworld.com
     quality: 37
     images:
-      - url: https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/451937
-        width: 822
-        height: 537
+      - url: https://idge.staticworld.net/ctw/computerworld-logo300x300.png
+        width: 300
+        height: 300
+  - title: "Experts: Preventive Health Care Is Key To Long Life"
+    excerpt: "\"A host of converging technologies like artificial intelligence, Robotics, Virtual Reality, Digital Biology, sensors, will clash into 3D printing, blockchain, quantum computing and global gigabyte networks in the near future and it will completely change the dynamics of the healthcare industry and how it will be delivered,\" said Preeti Malhotra ..."
+    publishedDateTime: 2020-01-21T00:25:00Z
+    sourceUrl: https://www.worldhealth.net/news/experts-preventive-health-care-key-long-life/
+    type: article
+    provider:
+      name: Worldhealth
+      domain: worldhealth.net
+    quality: 24
+    images:
+      - url: https://www.worldhealth.net/media/original_images/AdobeStock_128079409.jpeg
+        width: 5343
+        height: 3456
+  - title: "Preventive Health Care: Key to Long Life"
+    excerpt: "\"A host of converging technologies like artificial intelligence, Robotics, Virtual Reality, Digital Biology, sensors, will clash into 3D printing, blockchain, quantum computing, and global gigabyte networks in the near future and it will completely change the dynamics of the healthcare industry and how it will be delivered,\" said Preeti ..."
+    publishedDateTime: 2020-01-21T05:35:00Z
+    sourceUrl: https://www.medindia.net/news/preventive-health-care-key-to-long-life-192639-1.htm
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 4
 
 secured: "NqCQve7HzRocIR8jMY7r0nIQHInZWnjJwR4NtZFybJV5aqhgEUi3DFypGIjK6JrJrbOafNRlGsapYOlZolRt6PL5xZ93lPcuw814AhLaqCw8V0xdAIU13mBpfeN9If82Ep5LOxYQ4JZ7F2vsCZaDCydSOAB/WvWSLQGU8FqKFo+Q2gShZX8vdK7aHu5BVkvb8oEUF8HlfefJ11kM9mhL6I0JRg7uTEiOyFRYI6kz9lTy05hILTvFoYKZQTp+S639H4hjVseauUI0Hu532Y5IfrIXFMkUH+2PpozLOG9Y724=;FLS+6EpjBZpP2HLgidbnyg=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-23T17:52:00Z
 sourceUrl: https://www.neowin.net/news/microsoft-unveils-new-azure-service-genesys-engage
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 124
+published: true
 
 provider:
   name: Neowin
@@ -28,82 +28,58 @@ images:
     title: "Microsoft unveils new Azure Service, Genesys Engage"
 
 related:
-  - title: "Google favors temporary facial recognition ban as Microsoft pushes back"
-    excerpt: "The regulation of facial recognition is emerging as a key disagreement among the world’s biggest tech companies, with Alphabet and Google CEO Sundar Pichai suggesting a temporary ban, as recently suggested by the EU, might be welcome, while Microsoft’s chief legal officer Brad Smith cautions against such intervention. “I think it is ..."
-    publishedDateTime: 2020-01-21T11:51:00Z
-    sourceUrl: https://www.theverge.com/2020/1/21/21075001/facial-recognition-ban-google-microsoft-eu-sundar-pichai-brad-smith
-    ampUrl: https://www.theverge.com/platform/amp/2020/1/21/21075001/facial-recognition-ban-google-microsoft-eu-sundar-pichai-brad-smith
-    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/21/21075001/facial-recognition-ban-google-microsoft-eu-sundar-pichai-brad-smith
+  - title: "HCL Technologies unveils a dedicated Microsoft Business Unit"
+    excerpt: "This will extend Microsoft's offerings of Business Applications, Microsoft Dynamics 365, Microsoft Azure, loT, and Al/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10. The HCL Microsoft Business Unit will create intellectual property extending the Microsoft platform for ..."
+    publishedDateTime: 2020-01-22T09:20:00Z
+    sourceUrl: https://www.indiainfoline.com/article/news-sector-information-technology/hcl-technologies-unveils-a-dedicated-microsoft-business-unit-120012200467_1.html
+    ampUrl: https://www.indiainfoline.com/article-amp/news-sector-information-technology/hcl-technologies-unveils-a-dedicated-microsoft-business-unit-120012200467_1.html
+    cdnAmpUrl: https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/hcl-technologies-unveils-a-dedicated-microsoft-business-unit-120012200467_1.html
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 89
-    images:
-      - url: https://cdn.vox-cdn.com/thumbor/2ls_1ADJfdpajQ3z17fE91W2qRU=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66136415/acastro_180730_1777_facial_recognition_0001.0.jpg
-        width: 1400
-        height: 933
-  - title: "China cares as deeply about A.I. ethics as the US, Microsoft CEO says, as he calls for global rules"
-    excerpt: "Microsoft CEO Satya Nadella said he believes \"China cares as deeply about AI ethics as the United States.\" Nadella called for global rules around the use of AI such as facial recognition. Nadella's comments come as the U.S. increases its scrutiny of Chinese AI firms, putting some of the country's major firms on a blacklist. China cares \"as ..."
-    publishedDateTime: 2020-01-23T12:35:00Z
-    sourceUrl: https://www.cnbc.com/2020/01/23/microsoft-ceo-at-davos-china-cares-as-deeply-about-ai-ethics-as-us.html
-    ampUrl: https://www.cnbc.com/amp/2020/01/23/microsoft-ceo-at-davos-china-cares-as-deeply-about-ai-ethics-as-us.html
-    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/23/microsoft-ceo-at-davos-china-cares-as-deeply-about-ai-ethics-as-us.html
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 77
-    images:
-      - url: https://image.cnbcfm.com/api/v1/image/106350993-1579778704338rts2ziu5.jpg?v=1579779171
-        width: 3000
-        height: 2000
-  - title: "Healthcare Cognitive Computing Market Development Analysis 2019- IBM, Google, Microsoft"
-    excerpt: "The New report includes a detailed study of Global Healthcare Cognitive Computing Market. It is the result of a comprehensive research carried out keeping in mind the different parameters and trends dominating the global Healthcare Cognitive Computing Market."
-    publishedDateTime: 2020-01-15T08:36:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/healthcare-cognitive-computing-market-development-analysis-2019--ibm-google-microsoft-2020-01-15
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Google backs EU’s proposed facial recognition ban; Microsoft disagrees"
-    excerpt: "A ban is like “using a meat cleaver instead of a scalpel to solve potential problems”, he said. Smith also focussed on the benefits of facial recognition technology, citing the example of its use in finding missing children. It is the government’s responsibility to understand how technology is being used, identifying problem areas before ..."
-    publishedDateTime: 2020-01-21T13:41:00Z
-    sourceUrl: https://www.thehindubusinessline.com/info-tech/google-backs-eus-proposed-facial-recognition-ban-microsoft-disagrees/article30616303.ece
-    ampUrl: https://www.thehindubusinessline.com/info-tech/google-backs-eus-proposed-facial-recognition-ban-microsoft-disagrees/article30616303.ece/amp/
-    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/google-backs-eus-proposed-facial-recognition-ban-microsoft-disagrees/article30616303.ece/amp/
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
+      name: India Infoline
+      domain: indiainfoline.com
     quality: 59
     images:
-      - url: https://www.thehindubusinessline.com/blink/talk/xzq9q3/article30105303.ece/ALTERNATES/LANDSCAPE_615/LEAD-IMAGE
-        width: 615
-        height: 384
-  - title: "Artificial Intelligence in Education Market Is Booming Worldwide | Google, IBM, Pearson, Microsoft, AWS"
-    excerpt: "Global Artificial Intelligence in Education Market research report for easy to understand detailed breakdown of market growth factors, advance technologies, industry drivers, challenges, regulatory policies, with qualitative research of key company profiles and strategies of players such as Amazon Web Services, Blackboard Inc., Blippar ..."
-    publishedDateTime: 2020-01-20T15:56:00Z
-    sourceUrl: https://www.openpr.com/news/1901623/artificial-intelligence-in-education-market-is-booming
+      - url: https://content.indiainfoline.com/_media/iifl/img/misc/2019-09/17/full/hcl-technologies-1568695467-04161350.jpg
+        width: 350
+        height: 233
+  - title: "Microsoft And Genesys Expand Azure Partnership"
+    excerpt: "“By running the Genesys customer experience solution on this dependable cloud environment, enterprises will be able to maximize their investment in Microsoft Azure through simplified management and maintenance requirements, centralized IT expertise, reduced costs, and more.” Through cloud and artificial intelligence (AI), enterprise ..."
+    publishedDateTime: 2020-01-23T20:15:00Z
+    sourceUrl: https://winbuzzer.com/2020/01/23/microsoft-and-genesys-expand-azure-partnership-xcxwbn/
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 20
-  - title: "Emotion Analytics Market To 2022: Google, Apple, Facebook, IBM, and Microsoft"
-    excerpt: "According to Infoholic Research, the Worldwide Emotion Analytics market is estimated to witness a CAGR ... The technologies covered in the report are AI, biometrics & neuroscience, 3D modelling, pattern recognition, records management and others. Technology Analysis: Artificial intelligence (AI) is the major technology that is being implemented ..."
-    publishedDateTime: 2020-01-16T15:15:00Z
-    sourceUrl: https://www.openpr.com/news/1898533/emotion-analytics-market-to-2022-google-apple-facebook-ibm
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 54
+    images:
+      - url: https://winbuzzer.com/wp-content/uploads/2020/01/MS-Nadella-SatyaGenesys-CEO-Bates-Tony-Microsoft.jpg
+        width: 1024
+        height: 803
+  - title: "How Genesys is personalizing the customer experience with Engage, Azure and AI"
+    excerpt: "on Microsoft Azure. According to the two companies, this combination will provide a secure cloud environment to help companies more easily leverage AI to address customer needs on any channel. Headquartered in Daly City, California, Genesys has more than 5,000 employees in nearly 60 offices worldwide. Every year, the company supports more than ..."
+    publishedDateTime: 2020-01-23T15:21:00Z
+    sourceUrl: https://news.microsoft.com/transform/how-genesys-is-personalizing-the-customer-experience-with-engage-azure-and-ai/
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 1
+      name: Microsoft
+      domain: microsoft.com
+    quality: 50
+    images:
+      - url: https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/382/2020/01/12-Body-Barry1-1024x461.jpg
+        width: 1024
+        height: 461
+  - title: "Microsoft Announces New Commitment to Renewable Energy—Greenpeace Response"
+    excerpt: "Until today, Microsoft has largely relied on renewable energy credits to offset its use of dirty energy throughout its operations, including the massive data centers that power its Azure cloud. Microsoft’s commitment ... help fossil fuel companies drill more oil and gas with machine-learning and other AI technologies. Teaming up with Exxon ..."
+    publishedDateTime: 2020-01-16T20:14:00Z
+    sourceUrl: https://www.commondreams.org/newswire/2020/01/16/microsoft-announces-new-commitment-renewable-energy-greenpeace-response
+    ampUrl: https://www.commondreams.org/newswire/2020/01/16/microsoft-announces-new-commitment-renewable-energy-greenpeace-response?amp
+    cdnAmpUrl: https://www-commondreams-org.cdn.ampproject.org/c/s/www.commondreams.org/newswire/2020/01/16/microsoft-announces-new-commitment-renewable-energy-greenpeace-response?amp
+    type: article
+    provider:
+      name: Common Dreams
+      domain: commondreams.org
+    quality: 37
 
 secured: "0ctFhVNLJ8da7ILrZDMSiMivlDbE2yrwTpd1uvwd1ftD8eKJ/d9ovPla4h0FkAZl8lGUk1CKd4np80yIYY5xofPJLlb5aOx+LgsbwEY/6Bnh8XuvorCh6L1Zx11hJJ0G64uDbl9ViZbpDiparl5stX4Rgdd1I9ws5/CgFLHhDuGMgmTn2gime57VE8xouKMXOUGtiF1mhL2AT4IYxp0zoGCSUHp6bf8Ek7auMHNR+7FUY9QO8BzVk+cxnyrzCnAztECbg7LmkLC2vZZDW9OBIXyFkUGVAEHg3Iyr71m3V8Yke9rzg4XTjtbtLeUnww7Q1IBzCCYuXMroTRM+o3L+hCky2+/kkrjI+Bccp+pt2FYP/6k+v3ezrP1ZacHMPn/4+eyVEAj2coOEIlHh7WrXv96ihuvm6qgylQ5Z+Pt8NhYP1tftgdTieON4fdcZdH4Dbi7ZB+yeG1WYXpZIqQBWJum00PsbTaEwwFTOfXmGQ98=;4m/5RqjeWEy1bsGyKp/0Cg=="
 ---

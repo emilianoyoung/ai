@@ -60,6 +60,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1.jpg?fit=1800%2C859&strip=all
         width: 1800
         height: 859
+  - title: "How Machine Learning Uncovers Opportunities For Business Optimization"
+    excerpt: "With ever more data being generated across modern businesses, companies are looking for actionable intelligence to drive optimization, increase margins and avoid supply chain distributions. The sheer volume of data can make it difficult to see trends;"
+    publishedDateTime: 2020-01-22T14:26:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: https://thumbor.forbes.com/thumbor/711x494/https://specials-images.forbesimg.com/dam/imageserve/1079012838/960x0.jpg?fit=scale
+        width: 711
+        height: 494
   - title: "Returning to experiments with Machine Learning and the Premier League: Relative Performance"
     excerpt: "Following on from this piece where I was experimenting with machine learning in Python to predict performance of teams in the English Premier League (EPL), as promised I have been been running the script after each round of games to produce a predictive table. During this time I made some observations and some additions to the model due to the ..."
     publishedDateTime: 2020-01-20T21:00:00Z

@@ -25,21 +25,21 @@ images:
     title: "IBM Calls For Rules to Curb Bias in Artificial Intelligence"
 
 related:
-  - title: "IBM unveils Policy Lab, advocates ‘precision regulation’ of AI"
-    excerpt: "IBM advocates for the appointment of AI ethics officials to guarantee compliance with providers’ and owners’ expectations. They’d be accountable for internal guidance and compliance mechanisms like AI ethics boards, which would oversee risk assessments and harm mitigation strategies, and for improving public acceptance and trust of ..."
-    publishedDateTime: 2020-01-21T10:00:00Z
-    sourceUrl: https://venturebeat.com/2020/01/21/ibm-unveils-policy-lab-advocates-precision-regulation-of-ai/
-    ampUrl: https://venturebeat.com/2020/01/21/ibm-unveils-policy-lab-advocates-precision-regulation-of-ai/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/ibm-unveils-policy-lab-advocates-precision-regulation-of-ai/amp/
+  - title: "Microsoft President Brad Smith calls for AI regulation at Davos"
+    excerpt: "“We should not wait for the technology to mature before we start to put principles, and ethics, and even rules in place to govern AI,” Smith said. Why it matters: Microsoft is leading a growing pack of tech companies calling for AI regulations at a time when the public is growing more wary of the power that the technology industry wield"
+    publishedDateTime: 2020-01-21T18:36:00Z
+    sourceUrl: https://www.geekwire.com/2020/microsoft-president-brad-smith-calls-ai-regulation-davos/
+    ampUrl: https://www.geekwire.com/2020/microsoft-president-brad-smith-calls-ai-regulation-davos/amp/
+    cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-president-brad-smith-calls-ai-regulation-davos/amp/
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: GeekWire
+      domain: geekwire.com
     quality: 89
     images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all
-        width: 1200
-        height: 600
+      - url: https://cdn.geekwire.com/wp-content/uploads/2019/09/20190920_Brad_Smith_1301-630x450.jpg
+        width: 630
+        height: 450
   - title: "IBM chief calls for 'precision regulation' on AI that weighs privacy against benefits to society"
     excerpt: "\"You want to have innovation flourish and you've got to balance that with security,\" IBM CEO Ginni Rometty said in a CNBC interview from Davos."
     publishedDateTime: 2020-01-22T15:42:00Z
@@ -55,98 +55,34 @@ related:
       - url: https://image.cnbcfm.com/api/v1/image/106348968-1579704741780dp40l17y.jpg?v=1579704990
         width: 5424
         height: 3724
-  - title: "Artificial Intelligence Needs Private Markets for Regulation—Here’s Why"
-    excerpt: "It seems the White House wants to ramp up America’s artificial intelligence (AI) dominance. Earlier this month, the U.S. Office of Management and Budget released its “Guidance for Regulation of Artificial Intelligence Applications,” for federal agencies to oversee AI’s development in a way that protects innovation without making the ..."
-    publishedDateTime: 2020-01-23T10:30:00Z
-    sourceUrl: https://observer.com/2020/01/artificial-intelligence-regulation-private-markets/
-    ampUrl: https://observer.com/2020/01/artificial-intelligence-regulation-private-markets/amp/
-    cdnAmpUrl: https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/01/artificial-intelligence-regulation-private-markets/amp/
+  - title: "AI’s data drive at the heart of calls for its regulation"
+    excerpt: "While presenting the 2019 Union budget, then interim finance minister Piyush Goyal had said the Centre was planning to launch a national programme on AI. While India’s startup ecosystem has built several products using AI, we do not yet have principles for regulating it."
+    publishedDateTime: 2020-01-21T17:53:00Z
+    sourceUrl: https://www.livemint.com/technology/tech-news/ai-s-data-drive-at-the-heart-of-calls-for-its-regulation-11579624879476.html
+    ampUrl: https://www.livemint.com/technology/tech-news/ai-s-data-drive-at-the-heart-of-calls-for-its-regulation/amp-11579624879476.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/ai-s-data-drive-at-the-heart-of-calls-for-its-regulation/amp-11579624879476.html
     type: article
     provider:
-      name: Observer
-      domain: observer.com
+      name: Mint
+      domain: livemint.com
     quality: 57
     images:
-      - url: https://observer.com/wp-content/uploads/sites/2/2020/01/brain-4723976_1920.jpg?quality=80&strip
-        width: 1920
-        height: 1108
-  - title: "IBM proposes rules to help eliminate bias in artificial intelligence"
-    excerpt: "Spearheading the AI regulatory debate gives IBM a chance to come back into the spotlight as a leader in cutting-edge technology, a position it hasn’t held for years."
-    publishedDateTime: 2020-01-21T09:53:00Z
-    sourceUrl: https://www.hindustantimes.com/tech/ibm-proposes-rules-to-help-eliminate-bias-in-artificial-intelligence/story-Z6up0CTnkkr59Z0QztxsMK.html
-    ampUrl: https://m.hindustantimes.com/tech/ibm-proposes-rules-to-help-eliminate-bias-in-artificial-intelligence/story-Z6up0CTnkkr59Z0QztxsMK_amp.html
-    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/ibm-proposes-rules-to-help-eliminate-bias-in-artificial-intelligence/story-Z6up0CTnkkr59Z0QztxsMK_amp.html
+      - url: https://images.livemint.com/img/2020/01/21/600x338/PRI_-P_1579625027389.jpg
+        width: 600
+        height: 338
+  - title: "Google's CEO Calls for 'Balanced' Artificial Intelligence Regulations From Lawmakers"
+    excerpt: "Google's CEO calls for governments to regulate artificial intelligence using a 'balanced' approach. Veuer's Justin Kircher has more."
+    publishedDateTime: 2020-01-20T19:50:00Z
+    sourceUrl: https://www.wfmynews2.com/video/syndication/veuer/googles-ceo-calls-for-balanced-artificial-intelligence-regulations-from-lawmakers/602-cb6701ae-25c5-4395-bae9-81733d3f1b89
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 41
-  - title: "European Union mulls new tougher rules for artificial intelligence"
-    excerpt: "The European Union is considering new legally binding requirements for developers of artificial intelligence in an effort to ensure modern technology is developed and used in an ethical way. The EU's executive arm is set to propose the new rules apply to \"high-risk sectors,"
-    publishedDateTime: 2020-01-17T14:51:00Z
-    sourceUrl: https://www.sfgate.com/business/article/European-Union-mulls-new-tougher-rules-for-14983285.php
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 39
-    images:
-      - url: https://s.hdnux.com/photos/01/10/04/70/18894393/3/rawImage.jpg
-        width: 2048
-        height: 1365
-  - title: "IBM proposes AI rules to ease bias concerns"
-    excerpt: "IBM also suggests that companies appoint chief AI ethics executives, carry out assessments to determine how much harm an AI system may pose and maintain documentation about data when “making determinations or recommendations with potentially significant implications for individuals” so that the decisions can be explained. Spearheading the ..."
-    publishedDateTime: 2020-01-22T04:53:00Z
-    sourceUrl: https://www.healthdatamanagement.com/news/ibm-proposes-artificial-intelligence-rules-to-ease-bias-concerns
-    type: article
-    provider:
-      name: Health Data Management
-      domain: healthdatamanagement.com
-    quality: 39
-    images:
-      - url: https://sourcemedia.brightspotcdn.com/dims4/default/fd1758b/2147483647/strip/true/crop/2009x1055+0+142/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F89%2F2b%2F5777b1b2441a87863535bc1883bb%2Fginni-crop.jpg
-        width: 1200
-        height: 630
-  - title: "How should we go about establishing strong AI regulation?"
-    excerpt: "Without it, the technology won’t take the world by storm These announcements have come in spite of recent setbacks in the sphere; just last week it was revealed that the European Commission were considering a five year ban on facial recognition, and Google‘s last attempt to assemble an AI ethics board lasted under two weeks due to ..."
-    publishedDateTime: 2020-01-23T16:00:00Z
-    sourceUrl: https://www.information-age.com/how-should-we-go-about-establishing-strong-ai-regulation-123487240/
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 39
-    images:
-      - url: https://s27389.pcdn.co/wp-content/uploads/2020/01/how-should-we-go-about-establishing-strong-AI-regulation.jpeg
-        width: 1080
-        height: 533
-  - title: "Artificial Intelligence: AI Regulations, Policies, Privacy and Innovations"
-    excerpt: "Artificial Intelligence (AI) technology promises to automate and reshape business, commerce and consumer activities worldwide. But AI also triggers concerns about privacy, bias, security and plenty more. Concerns about AI, facial recognition technology and privacy are running particularly high. As a result, the AI industry and governments ..."
-    publishedDateTime: 2020-01-21T12:33:00Z
-    sourceUrl: https://www.channele2e.com/technology/ai/artificial-intelligence-regulations-policies-privacy/
-    type: article
-    provider:
-      name: ChannelE2E
-      domain: channele2e.com
+      name: WFMY News2
+      domain: wfmynews2.com
     quality: 30
-  - title: "IBM Proposes Artificial Intelligence Rules to Ease Bias Concerns"
-    excerpt: "IBM called for rules aimed at eliminating bias in artificial intelligence to ease concerns that the technology relies on data ... “Then you will get more of a prescriptive, top-down regulation.” Fetch Robotics recently announced the addition of new capabilities for TagSurveyor, a robotic RFID solution providing complete visibility of ..."
-    publishedDateTime: 2020-01-21T16:31:00Z
-    sourceUrl: https://www.industryweek.com/technology-and-iiot/robotics/article/21120934/ibm-proposes-artificial-intelligence-rules-to-ease-bias-concerns
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 23
-  - title: "IBM bats for regulating AI based on accountability,security"
-    excerpt: "To ensure compliance with these expectations, providers and owners should designate a person responsible for trustworthy AI, such as a lead AI ethics official. All entities providing or owning an AI system should conduct an initial high-level assessment of the technology's potential for harm. And regulation should treat different use cases ..."
-    publishedDateTime: 2020-01-22T19:58:00Z
-    sourceUrl: https://news.webindia123.com/news/Articles/Science/20200123/3493916.html
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
+    images:
+      - url: https://media.wfmynews2.com/assets/VEUER/images/c4e8e9ce-b7e6-459d-94d9-88998947c32e/c4e8e9ce-b7e6-459d-94d9-88998947c32e_1140x641.jpg
+        width: 1140
+        height: 641
 
 secured: "UPyOyML+7wyUNHUzvXviIMBAGPjuPd6C8Og7bKWCC+zAuCaDeWkfe+77iEnwoEcnfWhJfpqA/Yf8NrFZ/wztNpvlzvG2PT7vt1zwDXxhOBFbHoEFhEKj9+8NKAslT1LRKp19BS4oYDPQ+0KGuqObRSP98r+Zrtc0TKMOB6CnpowO6JII4zzy7NGZdsjgd0hOOwdD6H+nd9OdWVqSc3S4c8j3yxxtQdsBTw8Zrv+EsbGuNW0irZtbkdWbzSeY+LHmtQDobu5PNgrgWhDN/lbbjh52P/KXVYOYOD+QE9IOcSb0GUp85DajAb6amODbyhmvjGLLrmF1E2w4+317VE/1XJafvFGRoVczkzGmMdHQexXsOXiqy11E46jkY1ut2WYap5XxnE2feG4f5u1T4+d8AOrwx2EYmxLWJw2qRUppPkfTF0dPjAB4ulrAp22yKMnwm2NAUHt3QqTMariZq9iYEA==;K955WjiEvqTJpsmyLWaXJA=="
 ---

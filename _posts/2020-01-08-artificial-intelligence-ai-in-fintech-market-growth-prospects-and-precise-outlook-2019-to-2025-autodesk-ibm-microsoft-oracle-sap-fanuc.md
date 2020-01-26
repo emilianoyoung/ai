@@ -28,15 +28,15 @@ images:
     title: "Artificial Intelligence (AI) In Fintech Market Growth Prospects and Precise Outlook 2019 to 2025 | Autodesk, IBM, Microsoft, Oracle, SAP, Fanuc"
 
 related:
-  - title: "Natural Language Processing Market to reach $26.4 Billion by 2024 | Key players include IBM, Microsoft, Google, AWS, Apple and Facebook"
-    excerpt: "According to recent research \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\", published by MarketsandMarkets, the global Natural Language Processing (NLP ..."
-    publishedDateTime: 2020-01-13T12:24:00Z
-    sourceUrl: https://www.openpr.com/news/1894880/natural-language-processing-market-to-reach-26-4-billion
+  - title: "Artificial Intelligence in Accounting Market to Drive Amazing Growth by 2025 | AWS, Microsoft, Intuit, Xero, Sage"
+    excerpt: "Most importantly, the report sheds light on strategies that leading players are banking on to maintain their dominance in the Global Artificial Intelligence in Accounting Market. It shows how the market competition will change in the next few years and how players are preparing themselves to stay ahead of the curve. AWS, Microsoft, Intuit ..."
+    publishedDateTime: 2020-01-07T12:51:00Z
+    sourceUrl: https://www.openpr.com/news/1891085/artificial-intelligence-in-accounting-market-to-drive-amazing
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 0
+    quality: 13
 
 secured: "j5KLita9XMLSf4BE5VEcMxNLeKWwRAwgXXpk8GZ11xW8WAwKgUxPmQwac4Qvow6UkInW+EmOxJGQUS7oQHdv4rrv/qLtvvPJUUHT3pGh+L69TxvpO1UihUA+Ycx2o2cRWhHdEQHeJSSW4W+ZLGs+1c/IJ5T9neV/cLiDCgj2w3+dP6WidIldsv5wY28tpdxsr8sxRpzE2idvV+ZOuHs65r2Rv7cfB9Oq1AAmJSCIGVid1eBkqkFPSPtHnLGagCwL7+D044YsQKjWA8Jw82cBYYzU7nxU8ZZ26j2aDayplos=;v1qO77H7RyEWC43UTubMMQ=="
 ---

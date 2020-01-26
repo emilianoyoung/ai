@@ -18,84 +18,52 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Artificial Intelligence and Machine Learning Market Evolving Technology and Growth Outlook 2020 to 2024"
-    excerpt: "Artificial Intelligence and Machine Learning Report by Material, Application, and Geography - Global Forecast to 2024 is a professional and in-depth research report on the world's major regional market conditions,"
-    publishedDateTime: 2020-01-24T07:19:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-evolving-technology-and-growth-outlook-2020-to-2024-2020-01-24
+  - title: "AI Chipset Market is Expanding Due to Adoption of Industrial Automation"
+    excerpt: "Chipset Market: By Component, [Hardware (Processors, CPU, GPU, ASIC, FPGA, Memory and Network) and Software). By Technology [ (Machine Learning, Natural Language Processing, and Others (Deep Learning and Computer Vision)] – Forecast Till 2023 Artificial Intelligence Chipset Market Research Report- Forecast till 2023 A white box server can be referred to as the computer framework in large data centers."
+    publishedDateTime: 2020-01-20T11:05:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15149083/ai-chipset-market-is-expanding-due-to-adoption-of-industrial-automation
+    ampUrl: https://amp.benzinga.com/amp/content/15149083
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15149083
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 76
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Machine Learning Market Rising Trends and Technology Advancements 2020 to 2026"
-    excerpt: "The Global Machine Learning Market is carefully researched in the report while largely concentrating on top players and their business tactics, geographical expansion, market segments, competitive landscape,"
-    publishedDateTime: 2020-01-17T08:54:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-market-rising-trends-and-technology-advancements-2020-to-2026-2020-01-17
+      - url: https://www.abnewswire.com/uploads/1579519636.jpeg
+        width: 417
+        height: 455
+  - title: "Intelligent Automation Benefits Across Businesses: Industry Implementation and Key Market Players"
+    excerpt: "Such technologies provide a structured output with enhanced productivity. Additionally, IA being an evolved version of automation mimics human actions and possess cognitive capabilities, including natural language processing, speech recognition, computer vision technology, and machine learning to comprehend the vast amount of structured and ..."
+    publishedDateTime: 2020-01-19T13:36:00Z
+    sourceUrl: https://www.analyticsinsight.net/intelligent-automation-benefits-across-businesses-industry-implementation-and-key-market-players/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 11
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Platform Market Technology Advancements and Future Scope 2020 to 2026"
-    excerpt: "The Artificial Intelligence Platform Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2020-2026. The Artificial Intelligence Platform Market report is a valuable source of insightful data for business strategists."
-    publishedDateTime: 2020-01-23T07:24:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-technology-advancements-and-future-scope-2020-to-2026-2020-01-23
+      - url: https://www.analyticsinsight.net/wp-content/uploads/2020/01/Intelligent-Automation-Benefits-Across-Businesses.png
+        width: 1634
+        height: 918
+  - title: "Artificial Intelligence in Healthcare Market Advanced Technology and New Innovations by 2023 – Welltok, Intel, Nvidia, Google"
+    excerpt: "Market Industry Reports (MIR) has announced the addition of the “Global Artificial Intelligence in Healthcare Market Research Report 2019” The report focuses on global major leading industry players with information such as company profiles, product picture and specification. Artificial intelligence assists the machines to perform any task ..."
+    publishedDateTime: 2020-01-20T12:39:00Z
+    sourceUrl: https://www.techworld.com.au/mediareleases/37700/artificial-intelligence-in-healthcare-market/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Global Automotive Speech Recognition System Market 2019 to Witness Excellent Long-Term Growth Outlook"
-    excerpt: "Get an extensive research offering detailed information and growth outlook of the Automotive Speech Recognition Systemmarket in the new research report added by Big Market Research. The report presents a brief summary of the market by gathering data from various sources and industry experts prevalent in the market."
-    publishedDateTime: 2020-01-18T04:59:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-automotive-speech-recognition-system-market-2019-to-witness-excellent-long-term-growth-outlook-2020-01-18
+      name: Australian Techworld
+      domain: techworld.com.au
+    quality: 7
+  - title: "Global Automotive Artificial Intelligence Market Industry Trends, Estimation & Forecast, 2018 - 2025"
+    excerpt: "NVIDIA Corporation, Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation, Micron Technology, Otto Motors, BMW, Tesla Inc., and Toyota are some of the key players operating in the global automotive artificial intelligence market."
+    publishedDateTime: 2020-01-20T10:41:00Z
+    sourceUrl: https://www.openpr.com/news/1900862/global-automotive-artificial-intelligence-market-industry
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence In Medical Imaging Market 2019 Disclosing Latest Trends and Advancement Outlook 2025"
-    excerpt: "The Artificial Intelligence In Medical Imaging Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"Artificial Intelligence In Medical Imaging Market\"."
-    publishedDateTime: 2020-01-20T20:22:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-2019-disclosing-latest-trends-and-advancement-outlook-2025-2020-01-20
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Global Smart Robots Market 2020-2024| Evolving Opportunities with ABB Ltd. and Amazon.com Inc.| Technavio"
-    excerpt: "As a result, companies are increasingly adopting smart robots, such as collaborative robots and professional robots, which are equipped with advanced technologies, such as artificial intelligence (AI), machine learning (ML), and analytics. Collaboative robots can perform tasks such as order pick and place, packaging and palletizing, machine ..."
-    publishedDateTime: 2020-01-18T01:22:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-global-smart-robots-market-2020-2024-evolving-opportunities-/2020/01/17/9083484.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 22
-    images:
-      - url: https://mms.businesswire.com/media/20200117005289/en/768160/4/Global_Smart_Robots_Market_2020-2024.jpg
-        width: 480
-        height: 270
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
 secured: "wypMvw+fhsT0hi51o5Yz18QA1oksjNt6XixNhKhs/3u8t3sG/XlKZIhiRtryvVxrnh6xtOrIkC6DsQP3sysHN3O+ZyCvWFAeGZ/O2G5NXLYB3ONOPDZ8xXAcWNr7CfjXICdl2+1EtIaVSOsSxKJQJoLKDLIP5tUA9R3H5Sc/8bHjTNWN3vhH/0YlXWxoYn1lYmDilw1K0eJ9EqUXIoVuC2BRuZitlA7evnHcHnxqoYkL4T9AGWGPnvHBBU+GXqlfbMEKnyTsu5w3WxvZWkYWjZMpQAplW2JClgINR9WVUhtfD+9rOuBjArJIEYC9CPLY;AGeW0qFMdB8KDFc1ymCCBg=="
 ---

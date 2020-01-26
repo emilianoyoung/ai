@@ -33,19 +33,6 @@ related:
       - url: https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/editorial/f/52/f52d8126-6f46-54e2-9e89-503ffb536d94/5e13998eab3cc.preview.jpg?crop=960%2C720%2C160%2C0&resize=840%2C630&order=crop%2Cresize
         width: 840
         height: 630
-  - title: "Sogou Showcases World-Class AI-Powered Products and Services at CES 2020"
-    excerpt: "/PRNewswire/ -- Sogou Inc. (NYSE: SOGO) (\"Sogou\" or \"the Company\"), an innovator in search and a leader in China's internet industry, brings its"
-    publishedDateTime: 2020-01-08T05:04:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/sogou-showcases-world-class-ai-powered-products-and-services-at-ces-2020-300985487.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 38
-    images:
-      - url: https://mma.prnewswire.com/media/1075574/AI_Vocational.jpg?p=facebook
-        width: 5128
-        height: 2684
 
 secured: "LbLDwV23IJyt4U6WYbtTNdsCpzkpnKZYdz7IP20Ii+7pynoi1hrOikjEq8qV5fxo0S0fUDl8l25DuOnL00py4TSLMyFUG63ZZQ9+cyu59TWItd2bS/P52S2pYOoMK6A0GOfeqP9kr17JFOzC14qYOXi+l4m+AvS5BLioYEb/NP+t5sZ4dKNxtDK6CJm/nGyyhMpGbRfiBRkoaPF3M3J8uW3LBIjtKMsk8LlZJh5R8yjpOHCcRJ2AjWcMpudPuAlqV+cnwydbxZhcktT0MpF+Dk520MhWwfr8kxCiMyjQfGbsCPEsMg6Z/s2qQ13nkchSEAUtmudwxzu1AtTjlemDaxV/0+2Ci12reLaQf3QfdulFLukFaEkDebVU3fBJVGknI/pA5ML6botuRFx406vxwJzwSqtyQ98UYPOG2AtEqOu7gGVSE4KfKRC7GmHlAFVlSTv156r5ocVpyCFohRfOSQ==;Gb9WTLq8GSE0jOtk3TVR1A=="
 ---

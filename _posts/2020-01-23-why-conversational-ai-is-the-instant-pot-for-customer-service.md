@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/23/why-conversati
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/23/why-conversational-ai-is-the-instant-pot-for-customer-service/amp/
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,19 +27,6 @@ images:
     width: 711
     height: 533
     title: "Why Conversational AI Is The Instant Pot For Customer Service"
-
-related:
-  - title: "Building a Customer Service Dream Team"
-    excerpt: "It’s not uncommon for customer questions to involve looking for answers in multiple systems–why did the financial system deliver an incorrect ... That same platform should provide the self-service capabilities customers expect, drive customer resolutions faster with machine learning, and provide analytics to continually measure and improve ..."
-    publishedDateTime: 2020-01-22T03:14:00Z
-    sourceUrl: https://www.business2community.com/customer-experience/building-a-customer-service-dream-team-02277241
-    ampUrl: https://www.business2community.com/customer-experience/building-a-customer-service-dream-team-02277241/amp
-    cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/customer-experience/building-a-customer-service-dream-team-02277241/amp
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 24
 
 secured: "6RFCB3kPuaKs6MnKjKlRYnCjaUyBlQg/jEgoYR5+nh16qzKzpggk798/BtOllMO2UZ95/fMdQL+CXXCuDnqyoe4/apb5ZJDQJCmeI0E7uFhqe9mp6oQZIwsCgA+tINsEeASfzwhHm3y7WI8jUbji6w/35WYNfURownWYwh74xtlrbyM/YJMYiZKJhBj7utbevEYlK/4BQ3EcRdliJg86qpucAga9rtyFb/4oIRMd4uxSlNKSYo23Es5PCjrS5zrQ0joVtXCDJ5qPVxd/3bsqc3qcjxmK/sGURFSmdzqX4ptZHFU8R6Yw/X5kq3/MefYr6x+3ABJFLP3+RQUa3p4IcWBH11/lacx0jeoKIj/rYPAxXQfaZ2Ji1uCY7Zhn0roLwiO2xvC9xBaGdQqk6nj5b2ySAFByyBJ2pvgicXzS2XEdLJnpSZIIv/S9Yu1YjFrwMP9hY8yNNBFjX97DCwltfHkcWSDjXJmMoo3mBub2jUI=;lr6+HzrpMWMbNPg6tmPf/A=="
 ---

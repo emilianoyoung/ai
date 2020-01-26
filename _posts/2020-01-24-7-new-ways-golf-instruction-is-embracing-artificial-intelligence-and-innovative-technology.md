@@ -25,21 +25,6 @@ images:
     height: 4024
     title: "7 new ways golf instruction is embracing artificial intelligence and innovative technology"
 
-related:
-  - title: "Technology Convergence Impacting the Oil & Gas Sector, 2019 Innovation Report - AI, Robotics, and Drones Drive Opportunities"
-    excerpt: "Technology convergence in oil and gas sector has witnessed adoption of several technologies such as artificial intelligence (AI), robotic process automation, Big Data analytics, advanced sensor technologies, autonomous robots and drones, which can enable effective inspection of oil rig sites, corrosion and leaks monitoring, enable predictive ..."
-    publishedDateTime: 2020-01-17T20:33:00Z
-    sourceUrl: https://www.oilandgas360.com/technology-convergence-impacting-the-oil-gas-sector-2019-innovation-report-ai-robotics-and-drones-drive-opportunities/
-    type: article
-    provider:
-      name: Range
-      domain: oilandgas360.com
-    quality: 42
-    images:
-      - url: https://servedbyadbutler.com/adserve/;ID=170963;size=300x250;setID=287428;type=img;click=CLICK_MACRO_PLACEHOLDER
-        width: 300
-        height: 250
-
 secured: "PkrrdhBWcDIkKqgGAt6NaDkzGf1jm/T9jVs0hZazxy1htYyB4Ywu3qRdRPPp2YUUEDL51qxuQAqyL40dtaKO8WmkqZ+lm+G7XdjrWV4jw2xLVviEgpwlgmuCmWq5e1Z3yxXxdKCPviyBUszvTDH61qZmJE9ZteniqMeUqY9sSpJqGfZvVv5poe92AiO2Mzmfj5dR3Wk4AnTJ+dBKCqji8Nq97jk0ZCCZzKXutol4KvlSA+D1Z6Cf6l1ARD8apQ6Wyl/A8Utqv1l47Ns9m+CvTk7pyVa1L4tPswy5fM/HA4cTjB24PaMgnrySzKJpypJtGDwZAKdO8yO2DuVZWgsIoY3yiPZ4had1kHeAApfV3/I0ZMehTfzGU25mKEurOvBuEajfupppXBMNsOlqM2/fYz1xcjHsLw0/SH1MN2iqwWoEtOCB2+ACX0RKnpbdOL3fzrUVSbouO/CqtTzUG6b7hVFXAeJEcBT7wvwHH1RzxxI=;+pRg6cKclMYcEDpWC6xk5A=="
 ---
 

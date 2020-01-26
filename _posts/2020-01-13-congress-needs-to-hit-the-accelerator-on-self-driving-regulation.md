@@ -18,21 +18,6 @@ topics:
   - AI in Autos
 
 related:
-  - title: "The Self-Driving Enterprise And The Road To Automation"
-    excerpt: "The autonomous enterprise won’t happen overnight and needs the right tools and plan to achieve success. Just like autonomous vehicles, we need to be knowledgeable about automation and how it can improve our business processes."
-    publishedDateTime: 2020-01-09T13:09:00Z
-    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/09/the-self-driving-enterprise-and-the-road-to-automation/
-    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/09/the-self-driving-enterprise-and-the-road-to-automation/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/09/the-self-driving-enterprise-and-the-road-to-automation/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: https://thumbor.forbes.com/thumbor/711x461/https://specials-images.forbesimg.com/dam/imageserve/941265460/960x0.jpg?fit=scale
-        width: 711
-        height: 461
   - title: "Feds largely leave self-driving-car rules to makers"
     excerpt: "The Trump administration on Wednesday announced its most recent round of guidelines for makers of autonomous vehicles, and they still rely on the industry to police itself despite calls for specific regulations. Transportation Secretary Elaine Chao announced the proposed guidelines in a speech at the CES gadget show in Las Vegas, saying in prep ..."
     publishedDateTime: 2020-01-09T12:34:00Z

@@ -18,19 +18,54 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "German Wearable AI Market will experience a noticeable growth during the forecast period 2019-2025: Orion Market Reports"
-    excerpt: "German Wearable AI market is estimated to grow significantly at a CAGR of more than 30% during the forecast period. The presence of well-established and start-up companies including Wandlebots, 8sense,"
-    publishedDateTime: 2020-01-20T11:40:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/german-wearable-ai-market-will-experience-a-noticeable-growth-during-the-forecast-period-2019-2025-orion-market-reports-2020-01-20
+  - title: "AI In Medical Imaging Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025"
+    excerpt: "The AI In Medical Imaging Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"AI In Medical Imaging Market\"."
+    publishedDateTime: 2020-01-17T17:18:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-enhancement-latest-trends-growth-and-opportunity-during-2019-to-2025-2020-01-17
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 44
+    quality: 55
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "AI chipset market predicted to grow a 30.8% CAGR through 2025"
+    excerpt: "The factors such as the emergence of quantum computing and rising in implementation of AI chips in the robotics industry have shown a positive impact on the growth of the artificial intelligence chipsets market over the forecast period. Research and Markets says the global artificial intelligence chipset market is segmented on the basis of ..."
+    publishedDateTime: 2020-01-17T10:49:00Z
+    sourceUrl: https://www.mactech.com/2020/01/17/ai-chipset-market-predicted-to-grow-a-30-8-cagr-through-2025/
+    type: article
+    provider:
+      name: MacTech
+      domain: mactech.com
+    quality: 54
+    images:
+      - url: https://www.mactech.com/wp-content/uploads/2020/01/AI.png
+        width: 1000
+        height: 500
+  - title: "Global Automotive Speech Recognition System Market 2019 to Witness Excellent Long-Term Growth Outlook"
+    excerpt: "Get an extensive research offering detailed information and growth outlook of the Automotive Speech Recognition Systemmarket in the new research report added by Big Market Research. The report presents a brief summary of the market by gathering data from various sources and industry experts prevalent in the market."
+    publishedDateTime: 2020-01-18T04:59:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-automotive-speech-recognition-system-market-2019-to-witness-excellent-long-term-growth-outlook-2020-01-18
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Manufacturing Market : Key Facts and Forecast Predictions Presented Until 2025"
+    excerpt: "Artificial Intelligence in Manufacturing Market: Global Drivers, Restraints, Opportunities, Trends, and Forecasts up to 2023 Overview: The manufacturing industry has seen dramatic changes in past decade and continues to undergo radical process changes in the delivery of its products."
+    publishedDateTime: 2020-01-16T12:36:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-key-facts-and-forecast-predictions-presented-until-2025-2020-01-16
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
 
 secured: "DJCX28nnogoDum8trPx9XA4jokCf7uyVdORzZKeGaWvUDmw4v0hLjrsQUv6+Hm4XMyaIynXqoL9N7aJCN2USfxxYSKbSvppqyAofSgnH034QZ1m1I5SMNUzQCdvNQJGYlLz9buvPtf6XeFQYgv8TQCQng4EMFe2TvYer4UXv5PtC2KVsYsSOXUYwUbE/tBDkpNv7TzrTEocaOifGe6cDEQmBU3hvlkYdDmyxBDa/L9VqNWi2m4wQC6sPgooz2BZhrfBiyWvhSy4qCtSx08W4SlcXCaX6zB+gnCsQKmpc0GA=;almE91SKBzjzSWvLD/osfw=="
 ---

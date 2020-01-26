@@ -28,17 +28,19 @@ images:
     title: "What is Machine Learning? Why its Matters and how does it works?"
 
 related:
-  - title: "DeepMind found an AI learning technique also works in human brains"
-    excerpt: "Developments in artificial intelligence often draw inspiration from how humans think, but now AI has turned the tables to teach us about how brains learn. Will Dabney at tech firm DeepMind in London and his colleagues have found that a recent development in machine learning called distributional reinforcement learning also provides a new ..."
-    publishedDateTime: 2020-01-16T04:58:00Z
-    sourceUrl: https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/
-    ampUrl: https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/
-    cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/
+  - title: "GBT Is Expanding Its Autonomous Machines (Robotics) Research"
+    excerpt: "and Artificial Intelligence (AI) enabled networking and tracking technologies, including its GopherInsight™ wireless mesh network technology platform and its Avant! AI, for both mobile and fixed solutions, announced that it is expanding its autonomous machines research, working on the development of a dynamic simulation program for robots."
+    publishedDateTime: 2020-01-21T12:11:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-gbt-expanding-its-autonomous-machines-robotics-research-/2020/01/21/9084095.htm
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 56
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 54
+    images:
+      - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
+        width: 252
+        height: 335
 
 secured: "PB14YkPNukrL3UMZ5ek35izBe1F0Y0TBCz67jROh0WS3i4G0L25sKVYofyrkOyn6fa7GK+DiIGJlIKSfPySzYChFS/1hJL0gYpu16qTUHyigs0wjoKbWFhubWvKz78v+23Sk8PBEDz5Kc6rKosYXyixFyuiW80w2w5LCKK8xjTL8aBf8LxImqbjcnEwbpveXqFx296MDfHytfCvJNVHTrht2tHUA/xUA7Nc4kDuFktwcfGvKpVXrhg9JeynHjFoZ3fYyM+gYohMdTpxIgbrZ4hzyfaU9qgAOdvCZfdlzI794UQ5cFN/+GijAuwHNXXQGzHYaCzoB0pA0C+n7QVuP9inbfrbIXgFe8I+uhenTh/ltDP3bk7N9w2x4nDhlcCRsrjgPuQNGrvkyd2GrOcuqp4JNmE6YxdC5W5IGMpkQ0Jw2gUngO4FXl2I2UvempIw5cjkjdO8dmh3zqT1CFKnfWQ==;uIXXNjZC8XG/TxRs7P/FxA=="
 ---

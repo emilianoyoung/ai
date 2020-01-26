@@ -46,6 +46,36 @@ related:
       - url: https://api.time.com/wp-content/uploads/2020/01/london-cctv.jpg
         width: 1024
         height: 683
+  - title: "The European Union considering temporary facial recognition ban"
+    excerpt: "But a draft of the upcoming document has shown that another worrisome technology – facial recognition software – is also being scrutinized. The EU is even going so far as to propose a three to five-year ban on the technology to allow rules and regulations time to catch up. Regulation for some of the worst aspects of the internet age has ..."
+    publishedDateTime: 2020-01-19T16:40:00Z
+    sourceUrl: https://www.techspot.com/news/83618-european-union-considering-temporary-facial-recognition-ban.html
+    ampUrl: https://www.techspot.com/amp/news/83618-european-union-considering-temporary-facial-recognition-ban.html
+    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83618-european-union-considering-temporary-facial-recognition-ban.html
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 89
+    images:
+      - url: https://static.techspot.com/images2/news/ts3_thumbs/2019/08/2019-08-22-ts3_thumbs-389.jpg
+        width: 800
+        height: 560
+  - title: "Facial recognition could help discover fate of Holocaust victims"
+    excerpt: "An old photograph and modern face recognition technology could help two Israeli brothers find out how their father survived the Nazi Holocaust. Seeking clues to the past, Eli and Saul Lieberman turned to an Israeli research center,"
+    publishedDateTime: 2020-01-21T11:39:00Z
+    sourceUrl: https://www.reuters.com/article/us-holocaust-memorial-auschwitz-technolo-idUSKBN1ZK150
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZK150
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZK150
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: https://s2.reutersmedia.net/resources/r/?m=02&d=20200121&t=2&i=1479305789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0K0XC
+        width: 818
+        height: 545
   - title: "Facial recognition to be rolled out in London amid privacy concerns"
     excerpt: "Live facial recognition (LFR) technology will be rolled out across specific locations across London, the Metropolitan Police Service has announced. This will be the first time these cameras will be operational on the streets of the UK capital. The rollout comes after pilots were conducted in London and South Wales. The news comes as the ..."
     publishedDateTime: 2020-01-24T12:51:00Z
@@ -106,21 +136,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1074319514%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4681%26cropY1%3D279%26cropY2%3D2913
         width: 1199
         height: 675
-  - title: "London Cops Will Use Facial Recognition to Hunt Suspects"
-    excerpt: "There will soon be a new bobby on the beat in London: artificial intelligence. London’s Metropolitan Police said Friday that it will deploy facial recognition technology to find wanted criminals and missing persons. It said the technology will be deployed at “specific locations,” each with a “bespoke watch list” of wanted persons ..."
-    publishedDateTime: 2020-01-25T07:00:00Z
-    sourceUrl: https://www.wired.com/story/londons-cops-facial-recognition-hunt-suspects/
-    ampUrl: https://www.wired.com/story/londons-cops-facial-recognition-hunt-suspects/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/londons-cops-facial-recognition-hunt-suspects/amp
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: https://media.wired.com/photos/5e2b36a1520cce000867c6a7/master/pass/Biz-londonaerial-912614070.jpg
-        width: 2400
-        height: 1600
   - title: "AI Weekly: Calls for facial recognition moratorium highlight need for protection from surveillance tech"
     excerpt: "The debate over whether to ban or place moratoriums on the use of facial recognition started last year in cities like San Francisco, but the debate reignited this week when Alphabet and Google CEO Sundar Pichai said he’s open to a moratorium on facial recognition. “It [facial recognition regulation] can be immediate, but maybe there’s a ..."
     publishedDateTime: 2020-01-24T21:02:00Z
@@ -166,21 +181,6 @@ related:
       - url: https://zdnet1.cbsistatic.com/hub/i/r/2019/11/11/d3af5161-14a8-4356-9feb-76346a4bd0cb/thumbnail/1200x675/2ffaf51a1bdfb4c8c3d70bdb244477cb/facial-recognition-could-be-most-invasiv-5dc16b0da99ca30001278b78-1-nov-11-2019-15-39-03-poster.jpg
         width: 1200
         height: 675
-  - title: "London’s Met Police switches on live facial recognition, flying in face of human rights concerns"
-    excerpt: "While EU lawmakers are mulling a temporary ban on the use of facial recognition to safeguard individuals’ rights, as part of risk-focused plan to regulate AI, London’s Met Police has today forged ahead with deploying the privacy hostile technology — flipping the switch on operational use of live facial recognition in the UK capital."
-    publishedDateTime: 2020-01-24T13:09:00Z
-    sourceUrl: https://techcrunch.com/2020/01/24/londons-met-police-switches-on-live-facial-recognition-flying-in-face-of-human-rights-concerns/
-    ampUrl: https://techcrunch.com/2020/01/24/londons-met-police-switches-on-live-facial-recognition-flying-in-face-of-human-rights-concerns/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/24/londons-met-police-switches-on-live-facial-recognition-flying-in-face-of-human-rights-concerns/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 76
-    images:
-      - url: https://techcrunch.com/wp-content/uploads/2017/09/gettyimages-826000302.jpg?w=1024
-        width: 1024
-        height: 652
   - title: "New Advocacy Campaign Calls for Banning Facial Recognition on College Campuses"
     excerpt: "A satirical student newspaper recently wrote that Stanford University installed facial recognition cameras in the front of some lecture halls to take attendance and analyze the expressions on students’ faces. Though that particular instance isn’t true, the scenario taps into the very real concerns that privacy activists have about the ..."
     publishedDateTime: 2020-01-22T23:17:00Z
@@ -211,19 +211,49 @@ related:
       - url: https://icdn3.digitaltrends.com/image/digitaltrends/n13_super_nintendo_world_universal_studios_japan-1200x630-c-ar1.91.jpg
         width: 970
         height: 507
-  - title: "London police to use facial recognition technology, spurring privacy concerns"
-    excerpt: "Police in London aim to use facial recognition technology to identify and locate criminals in real time. New studies have questioned the accuracy of the technology and in the U.S. privacy advocates are sounding the alarm about potential misuse.Jan. 24, 2020"
-    publishedDateTime: 2020-01-25T00:05:00Z
-    sourceUrl: https://www.nbcnews.com/nightly-news/video/london-police-to-use-facial-recognition-technology-spurring-privacy-concerns-77497925816
+  - title: "Met Police to deploy facial recognition cameras"
+    excerpt: "The Metropolitan Police has announced it will use live facial recognition cameras operationally for the first time on London streets. The cameras will be in use for five to six hours at a time, with bespoke lists of suspects wanted for serious and violent crimes drawn up each time. Police say the cameras identified 70% of wanted suspects and ..."
+    publishedDateTime: 2020-01-24T11:41:00Z
+    sourceUrl: https://www.bbc.com/news/uk-51237665
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 66
+      name: BBC
+      domain: bbc.com
+    quality: 69
     images:
-      - url: https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202001/nn_tco_uk_police_launch_facial_recognition_200124_1920x1080.nbcnews-fp-1200-630.jpg
-        width: 1200
-        height: 630
+      - url: https://ichef.bbci.co.uk/news/1024/branded_news/121F9/production/_110633247_2b368a7b-bf13-4f8e-8f8d-e0ac7312d185.jpg
+        width: 1024
+        height: 576
+  - title: "Google CEO calls for regulation of AI to protect against deepfakes and facial recognition"
+    excerpt: "The chief executive of Google has called for international cooperation on regulating artificial intelligence technology to ensure it ... who is now a member of the International Committee for Robot Arms Control. 'There could be large-scale accidents because these things will start to behave in unexpected ways,’ she explained to the Guardian."
+    publishedDateTime: 2020-01-20T12:00:00Z
+    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7907373/Google-CEO-calls-regulation-AI-protect-against-deepfakes-facial-recognition.html
+    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7907373/amp/Google-CEO-calls-regulation-AI-protect-against-deepfakes-facial-recognition.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7907373/amp/Google-CEO-calls-regulation-AI-protect-against-deepfakes-facial-recognition.html
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 67
+    images:
+      - url: https://i.dailymail.co.uk/1s/2020/01/20/10/14896920-0-image-a-3_1579514657623.jpg
+        width: 636
+        height: 382
+  - title: "EU considers five-year ban on facial recognition technology"
+    excerpt: "The European Union is considering a ban on the use of facial recognition software in public areas as it considers how to regulate the technology. The ban would last between three and five years, although exceptions could be made for security and research projects, according to the proposals seen by the Reuters news agency. The plans have been ..."
+    publishedDateTime: 2020-01-17T14:57:00Z
+    sourceUrl: https://news.sky.com/story/eu-considers-five-year-ban-on-facial-recognition-technology-11910647
+    ampUrl: https://news.sky.com/story/amp/eu-considers-five-year-ban-on-facial-recognition-technology-11910647
+    cdnAmpUrl: https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/eu-considers-five-year-ban-on-facial-recognition-technology-11910647
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 59
+    images:
+      - url: https://e3.365dm.com/19/07/1600x900/skynews-facial-recognition_4709130.jpg?20190703181850
+        width: 1600
+        height: 900
   - title: "Face recognition mobile application in 10 polling stations"
     excerpt: "The Telangana State Election Commission has decided to use face recognition mobile application in 10 polling stations of Kompally municipality in Medchal-Malkajgiri district in the coming elections on a pilot basis to strengthen its voter verification system. The technology was aimed to reduce impersonation cases by applying the latest ..."
     publishedDateTime: 2020-01-18T16:53:00Z
@@ -239,36 +269,66 @@ related:
       - url: https://www.thehindu.com/news/national/telangana/mfyjlt/article30595769.ece/ALTERNATES/LANDSCAPE_615/hy10votersrevcol
         width: 615
         height: 384
-  - title: "Las Vegas police use facial recognition to arrest assault suspect"
-    excerpt: "Las Vegas police used facial recognition technology to identify a man suspected of punching another at a car show in November, fracturing the victim’s skull, according to an arrest warrant. Ernesto Cortez, 38, was arrested Jan. 8 and charged with battery resulting in substantial bodily harm, court records show. The Metropolitan Police ..."
-    publishedDateTime: 2020-01-19T17:04:00Z
-    sourceUrl: https://www.reviewjournal.com/crime/las-vegas-police-use-facial-recognition-to-arrest-assault-suspect-1938801/
-    ampUrl: https://www.reviewjournal.com/crime/las-vegas-police-use-facial-recognition-to-arrest-assault-suspect-1938801/amp/
-    cdnAmpUrl: https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/crime/las-vegas-police-use-facial-recognition-to-arrest-assault-suspect-1938801/amp/
+  - title: "Five-year ban on facial recognition being considered in the EU"
+    excerpt: "Notice a bug? Let us know here."
+    publishedDateTime: 2020-01-18T18:30:00Z
+    sourceUrl: https://www.androidpolice.com/2020/01/18/five-year-ban-on-facial-recognition-being-considered-in-eu/
+    ampUrl: https://www.androidpolice.com/2020/01/18/five-year-ban-on-facial-recognition-being-considered-in-eu/?amp
+    cdnAmpUrl: https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/2020/01/18/five-year-ban-on-facial-recognition-being-considered-in-eu/?amp
     type: article
     provider:
-      name: Las Vegas Review-Journal
-      domain: reviewjournal.com
+      name: Android Police
+      domain: androidpolice.com
     quality: 59
     images:
-      - url: https://www.reviewjournal.com/wp-content/uploads/2020/01/13262413_web1_ccdcweb.jpg?w=600
-        width: 600
-        height: 400
-  - title: "India's Telangana to test facial recognition in local elections"
-    excerpt: "The southern Indian state of Telangana will use facial recognition software in local elections on Wednesday, authorities said, the first such use of the technology in the country despite growing concerns about privacy and surveillance. Facial recognition software will be used to verify voters in 10 polling stations in the Medchai Malkajgiri ..."
-    publishedDateTime: 2020-01-22T10:30:00Z
-    sourceUrl: https://www.aljazeera.com/news/2020/01/india-telangana-test-facial-recognition-local-elections-200122093408249.html
-    ampUrl: https://www.aljazeera.com/amp/news/2020/01/india-telangana-test-facial-recognition-local-elections-200122093408249.html
-    cdnAmpUrl: https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/01/india-telangana-test-facial-recognition-local-elections-200122093408249.html
+      - url: https://www.androidpolice.com/wp-content/uploads/2020/01/1200px-Flag_of_Europe.svg_.png
+        width: 1200
+        height: 800
+  - title: "Facial Recognition and the Danger of Automated Authoritarianism"
+    excerpt: "The company is, however, developing facial recognition software that would make it possible for wearers of augmented-reality glasses to ID folks walking down a street in real-time. Of course, such a technology could easily be harnessed to networked surveillance cameras so that government agents could track where a citizen is and with whom that ..."
+    publishedDateTime: 2020-01-21T22:43:00Z
+    sourceUrl: https://reason.com/2020/01/21/facial-recognition-and-the-danger-of-automated-authoritarianism/
+    ampUrl: https://reason.com/2020/01/21/facial-recognition-and-the-danger-of-automated-authoritarianism/?amp
+    cdnAmpUrl: https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/01/21/facial-recognition-and-the-danger-of-automated-authoritarianism/?amp
     type: article
     provider:
-      name: Al Jazeera English
-      domain: aljazeera.com
+      name: Reason
+      domain: reason.com
     quality: 59
     images:
-      - url: https://www.aljazeera.com/mritems/imagecache/mbdxlarge/mritems/Images/2019/11/7/737f7651ea7044cca6269f4f9417d6d0_18.jpg
-        width: 583
-        height: 325
+      - url: https://d2eehagpk5cl65.cloudfront.net/img/c800x450-w800-q80/uploads/2020/01/DesignCellsScienceLibraryPhotosNewscom-800x450.jpg
+        width: 800
+        height: 450
+  - title: "Facial recognition’s risks demand a temporary halt"
+    excerpt: "Brussels and Silicon Valley rarely see eye-to-eye when it comes to technology regulation. But on facial recognition, EU regulators and Sundar Pichai, chief executive of Google parent Alphabet, appear to be moving in the same direction. Mr Pichai this week backed a temporary moratorium on the technology — an option under consideration by EU ..."
+    publishedDateTime: 2020-01-21T18:16:00Z
+    sourceUrl: https://www.ft.com/content/39432390-3c3e-11ea-b232-000f4477fbca
+    ampUrl: https://amp.ft.com/content/39432390-3c3e-11ea-b232-000f4477fbca
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/39432390-3c3e-11ea-b232-000f4477fbca
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 59
+    images:
+      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F8beef1a8-3c4a-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500
+        width: 500
+        height: 281
+  - title: "Supreme Court declines to hear Facebook facial recognition case"
+    excerpt: "The Supreme Court on Tuesday declined to take up a high-profile court battle over whether users can sue Facebook for using facial recognition technology on their photos without proper consent."
+    publishedDateTime: 2020-01-21T15:55:00Z
+    sourceUrl: https://thehill.com/policy/technology/479126-supreme-court-declines-to-hear-facebook-facial-recognition-case
+    ampUrl: https://thehill.com/policy/technology/479126-supreme-court-declines-to-hear-facebook-facial-recognition-case?amp
+    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/479126-supreme-court-declines-to-hear-facebook-facial-recognition-case?amp
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 59
+    images:
+      - url: https://thehill.com/sites/default/files/facebooklogo_112819getty.jpg
+        width: 980
+        height: 551
   - title: "Met police to deploy live facial recognition in London"
     excerpt: "London’s Metropolitan Police has announced that it will deploy live facial recognition to identify citizens across the capital, flying in the face of calls from the British government, regulators and citizens to pause use of the highly invasive and often inaccurate biometric technology. The Met said that standalone cameras would scan passers ..."
     publishedDateTime: 2020-01-24T13:47:00Z
@@ -299,6 +359,21 @@ related:
       - url: https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0120/metropolitan_police_camera.jpg
         width: 1200
         height: 672
+  - title: "EU plans five-year ban on use of facial recognition tech in public spaces"
+    excerpt: "The EU is considering halting the use of facial recognition technology in public spaces, while the European Commission hammers out a tighter legal framework for its use. A leaked draft white paper, obtained by Belgian not-for-profit think tank Euractiv, shows that the EU may look at how the technology can be better aligned with the EU’s ..."
+    publishedDateTime: 2020-01-19T09:50:00Z
+    sourceUrl: https://www.trustedreviews.com/news/eu-plans-five-year-ban-use-facial-recognition-tech-public-spaces-3971228
+    ampUrl: https://www.trustedreviews.com/news/eu-plans-five-year-ban-use-facial-recognition-tech-public-spaces-3971228/amp
+    cdnAmpUrl: https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/eu-plans-five-year-ban-use-facial-recognition-tech-public-spaces-3971228/amp
+    type: article
+    provider:
+      name: Trusted Reviews
+      domain: trustedreviews.com
+    quality: 58
+    images:
+      - url: https://ksassets.timeincuk.net/wp/uploads/sites/54/2020/01/EU-facial-recognition-ban-1024x768.jpg
+        width: 1024
+        height: 768
   - title: "Metropolitan Police Service now using Live Facial Recognition technology"
     excerpt: "LONDON – The Metropolitan Police Service announced Friday that it will start using Live Facial Recognition (LFR) technology. Met Police says the use of live facial recognition tech will be used in specific locations in London. They say this will help tackle serious crime, including serious violence, gun and knife crime, child sexual ..."
     publishedDateTime: 2020-01-25T19:55:00Z
@@ -329,6 +404,21 @@ related:
       - url: https://i2.wp.com/metro.co.uk/wp-content/uploads/2020/01/PRI_118868082.jpg?quality=90&strip=all&zoom=1&resize=600%2C400&ssl=1
         width: 600
         height: 400
+  - title: "Hundreds of US police departments using 'dystopian' face recognition app: report"
+    excerpt: "A new report in US media has people worried about their privacy as more police forces sign on to use the program. Clearview AI offers facial recognition software that can identify a person even in poor-quality images. An explosive new US media report published on Saturday revealed that a secretive company has been selling the world's most ..."
+    publishedDateTime: 2020-01-18T18:42:00Z
+    sourceUrl: https://www.dw.com/en/hundreds-of-us-police-departments-using-dystopian-face-recognition-app-report/a-52054957
+    ampUrl: https://amp.dw.com/en/hundreds-of-us-police-departments-using-dystopian-face-recognition-app-report/a-52054957
+    cdnAmpUrl: https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/hundreds-of-us-police-departments-using-dystopian-face-recognition-app-report/a-52054957
+    type: article
+    provider:
+      name: Deutsche Welle
+      domain: dw.com
+    quality: 54
+    images:
+      - url: https://m.dw.com/image/41695602_101.jpg
+        width: 1024
+        height: 576
   - title: "Metropolitan Police to make '81% inaccurate' live facial recognition operational"
     excerpt: "The Metropolitan Police is to begin using its controversial live facial recognition (LFR) technology on a standard basis, despite concerns about the impact of the surveillance software and its legality. In a statement on Friday the force's assistant commissioner, Nick Ephgrave, said the Met was making the technology \"operational\" following 10 ..."
     publishedDateTime: 2020-01-24T12:54:00Z
@@ -344,15 +434,6 @@ related:
       - url: https://e3.365dm.com/20/01/1600x900/skynews-met-metropolitan-police_4900764.jpg?20200124113615
         width: 1600
         height: 900
-  - title: "London Police turn to facial recognition to tackle 'serious crime'"
-    excerpt: "London police have a new tool to fight crime: live facial recognition technology. Police says the tech will aid in catching criminals, while also helping those in need of assistance. The Metropolitan Police Service will begin using Live Facial Recognition, or LFR, according to a press release Friday. Tech company NEC will provide the facial ..."
-    publishedDateTime: 2020-01-24T19:58:00Z
-    sourceUrl: https://www.cnet.com/news/london-police-turn-to-facial-recognition-to-tackle-serious-crime/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 49
   - title: "Police to Roll Out Live Facial Recognition Cameras in London"
     excerpt: "Police to Roll Out Live Facial Recognition Cameras in London LONDON (Reuters) - British police are to start operational use of live facial recognition (LFR) cameras in London, despite warnings over privacy from rights groups and concerns expressed by the government's own surveillance watchdog. First used in the capital at the Notting Hill ..."
     publishedDateTime: 2020-01-24T13:29:00Z
@@ -386,6 +467,17 @@ related:
       - url: https://knowtechie.com/wp-content/uploads/2018/11/security-cameras.jpg
         width: 1528
         height: 900
+  - title: "Philadelphia International Airport Testing Facial Recognition On Some International Flights"
+    excerpt: "PHILADELPHIA (CBS) — Some passengers at the Philadelphia International Airport will see a new security screening starting Tuesday. The airport is testing a new program to scan the faces of passengers leaving the airport on some international flights. Only a few flights on American Airlines, British Airways, Lufthansa, and Qatar Airways are ..."
+    publishedDateTime: 2020-01-21T19:10:00Z
+    sourceUrl: https://philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/
+    ampUrl: https://philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/amp/
+    cdnAmpUrl: https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/amp/
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 44
   - title: "Controversial facial recognition technology being rolled out by London police, alarming privacy groups"
     excerpt: "LONDON -- Facial recognition technology is set to be rolled out across London by the Metropolitan Police Service beginning Friday, despite concerns over the technology’s effectiveness and objections from privacy advocates. The use of Live Facial Recognition (LFR) technology will be “intelligence-led and deployed to specific locations” and ..."
     publishedDateTime: 2020-01-24T13:36:00Z
@@ -414,6 +506,19 @@ related:
       - url: https://www.irishtimes.com/image-creator/?id=1.4142813&origw=1253
         width: 1200
         height: 630
+  - title: "The EU might ban facial recognition in public for five years"
+    excerpt: "The news: The European Commission is considering a ban of facial recognition in public places for up to five years, with exceptions for research and security projects, according to a white paper draft obtained by Politico. (The paper does not specify what these projects might be.) The idea is that the temporary ban would give researchers and ..."
+    publishedDateTime: 2020-01-17T16:57:00Z
+    sourceUrl: https://www.technologyreview.com/f/615068/facial-recognition-european-union-temporary-ban-privacy-ethics-regulation/
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 39
+    images:
+      - url: https://cdn.technologyreview.com/i/images/lianhao-qu-lfan1gswv5c-unsplash0.jpg?sw=1200&cx=0&cy=0&cw=768&ch=432
+        width: 768
+        height: 432
   - title: "The EU might ban facial recognition tech for five years"
     excerpt: "While facial recognition tech is pretty handy, and even still somewhat jaw-dropping when applied to personal technology, such as Apple’s Face ID, which is found on iPhones, widespread use of the technology in public by private and governmental organizations risks turning where we live into a surveillance society the likes of which even Orwell ..."
     publishedDateTime: 2020-01-17T15:10:00Z
@@ -427,32 +532,56 @@ related:
       - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-the-eu-might-ban-facial-recognition-tech-for-five-years.jpg
         width: 1280
         height: 720
-  - title: "Telangana to test facial recognition in polls as privacy fears mount"
-    excerpt: "Facial recognition software will be used to verify voters in 10 polling stations in the Medchai Malkajgiri district to 'reduce impersonation cases,' the Telangana state election commission said in an online notification late last week The southern Indian state of Telangana will use facial recognition software in local elections on Wednesday ..."
-    publishedDateTime: 2020-01-22T09:33:00Z
-    sourceUrl: https://www.dhakatribune.com/world/south-asia/2020/01/22/telangana-to-test-facial-recognition-in-polls-as-privacy-fears-mount
+  - title: "EC may ban face recognition"
+    excerpt: "The EC has come up with an 18 page document discussing whether it should ban face recognition in public places for three to five years while they work out how to regulate it. Exceptions are mooted for things like security and R&D projects. New rules are proposed to add to existing data privacy and data storage rules. Developers and users of AI ..."
+    publishedDateTime: 2020-01-20T06:51:00Z
+    sourceUrl: https://www.electronicsweekly.com/news/business/ec-may-ban-face-recognition-2020-01/
     type: article
     provider:
-      name: Dhaka Tribune
-      domain: dhakatribune.com
+      name: Electronics Weekly
+      domain: electronicsweekly.com
     quality: 39
     images:
-      - url: https://eng-media.dhakatribune.com/?width=476&height=249&cropratio=16:9&quality=100&image=/uploads/2020/01/telangana-to-test-facial-recognition-in-polls-as-privacy-fears-mount-1579684680055.jpg
-        width: 443
-        height: 249
-  - title: "London’s Met Police to Use Live Facial Recognition Technology"
-    excerpt: "Critics of facial recognition took a big hit today, as London's Metropolitan Police service has announced they will begin using Live Facial Recognition (LFR) technology on citizens in the massive European city. As perhaps one of the most controversial technologies in recent memory, debate about the use of facial recognition to police citizens ..."
-    publishedDateTime: 2020-01-24T22:05:00Z
-    sourceUrl: https://tech.co/news/met-police-live-facial-recognition-2020-01
+      - url: https://static.electronicsweekly.com/wp-content/uploads/2020/01/18214524/1E09A80F-5158-4A31-98F5-595EA416C587.jpeg
+        width: 750
+        height: 450
+  - title: "Holocaust victims' fates could be revealed with facial recognition"
+    excerpt: "KFAR HAROEH, Israel - An old photograph and modern face recognition technology could help two Israeli brothers find out how their father survived the Nazi Holocaust. Seeking clues to the past, Eli and Saul Lieberman turned to an Israeli research center, which hopes to match family pictures from around the time of World War Two with its database ..."
+    publishedDateTime: 2020-01-21T11:36:00Z
+    sourceUrl: https://www.jpost.com/Jpost-Tech/Holocaust-victims-fates-could-be-revealed-with-facial-recognition-614797
     type: article
     provider:
-      name: Tech.co
-      domain: tech.co
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
     quality: 39
     images:
-      - url: https://images.tech.co/wp-content/uploads/2020/01/24164816/london-met-facial-recogntion.jpg
-        width: 1920
-        height: 960
+      - url: https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/452167
+        width: 822
+        height: 537
+  - title: "Need 2 Know: Virus Outbreak, Facial Recognition"
+    excerpt: "Reuters FACIAL RECOGNITION: Imagine a scenario in which a stranger could take your photo on the street and immediately find out your name and address. That is already technically possible, thanks to a shadowy startup called Clearview AI. The company was ..."
+    publishedDateTime: 2020-01-21T21:12:00Z
+    sourceUrl: https://cheddar.com/media/need-know-virus-outbreak-facial-recognition
+    type: article
+    provider:
+      name: Cheddar
+      domain: cheddar.com
+    quality: 39
+    images:
+      - url: https://img.chdrstatic.com/media/45140c0c-a275-469e-911a-13238dec14ba.jpg?source=web&crop=1200:675,smart&width=1200&height=675
+        width: 1200
+        height: 675
+  - title: "Suprema unveils its Latest Facial Recognition Solution at INTERSEC 2020"
+    excerpt: "Suprema Inc., a leading global provider of biometrics and security solutions, unveiled its latest facial recognition solution at INTERSEC 2020, the largest security exhibition in the Middle East, held in Dubai from January 19 to 21."
+    publishedDateTime: 2020-01-21T09:14:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/a15152025/suprema-unveils-its-latest-facial-recognition-solution-at-intersec-2020
+    ampUrl: https://amp.benzinga.com/amp/content/15152025
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15152025
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
   - title: "Met Police deploy NEC biometric facial recognition tech across London"
     excerpt: "The Metropolitan Police in the U.K. has rolled out in London real-time facial recognition technology developed by NEC, reports CBR. The implementation “will be intelligence-led and deployed to specific locations in London. This will help tackle serious crime, including serious violence, gun and knife crime, child sexual exploitation and help ..."
     publishedDateTime: 2020-01-24T18:24:00Z
@@ -466,19 +595,6 @@ related:
       - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg
         width: 1600
         height: 1035
-  - title: "Met Police to deploy facial recognition cameras"
-    excerpt: "The Metropolitan Police has announced it will use live facial recognition cameras operationally for the first time on London streets. The cameras will be in use for five to six hours at a time, with bespoke lists of suspects wanted for serious and violent ..."
-    publishedDateTime: 2020-01-24T11:38:00Z
-    sourceUrl: https://www.bbc.co.uk/news/uk-51237665
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 39
-    images:
-      - url: https://ichef.bbci.co.uk/news/1024/branded_news/121F9/production/_110633247_2b368a7b-bf13-4f8e-8f8d-e0ac7312d185.jpg
-        width: 1024
-        height: 576
   - title: "London Police Deploy Controversial Facial Recognition Cameras"
     excerpt: "Facial recognition technology is more widespread than ever — many people have phones in their pockets that use advanced sensors and algorithms to make sure no one else can access their data. However, law enforcement is also increasingly using facial recognition data to scan crowds for known criminals. The city of London is the latest to add ..."
     publishedDateTime: 2020-01-25T12:11:00Z
@@ -572,6 +688,28 @@ related:
       - url: https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/a/c3/ac371e57-1c1a-5fad-9cdc-c4772d24a273/5e2b5b66b25a8.image.jpg?crop=1745%2C982%2C0%2C102&resize=1120%2C630&order=crop%2Cresize
         width: 1120
         height: 630
+  - title: "Facebook could be on the hook for billions after Supreme Court refuses to hear facial recognition case"
+    excerpt: "The United States Supreme Court has declined to hear a case brought forward by Facebook that argues its users would have had to show they suffered “real-world harm” after Facebook identified them in photos using its facial recognition technology without getting their consent. Facebook hoped their argument would be heard by the Supreme ..."
+    publishedDateTime: 2020-01-22T15:10:00Z
+    sourceUrl: https://www.fastcompany.com/90454488/facebook-could-be-on-the-hook-for-billions-after-supreme-court-refuses-to-hear-facial-recognition-case?partner=feedburner
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 23
+    images:
+      - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-facebook-could-be-on-the-hook-for-billions-after-supreme-court-refuses-to-hear-facial-recognition-case.jpg
+        width: 1280
+        height: 720
+  - title: "Alphabet, Microsoft Disagree On EU’s Proposed Facial Recognition Ban"
+    excerpt: "Microsoft President Brad Smith doesn’t agree with Alphabet Chief Executive Sundar Pichai’s backing of the EU’s call for a temporary ban on facial recognition technology, Reuters reported on Monday (Jan. 20). Pichai pointed to the potential for “nefarious uses of facial recognition” and favors a moratorium, pending regulations."
+    publishedDateTime: 2020-01-21T05:18:00Z
+    sourceUrl: https://www.pymnts.com/news/artificial-intelligence/2020/alphabet-microsoft-eu-facial-recognition-ban/
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 19
 
 secured: "yWK7tgFb+1e5fDp4//9giytFL0IyMG0D3A00kEYKtEmlxoi0J7pngFf8oArulEoTJQNH1w8IOjAddplOLKOWzZXNIf20kVAXkgZ/WrYH6uuQa1IL7zGKDWDKRc7LiiYhd6zLIKiUNvRMgpOgRopOIdr9GyGRDROCK8nBtTD6ZVzYSoj2jT9nCms4d7m6ZcMcVWO1SgoSgcUajJVIXCa03kKBBAUYFLSvNFz9sqmP3qRqHKR9scUyYIAwMr1f6T39Or6YhOpsHYDad/63hApJ6JEp3UmKGMegtOjgFYhGBv8=;P5Hip6Uj1Km591kp1Eavdw=="
 ---

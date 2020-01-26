@@ -26,47 +26,89 @@ images:
     title: "GM-owned automaker unveils first self-driving vehicle"
 
 related:
-  - title: "Lyft’s autonomous vehicle partner Magna is done with self-driving tech"
-    excerpt: "The auto parts maker plans to focus on assisted driving. Two years after teaming up with Lyft to collaborate on self-driving technology, Magna said that partnership's coming to an end. The auto parts maker plans to focus on assisted driving products, instead of fully autonomous tech. Magna isn't fully severing ties with Lyft, in which it ..."
-    publishedDateTime: 2020-01-17T03:02:00Z
-    sourceUrl: https://www.engadget.com/2020/01/16/lyft-self-driving-tech-partnership-ending-magna/
-    ampUrl: https://www.engadget.com/amp/2020/01/16/lyft-self-driving-tech-partnership-ending-magna/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/16/lyft-self-driving-tech-partnership-ending-magna/
+  - title: "What Cruise’s self-driving vehicle reveals about GM’s giant EV ambitions"
+    excerpt: "As Electrek reported, Cruise yesterday unveiled its van-like, self-driving, all-electric vehicle. For the past four years, Cruise (a GM subsidiary) has been repurposing Chevy Bolts — including its four-generation self-driving Bolt that doesn’t have a steering wheel. But now GM’s Cruise has the Origin. The two essential things to consider ..."
+    publishedDateTime: 2020-01-23T00:12:00Z
+    sourceUrl: https://electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/
+    ampUrl: https://electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/amp/
+    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/amp/
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 74
+      name: Electrek
+      domain: electrek.co
+    quality: 73
     images:
-      - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D6331%252C4223%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F2fa83510-38aa-11ea-bdab-ba516203e818%26client%3Da1acac3e1b3290917d92%26signature%3D740de19c4f087efeacd976980dcbc932d65cf18a&client=amp-blogside-v2&signature=c1e264aaff1ea7ffa94e2fcf1c60d9746caa91d2
-        width: 600
-        height: 350
-  - title: "This is Cruise Origin – a self-driving EV to kill Uber, Lyft and car ownership altogether"
-    excerpt: "Cruise doesn’t want to sell you an autonomous car, just rent you a seat in one, and the Cruise Origin is the self-driving electric vehicle it believes will coax drivers out from behind the steering wheel. Handiwork of Cruise, General Motors, and Honda, the Origin is no hopeful concept, the trio insists, but an actual production vehicle that ..."
-    publishedDateTime: 2020-01-22T01:17:00Z
-    sourceUrl: https://www.slashgear.com/cruise-origin-electric-autononous-shared-transport-gm-honda-revealed-21607372/
-    ampUrl: https://www.slashgear.com/cruise-origin-electric-autononous-shared-transport-gm-honda-revealed-21607372/amp/
-    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/cruise-origin-electric-autononous-shared-transport-gm-honda-revealed-21607372/amp/
+      - url: https://electrek.co/wp-content/uploads/sites/3/2020/01/origin-sunset-2000.jpg?quality=82&strip=all&w=1000
+        width: 1000
+        height: 500
+  - title: "GM’s investors school Tesla’s on self-driving hype"
+    excerpt: "Considering true self-driving remains a long way off, GM’s owners are more realistic. Cruise, the self-driving-car outfit majority-owned by General Motors, unveiled its prototype electric autonomous vehicle on Jan. 21. Called the Cruise Origin, it has no steering wheel or pedals. Chief Executive Dan Ammann said it was “a fully engineered ..."
+    publishedDateTime: 2020-01-22T20:04:00Z
+    sourceUrl: https://www.breakingviews.com/considered-view/gms-investors-school-teslas-on-self-driving-hype/
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 65
+      name: Breakingviews
+      domain: breakingviews.com
+    quality: 39
     images:
-      - url: https://scdn.slashgear.com/wp-content/uploads/2020/01/cruise-origin-05.jpg
-        width: 1680
-        height: 946
-  - title: "Self-Driving Vehicles Need a Reality Check"
-    excerpt: "(TNS) — By all rights, Bryan Salesky might be the last guy you’d expect to hear managing expectations about fully self-driving vehicles becoming reality, and doing so in volume. As CEO of Argo AI, he helps lead the autonomous-vehicle programs for partners Ford Motor Co. and Volkswagen AG. He’s an early alum of Google’s self-driving ..."
-    publishedDateTime: 2020-01-16T21:45:00Z
-    sourceUrl: https://www.governing.com/next/Self-Driving-Vehicles-Need-Reality-Check.html
-    ampUrl: https://www.governing.com/next/Self-Driving-Vehicles-Need-Reality-Check.html?AMP
-    cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/Self-Driving-Vehicles-Need-Reality-Check.html?AMP
+      - url: https://www.breakingviews.com/wp-content/uploads/2020/01/GM-cruise-origin-scaled.jpg
+        width: 2560
+        height: 1706
+  - title: "What Cruise’s self-driving vehicle reveals about GM’s EV ambitions"
+    excerpt: "As Electrek reported, Cruise yesterday unveiled its van-like, self-driving, all-electric vehicle. For the past four years, Cruise (a GM subsidiary) has been repurposing Chevy Bolts — including its four-generation self-driving Bolt that doesn’t have a steering wheel. But now GM’s Cruise has the Origin. The two essential things to consider ..."
+    publishedDateTime: 2020-01-24T17:57:00Z
+    sourceUrl: https://electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/
     type: article
     provider:
-      name: Governing
-      domain: governing.com
-    quality: 24
+      name: Electrek
+      domain: electrek.co
+    quality: 34
+  - title: "Self-driving startup Cruise is bankrolled by GM, but it just revealed a new vehicle that envisions the end of cars"
+    excerpt: "The Origin is the fifth-generation Cruise vehicle, is production ready, and could form the basis of a shared-mobility service."
+    publishedDateTime: 2020-01-22T05:38:00Z
+    sourceUrl: https://www.businessinsider.com/self-driving-startup-cruise-unveils-origin-vehicle-end-of-cars-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 32
+    images:
+      - url: https://i.insider.com/5e27cca5b6d52d4b53130ed2?width=1200&format=jpeg
+        width: 1200
+        height: 600
+  - title: "GM and Honda Unveil Self-Driving Shuttle With No Steering Wheel, Pedals or Brakes for Ridesharing"
+    excerpt: "GM and Honda, automakers with more than 160 years of experience between them, have thrown tradition out the window by unveiling the Origin, a new self-driving vehicle. The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rear view mirror. Its doors slide rather than swing open. There’s no ..."
+    publishedDateTime: 2020-01-22T21:00:00Z
+    sourceUrl: https://ktla.com/2020/01/22/gm-and-honda-unveil-self-driving-shuttle-with-no-steering-wheel-pedals-or-brakes-for-ridesharing/
+    ampUrl: https://ktla.com/2020/01/22/gm-and-honda-unveil-self-driving-shuttle-with-no-steering-wheel-pedals-or-brakes-for-ridesharing/amp/
+    cdnAmpUrl: https://ktla-com.cdn.ampproject.org/c/s/ktla.com/2020/01/22/gm-and-honda-unveil-self-driving-shuttle-with-no-steering-wheel-pedals-or-brakes-for-ridesharing/amp/
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 31
+    images:
+      - url: https://tribktla.files.wordpress.com/2020/01/hypatia-h_0c7b65aa9535655afa28db9d9fd0431a-h_e39d11c4cf556bf531badd230e2e2089.jpg?quality=85&strip=all&w=1200
+        width: 1200
+        height: 919
+  - title: "Self-driving startup Cruise is bankrolled by GM, but it just revealed a new vehicle that envisions the end of cars (GM)"
+    excerpt: "Self-driving startup Cruise revealed its new Origin vehicle in San Francisco on Tuesday night. The vehicle is fully autonomous, all-electric, and has no traditional controls, such as a steering wheel or pedals. It's the result of a partnership between Cruise, GM, and Honda. Cruise CEO Dan Ammann continued to argue that it's time for the world ..."
+    publishedDateTime: 2020-01-22T05:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/self-driving-startup-cruise-unveils-origin-vehicle-end-of-cars-2020-1-1028834397
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 10
+  - title: "Link Tank: GM Startup Cruise Announces Self-Driving Vehicle"
+    excerpt: "Cruise, a startup acquired by General Motors, has announced a new self-driving vehicle that's unlike any car we've seen. \"This week, Cruise, the autonomous driving startup acquired by General Motors, announced its Origin, a self-driving vehicle that purports to be what comes next after the car. The Origin looks a bit like a large metal box on ..."
+    publishedDateTime: 2020-01-24T17:06:00Z
+    sourceUrl: https://www.denofgeek.com/us/culture/285529/link-tank-gm-startup-cruise-announces-self-driving-vehicle
+    type: article
+    provider:
+      name: Den Of Geek
+      domain: denofgeek.com
+    quality: 4
 
 secured: "az8LhXR8wm5KzlWljGx3PcfHve7HfJCrNUIf+OE6RMBDhCsqYMGzlHKXcmAjBZgBFU7QkK8AaNzGw6nVcNe53FumwSskM4gM+mDniWbnVw846gsklQ4es+5qbkmT7QIxBwTZNL/3VmEhSGqY/ZcblD364DKVBep8Bp722oOBx1ek02L52i6+PcojWg9KNwjzD80ToYfnu1IIrwAtPMWviQhvf9mfyyVg4TkjEVQhluHR3eNotn2anJVeje5PaNkO8Ypk2kxgPWTT6Zp3CUxj+9oSbcyU9Y2EXJKY7jxrYP5dq9PECkOagdYduFAuxChdZ1NnsFD6sYGJ/SnFJuLBQuaLnGPkpiYowDWuZorsqe81WLbhOL91PieC+f3yVFoAnXQglh0tIWKtEW6y64jPz+QARC8Kh16Cl7o8ZSCBsKOoJKgmN4fcni8n947G7MOIZR7GZMSmdu5SErD0zEj8pA==;jXcjtP9AoDfmn5scVgIyyw=="
 ---

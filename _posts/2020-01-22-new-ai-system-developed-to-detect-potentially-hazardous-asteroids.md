@@ -38,32 +38,6 @@ related:
       - url: https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/0/85/08513400-1dc1-589e-8d7b-5f0836a08307/5e224e7ec3a7a.image.jpg
         width: 750
         height: 415
-  - title: "AI contact lens being developed"
-    excerpt: "Startup Mojo Vision has been developing an AR contact lens which really means people will have difficulty telling what is real or not. Mojo Vision is calling the technology Invisible Computing. Last week the company let selected media have a look at working prototypes, powered wirelessly, though plans for the next version include a battery on ..."
-    publishedDateTime: 2020-01-17T10:40:00Z
-    sourceUrl: https://www.fudzilla.com/news/ai/50136-ai-contact-lens-being-developed
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 37
-    images:
-      - url: https://www.fudzilla.com/media/k2/items/cache/1caacaa9c9f56d30a557a35a6a1218c0_L.jpg
-        width: 620
-        height: 465
-  - title: "$7.5 million grant will fund development of socially savvy artificial intelligence teammates"
-    excerpt: "University of Arizona researchers have been awarded $7.5 million to create an artificial intelligence agent that can understand social cues and human interactions, and use that information to help teams achieve their goals. The grant comes from the Defense Advanced Research Projects Agency and is part of DARPA's Artificial Social Intelligence ..."
-    publishedDateTime: 2020-01-17T15:10:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/uoa-gw011620.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 26
-    images:
-      - url: https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
-        width: 900
-        height: 300
 
 secured: "wJbLu28TpZCPxItqKy2+JT3kerLG2k26I7VCEqVPovfP54cRsNt+EWZ9ILaq0Sfx90sc8bHizbCKoNN8qwsGjdjOmtgbOdIiHggNaFLp+7nbGK2GNfZ+zolNVNMuXcSqFTagwRDISZ+3Y6Y7rrUHwOijspAbv349DZZ3Ktlf7hw8iyBlpzm1VjhITjzVOvp7IbW82mfKVhzy5U7ETJHyOGF35BKfDJAN1v88B9ocAU8wAXuKK+HM1m8QmAQOBASipVdg2VrmsX+ZpRyW5iLxkPLmRXAH5M9M9bIYoHIk4GrvZ14eoihbqPYtRTLZOPtB76wcnR1z3A1IS9q29b/2DL2avSRTKKPhX6drSRKm0oVlEWIQUCL7Vi+FwrcrvHVVqnp4dvnbXZ3S4X2yCDE27M4xy8lLauhkVj4DMQITLGvx/ihqq4U+Ff0Y+zBqjCXk8ou28Yd4jcpLhs2E8KmDAw==;uciOocQIdjt5QU1z0BFDpw=="
 ---

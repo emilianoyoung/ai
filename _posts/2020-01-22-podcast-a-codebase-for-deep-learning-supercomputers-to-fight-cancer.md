@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-22T16:41:00Z
 sourceUrl: https://insidehpc.com/2020/01/podcast-a-codebase-for-deep-learning-supercomputers-to-fight-cancer/
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -22,21 +22,6 @@ images:
     width: 307
     height: 306
     title: "Podcast: A Codebase for Deep Learning Supercomputers to Fight Cancer"
-
-related:
-  - title: "Podcast: AI4Good Lab Empowers Women in Computer Science"
-    excerpt: "In this AI Podcast, Doina Precup describes why their doesn’t need to be a gender gap in computer science education. An associate professor at McGill University and research team lead at DeepMind, Precup shares her personal experiences, along with the AI4Good Lab she co-founded to give women more access to machine learning training."
-    publishedDateTime: 2020-01-20T17:12:00Z
-    sourceUrl: https://insidehpc.com/2020/01/podcast-ai4good-lab-empowers-women-in-computer-science/
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
-    images:
-      - url: https://insidehpc.com/wp-content/uploads/2020/01/recup.jpg
-        width: 305
-        height: 305
 
 secured: "ABD7KyHDgZnAQf15DyITiEmgUHhhgqOFr4mj6KJdzyU6Bc731CM21MjqC8dYhVbqC64APos2xX9N4zXf3VjRzaqHoHagvdkWUrrVRrN5JQW2bdIUe6jxMWvGsf7a3C/OnHPHlybd4GrLdlXHbFAT8yM83S2rM+X0Yy7X+k4+cUETqoUFVAhdj5lC+hnHHoUKEUfg3g3mPEk82uXqh0KjNCjNvhYH5VwkfsQnzkC4sPMKEpBpFnKSPpjhiHpz+4WkMojNGT7JGG9MfSyZwhTT6IWz2wDO/em/RPO6nFxFBCd0rIpgmoFGoJfi6In+QEHe4GC2/JAMH3w1+JRUZmatSRgNOZ8Kuh6JoV+hFzHJ3phroZ8tISthT6goRR4MB3FKTQ4fSfFdAAFEWdI9hE530+g2poiRZjSnocfX201RhNDpsCM6cluU7E+OMf0hBeuFEZNJTLzjxBffsZj2dySKow==;w4ZtjmZm44q/5gRoXbJhHA=="
 ---

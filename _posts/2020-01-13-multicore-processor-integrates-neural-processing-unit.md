@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-13T14:59:00Z
 sourceUrl: https://www.embedded.com/multicore-processor-integrates-neural-processing-unit/
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -24,28 +24,64 @@ images:
     title: "Multicore processor integrates neural processing unit"
 
 related:
-  - title: "NXP Debuts i.MX Applications Processor with Neural Processing Unit for Advanced Machine Learning"
-    excerpt: "The i.MX 8M Plus combines NPU delivering 2.3 TOPS (Tera Operations Per Second) with a Quad-core Arm Cortex-A53 sub-system running at up to 2GHz, an independent real-time sub-system with an 800MHz Cortex-M7, a 800 MHz audio DSP for voice and natural language processing, dual camera Image Signal Processors (ISP), and a 3D GPU. With the ..."
-    publishedDateTime: 2020-01-10T17:17:00Z
-    sourceUrl: https://www.embedded-computing.com/home-page/nxp-debuts-i-mx-applications-processor-with-neural-processing-unit-for-advanced-machine-learning
+  - title: "CES 2020: Intel previews Tiger Lake mobile processors and discrete GPU"
+    excerpt: "AI accelerators, and discrete-level integrated graphics based on the new Intel Xe graphics architecture,\" the company said. The first Tiger Lake systems are expected to ship later this year. Intel also offered a preview of the first Xe-based discrete GPU ..."
+    publishedDateTime: 2020-01-07T03:00:00Z
+    sourceUrl: https://www.zdnet.com/article/ces-2020-intel-previews-tiger-lake-mobile-processors-and-discrete-gpu/
+    ampUrl: https://www.zdnet.com/google-amp/article/ces-2020-intel-previews-tiger-lake-mobile-processors-and-discrete-gpu/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ces-2020-intel-previews-tiger-lake-mobile-processors-and-discrete-gpu/
     type: article
     provider:
-      name: Embedded Computing Design
-      domain: embedded-computing.com
-    quality: 11
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: http://share.opsy.st/5e14d76874d04-76219803_nxp007fig3lifestylebagsidewalk.jpg
-        width: 1280
-        height: 720
-  - title: "i.MX 8M Plus Features Dedicated Neural-Net Processing Unit"
-    excerpt: "Real-time support is courtesy of an 800-MHz Cortex-M7 and a a high-performance 800-MHz Tensilica audio HiFi 4 DSP. The latter can handle voice and natural language processing chores and supports Immersiv3D audio with Dolby Atmos and DTS:X. The chip also manages streaming video—a dual-camera image signal pocessor (ISP) and 3D GPU handle ..."
-    publishedDateTime: 2020-01-07T14:30:00Z
-    sourceUrl: https://www.electronicdesign.com/technologies/iot/article/21119867/imx-8m-plus-features-dedicated-neuralnet-processing-unit
+      - url: https://zdnet1.cbsistatic.com/hub/i/2020/01/07/97b8676c-9886-4528-b8e9-30514da51ca5/intel-tiger-lake-4.jpg
+        width: 627
+        height: 432
+  - title: "Intel's Tiger Lake Laptop CPU Brings Thunderbolt 4, AI Graphics Processing"
+    excerpt: "Some laptops with Tiger Lake processors are also expected to use Intel's upcoming discrete GPU, called the DGX1. Intel teased its discrete graphics processor last year at Computex, and at CES here it showed off a working demo of the GPU running Destiny 2 ..."
+    publishedDateTime: 2020-01-07T03:58:00Z
+    sourceUrl: https://www.pcmag.com/news/372882/intels-tiger-lake-laptop-cpu-brings-thunderbolt-4-ai-graph
+    ampUrl: https://www.pcmag.com/news/372882/intels-tiger-lake-laptop-cpu-brings-thunderbolt-4-ai-graph?amp=1
+    cdnAmpUrl: https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/372882/intels-tiger-lake-laptop-cpu-brings-thunderbolt-4-ai-graph?amp=1
     type: article
     provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 4
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 87
+    images:
+      - url: https://i.pcmag.com/imagery/articles/016yXQZCZtDGZxmUfpB8pav-3.fit_lpad.size_1200x675.jpg
+        width: 1200
+        height: 675
+  - title: "Intel 'Tiger Lake' mobile processors will use new Xe GPU architecture"
+    excerpt: "As a \"first-look\" of the processor, the CES 2020 presentation offered a general overview for the chips, which will have optimizations for the CPU, AI accelerators, and the GPU to achieve \"double ..."
+    publishedDateTime: 2020-01-07T13:15:00Z
+    sourceUrl: https://appleinsider.com/articles/20/01/07/intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture
+    ampUrl: https://appleinsider.com/articles/20/01/07/intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture/amp/
+    cdnAmpUrl: https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/01/07/intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture/amp/
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 59
+    images:
+      - url: https://photos5.appleinsider.com/gallery/34074-60961-intel-tiger-lake-board-xl.jpg
+        width: 870
+        height: 485
+  - title: "Intel previews the first Xe-based discrete GPU"
+    excerpt: "Looking at its event schedule you can see a selection of conferences about AI and automotive type projects. However, we did see the Ghost Canyon NUC, Comet Lake-H processors, and a Tiger Lake processors tease yesterday. The iconic chipmaker has now ..."
+    publishedDateTime: 2020-01-07T13:42:00Z
+    sourceUrl: https://www.hexus.net/tech/news/graphics/138533-intel-previews-first-xe-based-discrete-gpu/
+    type: article
+    provider:
+      name: Hexus
+      domain: hexus.net
+    quality: 39
+    images:
+      - url: https://hexus.net/media/uploaded/2020/1/463cda5c-1cd0-404a-a261-802c7dcef04f.jpg
+        width: 515
+        height: 221
 
 secured: "lXFT0BPJYd8ax+BjbgI1CalWZSAZD3+FZtuDZWREHbQVPec7UkhjEeboovUT5El6IGAz6bzQp/mWtN9J5yj2mRaJhhKscLE8Zffj7izBnLv+qM+sQkhO2JUQ3W8Duaq7gSxjf96NzzRUR/aoP1c0eQNEZ3J8ORBUiLbPP/0k5q0jm3RASXNgGoBoJpXClMfW4oePInpsegLBxpTxftn9H1ePxQuH3KZXNG7S3348oVmvQjPuhk0S47t30tBPBTE9dAJw5ONbdWd+7o3sNETveYTUYeUIE5KFPviID/lGaDmyqkPrlQoEzDLh+KYpNSFmBwlUUDdPRorvKlP9Ht6W84COrmG/7ZU90ZrZIUvgYpTAmg8gAGXSvAdqgBDVN5BaC05Z9gX7FqDLMJYfYDL/FjeqDIZqcdmQfi3wc0Gg423NDUeZdvzubu8WkyrjkMpq0D05CIorOXSQG/Szn2FHxQ==;b+VKdkuySRi4rdCJijWqXg=="
 ---

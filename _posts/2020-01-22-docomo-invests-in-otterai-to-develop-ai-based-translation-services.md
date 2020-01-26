@@ -18,34 +18,26 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Amazon’s AI automatically dubs videos into other languages"
-    excerpt: "In a paper published this week on the preprint server Arxiv.org, researchers from the tech giant detailed a novel “speech-to-speech” pipeline that taps AI to ... across languages and follows a “fluency-based” rather than a content-based criterion. It comprises several parts, including a Transformer-based machine translation bit trained ..."
-    publishedDateTime: 2020-01-24T18:23:00Z
-    sourceUrl: https://venturebeat.com/2020/01/24/amazons-ai-automatically-dubs-videos-into-other-languages/
-    ampUrl: https://venturebeat.com/2020/01/24/amazons-ai-automatically-dubs-videos-into-other-languages/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/24/amazons-ai-automatically-dubs-videos-into-other-languages/amp/
+  - title: "DOCOMO to Partner with AI-powered Enterprise Meeting Note Provider Otter.ai in Japan"
+    excerpt: "NTT DOCOMO, INC. announced today that it has made an investment in Otter.ai, the US-based provider of the highly accurate AI-powered Otter Voice Meeting Notes live transcription application. The investment forms part of a business partnership aiming at supporting Otter."
+    publishedDateTime: 2020-01-22T03:02:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/a15160495/docomo-to-partner-with-ai-powered-enterprise-meeting-note-provider-otter-ai-in-japan
+    ampUrl: https://amp.benzinga.com/amp/content/15160495
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15160495
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all
-        width: 1200
-        height: 600
-  - title: "Machine Dubbing: Amazon AI Opens New Chapter in Automating Media Localization"
-    excerpt: "Cloud-dubbing is so 2019. Machine translation researchers are exploring a new frontier in natural language processing, machine dubbing. A January 2020 research paper by a team at Amazon AI, a unit of Amazon Web Services (AWS), explored new techniques to make automatic dubbing appear more natural. As the paper pointed out, the demand for ..."
-    publishedDateTime: 2020-01-24T07:10:00Z
-    sourceUrl: https://slator.com/technology/machine-dubbing-amazon-ai-opens-new-chapter-in-automating-media-localization/
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 32
+  - title: "Neurala Partners with AviSight to Deliver AI-Powered Drone Inspections"
+    excerpt: "AI-powered visual inspections pioneer Neurala today announced ... By allowing clients to immediately start shifting reactive maintenance to preventive maintenance, AviSight's solution delivers significant cost savings and most importantly, exponentially ..."
+    publishedDateTime: 2020-01-23T13:37:00Z
+    sourceUrl: https://www.roboticstomorrow.com/news/2020/01/23/neurala-partners-with-avisight-to-deliver-ai-powered-drone-inspections/14706/
     type: article
     provider:
-      name: Slator
-      domain: slator.com
-    quality: 36
-    images:
-      - url: https://slator.com/assets/2020/01/aws_machinedubbing.png
-        width: 600
-        height: 400
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 19
 
 secured: "zJ0wPndCNBExs01LSaP4cO07+hsPAKnVep/mUjT4LbTxEMf/OfvAxZVU94t0BERNLgMZneeiZFl8roDC8Z2VoPMfEnyyUYufxbmD4BStUi8p+fonKY+dG68GRt0b6lFyktz1LpxuFBqyJz0E1FZW69eo1f29935I9Jo4CllBHctMx7p0kYFkXMoQQththLzMof6Bbu5xf4guLvfQwzDt4QnrUQLWrVDGTpPyT55HFzpwg6+UvVeoDU406bhT7W0WsrazHrdaxw9BlTwKsbExO8qLIwFLGkwYY9Wt9v3U3Fc=;dZf9mLQSIpg1BMCaFWluzg=="
 ---

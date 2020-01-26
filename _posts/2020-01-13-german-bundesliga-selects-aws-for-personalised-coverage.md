@@ -39,43 +39,6 @@ related:
       - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
         width: 1024
         height: 512
-  - title: "Bundesliga brings on AWS to ‘revolutionise’ football viewing experience"
-    excerpt: "It is broadcast on television in over 200 countries and is operated by the DFL Deutsche Fußball Liga. Under the terms of its deal with AWS, the Bundesliga will make use during the 2019-20 season and beyond of artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics ..."
-    publishedDateTime: 2020-01-14T07:16:00Z
-    sourceUrl: https://www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.html
-    ampUrl: https://www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.amp.html
-    cdnAmpUrl: https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.amp.html
-    type: article
-    provider:
-      name: Rapid TV
-      domain: rapidtvnews.com
-    quality: 59
-    images:
-      - url: https://www.rapidtvnews.com/images/2020/Jan_2020/bundesliga_AWS_14Jan2020.jpg
-        width: 788
-        height: 337
-  - title: "Bundesliga goes all-in on AWS, cites ML and AI expertise for archiving as key"
-    excerpt: "Yet another sporting franchise is signing up with Amazon Web Services (AWS) to utilise its artificial intelligence (AI) and machine learning (ML) capabilities. The Bundesliga, Germany’s top flight football league, has announced it its going all-in on AWS to beef up its statistical acumen as well as improve the fan experience. Among the ..."
-    publishedDateTime: 2020-01-13T15:31:00Z
-    sourceUrl: https://www.cloudcomputing-news.net/news/2020/jan/13/bundesliga-goes-all-aws-cites-ml-and-ai-expertise-archiving-key/
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 51
-    images:
-      - url: https://www.cloudcomputing-news.net/media/img/news/bundesliga.jpg.600x600_q96.png
-        width: 600
-        height: 378
-  - title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
-    excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company AMZN, announced that Germany's Bundesliga has selected AWS as its official technology"
-    publishedDateTime: 2020-01-13T11:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/bundesliga-goes-all-in-on-aws-to-revolutionize-football-viewing-experience-2020-01-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
   - title: "Germany's Bundesliga Goes All-In on AWS"
     excerpt: "Specifically, Bundesliga will build new cloud-based services that automate processes, increase operational efficiency, and enhance the viewing experience using AWS artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services."
     publishedDateTime: 2020-01-14T05:29:00Z
@@ -89,28 +52,6 @@ related:
       - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
         width: 512
         height: 512
-  - title: "The AI Eye: Germany's Bundesliga Selects AWS (Nasdaq: AMZN) for Tech and IBM (NYSE: IBM) Announces Developments for Sterling Supply Chain Platform"
-    excerpt: "According to the press release, Bundesliga will leverage \"AWS artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game outcomes, and recommend personalized match footage across mobile, online, streaming, and television broadcasts.\""
-    publishedDateTime: 2020-01-13T17:59:00Z
-    sourceUrl: https://www.investorideas.com/news/2020/artificial-intelligence/01131AIEye-AMZN-IBM.asp
-    type: article
-    provider:
-      name: Investor ideas
-      domain: investorideas.com
-    quality: 16
-    images:
-      - url: https://www.investorideas.com/images/AI-Eye.jpg
-        width: 1280
-        height: 1206
-  - title: "Bundesliga picks AWS to deliver real-time statistics, personalised match footage"
-    excerpt: "With Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific frames from its more than 150,000 hours of video, with metadata such as game, jersey, player, team, and venue, so that the league can easily search historical footage and surface ..."
-    publishedDateTime: 2020-01-13T15:17:00Z
-    sourceUrl: https://www.telecompaper.com/news/bundesliga-picks-aws-to-deliver-real-time-statistics-personalised-match-footage--1322513
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 14
 
 secured: "1JNO2MfH/LP/v87sGLLobto0M5XNMS6xDexa8z0fe7de9NusCa+R8SP0J3ikq73AbAHLl+vWxAhJPlfm/+KCKhK/gPyu5HOB0045bTNOUzelmetBs+Tgi7L4RKPqwhPr09VHXU5rQnUzDHM9W0V0GfVQACzOB+Ez4q+y3ULDwNn29eRHL0fRhpBpgpWDU9fhbwt/dTyRSuSlKMZ78xUC+X5bdPBeHnScd7U8KZeVot+zsBo5KXo6k90NxiFhOLaC4G/uCEOGlMmDy9ss3VgfCjNT3XhDvWQ+WV0xk0by5qDBeZl88fKo2m7z65AIvQ5nh0O9jnYdG5XPmwxfEv0r7yn6nDIgNQy5Ai2PpqkX/kyXeAfhuSNP8mv6dZBuQSe4A3fB/LkFV3u+T7Y/MqOn/bD7PtQrk16A8M7JkE1QaPu8MX0KhfhrnrXoevD4Be93FMR2IUWWA4Nr4Roy6n2ftA==;3FtC1MDcXNxjC+J6bEus+w=="
 ---

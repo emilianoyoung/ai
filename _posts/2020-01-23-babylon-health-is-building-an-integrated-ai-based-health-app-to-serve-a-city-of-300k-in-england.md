@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2020/01/22/babylon-health-is-building-an-integrat
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/22/babylon-health-is-building-an-integrated-ai-based-health-app-to-serve-a-city-of-300k-in-england/amp/
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -27,23 +27,6 @@ images:
     width: 1024
     height: 682
     title: "Babylon Health is building an integrated, AI-based health app to serve a city of 300K in England"
-
-related:
-  - title: "Bank of England and FCA to Introduce Artificial Intelligence and Machine Learning Forum"
-    excerpt: "The UK’s Financial Conduct Authority (FCA) and the Bank of England (BoE) will reportedly be running a public/private forum that will go into the relevant technical and public policy issues related to bank adoption of artificial intelligence (AI) and machine learning (ML) technologies and software. A survey performed by the BoE in 2019 found ..."
-    publishedDateTime: 2020-01-24T10:07:00Z
-    sourceUrl: https://www.crowdfundinsider.com/2020/01/156715-bank-of-england-and-fca-to-introduce-artificial-intelligence-and-machine-learning-forum/
-    ampUrl: https://www.crowdfundinsider.com/2020/01/156715-bank-of-england-and-fca-to-introduce-artificial-intelligence-and-machine-learning-forum/amp/
-    cdnAmpUrl: https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/01/156715-bank-of-england-and-fca-to-introduce-artificial-intelligence-and-machine-learning-forum/amp/
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 66
-    images:
-      - url: https://www.crowdfundinsider.com/wp-content/uploads/2019/06/Bank-of-England-2-300x225.jpg
-        width: 300
-        height: 225
 
 secured: "D1BVc2Df+2AGClgk5n+kteXN5jzN/DzusEmrsLz50tSQPq5E9vkcXaaVfFoERk6I1onwuWgmSmXP6GDmrWlOlR1oVT9ONsPBxdeMLQc+DfztVQTf9NmqQdnR4F+ltfFuNC2gAvMDegMdhB6AfiQOf5FOM+bLJIAWoZB9Duu490q9U27zU/vVShZSV+yERZS8lP/mWE74H/RAP3mDPZnoS691rkHYz3sPrOo2CWr08eyVf6/YImehaWE0gQDSnA+/JWzSScM4fPBhA2/TFPYkhaL/pqDZuzHJPXFwostiQyuwurDPuexJKXskNUR0ppYjlFtd7y28APeLE+W/DBDIxK7pzPcosyLJdIVRFRAKHTxKoWVQhWgw84KxzSlu/LQ07nYSolaoQzaFsx5bKxwX55CggGtZamihdwjBD8rZ2XqND3IsFKsqcqR9y7qz7QXjneLZN9SkHC6lcgf967ajDQ==;7cwpiNjGh4n9vzZu9oU+pg=="
 ---

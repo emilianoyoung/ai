@@ -57,21 +57,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2020/01/AIStartupFunding.png?fit=1200%2C616&strip=all
         width: 1200
         height: 616
-  - title: "AI: the topic that got sidelined in the British election"
-    excerpt: "... Generation Artificial Intelligence Plan”, revealing its ambition to create an AI industry worth 1 trillion RM by 2030. Perhaps the most comprehensive of all, the plan involves a suite of initiatives that span R&D, talent development, regulations, ethics and security. Closer to home, France announced its own AI plan in 2018. Designed to ..."
-    publishedDateTime: 2020-01-21T10:50:00Z
-    sourceUrl: https://www.techradar.com/nz/news/ai-the-topic-that-got-sidelined-in-the-british-election
-    ampUrl: https://www.techradar.com/nz/amp/news/ai-the-topic-that-got-sidelined-in-the-british-election
-    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/ai-the-topic-that-got-sidelined-in-the-british-election
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 89
-    images:
-      - url: https://cdn.mos.cms.futurecdn.net/XRZnyNZVHb27CjWT9rGzg7-1200-80.jpg
-        width: 970
-        height: 545
   - title: "Funding for AI startups dries up"
     excerpt: "Total funding to companies involved in providing artificial intelligence (AI) services to the pharmaceutical industry was down by 23% from 2018 to 2019, according to research by Signify Research . In 2018, venture capital funding to the sector totaled $1.7bn (€1.5bn) but this fell to approximately $1.3bn in 2019. At the same time ..."
     publishedDateTime: 2020-01-17T12:08:00Z

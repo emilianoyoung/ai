@@ -39,15 +39,19 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesbusinessdevelopmentcouncil%2Ffiles%2F2020%2F01%2Fa-6-1.jpg
         width: 640
         height: 640
-  - title: "This is exactly what you need to know about AI and the future of your job"
-    excerpt: "Even today, when we hear the words “Artificial Intelligence”, our minds immediately conjure up visions of Hollywood ... It’s here in automated messages randomly calling our phones with offers. Driverless cars, drones delivering our packages, interactive advertising ………, the list is growing. So, we are not dealing with science ..."
-    publishedDateTime: 2020-01-16T13:32:00Z
-    sourceUrl: https://www.theladders.com/career-advice/this-is-exactly-what-you-need-to-know-about-ai-and-the-future-of-your-job
+  - title: "You should stop worrying about robots taking your job"
+    excerpt: "Two 40-year old robots returned to the big screen this year ... Our fears about automation come down to three factors: machines will execute tasks more efficiently; machine learning will enable artificial intelligence (AI) to make complex decisions more effectively; and technology companies will sell software and algorithms to replace slow ..."
+    publishedDateTime: 2020-01-20T06:11:00Z
+    sourceUrl: https://www.wired.co.uk/article/robots-human-jobs
     type: article
     provider:
-      name: TheLadders.com
-      domain: theladders.com
-    quality: 20
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 39
+    images:
+      - url: https://wi-images.condecdn.net/image/MLZdlXaxPy5/crop/1440/0.5235602094240838/f/w30_04_byrona_final.jpg
+        width: 1440
+        height: 753
 
 secured: "1DbsKM3VW7vxRN8G7wgqd0bk8YiBNuFcuYtmzAlMNkHChrOtGTX0WiOpdEFFEZzsDiRyNFLjAPTAa19ncvTaqZp7fH8Qqd8fVLjyPmn91V8UzA90m5ElhLQFu20AlgJACue7sKP1uRFWd8k+BLBhYLGUXdsbyHYpNHmWdaXQDp2V3JpiC/ZHNkv7kGe1owdH0UFkQNKwKiuFeKX5CU6GM+cZaaP37lVcCBNTfhYgjLyzTNZO3FSrVW4D6OD9CjDxa0d2eV59EjwHrglyqEeEPyKi2CTxM9jVFa/kr1f4EQ4JlTq94Q41PsUWoh90dwugNb54cdxonWraoGm+cUyEXUev1CmyikYfZb81WXC4/4Axa2uV1Wzbvtup8OudvDppFQv1aoqoeG3oaWlk4RSorq1m9JHerYc4KQwOWtXqtZ5PgfU+Qf+6wSB4dHppNwivp06AFxP9skQB012/enbjPQ==;8Oe12fXuuDa6JMgMaZqVJw=="
 ---

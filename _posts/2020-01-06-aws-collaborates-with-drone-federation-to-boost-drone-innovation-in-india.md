@@ -63,14 +63,14 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 19
-  - title: "New image sensor evaluation kits to spark innovation with miniature cameras in consumer applications"
-    excerpt: "Raspberry Pi and Arduino based NanEyeC evaluation kits support implementation of eye tracking, presence detection and object recognition in products such as virtual reality headsets, smart lighting and Home and Building Automation Premstaetten, Austria ..."
-    publishedDateTime: 2020-01-03T14:43:00Z
-    sourceUrl: https://www.eejournal.com/industry_news/new-image-sensor-evaluation-kits-to-spark-innovation-with-miniature-cameras-in-consumer-applications/
+  - title: "zGlue Launches ChipBuilder Pro to Quickly and Easily Enable the Next Generation of Consumer Experiences on IoT and AI-Powered Devices"
+    excerpt: "Because ChipBuilder uses Microsoft Azure cloud, products developed with ChipBuilder benefit from industry-leading ... zGlue will showcase its ChipBuilder Pro Package at CES 2020 in Las Vegas, NV: zGlue, an as-a-service company for designing and manufacturing AI and IoT-powered chips on-demand, speeds the time to market for wearable, medical ..."
+    publishedDateTime: 2020-01-06T13:46:00Z
+    sourceUrl: https://www.design-reuse.com/news/47338/zglue-chipbuilder-pro-iot-ai.html
     type: article
     provider:
-      name: Electronic Engineering Journal
-      domain: eejournal.com
+      name: Design-Reuse
+      domain: design-reuse.com
     quality: 0
 
 secured: "iCo2ahXvumH5PfSsgQN7H8wfb8vvx2p5GqOWMKhzJjWfi8oyGabAO3f0jYeemG24AtpBxm7Y2YSJ/o1VTB4LQ1+kFU+KptwrBOWfevrEsugGV9ygtUN0j+Ulx2ebvvjEqcJiJUSf3kN7R/6a54LpqXv4rNKeqtMiStPDTimeNbdPDytsGCwDGfwp17JNehTukGEk4MwlFpZyshuzNK8SjzGDXHy2cKYHdgBg1dHg9LVImnVSVv/sCP1BAFKH3hic5axlTFIP/5AqxKbh2jNj4rwrwzZUiJKICSVwq3iT20wudte5JnnVD6z8Ol0OZAtVXkhTqfHXk4Pw+fLJsAMiIXLIuz5BJiwEYfGsHcARstbyx14276xBhYihjALWZAJV6paP7SWvs39OIuzyljO92OLxgCpAgGrzAHa7vza4HFC7ULK57p91ahtY3gxuXqUUPLkl/4hNNMU4LjUifcBHbw==;yed2R7PbfqjT+kuEkuKFJA=="

@@ -18,36 +18,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Samsung and GE are cooking up the kitchen smarts I've been waiting for"
-    excerpt: "With cameras and object recognition, GE and Samsung are bringing smart kitchen appliances to the US that might actually be useful. I spent 15 minutes trying out the newest version of the Samsung Family Hub smart fridge at Samsung's CES booth this year. It was just me, the fridge, and version 5.0 of the software that runs the 21-inch touchscreen ..."
-    publishedDateTime: 2020-01-24T15:23:00Z
-    sourceUrl: https://www.cnet.com/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/
-    ampUrl: https://www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: https://cnet3.cbsistatic.com/img/lDDWLy64g5ZgChr6N3FU1bhmKA4=/756x567/2020/01/22/54be830f-7581-4919-8fa1-f7d5f08392af/ge-kbis-2020-3.jpg
-        width: 756
-        height: 567
-  - title: "Samsung and GE are on track to solve the pain of menu planning"
-    excerpt: "With cameras and object recognition, GE and Samsung are bringing smart kitchen appliances to the US that might actually be useful. I spent 15 minutes trying out the newest version of the Samsung Family Hub smart fridge at Samsung's CES booth this year. It was just me, the fridge, and version 5.0 of the software that runs the 21-inch touchscreen ..."
-    publishedDateTime: 2020-01-24T13:07:00Z
-    sourceUrl: https://www.cnet.com/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/
-    ampUrl: https://www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: https://cnet3.cbsistatic.com/img/lDDWLy64g5ZgChr6N3FU1bhmKA4=/756x567/2020/01/22/54be830f-7581-4919-8fa1-f7d5f08392af/ge-kbis-2020-3.jpg
-        width: 756
-        height: 567
   - title: "KT and Samsung Medical Center to Build 5G Smart Hospital"
     excerpt: "World's First Application of 5G Technology in Medical Practice Sync Cams Share Real-Time HD Video Footage of Surgery for Teaching 5G Network Base Made Secure for Medical Service Development Enterprise-Dedicated 5G Network Protects Private Medical Info from Hacking For the pilot project,"
     publishedDateTime: 2020-01-20T04:47:00Z
@@ -76,21 +46,17 @@ related:
       - url: https://electronics360.globalspec.com/images/assets/581/14581/_KT_Photo__Smart_Hospital.jpg
         width: 752
         height: 413
-  - title: "From Host Analytics to Planful - CEO Grant Halloran on the Planful rebranding, and why continuous planning is a change worth pushing for"
-    excerpt: "Behind the name change, I see potent questions on how financial planning is changing ... One looming question is the role of machine learning and AI. I expect we'll hear a lot more about this at Planful's next user events. But for now, Halloran said: Where we're going in the future is bringing machine learning, so you can actually allow ..."
-    publishedDateTime: 2020-01-24T09:57:00Z
-    sourceUrl: https://diginomica.com/host-analytics-planful-ceo-grant-halloran-planful-rebranding-and-why-continuous-planning-change
-    ampUrl: https://diginomica.com/host-analytics-planful-ceo-grant-halloran-planful-rebranding-and-why-continuous-planning-change?amp
-    cdnAmpUrl: https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/host-analytics-planful-ceo-grant-halloran-planful-rebranding-and-why-continuous-planning-change?amp
+  - title: "KT, Samsung Medical Center to build 5G Smart Hospital marking world’s first application of 5G in medical practice"
+    excerpt: "These services include digital diagnostic pathology, access to proton therapy information, teaching surgery, artificial intelligence-enabled care for in-patients, and an autonomous robot for an operating room. Access to Digital Data and Video Footage The 5G-powered digital pathological analysis conducted by SMC is a world-first example of ..."
+    publishedDateTime: 2020-01-20T10:38:00Z
+    sourceUrl: https://www.voicendata.com/kt-samsung-medical-center-build-5g-smart-hospital-marking-worlds-first-application-5g-medical-practice/
+    ampUrl: https://www.voicendata.com/kt-samsung-medical-center-build-5g-smart-hospital-marking-worlds-first-application-5g-medical-practice/amp/
+    cdnAmpUrl: https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/kt-samsung-medical-center-build-5g-smart-hospital-marking-worlds-first-application-5g-medical-practice/amp/
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 11
-    images:
-      - url: https://diginomica.com/sites/default/files/images/2020-01/building-blocks.jpg
-        width: 1275
-        height: 864
+      name: Voicendata.com
+      domain: voicendata.com
+    quality: 3
 
 secured: "/hSyrdudilZf/CxfxWntYkeXzh744MWQc8A/1GXL/gvUoNpwRPnriVXZdNbuM71ujnGiIQB3+tN+o0K1rBoYylNgIck2bQeBb3WbKEBzmCeJ/H0MQpzGZQJ5L9zJTRF3M12D97Enhzg6v7oPA0dS5C9jaFnOept+5rMbJykbbPrODrjvDvUESv4/Uak03w8PsWqbBwWFFprtpDYLQYnlUNC2axDGBYTuvwM6QemIHuZbYUo9N3QU8+jCh46A1rGoM8stIaBqJRfksFift7aBx36glt6kGDmMFM6ks2Hpwp8=;x028fB5q18rbCzrIv7skow=="
 ---

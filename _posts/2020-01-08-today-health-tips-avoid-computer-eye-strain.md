@@ -56,6 +56,19 @@ related:
       - url: https://images.newindianexpress.com/uploads/user/imagelibrary/2020/1/14/w600X390/Now.jpg
         width: 600
         height: 390
+  - title: "How to reduce call volume with Computer Vision AI"
+    excerpt: "Computer Vision AI refers to the processing and analysis of digital images and videos to automatically understand their meaning and context. It recognizes faces and expressions, helps self-driving cars read traffic signs and avoid pedestrians, and allows factory robots to monitor problems on production lines. It’s important to note that there ..."
+    publishedDateTime: 2020-01-09T00:47:00Z
+    sourceUrl: https://customerthink.com/how-to-reduce-call-volume-with-computer-vision-ai/
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 54
+    images:
+      - url: https://customerthink.com/wp-content/uploads/woman-1446557_1280-pixabay-social-technology-1.jpg
+        width: 1280
+        height: 853
 
 secured: "I8m3++kYgSJd+J8OMdhWxra33xTNMAcfVhoQcII1tbJzQtYsbW3RMhINWnUcAlGeoVHHLLDCNFPXkjwoxIanx1DWw71AisO/bIR8K0Jw5lnCZvaGoSUODGe30E4cbVuhXNa6yBM1JsaMra0m5gttpFT2lf0mFKPHZHMa003lDYiOJ/RFFuHKJuc5reSDwIUYV5NzCEcGDSbNzdYngX1vPdQ5NAUO9VjTxC75l+qZZ+azDnEaXTWDCzg367MIibNqCLxde500NCowyIo7lmnrTZ7lf21KY8oDKVZgJNGp9Kw=;rj/DHeOWh1xWtHZfNJHHrQ=="
 ---

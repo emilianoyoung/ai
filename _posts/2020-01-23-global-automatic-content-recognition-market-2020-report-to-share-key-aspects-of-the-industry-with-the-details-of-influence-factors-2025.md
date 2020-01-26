@@ -28,45 +28,58 @@ images:
     title: "Global Automatic Content Recognition Market 2020: Report to Share Key Aspects of The Industry with The Details of Influence Factors- 2025"
 
 related:
-  - title: "NRF 2020: For Retailers, Voice Recognition Is a Major Untapped Opportunity"
-    excerpt: "Still, most retailers have struggled to harness voice recognition. That needs to change, Gauthier argued. People are increasingly demanding the ability to communicate digitally without using their hands, and retail brands that get in front of the trend will benefit greatly. “We learn to talk before we learn to type,” Gauthier said."
-    publishedDateTime: 2020-01-16T21:46:00Z
-    sourceUrl: https://biztechmagazine.com/article/2020/01/nrf-2020-retailers-voice-recognition-major-untapped-opportunity
-    ampUrl: https://biztechmagazine.com/article/2020/01/nrf-2020-retailers-voice-recognition-major-untapped-opportunity?amp
-    cdnAmpUrl: https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/01/nrf-2020-retailers-voice-recognition-major-untapped-opportunity?amp
-    type: article
-    provider:
-      name: BizTech
-      domain: biztechmagazine.com
-    quality: 57
-    images:
-      - url: https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202001/voice%20shopping%20hero.jpg?itok=0JeW9_e_
-        width: 1440
-        height: 500
-  - title: "Speech and Voice Recognition Market Size, Strength, Major Types, Key Applications and Opportunities Forecast Till 2026"
-    excerpt: "Top Players in Speech and Voice Recognition Market are Google, Baidu, Facebook, Amazon, Advanced Voice Recognition Systems, Apple Inc, IBM , Microsoft , Brianasoft, Voicebox Technologies Corporation,"
-    publishedDateTime: 2020-01-20T08:53:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-strength-major-types-key-applications-and-opportunities-forecast-till-2026-2020-01-20
+  - title: "Computer Vision Market- What Are The Main Factors That Contributing Towards Industry Growth?"
+    excerpt: "At Verified Market Intelligence, we provide a market study that encompasses both qualitative and quantitative assessments of latest trends for the market segmentations classified by our analysts. According to our research team,"
+    publishedDateTime: 2020-01-20T05:51:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/computer-vision-market--what-are-the-main-factors-that-contributing-towards-industry-growth-2020-01-20
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 30
+    quality: 73
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Telangana Municipal Elections 2020: In a first, face recognition app to be used in polls on pilot basis"
-    excerpt: "In a first-of-its-kind in India, the Telangana State Election Commission will be using facial recognition app in a bid to counter impersonation by voters on a pilot basis in 10 selected polling stations. The initiative will be implemented in Kompally Municipality of Medchal Malkajgiri district, an official release said. However, a negative ..."
-    publishedDateTime: 2020-01-20T05:24:00Z
-    sourceUrl: https://www.financialexpress.com/india-news/telangana-municipal-elections-2020-face-recognition-app-to-be-used-in-polls-on-pilot-basis/1828624/
-    ampUrl: https://www.financialexpress.com/india-news/telangana-municipal-elections-2020-face-recognition-app-to-be-used-in-polls-on-pilot-basis/1828624/lite/
-    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/india-news/telangana-municipal-elections-2020-face-recognition-app-to-be-used-in-polls-on-pilot-basis/1828624/lite/
+  - title: "Mobile Artificial Intelligence Market Continue to Grow as Industry Spends Big to Reclaim Market 2029"
+    excerpt: "A recent market research analysis titled, Mobile Artificial Intelligence Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Mobile Artificial Intelligence market covering industry surroundings,"
+    publishedDateTime: 2020-01-23T06:34:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/mobile-artificial-intelligence-market-continue-to-grow-as-industry-spends-big-to-reclaim-market-2029-2020-01-23
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 23
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Natural Language Processing Market- What Are The Main Factors That Contributing Towards Industry Growth?"
+    excerpt: "The Global Natural Language Processing Market was valued at USD 7.86 billion in 2016 and is projected to reach USD 30.48 billion by 2025, growing at a CAGR of 16.25% from 2017 to 2025. Natural language processing (NLP) is a field of computer science,"
+    publishedDateTime: 2020-01-23T08:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-market--what-are-the-main-factors-that-contributing-towards-industry-growth-2020-01-23
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "The latest market research, trends, and landscape in the growing AI chatbot industry"
+    excerpt: "Get a sneak peak into the chatbot and AI chat market that is growing fast! The latest industry research, trends and stats from our Intelligence Report."
+    publishedDateTime: 2020-01-23T21:48:00Z
+    sourceUrl: https://www.businessinsider.com/chatbot-market-stats-trends
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+    images:
+      - url: https://i.insider.com/5e29ec4762fa81053f03e106?width=1200&format=jpeg
+        width: 1200
+        height: 600
 
 secured: "FRrSYFXHFctVTy92aMQUO+Sz4Uv+EuBACXHHi/70beNteBHMMvh2KMQo41rCx9wcA8X20HZdmlhhHsE5klHKZaiQIOjfGGilSKh2WkWwTiXYnade1n5RoSl/CxStqW4k5GcJG22NdWSkHy1t7Xa91MEyIRJSUEd/+6dR1oSDaguQOt4iqgpV3vwOLzPaEk3Pgjitn11IPyn/OF8jKA26geg/YVT3MXkb8MVA4OMBCm031wb5bN5ae12BTPQ8yUtycq0zKCbvQ9PBdtS7ZNALHQNYsbeyWTV3AMKvWi1oWK7UMEcZZwq67dcVZwm+ATCM;YC+ceKky9b3wDKhLm5fhjA=="
 ---

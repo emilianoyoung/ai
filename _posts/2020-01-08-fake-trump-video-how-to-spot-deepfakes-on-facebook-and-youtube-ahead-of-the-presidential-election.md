@@ -41,32 +41,19 @@ related:
       - url: https://techcrunch.com/wp-content/uploads/2019/09/gettyimages-487867268.jpg?w=1024
         width: 1024
         height: 663
-  - title: "Facebook’s Deepfakes Policy ‘Inadequate’ to Some Lawmakers"
-    excerpt: "Facebook Inc.’s new policy to address “deepfake” videos came under fire from some lawmakers and disinformation experts who say it fails to address other kinds of online manipulation. The criticism, in interviews,"
-    publishedDateTime: 2020-01-08T20:23:00Z
-    sourceUrl: https://www.bloomberg.com/news/articles/2020-01-08/facebook-s-deepfakes-policy-inadequate-to-some-lawmakers
-    ampUrl: https://www.bloomberg.com/amp/news/articles/2020-01-08/facebook-s-deepfakes-policy-inadequate-to-some-lawmakers
-    cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-08/facebook-s-deepfakes-policy-inadequate-to-some-lawmakers
+  - title: "Facebook to ban deepfakes, sources say"
+    excerpt: "\"These misleading videos were created using low-tech methods and did not rely on AI-based techniques ... according to the research firm Deeptrace Labs. Facebook and other tech firms last year ..."
+    publishedDateTime: 2020-01-07T05:08:00Z
+    sourceUrl: https://www.stripes.com/news/us/facebook-to-ban-deepfakes-sources-say-1.613757
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
-  - title: "Facebook Is Banning Deepfake Videos Ahead of the 2020 Election"
-    excerpt: "However, the video was altered with artificial intelligence. In other words, it was a deepfake. While it may be too late for the folks who saw and shared this particular political deepfake, Facebook is trying to prevent the ... Dr. Joan Donovan, research director of the Technology and Social Change Project at Harvard's Shorenstein Center ..."
-    publishedDateTime: 2020-01-08T19:45:00Z
-    sourceUrl: https://www.popularmechanics.com/technology/security/a30444133/facebook-bans-deepfakes-election/
-    ampUrl: https://www.popularmechanics.com/technology/security/amp30444133/facebook-bans-deepfakes-election/
-    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/security/amp30444133/facebook-bans-deepfakes-election/
-    type: article
-    provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 44
+      name: Stars and Stripes
+      domain: stripes.com
+    quality: 24
     images:
-      - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pelosi-1578510834.jpg?crop=0.947xw:1.00xh;0.0272xw,0&resize=1200:*
-        width: 1200
-        height: 600
+      - url: https://www.stripes.com/polopoly_fs/1.613758.1578373332!/image/image.jpg_gen/derivatives/landscape_490/image.jpg
+        width: 490
+        height: 490
 
 secured: "mJSlo4WIuF1bD9PnILiXQTFz/5ENHVawwyniYtjiJNzqG+gSqZ3VKG1GZkVMciDr+cIJxRqGOJxE7RmRx4elPLktcwiiias8C1RGwz8bCTVJN+iIabvsVL2c5CKJATXTg7rHhXRfy5ar/cuuN+u+2iVvJ25qHQ5ACcK9Jis41BGfbkJzs6byKck11WbKFuKGOSsrdzcaaA2F+/vEK4dY3ysEKN1hTz00cclev34rK42EMrNE2ey6E1cNDQiFK4dkehWrRsTnO926BOGPRFq0loFyJ3+hTY4EabcDcUwoGL237SLmjo8CRg2z474v4HHzeUxdJKS4YSHOt5oHNwa7T7aaK8PfT7PL4+9rPi7oZeRUMN5U6JQ9it4e8fhZezThENWn8U5iQBDm3gkhF2NwnCGRaBXAzhoKbGyQsQqQum8S2q9K81vs+QTwXBK0KkZTtfuw4/OLucYF9NS2I3K4fg==;AAoVRTgXgtespEi//Mmicw=="
 ---

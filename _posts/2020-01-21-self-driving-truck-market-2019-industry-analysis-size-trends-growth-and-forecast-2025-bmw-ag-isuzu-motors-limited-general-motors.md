@@ -18,34 +18,69 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Neural Network Software Market 2020: Global Industry Trends, Sales Revenue, Industry Growth by 2025 – MRE Analysis"
-    excerpt: "New York, January 22, 2020: The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional. Based on artificial component segmentation it covers neural network software,"
-    publishedDateTime: 2020-01-22T04:36:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/neural-network-software-market-2020-global-industry-trends-sales-revenue-industry-growth-by-2025-mre-analysis-2020-01-22
+  - title: "GPU Market research, Industry Outlook, Current Trends and Forecast by 2024"
+    excerpt: "The GPU Market Forecast Report provides details analysis of keyword industry which will accelerate your business. GPU market report covers the current state of business and the growth prospects of the worldwide keyword Market."
+    publishedDateTime: 2020-01-24T08:25:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/gpu-market-research-industry-outlook-current-trends-and-forecast-by-2024-2020-01-24
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 67
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "AI-Powered Storage Market 2020 – 2025: Business Profit Growth, Statistics, Competitor Landscape, Top Key Players and Industry Trends"
-    excerpt: "“AI-Powered Storage Market” Global AI-Powered Storage Market is expected to grow from USD 10.71 Billion in 2018 to USD 25.05 Billion by 2025, at a CAGR of"
-    publishedDateTime: 2020-01-20T08:55:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15148714/ai-powered-storage-market-2020-2025-business-profit-growth-statistics-competitor-landscape-top-ke
-    ampUrl: https://amp.benzinga.com/amp/content/15148714
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15148714
+  - title: "Artificial Intelligence In Medical Imaging Market 2019 Disclosing Latest Trends and Advancement Outlook 2025"
+    excerpt: "The Artificial Intelligence In Medical Imaging Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"Artificial Intelligence In Medical Imaging Market\"."
+    publishedDateTime: 2020-01-20T20:22:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-2019-disclosing-latest-trends-and-advancement-outlook-2025-2020-01-20
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 26
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
     images:
-      - url: https://www.abnewswire.com/uploads/1579513552.jpeg
-        width: 489
-        height: 288
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Chip Market to 2027 - Global Analysis and Forecasts by Segment ; Type ; and Industry Vertical"
+    excerpt: "The others section include SoC Accelerators and other application specific custom & hybrid chips.Based on industry vertical, the artificial intelligence chip market is further segmented into BFSI, Retail, IT & Telecom, Automotive & Transportation, Healthcare, Media & Entertainment, and others. The others section in industry vertical includes ..."
+    publishedDateTime: 2020-01-21T14:05:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/artificial-intelligence-chip-market-to-2027-global-analysis-and-forecasts-by-segment-type-and-industry-vertical-1028832723
+    ampUrl: https://markets.businessinsider.com/amp/news/artificial-intelligence-chip-market-to-2027-global-analysis-and-forecasts-by-segment-type-and-industry-vertical-1028832723
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-chip-market-to-2027-global-analysis-and-forecasts-by-segment-type-and-industry-vertical-1028832723
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
+  - title: "Artificial Intelligence in Life Sciences Market Trends, Research, Anlysis & Forecast 2025 | IBM Corporation, NuMedii Inc., Atomwise Inc"
+    excerpt: "Global Artificial Intelligence in Life Sciences Market Insights, Forecast to 2025 The report discusses many vital industry facets that influence \"Global Artificial Intelligence in Life Sciences Market\" industry acutely which includes extensive study of competitive edge,"
+    publishedDateTime: 2020-01-25T05:03:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-life-sciences-market-trends-research-anlysis-forecast-2025-ibm-corporation-numedii-inc-atomwise-inc-2020-01-25
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Smart Robot Market: 2018 Industry Analysis, Size, Trends, Growth and Forecast 2025 | ABB, iRobot Corporation, Grey orange"
+    excerpt: "A smart robot uses an artificial intelligence (AI) system that can learn from its environment and its experience. Smart robots can collaborate while working together as well as learning from the behavior of humans. Flexibility &amp; scalability in operation along with the high performance fuels the growth of the smart robot market. With the ..."
+    publishedDateTime: 2020-01-24T12:31:00Z
+    sourceUrl: https://www.cmo.com.au/mediareleases/37910/smart-robot-market-2018-industry-analysis-size/
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 14
+    images:
+      - url: https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg
+        width: 600
+        height: 246
 
 secured: "OiHQ1jWhYHxgf6g2P5JOzlhk5dbqG/7Ctd9zV6hiXCqduNRSpYh0xuesUonn1wJAx064REo+hwXfDl1XVQ/d9C5/eozi25vbLH28NzSp9ZZY4KhzP1rFyUDAzQ15SGJc+8Psd99c8p0ad7yOaqcxCWiJMkqKY7xjYGAlS8zDATRRFLYRw/ocFykWuEQYnbBfwta/lw7Dct7Z40J5j8c6ygIG8nLnwMmsAJdDOHLpAN//bUF9AVlQS3P6GH19r8A0OtWQss6H7FEKN2gK7Q5oxBl+aHjO8wNWWl/MaO+eJko=;y0e0aPXyRN8WeVEEVYsEww=="
 ---

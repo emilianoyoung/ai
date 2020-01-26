@@ -71,21 +71,51 @@ related:
       - url: https://cnet1.cbsistatic.com/img/IxXdPYP12dIlVU2KQR_njg7CUPU=/756x567/2020/01/23/ee631f2b-5f68-46ed-bf92-8888b7960bee/markey-getty.jpg
         width: 756
         height: 567
-  - title: "Facial recognition’s risks demand a temporary halt"
-    excerpt: "Brussels and Silicon Valley rarely see eye-to-eye when it comes to technology regulation. But on facial recognition, EU regulators and Sundar Pichai, chief executive of Google parent Alphabet, appear to be moving in the same direction. Mr Pichai this week backed a temporary moratorium on the technology — an option under consideration by EU ..."
-    publishedDateTime: 2020-01-21T18:16:00Z
-    sourceUrl: https://www.ft.com/content/39432390-3c3e-11ea-b232-000f4477fbca
-    ampUrl: https://amp.ft.com/content/39432390-3c3e-11ea-b232-000f4477fbca
-    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/39432390-3c3e-11ea-b232-000f4477fbca
+  - title: "Sundar Pichai calls for moratorium on facial recognition"
+    excerpt: "Sundar Pichai, chief executive of Google parent Alphabet, has called for a moratorium on facial recognition technology while regulators assess its risks, just days ahead of the publication of a key EU proposal on the issue. Speaking at a trade event in ..."
+    publishedDateTime: 2020-01-20T17:43:00Z
+    sourceUrl: https://www.ft.com/content/0e19e81c-3b98-11ea-a01a-bae547046735
+    ampUrl: https://amp.ft.com/content/0e19e81c-3b98-11ea-a01a-bae547046735
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/0e19e81c-3b98-11ea-a01a-bae547046735
     type: article
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 59
+    quality: 74
     images:
-      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F8beef1a8-3c4a-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500
+      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F1227a4e0-3b88-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500
         width: 500
         height: 281
+  - title: "Sundar Pichai supports calls for moratorium on facial recognition"
+    excerpt: "Sundar Pichai, chief executive of Google parent Alphabet, has called for a moratorium on facial recognition technology while regulators assess its risks, just days ahead of the publication of a key EU proposal on the issue. Speaking at a trade event in Brussels, Mr Pichai said the search giant had chosen not to roll out general-purpose facial ..."
+    publishedDateTime: 2020-01-20T17:43:00Z
+    sourceUrl: https://www.ft.com/content/0e19e81c-3b98-11ea-a01a-bae547046735
+    ampUrl: https://amp.ft.com/content/0e19e81c-3b98-11ea-a01a-bae547046735
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/0e19e81c-3b98-11ea-a01a-bae547046735
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 74
+    images:
+      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F1227a4e0-3b88-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500
+        width: 500
+        height: 281
+  - title: "The end of anonymity? Facial recognition app used by police raises serious concerns, say privacy advocates"
+    excerpt: "A secretive facial recognition software used by hundreds of police forces is raising concerns after a New York Times investigation said it could \"end privacy as we know it.\" Clearview A.I. has extracted more than three billion photos from public web sites like Facebook, Instagram, employment sites and others, and used them to create a ..."
+    publishedDateTime: 2020-01-22T00:24:00Z
+    sourceUrl: https://www.cbc.ca/radio/thecurrent/the-current-for-jan-21-2020-1.5434328/the-end-of-anonymity-facial-recognition-app-used-by-police-raises-serious-concerns-say-privacy-advocates-1.5435278
+    ampUrl: https://www.cbc.ca/amp/1.5435278
+    cdnAmpUrl: https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5435278
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 56
+    images:
+      - url: https://i.cbc.ca/1.5403918.1576847950!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-security.JPG
+        width: 620
+        height: 349
   - title: "A scary new facial recognition tool underlines the urgent need for privacy laws"
     excerpt: "But we didn’t realize doom might come this soon. The New York Times reports on a facial recognition tool that hasn’t made the news before — because it’s not from a Silicon Valley luminary with a big public footprint, such as Amazon or Google, but rather a tiny and secretive start-up called Clearview AI whose impact is as high as its ..."
     publishedDateTime: 2020-01-23T21:48:00Z
@@ -101,60 +131,6 @@ related:
       - url: https://www.washingtonpost.com/resizer/ZLffVZNmmkuoQHCjoik1fm4Z00c=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QHDNZORPYQI6JPU6MDGEJQA6P4.jpg
         width: 1440
         height: 961
-  - title: "Hundreds of US police departments using 'dystopian' face recognition app: report"
-    excerpt: "A new report in US media has people worried about their privacy as more police forces sign on to use the program. Clearview AI offers facial recognition software that can identify a person even in poor-quality images. An explosive new US media report published on Saturday revealed that a secretive company has been selling the world's most ..."
-    publishedDateTime: 2020-01-18T18:42:00Z
-    sourceUrl: https://www.dw.com/en/hundreds-of-us-police-departments-using-dystopian-face-recognition-app-report/a-52054957
-    ampUrl: https://amp.dw.com/en/hundreds-of-us-police-departments-using-dystopian-face-recognition-app-report/a-52054957
-    cdnAmpUrl: https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/hundreds-of-us-police-departments-using-dystopian-face-recognition-app-report/a-52054957
-    type: article
-    provider:
-      name: Deutsche Welle
-      domain: dw.com
-    quality: 54
-    images:
-      - url: https://m.dw.com/image/41695602_101.jpg
-        width: 1024
-        height: 576
-  - title: "Clearview AI Takes Facial Recognition Data of Millions from Social Media"
-    excerpt: "Clearview AI is a secretive startup that has developed a super-accurate facial recognition database – all through using images surreptitiously scraped from social media users. Currently, the company's app is only available to law enforcement, and it has already led to several arrests. In fact, the app is being used by more than 600 law ..."
-    publishedDateTime: 2020-01-20T17:27:00Z
-    sourceUrl: https://tech.co/news/clearview-ai-facial-recognition-2020-01
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 53
-    images:
-      - url: https://images.tech.co/wp-content/uploads/2020/01/20113126/clearview.jpg
-        width: 1920
-        height: 960
-  - title: "Worried About the Security of Facial Recognition? Try Facial Detection: Episode 88 of AV+"
-    excerpt: "You don’t need to be wearing an aluminum foil hat to think that there could be security risks with facial recognition technology… but you might be able to get around those risks with facial detection. Learn more about the latter in this episode of AV+. The phrase ‘pro AV’ doesn’t do justice to all of the integration crowd ..."
-    publishedDateTime: 2020-01-17T22:05:00Z
-    sourceUrl: https://www.commercialintegrator.com/podcast/facial-detection-episode-88/
-    type: article
-    provider:
-      name: Commercial Integrator
-      domain: commercialintegrator.com
-    quality: 30
-    images:
-      - url: https://www.commercialintegrator.com/wp-content/uploads/2018/03/Untitled.jpg
-        width: 1202
-        height: 656
-  - title: "Facebook could be on the hook for billions after Supreme Court refuses to hear facial recognition case"
-    excerpt: "The United States Supreme Court has declined to hear a case brought forward by Facebook that argues its users would have had to show they suffered “real-world harm” after Facebook identified them in photos using its facial recognition technology without getting their consent. Facebook hoped their argument would be heard by the Supreme ..."
-    publishedDateTime: 2020-01-22T15:10:00Z
-    sourceUrl: https://www.fastcompany.com/90454488/facebook-could-be-on-the-hook-for-billions-after-supreme-court-refuses-to-hear-facial-recognition-case?partner=feedburner
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 23
-    images:
-      - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-facebook-could-be-on-the-hook-for-billions-after-supreme-court-refuses-to-hear-facial-recognition-case.jpg
-        width: 1280
-        height: 720
 
 secured: "oTieLp9ywZ/fmiMh8d8iVa2XRLGJ6ZZMP9Rri4dZH1LxX/g9lv9ejYqQ7Qo1FAWoV2976Yf0ky86nI5dpaexbblz90Cj/kVsvORoCOk1q8KiOJWY6SSFYMBegL4ZgI8AG4A/o8GEdLo47oY6txEqMZcCti8HbmDFEX2Xn6V4xB4hvIyhtSFeuK14tKgYwedz24SrWmtzgQ2gvQLJNm5DdOJx4/Yqwt/FO4z+gHaP6XMyYYWlz/CZxop9O/wMXLKNfWwN3he/ZwsMxRfIHsRGKgDYTBjFuS6h32K9lm5rboqMhXzhqjbWjYWO24BqqQoSFMKVJzX20Ew9KeQcdBkzJaBQcsg8DxWxdeqFbrtKJU+Q8QOcOIFNILtKctSPsV9GJRUac8TF5uUKP7U6UsdNW9RXnwYuW6n8jqOs9EQi0YHHkELv90QZNGZboYerfH/obZUud5XhDQpn1qWCCVgPcg==;41Dd6PbZekLrQMKmfD+g3Q=="
 ---

@@ -41,21 +41,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F43189452%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3999%26cropY1%3D0%26cropY2%3D2667
         width: 1200
         height: 800
-  - title: "GM-Backed Cruise's Self-Driving Robo-Taxi Revealed"
-    excerpt: "Cruise, the self-driving car start-up, in which General Motors Company GM owns a majority state, revealed a prototype of its driverless robo-taxi on Tuesday. The robo-taxi called Cruise Origin is a “fully engineered vehicle that’s on its way to production,"
-    publishedDateTime: 2020-01-22T10:08:00Z
-    sourceUrl: https://www.benzinga.com/news/20/01/15160801/gm-backed-cruises-self-driving-robo-taxi-revealed
-    ampUrl: https://amp.benzinga.com/amp/content/15160801
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15160801
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: https://www.benzinga.com/files/images/story/2012/01.jpg
-        width: 1750
-        height: 869
   - title: "Test shows promise of self-driving cars for transit"
     excerpt: "Google engineers have taken AVs for test trips in Kirkland, while Bellevue-based Paccar is developing self-driving trucks. Some tech-industry experts have even proposed an autonomous-vehicle lane between Seattle and Vancouver, B.C. The service in ..."
     publishedDateTime: 2020-01-25T19:00:00Z

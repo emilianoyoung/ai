@@ -28,21 +28,6 @@ images:
     title: "Ambarella Enables Artificial Intelligence on a Wide Range of Connected Cameras Using Amazon SageMaker Neo"
 
 related:
-  - title: "Ambarella unveils new AI chips for automotive cameras and driver assistance"
-    excerpt: "The Santa Clara, California-based company unveiled the CV22FS and CV2FS automotive camera system-on-chips (SoCs) with CVflow AI processing and ASIL-B compliance to enable safety-critical applications. Ambarella will also demo applications with its existing chips — as well as a robotics platform and Amazon SageMaker Neo technology for training ..."
-    publishedDateTime: 2020-01-06T10:00:00Z
-    sourceUrl: https://venturebeat.com/2020/01/06/ambarella-unveils-new-ai-chips-for-automotive-cameras-and-driver-assistance/
-    ampUrl: https://venturebeat.com/2020/01/06/ambarella-unveils-new-ai-chips-for-automotive-cameras-and-driver-assistance/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/ambarella-unveils-new-ai-chips-for-automotive-cameras-and-driver-assistance/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2020/01/ambarella-2.jpg?fit=1200%2C655&strip=all
-        width: 1200
-        height: 655
   - title: "Ambarella collaborates with AWS and enables AI on connected cameras using Amazon SageMaker Neo"
     excerpt: "Ambarella, Inc., an artificial intelligence (AI) vision silicon company, announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo to train machine learning (ML) models once and run them on any device equipped with an Ambarella CVflow-powered AI vision system on chip (SoC). Until now, developers had ..."
     publishedDateTime: 2020-01-08T11:05:00Z
@@ -58,16 +43,16 @@ related:
       - url: https://security-img.scdn6.secure.raxcdn.com/news/612/uk-counter-unmanned-aircraft-strategy-to-tackle-malicious-drones-use-920x533.jpg
         width: 612
         height: 355
-  - title: "Ambarella shows off new robotics platform and AWS AI programming deal"
-    excerpt: "Santa Clara, California-based company will demo the robotics platform and the Amazon SageMaker Neo technology for training machine-learning models at CES 2020, the big tech trade show in Las Vegas ..."
-    publishedDateTime: 2020-01-02T10:04:00Z
-    sourceUrl: https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/
+  - title: "ZephyrTel Taps AI and ML with Amazon SageMake for Innovations in Telco Software Solutions"
+    excerpt: "ZephyrTel announced that it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to accelerate the migration of its end-to-end Telco software solutions suite and develop new innovations utilising artificial intelligence and machine learning (AI/ML) with Amazon SageMaker. ZephyrTel had entered into a SCA with AWS ..."
+    publishedDateTime: 2020-01-06T02:34:00Z
+    sourceUrl: https://www.thefastmode.com/technology-solutions/16165-zephyrtel-taps-ai-and-ml-with-amazon-sagemake-for-innovations-in-telco-software-solutions
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
+      name: Deep
+      domain: thefastmode.com
+    quality: 10
 
-secured: "dsy/u1sT5NvAislH/ms72HhCOQK1vptYHypTGcQsGxs9tFoW73lU9fF8gXTwBkoxL1OzNXwGfwujbTB5DzlkmdUWz7TOiYgJvH8XKCuFDuH7mc2cfogOWjhyJL0tswzhEZSl96eiFUUXvTmtS5enkJYeOhqPg3oUYoBJseE4uAfKdrtVMjUAAvT0AqvBt4I89ebiRf1T8O4304qKUows2Zlgvzn7jjveZZZT5NffNNqOYWpTuVy8rgb6X6H9MIjWY5OUG01cow0rEK3H6qbiNEWVj8nwKRWNDuO/g4EiOFmtns+XMN2Fi46BJBP5uTFl;UrqbMhBtm92TQFgJgGg74w=="
+secured: "lqHq73Ph4KhXsjSQxEzbKpcI6glL4kW0BKF+EiNBEN2Nu6S+bxuwe+NdqpsqLN2V+14ZBbDpapicJP7+YjGblr7GpeAM0dsUg2eghEByyolsUWexS9QxOphitIPxAmnT+YU02vXNCfxVDZ50AEp4i40dBzJjmhgrncHaOdMAkM5csq0kQRQBgK1mrSoBz9apw0JTp+Q7aYnHjCcCn8tJI9gYfPyV++ZCCNO/lXqWxtROVj5QXv7dRzAG34QjtPv+wQ7kUmFuH+cA1yyVDEfp3zQmYMPTEAE2phasuqNyMP3MncDLK7518EAG3HDrTSWy;0PPrzrv+xcJkIDNuOwtFYg=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-26T00:00:00Z
 sourceUrl: https://businesscomputingworld.co.uk/t/birds-oceans-wildfires-oh-my-how-machine-learning-is-changing-climate-research/244790
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -22,21 +22,6 @@ images:
     width: 512
     height: 512
     title: "Birds & Oceans & Wildfires, Oh My! How Machine Learning Is Changing Climate Research"
-
-related:
-  - title: "Researchers In US & China Use Machine Learning To Make Better Solar Panels"
-    excerpt: "This is a companion discussion topic for the original entry at https://cleantechnica.com/2020/01/25/researchers-in-us-china-use-machine-learning-to-make-better-solar-panels/"
-    publishedDateTime: 2020-01-25T21:56:00Z
-    sourceUrl: https://businesscomputingworld.co.uk/t/researchers-in-us-china-use-machine-learning-to-make-better-solar-panels/244767
-    type: article
-    provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 37
-    images:
-      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-        width: 512
-        height: 512
 
 secured: "pbjvDNGBuIAzkpWB0Z8JD0IAssGE2GTUAJZvBXwL4VgVY+IgYDadpHI67SAdd7tzR1G3c1OqunkXKm0EUdKVnALxCWvEoFU7ukQ+WkjzqvvPhifsomsSZ0a27laL5SZjC0z3fQbFX3XVYKEbJp0/ATyAf0esamz7dg0IQol6yF+2cABMXCRWWy7DPXOkN9m7TWo6iG69fz/+Ir5Vq7icrovcTWDFcnUZmyBpVQ/cfKtoe3FT5C+L3QtNka9em+fBU+5PB7vh+Qlt4R2FkNBtbpQpAUI+U2DXdydrGGePTqHeZltFQQaxganQo0TBKmPP;InmgGOgHU6XVjNr81taRsw=="
 ---

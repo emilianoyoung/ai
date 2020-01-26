@@ -20,47 +20,21 @@ topics:
   - IBM AI
 
 related:
-  - title: "The defining moments of IBM Watson last decade"
-    excerpt: "Unveiled to the world just under a decade ago, today, IBM Watson is being used by millions of people in thousands of different ways to unlock the value of data in new and profound ways. Across countless industries, Watson is helping businesses around the world harness their data, increase productivity,"
-    publishedDateTime: 2020-01-16T19:18:53Z
-    sourceUrl: https://www.ibm.com/blogs/watson/2020/01/the-defining-moments-of-ibm-watson-last-decade/
+  - title: "Why Creating An AV Business Is 10,000 Times Harder Than Building Self-Driving Tech"
+    excerpt: "For autonomous service providers or a service provider that owns its conventional vehicles, every mile and minute incurs a cost."
+    publishedDateTime: 2020-01-15T20:23:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/15/why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/15/why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/15/why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech/amp/
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 117
+      name: Forbes
+      domain: forbes.com
+    quality: 68
     images:
-      - url: https://www.ibm.com/blogs/watson/wp-content/uploads/2020/01/Year-In-Review_Image-Header_1.16.2020-990x498.jpg
-        width: 990
-        height: 498
-  - title: "How Watson AI allows IBM's Advertising Accelerator to do three key things"
-    excerpt: "TechRepublic's Teena Maddox talked to Dave Neway, head of marketing at IBM Watson Advertising, at CES 2020 about how Watson can take advertising to the next level with artificial intelligence (AI). The following is an edited transcript of their conversation. Dave Neway: We had a major product announcement this week. On Tuesday, I'm very proud ..."
-    publishedDateTime: 2020-01-11T17:08:00Z
-    sourceUrl: https://www.techrepublic.com/article/how-watson-ai-allows-ibms-advertising-accelerator-to-do-three-key-things/
-    ampUrl: https://www.techrepublic.com/google-amp/article/how-watson-ai-allows-ibms-advertising-accelerator-to-do-three-key-things/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-watson-ai-allows-ibms-advertising-accelerator-to-do-three-key-things/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 103
-    images:
-      - url: https://tr3.cbsistatic.com/hub/i/r/2020/01/10/b282fdc1-3853-444c-9942-fc7594b8e3a4/resize/1200x/5c975a45581745a7fdeb8be198c4c7db/20200110-ibm-dave-teena.jpg
-        width: 1200
-        height: 800
-  - title: "IBM Is Launching An Advertising Accelerator With Watson"
-    excerpt: "IBM recently announced it is launching an Advertising Accelerator with Watson, which is a first-to-market offering that leverages artificial intelligence to predict the optimal combination of creative elements to help drive high engagement and conversion for a given audience Recently, IBM announced the launch of an Advertising Accelerator with ..."
-    publishedDateTime: 2020-01-14T21:34:00Z
-    sourceUrl: https://pulse2.com/ibm-ad-accelerator-with-watson/
-    type: article
-    provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 39
-    images:
-      - url: https://cdn.pulse2.com/cdn/2020/01/IBM-Automation.jpg
-        width: 1200
-        height: 693
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F01%2Fa-21-2.jpg
+        width: 640
+        height: 640
 
 secured: "KmqbYHzaVB54LIPkkN20CdeGNQjAf5wwHoCp7wfyiyxW9KVgl9EKZI/12bA9ODZcJ7pVgDe3UeiqhTfHvfRnRZz3ubdKn2j2rlI6i5fuYVGJ1I90gwIA4N/Txf9YhmJ/vidqYbRc+UXcYR3kslEESkR/c6Pz/abIc8rtLWLivmVtkZ4cFmV6yvFpVJILSYtVlHFf0PxXo1JbSaD1SfKhWPX9j3MsWDFyD2k9IKA5eApQVyM+4rvSHeS4vCg+e1iQVt6lrvcbovm7KsOGw/UWnAVr+e9w/MBFP0KY/j7SqBsoioBQnrjae2xy53sbAKtr2c9mE4PVCVnFuaCGYOw8bUWbuo2pAEV/lcU3JRegISDcEAlgy1DvuebC/e2Gwep+vyVM78KN0cHByFoQTr1Yc9JFMmj1GNgZPwsQCBpHtCJTcFOtjVf/zU9BS3Ed8dxEXQ8QBxSDbZNEf6K5Et0LQA==;2fqTQMyl2IehdLRbE6RUCQ=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://amp.businessinsider.com/police-robots-security-malfunctioning-fa
 cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/police-robots-security-malfunctioning-fails-knightscope-2020-1
 type: article
 quality: 64
-heat: 74
+heat: 64
 published: true
 
 provider:
@@ -28,21 +28,6 @@ images:
     width: 750
     height: 563
     title: "Police robots keep malfunctioning, with mishaps ranging from running over a toddler's foot to ignoring people in distress"
-
-related:
-  - title: "Designing better nursing care with robots"
-    excerpt: "Robots are becoming an increasingly important part of human care ... both in the categories of \"Information System\" and \"Artificial Intelligence\". JAS has been in the 1st quantile (Q1) in all three categories it belongs to. Why publish with us: Fast and high quality peer review; Simple and effective online submission system; Widest possible ..."
-    publishedDateTime: 2020-01-15T23:10:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/caoa-dbn011420.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
-        width: 900
-        height: 300
 
 secured: "pSaLZdcqPC0N8UUly4deEd0WGh7nB15qO9STbTc1CTHwmSl3/6gXo1X61VNBfRua3Suy+UTbzQ8O/n8inYjhGMcOYXhUtEyjhUROqLwIT24rG01Gb0vstWkxoynFZ8+VLfzAXWnBNMO459g2y3kdJ3yhUgy0zUzSTI4DyPgc52HNQqXx02+A7r/FwbKXfhGqjBsZBIbL8kxni+tAEinK49K1wSC5kYWOe7JCS+HNCiz1rl9sOZ/4msvIq5tQykBwHMRX5e9V6kCrdPApZsZntpAIr+kUwAJqVP4hwqjuYuF/PexMkv7FeKhFQpQuZxmkFOZ9Y58RUHktzA1uIHVbv46pbEAw1CzqX/sj7yAWLFL189ZOput+/jWWxKZzcUkWuBnorXV2lHLEML2va14g+Eok43bbEuPrhSBXCXyNRQFkr+pnzQTkZBHT8tLTqFjh6ZgH7ytIvjhTfhpTOS9FdQ==;SzAHQe/z0/BUD52fZ/3iCw=="
 ---

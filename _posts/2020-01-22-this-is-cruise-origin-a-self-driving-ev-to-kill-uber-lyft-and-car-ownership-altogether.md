@@ -8,8 +8,8 @@ ampUrl: https://www.slashgear.com/cruise-origin-electric-autononous-shared-trans
 cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/cruise-origin-electric-autononous-shared-transport-gm-honda-revealed-21607372/amp/
 type: article
 quality: 65
-heat: -1
-published: false
+heat: 85
+published: true
 
 provider:
   name: SlashGear
@@ -30,47 +30,30 @@ images:
     title: "This is Cruise Origin – a self-driving EV to kill Uber, Lyft and car ownership altogether"
 
 related:
-  - title: "Lyft’s autonomous vehicle partner Magna is done with self-driving tech"
-    excerpt: "The auto parts maker plans to focus on assisted driving. Two years after teaming up with Lyft to collaborate on self-driving technology, Magna said that partnership's coming to an end. The auto parts maker plans to focus on assisted driving products, instead of fully autonomous tech. Magna isn't fully severing ties with Lyft, in which it ..."
-    publishedDateTime: 2020-01-17T03:02:00Z
-    sourceUrl: https://www.engadget.com/2020/01/16/lyft-self-driving-tech-partnership-ending-magna/
-    ampUrl: https://www.engadget.com/amp/2020/01/16/lyft-self-driving-tech-partnership-ending-magna/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/16/lyft-self-driving-tech-partnership-ending-magna/
+  - title: "GM's Detroit-Hamtramck plant will build Cruise Origin self-driving shuttle"
+    excerpt: "GM's Detroit-Hamtramck plant will build Cruise Origin self-driving shuttle The automaker will lay out plans Monday to build self-driving and electric vehicles at the plant that had been targeted for closure Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/autos/general-motors/2020/01/24/gms-detroit-hamtramck ..."
+    publishedDateTime: 2020-01-24T15:08:00Z
+    sourceUrl: https://www.detroitnews.com/story/business/autos/general-motors/2020/01/24/gms-detroit-hamtramck-plant-build-cruise-origin-self-driving-shuttle/4546684002/
+    ampUrl: https://amp.detroitnews.com/amp/4546684002
+    cdnAmpUrl: https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4546684002
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 74
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 42
     images:
-      - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D6331%252C4223%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F2fa83510-38aa-11ea-bdab-ba516203e818%26client%3Da1acac3e1b3290917d92%26signature%3D740de19c4f087efeacd976980dcbc932d65cf18a&client=amp-blogside-v2&signature=c1e264aaff1ea7ffa94e2fcf1c60d9746caa91d2
-        width: 600
-        height: 350
-  - title: "GM-owned automaker unveils first self-driving vehicle"
-    excerpt: "Jan. 22 (UPI) --Self-driving carmaker Cruise has unveiled its first autonomous vehicle -- called the Origin -- and said it could be a look at ride-sharing fleets of the future. The Origin was revealed Tuesday in San Francisco after a six-month delay for more testing. Cruise is a subsidiary of General Motors. Cruise said, however, the Origin is ..."
-    publishedDateTime: 2020-01-22T17:31:00Z
-    sourceUrl: https://www.upi.com/Top_News/US/2020/01/22/GM-owned-automaker-unveils-first-self-driving-vehicle/2591579711109/
-    ampUrl: https://www.upi.com/amp/Top_News/US/2020/01/22/GM-owned-automaker-unveils-first-self-driving-vehicle/2591579711109/
-    cdnAmpUrl: https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/01/22/GM-owned-automaker-unveils-first-self-driving-vehicle/2591579711109/
+      - url: https://www.gannett-cdn.com/presto/2020/01/22/PDTN/4265128e-540f-4307-a3be-f6e3b826e6a1-1_ppQPCa8VrWrYChCDsch4XA.jpeg?auto=webp&crop=1521,855,x162,y616&format=pjpg&width=1200
+        width: 1200
+        height: 675
+  - title: "Report: Cruise Origin electric self-driving shuttle will be made in Detroit"
+    excerpt: "General Motors is reportedly planning to build the Cruise Origin electric driverless shuttle at its Detroit-Hamtramck plant—the former assembly plant for the Chevrolet Volt, as well as the plant expected to make GM’s electric pickup and some of the 20 electric nameplates due by 2023. An employee letter sent by GM’s VP of global ..."
+    publishedDateTime: 2020-01-24T19:45:00Z
+    sourceUrl: https://www.greencarreports.com/news/1126870_report-cruise-origin-electric-self-driving-shuttle-will-be-made-in-detroit
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 44
-    images:
-      - url: https://cdnph.upi.com/ph/st/th/2591579711109/2020/i/15797136375931/v1.5/GM-owned-automaker-unveils-first-self-driving-vehicle.jpg?lg=2
-        width: 800
-        height: 533
-  - title: "Self-Driving Vehicles Need a Reality Check"
-    excerpt: "(TNS) — By all rights, Bryan Salesky might be the last guy you’d expect to hear managing expectations about fully self-driving vehicles becoming reality, and doing so in volume. As CEO of Argo AI, he helps lead the autonomous-vehicle programs for partners Ford Motor Co. and Volkswagen AG. He’s an early alum of Google’s self-driving ..."
-    publishedDateTime: 2020-01-16T21:45:00Z
-    sourceUrl: https://www.governing.com/next/Self-Driving-Vehicles-Need-Reality-Check.html
-    ampUrl: https://www.governing.com/next/Self-Driving-Vehicles-Need-Reality-Check.html?AMP
-    cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/Self-Driving-Vehicles-Need-Reality-Check.html?AMP
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 24
+      name: Green Car Reports
+      domain: greencarreports.com
+    quality: 2
 
 secured: "2GHN5ShCeXsIhUdN+jsomKMHasqJI2zPRVkMhbDJl3WidvJwAMr5Fi+hTxSyeGlNRQUFoDazjBKE3Kz+yQ2oLfwqEIsfVXwWo8Q9xdKB34wDi4yzuEYeP78NLkhmwrh4VdPiOqFKtxF24McxsCCLCktRitHJ4Fa/xSHGX92Tj4TgUBICl5SPo1nbtsFXYc+bqTUOqin4xa1aGT1wNDOkEa/iq8REAyCdhY62nSg3HY1TFiYJEvOEztF2lY8XolS0+Z9meOj5Il70r9hiSZrVUIa5Z0Uv+Hs5ZFZPngJUCFbzN5gcpZse5JLA4xV456qupN/EHjotX7HCFOgOQT14AkP658YNfxJIP9Tb7+XRbpNzgEsli3lbOMKFomVBagfIht/3LbcXp+5vE2Df8TgLUP3HolWxqjyD369Ot4zkPrABQ6Z95FoApvZUcfKqdKtryaSYO1huUiDHQrQwoG6Mlw==;hcSR7/QsMW1UBOFaLKcIvw=="
 ---

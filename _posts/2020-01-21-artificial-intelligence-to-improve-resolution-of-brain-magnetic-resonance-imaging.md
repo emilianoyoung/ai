@@ -57,6 +57,19 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 49
+  - title: "Does Machine Learning Improve Prediction of VA Primary Care Reliance?"
+    excerpt: "Health Care System, did not outperform traditional regression models. Welcome the the new and improved AJMC.com, the premier managed market network. Tell us about yourself so that we can serve you better."
+    publishedDateTime: 2020-01-16T01:59:00Z
+    sourceUrl: https://www.ajmc.com/journals/issue/2020/2020-vol26-n1/does-machine-learning-improve-prediction-of-va-primary-care-reliance
+    type: article
+    provider:
+      name: The American Journal of Managed Care
+      domain: ajmc.com
+    quality: 39
+    images:
+      - url: https://hraresearch.s3.amazonaws.com/_media/_core/ajmc-twitter-logo.jpg
+        width: 270
+        height: 270
   - title: "Artificial Intelligence to Improve Resolution of Brain Magnetic Resonance Imaging (1 of 2) (image)"
     excerpt: "The method, designed by researchers of the UMA, enables the detection of pathologies with increased accuracy and definition, without additional tests."
     publishedDateTime: 2020-01-17T15:26:00Z

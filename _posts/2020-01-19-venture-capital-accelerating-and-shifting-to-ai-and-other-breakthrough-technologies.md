@@ -25,32 +25,19 @@ images:
     title: "Venture Capital Accelerating and Shifting to AI and Other Breakthrough Technologies"
 
 related:
-  - title: "Seeing A Better Future For AI"
-    excerpt: "I grew up during the 80s and 90s, the kind of kid who built his own computers late into the night and heard the dial-up modem’s tones as my personal anthem. During this time of great promise in mankind’s technological potential I remember watching early documentaries on artificial intelligence (AI)."
-    publishedDateTime: 2020-01-24T19:50:00Z
-    sourceUrl: https://www.forbes.com/sites/amirhusain/2020/01/24/seeing-a-better-future-for-ai/
-    ampUrl: https://www.forbes.com/sites/amirhusain/2020/01/24/seeing-a-better-future-for-ai/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amirhusain/2020/01/24/seeing-a-better-future-for-ai/amp/
+  - title: "China is Dominating Computer Vision AI Venture Capital Investment"
+    excerpt: "Our recent research shows that venture capital (VC) investment in computer vision technology firms has increased four-fold from 2016-2018 exceeding a total of $8 billion USD. We analyzed over 1400... This is a companion discussion topic for the original entry at https://blogs.gartner.com/anthony_bradley/2020/01/22/china-dominating-computer ..."
+    publishedDateTime: 2020-01-23T01:57:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/china-is-dominating-computer-vision-ai-venture-capital-investment/241708
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: BCW
+      domain: businesscomputingworld.co.uk
+    quality: 54
     images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2b46f58b6cf300071ce1d0%2F0x0.jpg%3FcropX1%3D54%26cropX2%3D4933%26cropY1%3D0%26cropY2%3D2744
-        width: 1200
-        height: 675
-  - title: "Using artificial intelligence to design better mobile app user experience"
-    excerpt: "Unlike a generic program, artificial intelligence will read and process the same data in a humane way. This will allow developers to make better and more informed conclusions which in turn can be used for making important decisions regarding the application. Thanks to AI, you can add personalized updates for every user using the phone system ..."
-    publishedDateTime: 2020-01-23T14:05:00Z
-    sourceUrl: https://www.clickz.com/using-artificial-intelligence-to-design-better-mobile-app-user-experience/259694/
-    ampUrl: https://www.clickz.com/using-artificial-intelligence-to-design-better-mobile-app-user-experience/259694/amp/
-    cdnAmpUrl: https://www-clickz-com.cdn.ampproject.org/c/s/www.clickz.com/using-artificial-intelligence-to-design-better-mobile-app-user-experience/259694/amp/
-    type: article
-    provider:
-      name: ClickZ
-      domain: clickz.com
-    quality: 36
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
 
 secured: "jjLxWcBA9YQ9Ztt4Yu00DeVlMbQy8G8cq5ZEu2sWp29Zk9xNVF13f3O3cXc9RrPlfqr2KS1Nj9BdCUc9Bc5I49G5ZPbrCqkV5O3lnerINmWdZtxMkBt0gi7AeXnZeS3K7qNnu0a785RbjRwvHu/BnOCNyfyi+cADrhs3Tf5rDm41N3TSiXXZZpbJSEkd8kQEChjIQmX1oYK2SV9VZ8jx+9nc7qKHwwOQMsscfZVrs+JfQJdW1JP506AncC4knrC+Y+Gm9lvSoYl0yPv864pxT410arfAcIS6ZZDvqoZQKGfiSR55lWwL6TUBBCAkf/KSdd+8g4QJdHmWAiWcJNPGHFjNrPkUKGAOMDsz2JAGKjvUnHi45dV7v4ieQaPRBH9XScqqjOT6Ep2dY063thN7bWVFjhNvfO/Y3YxrnimGX3U2u0nlJu0GDYXClZd1JLdzJJbcr+xXbkFxzs5ytB7SdA==;a2jTtNpK/v1Ze64eWSV+EA=="
 ---

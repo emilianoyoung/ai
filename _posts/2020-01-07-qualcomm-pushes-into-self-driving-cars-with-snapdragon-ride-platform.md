@@ -24,116 +24,45 @@ images:
     title: "Qualcomm pushes into self-driving cars with Snapdragon Ride Platform"
 
 related:
-  - title: "Riding in a self-driving car is the best way to end CES 2020"
-    excerpt: "or \"WTF?!\" or \"eww.\" And for me, the best way to close the books on this madness is to enjoy a few quiet minutes of reflection in the ultimate goal of so many of the automotive technologies Roadshow writes about: the all-seeing, all-knowing, self-driving car. That term \"self-driving\" is used way too freely. No matter what your best friend or ..."
-    publishedDateTime: 2020-01-10T17:02:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/ces-2020-self-driving-car-ride/
-    ampUrl: https://www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/
+  - title: "Baidu secures licenses to test self-driving cars in Beijing"
+    excerpt: "Tech giant Baidu is slowly but surely progressing toward the launch of a commercial robot-taxi fleet in mainland China. This week, the company announced that it has secured licenses to test ..."
+    publishedDateTime: 2019-12-31T16:58:00Z
+    sourceUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/
+    ampUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: https://cnet3.cbsistatic.com/img/G7dx4_rD5mD3I0MM4few-N7lGlQ=/2020/01/10/bb8e1c20-5424-414e-b461-769417e79571/yandex-ogi.jpg
+      - url: https://venturebeat.com/wp-content/uploads/2019/11/1573720765750856_upscaled_image_x4-e1573743944240.jpg?fit=1200%2C600&strip=all
         width: 1200
-        height: 630
-  - title: "Why Creating An AV Business Is 10,000 Times Harder Than Building Self-Driving Tech"
-    excerpt: "For autonomous service providers or a service provider that owns its conventional vehicles, every mile and minute incurs a cost."
-    publishedDateTime: 2020-01-15T20:23:00Z
-    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/15/why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech/
-    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/15/why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/15/why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech/amp/
+        height: 600
+  - title: "CES trade show to spotlight big tech trends in 5G, self-driving cars, 8K TVs and more"
+    excerpt: "Gigantic consumer electronics show in Las Vegas features about 40 San Diego companies showing off their latest technologies."
+    publishedDateTime: 2020-01-06T14:06:00Z
+    sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more
+    ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
+    cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 68
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 37
     images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F01%2Fa-21-2.jpg
-        width: 640
-        height: 640
-  - title: "A Seattle Startup Puts Its Pizza Making Robot to the Test at CES 2020"
-    excerpt: "\"That labor shortage results in high turnover, poorly trained workers, poor quality of food,\" explained Wood. This AI powered pizza robot from a Seattle startup named Picnic can assemble 300 perfect pizzas an hour #CES2020 pic.twitter.com/WOaqphS84E — Rich DeMuro (@richdemuro) January 8, 2020 Picnic’s robot is modular, meaning it can expand ..."
-    publishedDateTime: 2020-01-15T13:59:00Z
-    sourceUrl: https://ktla.com/2020/01/15/seattle-startup-picnic-pizza-robot-ces-2020/
-    ampUrl: https://ktla.com/2020/01/15/seattle-startup-picnic-pizza-robot-ces-2020/amp/
-    cdnAmpUrl: https://ktla-com.cdn.ampproject.org/c/s/ktla.com/2020/01/15/seattle-startup-picnic-pizza-robot-ces-2020/amp/
+      - url: https://ca-times.brightspotcdn.com/dims4/default/3de7005/2147483647/strip/true/crop/3024x1975+0+146/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb6%2F73%2Fcfca9b914994bd002b870005233e%2Fwd.jpg
+        width: 320
+        height: 209
+  - title: "Baidu testing self-driving cars in Beijing"
+    excerpt: "Baidu (BIDU-0.1%) has secured licenses to test self-driving vehicles carrying passengers on designated roads in Beijing, according to Venture Beat. The company's self-driving cars have traveled ..."
+    publishedDateTime: 2019-12-31T18:38:00Z
+    sourceUrl: https://seekingalpha.com/news/3528976-baidu-testing-self-driving-cars-in-beijing
     type: article
     provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 59
-    images:
-      - url: https://tribktla.files.wordpress.com/2020/01/screen-shot-2020-01-14-at-10.09.00-am.png
-        width: 1200
-        height: 698
-  - title: "Self-driving car market revenue of USD 173.15 Bn by 2023"
-    excerpt: "The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn by 2023. A self-driving car, also known as an autonomous car or driverless car,"
-    publishedDateTime: 2020-01-10T06:02:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-revenue-of-usd-17315-bn-by-2023-2020-01-10
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Carmakers move from cars to building cities at CES"
-    excerpt: "But he said the carmaker needed to be on top of all the megatrends shaping society in the next decades: urbanisation, environmentalism, an ageing society, the power of 5G wireless connectivity and the potential for artificial intelligence to reinvent ... its new production line in Shanghai, or to Waymo, the Google sibling whose self-driving ..."
-    publishedDateTime: 2020-01-07T18:07:00Z
-    sourceUrl: https://www.ft.com/content/8089bb56-30fe-11ea-9703-eea0cae3f0de
-    ampUrl: https://amp.ft.com/content/8089bb56-30fe-11ea-9703-eea0cae3f0de
-    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8089bb56-30fe-11ea-9703-eea0cae3f0de
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 44
-    images:
-      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2Fa4e8f394-313b-11ea-a329-0bcf87a328f2?source=google-amp&fit=scale-down&width=500
-        width: 500
-        height: 281
-  - title: "I rode in a self-driving car that's basically powered by a high-end gaming PC"
-    excerpt: "I've been a fan of science fiction since I learned to read. I grew up tearing through Heinlein, Asimov, Herbert, and many other authors, and for decades I've been looking forward to taking a ride in a fully autonomous self-driving vehicle. Now, it's finally happened—probably 10 years later than I originally expected in my youthful ignorance ..."
-    publishedDateTime: 2020-01-13T18:05:00Z
-    sourceUrl: https://www.pcgamer.com/i-rode-in-a-self-driving-car-thats-basically-powered-by-a-high-end-gaming-pc/
-    ampUrl: https://www.pcgamer.com/amp/i-rode-in-a-self-driving-car-thats-basically-powered-by-a-high-end-gaming-pc/
-    cdnAmpUrl: https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/i-rode-in-a-self-driving-car-thats-basically-powered-by-a-high-end-gaming-pc/
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 41
-    images:
-      - url: https://cdn.mos.cms.futurecdn.net/59dKqs9cbdXobWjM6vbrAc-1200-80.jpg
-        width: 1200
-        height: 675
-  - title: "For Self-Driving Cars, Lidar Amps Up at CES 2020"
-    excerpt: "LAS VEGAS – If self-driving cars are failing to live up to their initial hype, it isn’t for lack of investment in lidar, which is broadly agreed to be a key sensor technology needed for their eventual success. With Bosch’s recent announcement that it’s making lidar sensors for autonomous cars, it seems like the list of auto-related ..."
-    publishedDateTime: 2020-01-09T16:01:00Z
-    sourceUrl: https://www.extremetech.com/electronics/304053-for-self-driving-cars-lidar-amps-up-at-ces-2020
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 24
-    images:
-      - url: https://www.extremetech.com/wp-content/uploads/2020/01/Velodyne-Lidars.jpg
-        width: 1344
-        height: 742
-  - title: "Self-driving car market revenue of USD 173.15 Bn by 2023|, Forces Analysis, Revenue, Challenges and Global Forecast"
-    excerpt: "The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn by 2023. A self-driving car, also known as an autonomous car or driverless car,"
-    publishedDateTime: 2020-01-10T13:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-revenue-of-usd-17315-bn-by-2023-forces-analysis-revenue-challenges-and-global-forecast-2020-01-10
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 12
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
   - title: "CES 2020 Spotlights Tech Trends: Self-Driving Cars, 8K TVs and 5G"
     excerpt: "Others, however, are harder to forecast. What new artificial intelligence service will blossom to become the next Amazon Alexa or Google Home? Can self-driving car technology take a meaningful step forward? CES, the sprawling consumer electronics trade show that opens Tuesday and runs through Friday in Las Vegas, may provide a clue when it ..."
     publishedDateTime: 2020-01-06T18:04:00Z

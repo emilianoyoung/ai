@@ -56,6 +56,36 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2020/01/df112978-8d5f-4235-80dd-264758329d91-e1579063150693.png?fit=831%2C414&strip=all
         width: 831
         height: 414
+  - title: "The AI that allows self-driving cars to ‘see’ around corners"
+    excerpt: "Researchers at US universities have created an imaging system powered by artificial intelligence that could help self-driving cars \"see\" around corners in minute detail to identify hazards. The imaging system uses a conventional camera sensor and a laser beam that can be \"bounced\" off walls and onto objects to create a pattern – visually ..."
+    publishedDateTime: 2020-01-16T15:00:00Z
+    sourceUrl: https://www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/
+    ampUrl: https://www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/amp/
+    cdnAmpUrl: https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/amp/
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 59
+    images:
+      - url: https://www.telegraph.co.uk/content/dam/technology/2019/08/23/TELEMMGLPICT000206524925_trans%2B%2BKU-op6n8Xxa2ymKjnWOvoZ3L9sb6nC3JvvgkmFaL7wc.jpeg
+        width: 2501
+        height: 1563
+  - title: "Artificial Intelligence system created to allows self-driving cars to 'see' around corners"
+    excerpt: "An artificial intelligence system that allows self-driving cars to 'see' around corners in real time could help prevent accidents, according to its developers. Researchers from Stanford University in the USA have created a system that bounces a laser beam off a wall to create an 'image' of objects hidden from view. The 'image' captured won't ..."
+    publishedDateTime: 2020-01-17T09:32:00Z
+    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7898531/Artificial-Intelligence-created-allows-self-driving-cars-corners.html
+    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7898531/amp/Artificial-Intelligence-created-allows-self-driving-cars-corners.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7898531/amp/Artificial-Intelligence-created-allows-self-driving-cars-corners.html
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 49
+    images:
+      - url: https://i.dailymail.co.uk/1s/2020/01/17/09/23514880-0-image-a-98_1579253477085.jpg
+        width: 636
+        height: 382
 
 secured: "QQetqgZV3E2ZiEvr3LE2YWWCUr2shn9LsJig7bsRFiB1F1uf8cEJe8pjpRdLdX9S+jGMIYrGtjOx8iwKhMNlSHeJoDmOdXgKu0u3A31rAaVehhz2kpOxFlaSegzNQ7mSUOzFCl5siWOtKyGtRi/Dy2lnkJ4LJyHHMWmnjL721lwJMzhO3ojmDE+lviOC30Ut0BpqBzGRNOsXf/e1GU0yQ1pJufHD3KN6QKTBAQMfL9jrXK1vVxlx7yJz14M14GtyOlKBdfZKlTL/PJWI/pHauoKd6bchEfxSnMx7Cq+rNCO74AG0cDv8EDduNvur3P5d0r3fiTR7u4IK5rJnuxZzSmSIn65JNBeMZkqqfbsPFx36JESEweMYKkz9AmEvjgENO7b+swEgGBC1uS+5ZEaE+qcBbNwFUmTBkQlX7hx71X7tJ4oMb/YEu4trnOEd6WHHKAsg9MRvYwf+xXxcGEvn7A==;swfWGQYdTb9RTt3/+GYSCQ=="
 ---

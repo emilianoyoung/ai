@@ -20,32 +20,21 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Here's Why Taco Bell Added Artificial Intelligence Technology To Its Mobile App"
-    excerpt: "Taco Bell announced a partnership with artificial intelligence company Certona last week to create a more personalized experience for its mobile app users, of which there are 5 million."
-    publishedDateTime: 2020-01-23T15:51:00Z
-    sourceUrl: https://www.forbes.com/sites/aliciakelso/2020/01/23/heres-why-taco-bell-added-artificial-intelligence-technology-to-its-mobile-app/
-    ampUrl: https://www.forbes.com/sites/aliciakelso/2020/01/23/heres-why-taco-bell-added-artificial-intelligence-technology-to-its-mobile-app/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aliciakelso/2020/01/23/heres-why-taco-bell-added-artificial-intelligence-technology-to-its-mobile-app/amp/
+  - title: "Secure Technologies and Artificial Intelligence in Focus for Airbus at Intersec 2020"
+    excerpt: "In addition, the company will also be showcasing various projects around the use of Artificial Intelligence for mission-critical application. The latter include facial, license plate, and object recognition, which run on the Tactilon Agnet mission-critical collaborative platform integrated with other systems through Application Programming ..."
+    publishedDateTime: 2020-01-18T07:16:00Z
+    sourceUrl: https://www.zawya.com/uae/en/press-releases/story/Secure_Technologies_and_Artificial_Intelligence_in_Focus_for_Airbus_at_Intersec_2020-ZAWYA20200118065157/
+    ampUrl: https://www.zawya.com/uae/en/story/amp/ZAWYA20200118065157/
+    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20200118065157/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 183
+      name: Zawya
+      domain: zawya.com
+    quality: 65
     images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F923115808%2F0x0.jpg
+      - url: https://www.zawya.com/resources/img/zawya-logo-en-social.png
         width: 1200
-        height: 801
-  - title: "U.S. Army Testing Robots, Drones and AI Technology"
-    excerpt: "The fear of artificial intelligence (AI) in the commercial world is that it will take away jobs from people. Apply robotics and AI to the battlefield, and that might be one of the best things that ever happened. Fewer human soldiers means less \"cannon fodder\" if you are familiar with the term. See this article, AI & Robots Crush Foes In Army ..."
-    publishedDateTime: 2020-01-23T08:19:00Z
-    sourceUrl: https://www.govtech.com/em/emergency-blogs/disaster-zone/us-army-testing-robots-drones-and-ai-technology.html
-    ampUrl: https://www.govtech.com/em/emergency-blogs/disaster-zone/us-army-testing-robots-drones-and-ai-technology.html?AMP
-    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/em/emergency-blogs/disaster-zone/us-army-testing-robots-drones-and-ai-technology.html?AMP
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 54
+        height: 878
 
 secured: "+P0+/Utgfwexw0+pvRfbMZZtMT0vlPifJcLDLBJBSsSqBLFZtMVrwa3uL4etJOCF0euX3xujdsoq0pKWmQhZm40XIF09ya1l2NTja7VIHhXUvrE+CUhS9k1zPpp7qwHEUbKBUn8cKaHCemKsVAm9eGWSJ9KShYLrt9UHzD2hav66K4Jvbt86MFNF/ttRndwzOaCfsXyd5rb0qR4D9e0135No29Yi+cySSyQQHj+QjqC8gKVOLTvwUWdSsDHKIz9dKRpcJaFM8uPCXEn0i1pEGgr2Llo0xQaP/tx0ID0Bn5E=;CUxYoWcNx2FLGfzFQwzzHQ=="
 ---

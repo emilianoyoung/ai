@@ -8,7 +8,7 @@ ampUrl: https://www.techspot.com/amp/news/83719-groq-launches-first-ai-accelerat
 cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83719-groq-launches-first-ai-accelerator-card-capable-1.html
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 560
     title: "Groq launches the first AI accelerator card capable of 1 PetaOPS"
 
-secured: "lNwzykCZD8NpvNivY4ekFrER36u1s2v+E26Jw6SYGH+Pjef3POuTNLgsrk1Ia+ZLdNrGMHqcLLiUk/2nSUz0aaLHnjRquJwouWY+OM0SCQILGZmyE68FKAw2ivLJC7HTasJh65ssRehIGiQkW3E+otzM30PyFFRomKjvc+KWI49gl+96envTOM8eLQ26ugI0kDkmX97DUMiC14jnHnRZ6mHjJHe/BjEkR8OaS4XcpN0AxBH99ShOW87WyDqqVDd4YSl5PqUpbjGM4p3Ed6zT8qQzUGiKaAHzsoggz8QY41hv9ZleMo4ZXRIdF3CDuF42aSOgLWrvaB/aLW/IbLHlWIxj9ZEUAKon/VXbKz7hrQbCFk6Fz15c3VTFwRBi43Ggo1svFw3rFHr0Z/3+4hopFFcYeuGySy9tcDKUdBydaDRBHQYKdNZrk8H5xreUytGAmfENeL8B4q27gAMiYIOuCAZxCRd90q+6azweZf7GQIo=;zTHBGlCM9LlPcGCBhMeEAw=="
+secured: "17xQYVVLQRTUKgX7WYKuZe4PbI5LsroQqv+ZBK3wFUnvgUTYaOfJLYHqmY0ow3BK7PRrAOhVT1J7TeGIx6ZMTT8+l2BW8sKWo6chKr2nLS6+CCd/yknudlG1GvIY+xRWcU2VSMuch4rP0cXT5WOLKejCBsM4bujTHPTXmQ14Qffhpp1LF6w57wwk7ShNWsXHP8pdEfgGKrluCjbJPGPVXvMkmMeoJ/o+VnKK54gQmaOUN+Feecv61deExgWV1i8y9rGxW3fUBseO9u36wbIqtwmtlAW1MvKAi20ZLpmy54ILY/AEHMJa0RBE43MNJV7B3KfzL/SacyFJ5IfTbS6d7x6lRITAqyIVL11kmpRSsLAXb1obi88+HpPTjJ6+Bn897EjpjpIyvK7/cs1DuIRUnewnp0wfANWrAPZFRIzuQ0azsvMiGX8mK20xp2URWT4BE4Hiiv8DndzcPss3WxFbp8CBUi6dQW8L9mc2BoxMeKg=;aGW/GEeEG9FOQoBZbPv1zg=="
 ---
 

@@ -18,93 +18,45 @@ topics:
   - AWS AI
 
 related:
-  - title: "AI Chipset Market is Expanding Due to Adoption of Industrial Automation"
-    excerpt: "Chipset Market: By Component, [Hardware (Processors, CPU, GPU, ASIC, FPGA, Memory and Network) and Software). By Technology [ (Machine Learning, Natural Language Processing, and Others (Deep Learning and Computer Vision)] – Forecast Till 2023 Artificial Intelligence Chipset Market Research Report- Forecast till 2023 A white box server can be referred to as the computer framework in large data centers."
-    publishedDateTime: 2020-01-20T11:05:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15149083/ai-chipset-market-is-expanding-due-to-adoption-of-industrial-automation
-    ampUrl: https://amp.benzinga.com/amp/content/15149083
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15149083
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 76
-    images:
-      - url: https://www.abnewswire.com/uploads/1579519636.jpeg
-        width: 417
-        height: 455
-  - title: "AI chipset market predicted to grow a 30.8% CAGR through 2025"
-    excerpt: "The factors such as the emergence of quantum computing and rising in implementation of AI chips in the robotics industry have shown a positive impact on the growth of the artificial intelligence chipsets market over the forecast period. Research and Markets says the global artificial intelligence chipset market is segmented on the basis of ..."
-    publishedDateTime: 2020-01-17T10:49:00Z
-    sourceUrl: https://www.mactech.com/2020/01/17/ai-chipset-market-predicted-to-grow-a-30-8-cagr-through-2025/
-    type: article
-    provider:
-      name: MacTech
-      domain: mactech.com
-    quality: 54
-    images:
-      - url: https://www.mactech.com/wp-content/uploads/2020/01/AI.png
-        width: 1000
-        height: 500
-  - title: "Artificial Intelligence Chipsets Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
-    excerpt: "New York, January 21, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Chevron Phillips Chemical Company,"
-    publishedDateTime: 2020-01-21T06:20:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-2020-analysis-growth-vendors-shares-drivers-challenges-with-forecast-to-2025-2020-01-21-21752033
+  - title: "Computer Vision in Artificial Intelligence Market Revenue Analysis by Top Players"
+    excerpt: "According to the AlltheResearch analysis, the key players in the Computer Vision in Artificial Intelligence industry are Cognex Corporation, Omron Corporation, Intel Corporation, Basler AG and Google LLC."
+    publishedDateTime: 2020-01-16T07:44:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-market-revenue-analysis-by-top-players-2020-01-16
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 44
+    quality: 85
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Chipsets Market 2020 Industry Outlook, Comprehensive Insights, Growth and Forecast 2025 – Market Research Engine"
-    excerpt: "New York, January 16, 2020: Due to high growth in computing applications, enterprises tend to demand machine learning specialised devices, equipped with specialised chipsets. These AI enabled chipsets are expected to drive the expansion of hardware chipset producing into next stage of progress during this field."
-    publishedDateTime: 2020-01-16T03:34:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-2020-industry-outlook-comprehensive-insights-growth-and-forecast-2025-market-research-engine-2020-01-15
+  - title: "Artificial Intelligence in Fashion Market to 2027…"
+    excerpt: "research analysts, and key opinion leaders specializing in the artificial intelligence in fashion market. Some of the players present in artificial intelligence in fashion market are Adobe Inc., Amazon Web Services, Inc., Catchoom Technologies S.L., Facebook, Inc., Google LLC, Huawei Technologies Co., Ltd., IBM Corporation, Microsoft ..."
+    publishedDateTime: 2020-01-20T07:06:00Z
+    sourceUrl: https://www.pharmiweb.com/press-release/2020-01-20/artificial-intelligence-in-fashion-market-to-2027-europe-market-to-capitalize-on-rising-demand-fro
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 39
+    images:
+      - url: https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png
+        width: 1200
+        height: 448
+  - title: "Automatic Content Recognition Market 2020 Region Wise Analysis of Top Players In Market By Its Types And Application By 2027"
+    excerpt: "Automatic Content Recognition market research report analyzes adoption trends, key challenges, future growth potentials, Key Drivers, Economical Viewpoint, Restraints, Growth Prospects, market ecosystem,"
+    publishedDateTime: 2020-01-21T08:38:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/automatic-content-recognition-market-2020-region-wise-analysis-of-top-players-in-market-by-its-types-and-application-by-2027-2020-01-21
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 27
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Mobile AI Market 2020 Classification, Application, Industry Chain Overview, SWOT Analysis and Competitive Landscape To 2023"
-    excerpt: "“”Mobile AI Market”” Mobile AI Market Research Report 2020: Industry Size, Share, Trends, Growth, Sales, Revenue, Risk and Opportunity Assessment"
-    publishedDateTime: 2020-01-23T09:25:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15169842/mobile-ai-market-2020-classification-application-industry-chain-overview-swot-analysis-and-compet
-    ampUrl: https://amp.benzinga.com/amp/content/15169842
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15169842
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
-    images:
-      - url: https://www.abnewswire.com/uploads/1579774680.jpeg
-        width: 800
-        height: 527
-  - title: "AI Chips: 5 Predictions for 2020"
-    excerpt: "Will Intel’s acquisition of Israeli AI accelerator startup Habana Labs last month kick-start a surge of acquisitions? This market is absolutely teeming with chip startups, many of whom are reaching a level of maturity where they are revealing their architectures and starting to produce measurable results. As established semiconductor ..."
-    publishedDateTime: 2020-01-17T01:04:00Z
-    sourceUrl: https://www.eetindia.co.in/news/article/AI-Chips-5-Predictions-for-2020
-    type: article
-    provider:
-      name: eetindia.co.in
-      domain: eetindia.co.in
-    quality: 34
-  - title: "Global Automotive Artificial Intelligence Market Industry Trends, Estimation & Forecast, 2018 - 2025"
-    excerpt: "NVIDIA Corporation, Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation, Micron Technology, Otto Motors, BMW, Tesla Inc., and Toyota are some of the key players operating in the global automotive artificial intelligence market."
-    publishedDateTime: 2020-01-20T10:41:00Z
-    sourceUrl: https://www.openpr.com/news/1900862/global-automotive-artificial-intelligence-market-industry
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
 
 secured: "rv+E7TrNyUYlRb/DSL/Kxot+HNISNBkDDYOEoz0cIlZHb/OBp4Q+dZEGKE2+A0wPev4bi/zARN/jXsu+E4d5MhQihFPu+AIqV/Ss7NCVCA2tRF5/mQytJVHP+rHv3lNJadfOGVd5o2MyW4RzmLy3NvjNwsQR7aXQVkgpxEep+xAyrpoq/0m3EWiHi5JhIWysX5W7q3vgGrO7oHDXvrNQH3dCZWq51xGBmDCvK+KmWtNRVkIPK6JozQKhXZFnajhDIlxuMcrY3k+1oQTrzZlQopIXzqp5cZdwo2qan97kbg0=;CjtAa1TPTDhUjDntd2PnEw=="
 ---

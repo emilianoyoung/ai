@@ -41,6 +41,21 @@ related:
       - url: https://www.inquirer.com/resizer/Bqd7C0g_vqzmOp6vDtoU_K9St20=/1200x0/center/middle/www.inquirer.com/resizer/Gfpkh9hliXlyDb-XZGMx3v92mn8=/1200x0/center/middle/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/IM55BNURYVFVFBQDQ6VYGZYAUA.jpg
         width: 1200
         height: 908
+  - title: "Clearview AI’s facial-recognition app is a nightmare for stalking victims"
+    excerpt: "The latest example of Silicon Valley’s hubris is the facial-recognition app Clearview AI. The small startup’s app is so powerful that someone could walk up to you on the street, snap your photo, and quickly find out your name, address, and phone number ..."
+    publishedDateTime: 2020-01-22T17:41:00Z
+    sourceUrl: https://www.digitaltrends.com/news/clearview-ai-facial-recognition-domestic-violence-stalking/
+    ampUrl: https://www.digitaltrends.com/news/clearview-ai-facial-recognition-domestic-violence-stalking/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/clearview-ai-facial-recognition-domestic-violence-stalking/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 88
+    images:
+      - url: https://icdn3.digitaltrends.com/image/digitaltrends/facial-recognition-composite-feature-1200x630-c-ar1.91.jpg
+        width: 1200
+        height: 628
   - title: "Philadelphia International Kicks Off Facial Recognition Pilot"
     excerpt: "Three gates at the airport will begin a 45-day pilot program for facial-recognition scanners that cross-check a live image of a person with their government photos. The scanners are meant to help U.S. Customs and Border Protection process passengers and speed up boarding, the airport said. Gates A15, A16, and A17 will each use a different ..."
     publishedDateTime: 2020-01-16T21:03:00Z
@@ -56,58 +71,21 @@ related:
       - url: https://media2.govtech.com/images/shutterstock_406404352.jpg
         width: 1029
         height: 630
-  - title: "Philadelphia International Airport Testing Facial Recognition On Some International Flights"
-    excerpt: "PHILADELPHIA (CBS) — Some passengers at the Philadelphia International Airport will see a new security screening starting Tuesday. The airport is testing a new program to scan the faces of passengers leaving the airport on some international flights. Only a few flights on American Airlines, British Airways, Lufthansa, and Qatar Airways are ..."
-    publishedDateTime: 2020-01-21T19:10:00Z
-    sourceUrl: https://philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/
-    ampUrl: https://philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/amp/
-    cdnAmpUrl: https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/amp/
+  - title: "Facial recognition is coming to more smart home cameras: Why you should be worried"
+    excerpt: "Police don’t have access to those videos unless a homeowner gives them permission — something Ring has been less than transparent about in the past — but imagine if those faces were sent to the cloud, where they could be matched up with, say, Amazon’s Rekognition software, which can match faces with a huge database? What to know before ..."
+    publishedDateTime: 2020-01-11T18:19:00Z
+    sourceUrl: https://www.tomsguide.com/features/facial-recognition-smart-home
+    ampUrl: https://www.tomsguide.com/amp/features/facial-recognition-smart-home
+    cdnAmpUrl: https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/features/facial-recognition-smart-home
     type: article
     provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 44
-  - title: "Software Detects Backdoor Attacks on Facial Recognition"
-    excerpt: "As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from cyberattacks becomes essential. An Army project conducted by researchers at Duke University and led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran ..."
-    publishedDateTime: 2020-01-16T15:04:00Z
-    sourceUrl: https://www.defensemedianetwork.com/stories/software-detects-backdoor-attacks-facial-recognition/
-    type: article
-    provider:
-      name: defensemedianetwork.com
-      domain: defensemedianetwork.com
-    quality: 39
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 38
     images:
-      - url: https://www.defensemedianetwork.com/wp-content/uploads/2020/01/original.jpg
-        width: 1500
-        height: 844
-  - title: "This exhibition at the Philadelphia Museum of Art showcases incredible futuristic ideas"
-    excerpt: "Yasin founded Petit Pli, available online, which aims to reduce wastage in the fashion industry. Neurodildo is a mind-controlled sex toy, designed by Brazilian electrical engineer Leonardo Mariano Gomes. Still in the testing phase, the ‘Neurodildo’ provides a vibrator for one partner that is remotely connected to an electroencephalogram ..."
-    publishedDateTime: 2020-01-22T22:58:00Z
-    sourceUrl: https://www.architecturaldigest.in/content/philadelphia-museum-of-art-exhibition-design-show-robots-futuristic-ideas/
-    ampUrl: https://www.architecturaldigest.in/content/philadelphia-museum-of-art-exhibition-design-show-robots-futuristic-ideas/amp/
-    cdnAmpUrl: https://www-architecturaldigest-in.cdn.ampproject.org/c/s/www.architecturaldigest.in/content/philadelphia-museum-of-art-exhibition-design-show-robots-futuristic-ideas/amp/
-    type: article
-    provider:
-      name: Architectural Digest India
-      domain: architecturaldigest.in
-    quality: 36
-    images:
-      - url: https://media.architecturaldigest.in/wp-content/uploads/2020/01/Philadelphia-Museum-of-Art-1366x768.jpg
-        width: 1366
-        height: 768
-  - title: "Researchers developing facial recognition wearable for emergency service workers"
-    excerpt: "Researchers in the Department of Electrical and Computer Engineering at the University of New Mexico led by Professor Manel Martínez-Ramón are working on facial recognition-equipped wearable devices to help firefighters and emergency service workers with navigation, communication, and threat assessment, the university announced. The projects ..."
-    publishedDateTime: 2020-01-16T21:22:00Z
-    sourceUrl: https://www.biometricupdate.com/202001/researchers-developing-facial-recognition-wearable-for-emergency-service-workers
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
-    images:
-      - url: https://www.biometricupdate.com/wp-content/themes/bu/img/300x250-popup.jpg
-        width: 300
-        height: 250
+      - url: https://cdn.mos.cms.futurecdn.net/FsiNg7SW9eXBKcDnJQBkVb-1200-80.jpg
+        width: 1200
+        height: 825
   - title: "Ticket to Fly in Philly: A Scanned Boarding Pass and Your Face"
     excerpt: "Philadelphia’s airport will begin using facial recognition scanners, though there are still many concerns. Officials expect mistakes, but wonder “how might those mistakes be unequally distributed across demographics.” (TNS) — Starting Tuesday, travelers boarding certain international flights at Philadelphia International Airport will ..."
     publishedDateTime: 2020-01-16T21:45:00Z

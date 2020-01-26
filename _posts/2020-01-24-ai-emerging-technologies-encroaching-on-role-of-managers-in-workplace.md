@@ -23,21 +23,6 @@ images:
     height: 353
     title: "AI, emerging technologies encroaching on role of managers in workplace"
 
-related:
-  - title: "Emerging Tech: Advances in Artificial Intelligence, Virtual Reality and Mobile"
-    excerpt: "This report is free. No credit card required. New technology continued to make strides in 2019. Here’s a look at emerging tech trends in AI, VR and robotics, according to experts. It is clear that artificial intelligence (AI) and emerging technologies could fundamentally change the landscape of the future. In line with this, 2019 brought ..."
-    publishedDateTime: 2020-01-20T01:22:00Z
-    sourceUrl: https://investingnews.com/free-report-online/emerging-tech-advances-in-artificial-intelligence-virtual-reality-and-mobile/
-    type: article
-    provider:
-      name: Investing News Network
-      domain: investingnews.com
-    quality: 35
-    images:
-      - url: https://cdn.investingnews.com/app/uploads/2020/01/emerging-tech-2020-3d.png
-        width: 300
-        height: 408
-
 secured: "EZQZ8sHcv8XyEBQTRw+kI2xHD+iJTetZbRS4SI1Cndb7zJyNGw+u4i1sehqn/vfN89NSwU7tCc/S4AYM5OuRvr1gEDr/g97/QT5pFh/KTWuJnTRxsq4dONvdrk9Q1zdEMclJ6GpOJRaT+M0DtnK2E1iGy0SLfOqZTo2q/kbnRSp+UaQ+LYS+yGDFVFbWYB/DLGBgeG7JiGKoKU+Wa03Y77/USBSvOP01BK5HHfu3FSt9BDO54itRxe6/Z6WE6XytxJ/kD7jB3Ys7ImgpQJbwdtptP2X3ICsBsPYYh41oPUznGrscq4OSks34AtZL6wji;o3tj4rF+7fr6rZhNnG5bXA=="
 ---
 

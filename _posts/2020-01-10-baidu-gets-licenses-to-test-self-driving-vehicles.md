@@ -24,32 +24,51 @@ images:
     title: "Baidu Gets Licenses to Test Self-Driving Vehicles"
 
 related:
-  - title: "Is Baidu Stock a Buy?"
-    excerpt: "For instance, there is the company's \"open-source autonomous vehicle technology platform\" Apollo. Baidu claims to have over 135 partners that support its self-driving cars initiative, and while we are still in the early stages of the autonomous cars revolution, Baidu is looking to maintain an edge in this potentially lucrative market with a ..."
-    publishedDateTime: 2020-01-08T19:33:00Z
-    sourceUrl: https://www.fool.com/investing/2020/01/08/is-baidu-stock-a-buy.aspx
-    ampUrl: https://www.fool.com/amp/investing/2020/01/08/is-baidu-stock-a-buy.aspx
-    cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/08/is-baidu-stock-a-buy.aspx
+  - title: "Toyota is building a 'smart' city to test AI, robots and self-driving cars"
+    excerpt: "Carmaker Toyota has unveiled plans for a 2,000-person \"city of the future\" near Japan's Mount Fuji, where it will test emerging technologies in a real-life environment."
+    publishedDateTime: 2020-01-08T10:21:00Z
+    sourceUrl: https://www.cnn.com/style/article/ces-toyota-big-smart-city/index.html
+    ampUrl: https://www.cnn.com/style/amp/ces-toyota-big-smart-city/index.html
+    cdnAmpUrl: https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ces-toyota-big-smart-city/index.html
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 89
+      name: CNN
+      domain: cnn.com
+    quality: 87
     images:
-      - url: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F552479%2Fgettyimages-647336420.jpg&w=700&op=resize
-        width: 700
-        height: 466
-  - title: "Baidu partners with Wind River for autonomous driving technology"
-    excerpt: "This platform will come with an Autosar Adaptive-based software architecture clubbed with Baidu's Apollo autonomous driving open architecture.ETAuto | January 08, 2020, 16:36 IST As the company claims, this will cater to the next generation of self-driving vehicles. New Delhi: Chinese internet search engine Baidu has joined hands with Wind ..."
-    publishedDateTime: 2020-01-08T11:06:00Z
-    sourceUrl: https://auto.economictimes.indiatimes.com/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435
-    ampUrl: https://auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435
-    cdnAmpUrl: https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435
+      - url: http://cdn.cnn.com/cnnnext/dam/assets/200108111821-woven-city-toyota-big-1-super-tease.jpg
+        width: 1100
+        height: 619
+  - title: "Riding in a self-driving car is the best way to end CES 2020"
+    excerpt: "or \"WTF?!\" or \"eww.\" And for me, the best way to close the books on this madness is to enjoy a few quiet minutes of reflection in the ultimate goal of so many of the automotive technologies Roadshow writes about: the all-seeing, all-knowing, self-driving car. That term \"self-driving\" is used way too freely. No matter what your best friend or ..."
+    publishedDateTime: 2020-01-10T17:02:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/ces-2020-self-driving-car-ride/
+    ampUrl: https://www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 39
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: https://cnet3.cbsistatic.com/img/G7dx4_rD5mD3I0MM4few-N7lGlQ=/2020/01/10/bb8e1c20-5424-414e-b461-769417e79571/yandex-ogi.jpg
+        width: 1200
+        height: 630
+  - title: "Carmakers move from cars to building cities at CES"
+    excerpt: "But he said the carmaker needed to be on top of all the megatrends shaping society in the next decades: urbanisation, environmentalism, an ageing society, the power of 5G wireless connectivity and the potential for artificial intelligence to reinvent ... its new production line in Shanghai, or to Waymo, the Google sibling whose self-driving ..."
+    publishedDateTime: 2020-01-07T18:07:00Z
+    sourceUrl: https://www.ft.com/content/8089bb56-30fe-11ea-9703-eea0cae3f0de
+    ampUrl: https://amp.ft.com/content/8089bb56-30fe-11ea-9703-eea0cae3f0de
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8089bb56-30fe-11ea-9703-eea0cae3f0de
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 44
+    images:
+      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2Fa4e8f394-313b-11ea-a329-0bcf87a328f2?source=google-amp&fit=scale-down&width=500
+        width: 500
+        height: 281
 
 secured: "jNdhofDM/IU/lQZkH40B3j0VMUd3TIpzzdMicppexs27NxzRh63R3IhlKs9IOoS5GslrPEzMbDkAuQkFgTWYFh4BvU4bx0nZ9lKsawFXWBpN2KlDqY44a8SteH+12wVZQryJI14BS96W3Dsu+Ar8hR6XOlzJHPrEyCbHpuebe6t12CKBCDVDBQzq4HgMgplNGxwJUDuwGb5bWroRop5Xho0G6m8FJOu1OmiUaH8SsSXFvc/Ll1W6ISRHKxOJIrY7Q3rvu/BUctfrJSRsRISeFhmflLzv7mr8CmdBhyxlSjFD663Bh1b8idGG9aVF8gxDWHAPxB2svrJ/nuukde95JJB55xn1iwYgZfBB0bqfqrvssj9Q1YpxGeaMXtfzJWkQMy0cckw/NHCURebGQ6atDiW0qyUlQFPIyHrS+dvB5j4uQZGYP8kxXZZgtxVN8QndpzqQO8dzxb8rPr1xFrtfrw==;cicDhMRb6RN1Bm2IMHyWdA=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.thehindu.com/business/sebi-eyes-ai-machine-learning-to-fix-m
 cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/sebi-eyes-ai-machine-learning-to-fix-market-manipulation/article30636862.ece/amp/
 type: article
 quality: 74
-heat: 104
+heat: 124
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "SEBI eyes AI, machine learning to fix market manipulation"
 
 related:
+  - title: "SEBI to tap artificial intelligence, big data analytics to curb market manipulations"
+    excerpt: "He said the capabilities will involve use of artificial intelligence, machine learning, big data analytics and natural language processing tools to spot market manipulation. The new plan involves creating a “data lake” project to augment analytical capabilities, he said while speaking at the Speaking at the National Institute of Securities ..."
+    publishedDateTime: 2020-01-23T09:25:00Z
+    sourceUrl: https://www.thehindu.com/business/sebi-to-tap-artificial-intelligence-big-data-analytics-to-curb-market-manipulations/article30633040.ece
+    ampUrl: https://www.thehindu.com/business/sebi-to-tap-artificial-intelligence-big-data-analytics-to-curb-market-manipulations/article30633040.ece/amp/
+    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/sebi-to-tap-artificial-intelligence-big-data-analytics-to-curb-market-manipulations/article30633040.ece/amp/
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 50
+    images:
+      - url: https://www.thehindu.com/news/national/g3k9ri/article30577966.ece/ALTERNATES/LANDSCAPE_615/16THSEBI
+        width: 615
+        height: 384
   - title: "Sebi to tap artificial intelligence, big data analytics to curb market manipulations: Ajay Tyagi"
     excerpt: "He said the capabilities will involve use of artificial intelligence, machine learning , big data analytics and natural language processing tools to spot market manipulation. The new plan involves creating a \"data lake\" project to augment analytical ..."
     publishedDateTime: 2020-01-23T08:49:00Z
@@ -67,6 +82,15 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 32
+  - title: "Europe Deep Learning in Machine Vision Market Is Expected to Reach Usd 104.59 Million"
+    excerpt: "Press release from: Data Bridge Market Research Pvt. Ltd. Europe Deep Learning in Machine Vision Market,By Application (Image Classification, Optical Character Recognition, Bar Code Detection, Anomaly Detection), By End-User (Automotive, Electronics, Food & Beverage, Healthcare, Aerospace & Defense, Others), ByGeography (Germany, France ..."
+    publishedDateTime: 2020-01-23T18:49:00Z
+    sourceUrl: https://www.openpr.com/news/1906733/europe-deep-learning-in-machine-vision-market-is-expected
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 12
 
 secured: "7K/0HhDKnfUbrk9MhHLuhIp2Rg+HiDDIwMq9DJBt+ksYydB28OX4qXZcFWd3Q7QLonerQ2p86KYTdmciVO6U6yjfJwhMtQh4oSmOpTEbD7VFX3221vLA1+hvdb+pbDhKGF+e5PWXR0uQ2IkTCj08qHIDvf5z6XJEzxJCh3lFK8vqwSRiyWq2UgSgkUTzx00KpkUIqwhi2cFfx7nI2Yy3PKq0240r3XzbnbxEv5SGK2p1E6qkyVyZCRJLZPKo4qMyYetDk324Rz5BHBN8HRTcoXXcRTqZQX1KBLuEzCdu5la/ZlMemwM5o0m4QNZW2Alx;vfe1lqFog3J+FZZJhDC4SQ=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/16/amazon-details-the-ai-behind-alexas-w
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/amazon-details-the-ai-behind-alexas-whisper-mode/amp/
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,21 +27,6 @@ images:
     width: 1200
     height: 600
     title: "Amazon details the AI behind Alexa’s Whisper Mode"
-
-related:
-  - title: "VA’s Artificial Intelligence Director Details AI Institute’s Early Efforts"
-    excerpt: "Treasury Wants Better Information on Financial Entities’ Cybersecurity Practices CISA Says Agencies Have 10 Days to Patch NSA-Spotted Microsoft Vulnerability What Do You Think About Artificial Intelligence? The Pentagon’s AI Center Wants to Know. The Veterans Affairs Department’s nascent National Artificial Intelligence Institute is ..."
-    publishedDateTime: 2020-01-22T21:50:00Z
-    sourceUrl: https://www.nextgov.com/emerging-tech/2020/01/vas-artificial-intelligence-director-details-ai-institutes-early-efforts/162585/
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 50
-    images:
-      - url: https://cdn.nextgov.com/media/img/upload/2020/01/22/NGmedicine20200122/open-graph.jpg
-        width: 400
-        height: 400
 
 secured: "Bl7GRdJ2C5Ac1cls74zMNaG/5t6f7PxGL/87YIh4mGg0QzZRbXypoTGrhimQxpTR6bgZ5MYXTIbU1fqJzcQngbDdEiTsp4oa9AuiJSC8DlH9x4ESZoBYOYErFi/uGEdsrDZHfNt1ctEXUb2ZxlAR7BKd9VFeHuyKx7h7xShQn6NUNVlyTJxhzWGJARhQKLoRdeXX+zRjOa14qE0aiWHA2i6fx7Vdt6VC2v3vAQ8UxQPlJKywdWYhqInz7/ZLS+1C6daboKMFDXXNQNxm4OJnXE56zfmG1W8CJpJDjxcr39U=;VSIcGzm/hQI2A3J0XUdm1A=="
 ---

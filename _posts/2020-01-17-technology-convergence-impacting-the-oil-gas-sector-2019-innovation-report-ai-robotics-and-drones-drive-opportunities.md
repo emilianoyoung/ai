@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-17T20:33:00Z
 sourceUrl: https://www.oilandgas360.com/technology-convergence-impacting-the-oil-gas-sector-2019-innovation-report-ai-robotics-and-drones-drive-opportunities/
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -24,21 +24,19 @@ images:
     title: "Technology Convergence Impacting the Oil & Gas Sector, 2019 Innovation Report - AI, Robotics, and Drones Drive Opportunities"
 
 related:
-  - title: "7 new ways golf instruction is embracing artificial intelligence and innovative technology"
-    excerpt: "ORLANDO -- Though golf has a tendency to move slower than most industries, the technology innovations we've seen this week beg to differ. Artificial intelligence and robotics have been terms perhaps thrown around in the past, implemented by only the biggest companies, but now we're actually seeing the results of intense research and development."
-    publishedDateTime: 2020-01-24T01:02:00Z
-    sourceUrl: https://www.golfdigest.com/story/7-new-ways-golf-instruction-is-embracing-artificial-intelligence-and-innovative-technology
-    ampUrl: https://www.golfdigest.com/story/7-new-ways-golf-instruction-is-embracing-artificial-intelligence-and-innovative-technology/amp
-    cdnAmpUrl: https://www-golfdigest-com.cdn.ampproject.org/c/s/www.golfdigest.com/story/7-new-ways-golf-instruction-is-embracing-artificial-intelligence-and-innovative-technology/amp
+  - title: "Global Smart Robots Market 2020-2024| Evolving Opportunities with ABB Ltd. and Amazon.com Inc.| Technavio"
+    excerpt: "As a result, companies are increasingly adopting smart robots, such as collaborative robots and professional robots, which are equipped with advanced technologies, such as artificial intelligence (AI), machine learning (ML), and analytics. Collaboative robots can perform tasks such as order pick and place, packaging and palletizing, machine ..."
+    publishedDateTime: 2020-01-18T01:22:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-global-smart-robots-market-2020-2024-evolving-opportunities-/2020/01/17/9083484.htm
     type: article
     provider:
-      name: Golf Digest
-      domain: golfdigest.com
-    quality: 49
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 22
     images:
-      - url: https://media.golfdigest.com/photos/5e2a231ec1210f000ae31815/master/pass/TrackMan%20Tracy.JPG
-        width: 6048
-        height: 4024
+      - url: https://mms.businesswire.com/media/20200117005289/en/768160/4/Global_Smart_Robots_Market_2020-2024.jpg
+        width: 480
+        height: 270
 
 secured: "VCR3KdctC1brmlVM74BXmn7mHm5c/p5d8TbdLvnPC0pE2fyr2jS/XcCPzx62SwJz2FT+hgY6ZWL/WkJrX/UuRJ5R9Xoh7hDOuM2JPG7hkfdeOLdglzLjyB4CGqbBzr4sKC01+6ccoj6y9XOenG9fXz9skQ9b/Vv3uRUNort8s1ORY6WAMmawHMjUIWylnkFLLCVY2Nx8tfMENmlEAFJTZTr35joTWHKrDpvp09eOZSkBie2MLGiRTvKplWBF8U38pCE9HXl1fSsBuUc9IMvWhlubXERwk8PvZRGRtxoDy3c=;7sHT6ua0TV9UH1sH7EykbQ=="
 ---

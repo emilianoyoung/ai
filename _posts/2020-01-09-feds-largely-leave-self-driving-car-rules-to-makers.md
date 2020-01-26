@@ -8,7 +8,7 @@ ampUrl: https://www.dispatch.com/business/20200109/feds-largely-leave-self-drivi
 cdnAmpUrl: https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/business/20200109/feds-largely-leave-self-driving-car-rules-to-makers?template=ampart
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -26,21 +26,6 @@ images:
     title: "Feds largely leave self-driving-car rules to makers"
 
 related:
-  - title: "The Self-Driving Enterprise And The Road To Automation"
-    excerpt: "The autonomous enterprise won’t happen overnight and needs the right tools and plan to achieve success. Just like autonomous vehicles, we need to be knowledgeable about automation and how it can improve our business processes."
-    publishedDateTime: 2020-01-09T13:09:00Z
-    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/09/the-self-driving-enterprise-and-the-road-to-automation/
-    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/09/the-self-driving-enterprise-and-the-road-to-automation/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/09/the-self-driving-enterprise-and-the-road-to-automation/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: https://thumbor.forbes.com/thumbor/711x461/https://specials-images.forbesimg.com/dam/imageserve/941265460/960x0.jpg?fit=scale
-        width: 711
-        height: 461
   - title: "Congress Needs to Hit the Accelerator on Self-Driving Regulation"
     excerpt: "America’s self-driving future promises a multitude of benefits. Most importantly, autonomous vehicles are the key to safer roadways by reducing traffic-related injuries and deaths. Human error causes up to 93 percent of traffic accidents. Autonomous vehicles, on the other hand, won’t drive while distracted, tired, texting, or inebriated ..."
     publishedDateTime: 2020-01-13T21:01:00Z

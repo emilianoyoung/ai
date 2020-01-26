@@ -8,7 +8,7 @@ ampUrl: https://www.techradar.com/amp/news/blackberry-and-aws-team-up-to-make-sm
 cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/blackberry-and-aws-team-up-to-make-smart-vehicles-even-smarter
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -45,6 +45,21 @@ related:
       - url: https://tr4.cbsistatic.com/hub/i/r/2020/01/06/d81bdd9c-466b-4013-8c76-a311e4f76e23/thumbnail/1200x675/9bb56c6a9dff43731ee7c67b12bb93cf/ces-2020.jpg
         width: 1200
         height: 675
+  - title: "How HPC, AI, and IoT Drive the Future of Smarter Vehicles"
+    excerpt: "These can take the training data for AI models that are deployed on devices inside smart ... will require high bandwidth to keep the high performance GPU and CPU cores fed. In addition to being at the front end of autonomous driving and smart cities ..."
+    publishedDateTime: 2020-01-07T20:44:00Z
+    sourceUrl: https://www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/
+    ampUrl: https://www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/amp/
+    cdnAmpUrl: https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/amp/
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/ab_traffic_smart.jpg
+        width: 1300
+        height: 500
   - title: "BlackBerry teams up with AWS for new connected vehicle software platform"
     excerpt: "The AWS-powered BlackBerry platform combines the two companies’ edge and cloud ... speed product development and ultimately to provide owners with leading cyber-security resources and predictive maintenance information via the latest artificial intelligence applications. “The result is enhanced VVIP treatment for our discerning luxury ..."
     publishedDateTime: 2020-01-07T09:29:00Z

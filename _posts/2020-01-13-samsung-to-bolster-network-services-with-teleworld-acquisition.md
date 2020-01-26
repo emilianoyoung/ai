@@ -24,17 +24,19 @@ images:
     title: "Samsung to bolster network services with TeleWorld acquisition"
 
 related:
-  - title: "KT, Samsung Medical Center to build 5G Smart Hospital marking world’s first application of 5G in medical practice"
-    excerpt: "These services include digital diagnostic pathology, access to proton therapy information, teaching surgery, artificial intelligence-enabled care for in-patients, and an autonomous robot for an operating room. Access to Digital Data and Video Footage The 5G-powered digital pathological analysis conducted by SMC is a world-first example of ..."
-    publishedDateTime: 2020-01-20T10:38:00Z
-    sourceUrl: https://www.voicendata.com/kt-samsung-medical-center-build-5g-smart-hospital-marking-worlds-first-application-5g-medical-practice/
-    ampUrl: https://www.voicendata.com/kt-samsung-medical-center-build-5g-smart-hospital-marking-worlds-first-application-5g-medical-practice/amp/
-    cdnAmpUrl: https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/kt-samsung-medical-center-build-5g-smart-hospital-marking-worlds-first-application-5g-medical-practice/amp/
+  - title: "Socionext collaborates with Foxconn, Network Optix to deliver edge-AI solutions for retail, manufacturing"
+    excerpt: "It also supports the mainstream Caffe and TensorFlow AI development frameworks, so no additional learning time is required, Socionext said. In order to support additional computational off-loading of real-time applications, Foxconn will be pre-installing the Network Optix's Witness VMS to the BOXiedge server for optimization. Additionally ..."
+    publishedDateTime: 2020-01-09T01:50:00Z
+    sourceUrl: https://www.digitimes.com/news/a20200109PD201.html
     type: article
     provider:
-      name: Voicendata.com
-      domain: voicendata.com
-    quality: 3
+      name: Digi Times
+      domain: digitimes.com
+    quality: 22
+    images:
+      - url: https://www.digitimes.com/newsshow/20200109PD201_files/2_r.jpg
+        width: 336
+        height: 224
 
 secured: "/b2D/nYniqRPFt3TgKXIbIEMG5QzkRur9zpmM8DUl3DDgGrQvGfvKXwUEY+atI2aetBNRsEvLi6M5dyZ/jFPZnXzFX+v7/v5IxHYd3HWGqZeZ1iksKYXG/Gs1HoK75tY/uAb1wl5mloqlt5swIFMOxrBqaKfpH28CrVJFVaxGm55mcq0R9xSQD3c6gsNh57PGb2L2VMS+85M/ACjEI51wrkGz1HvFyMwUcjEPFiY1ySOJej7wiXVeyDHVVOU0Q3oUbXriQewSRBiLJDQ7Cj9CHSWBDdQ8brGDHSu1eQ3hYpvrK6Qk0Xdfcp78BdF0/OIXamUeSk+dEcXQUWL6VqwVGfKzJvqOaajHRrP5/+fySMm2QTa8LGCIFfP7Xb6MyCs3ozxXK3w3qMUGy83vGDMHEu9hxZlCuKKeSzxq0rGnBtIph8wNZNp3oYT2ilOKwAL0QdADj8AC60x7mvhxXKJvw==;HB/Ofsfsd74wUU5EYfoB3w=="
 ---

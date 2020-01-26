@@ -24,19 +24,19 @@ images:
     title: "OrCam Updates Computer Vision Tech, Announces New Products at CES 2020"
 
 related:
-  - title: "Translation gadgets go mainstream at CES 2020"
-    excerpt: "Luckily, several pocket-sized gadgets in several different form factors were introduced at CES 2020 to solve this problem, translating various languages into a person’s native tongue. One of these gadgets, the Lingolet One, was a CES Innovation Awards Honoree for its artificial intelligence (AI)-based translation capabilities that includes ..."
-    publishedDateTime: 2020-01-10T15:17:00Z
-    sourceUrl: https://electronics360.globalspec.com/article/14537/translation-gadgets-go-mainstream-at-ces-2020
+  - title: "Sogou Showcases World-Class AI-Powered Products and Services at CES 2020"
+    excerpt: "/PRNewswire/ -- Sogou Inc. (NYSE: SOGO) (\"Sogou\" or \"the Company\"), an innovator in search and a leader in China's internet industry, brings its"
+    publishedDateTime: 2020-01-08T05:04:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/sogou-showcases-world-class-ai-powered-products-and-services-at-ces-2020-300985487.html
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 38
     images:
-      - url: https://electronics360.globalspec.com/images/assets/537/14537/lingolet-15.jpg
-        width: 752
-        height: 421
+      - url: https://mma.prnewswire.com/media/1075574/AI_Vocational.jpg?p=facebook
+        width: 5128
+        height: 2684
 
 secured: "PH2r1gnV8EMkX6UEr0o75moz9cXfNqfLQW2IQRHtGOBvufB7yycNpnJRjk7aR5DDW23j0FJNRoeqka53NT58oFuf71wN9vhR3Qg2J2EtlAIymiELv+78oKJ88gLRPs/MYs0Y/UvO17lbi39g8lPvRa1uMSt5MvSCezqKqrqXdo50PHnPXH8wyo0P0jeuxyA5e6ITSi8lKrKV/9NC2CEXICCXMR6i78GWCJJUPY0OXxvVMkP0g3hmxdLvIQp9inZ81GKoF4QSOoco35bn6x8TPhmYb8/6NX+dTNjv0M7upIY=;gzYMqDS79rGY1qm94GLGxw=="
 ---

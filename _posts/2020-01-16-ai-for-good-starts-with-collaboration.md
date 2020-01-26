@@ -42,19 +42,19 @@ related:
       - url: https://www.digitimes.com/newsshow/20200121PD212_files/2_r.jpg
         width: 336
         height: 224
-  - title: "Europe considering tough new rules for artificial intelligence"
-    excerpt: "Bloomberg—The European Union is considering new legally binding requirements for developers of artificial intelligence in an effort to ensure modern technology is developed and used in an ethical way. The EU’s executive arm is set to propose the new rules apply to “high-risk sectors,” such as healthcare and transportation, and suggest ..."
-    publishedDateTime: 2020-01-16T20:38:00Z
-    sourceUrl: https://www.healthdatamanagement.com/articles/europe-considering-tough-new-rules-for-artificial-intelligence
+  - title: "PROTXX Launches Collaboration with Alberta Healthcare and Machine Learning Innovation Ecosystems"
+    excerpt: "/PRNewswire/ -- Silicon Valley-based digital healthcare technology pioneer PROTXX, Inc. today announced a broad collaboration with Alberta-based"
+    publishedDateTime: 2020-01-14T12:00:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/protxx-launches-collaboration-with-alberta-healthcare-and-machine-learning-innovation-ecosystems-300985235.html
     type: article
     provider:
-      name: Health Data Management
-      domain: healthdatamanagement.com
-    quality: 39
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
     images:
-      - url: https://sourcemedia.brightspotcdn.com/dims4/default/ea40303/2147483647/strip/true/crop/1600x840+0+30/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2Fc3%2F68%2Fa7382d1144bb873148b05dd34d27%2Fhealth-data-management-social-share-image.png
-        width: 1200
-        height: 630
+      - url: https://mma.prnewswire.com/media/1065213/PROTXX_innovations.jpg?p=facebook
+        width: 1000
+        height: 524
 
 secured: "c040dHZzCQDoJBXSzAISkD7vnzewVbV+NQg2NkfjWsyEE4YLvBX/eKCpyru82Zla+Bw1qJjzLl8279ZhDnkfyAZwC7uxNxIbklyTogEgiqtNCCDiELvo0DK6MYdtJOwJkGk9fzyjLRlC2Xy7KWtqsgGjRbWYjnuu81xmEyvQajKkCzGkMdTj483xdKfjL/sQqLNdaHau6WzW1zDDcq4qChKIfhtktLu1s2l9wnXe9O6JG434ndiveM1YLtWeMdiavQ0qYimI2ZVHBYiRcOPn8HYhB8AhUMsqp4wRzqQ5QqsBv6ubIo7VL87qD1yz/JYI6Fb9YYGB40pmdCKve29XJjmKBv2JA1yFIQ0V1+JXdKDkJ6NixJP8XcOgFnX1QLd8S2VAO5Tp05ILKme3axBLqXlQYTcJuAnKKe8eR6t89Tvf4zM4NK/xpEUSbwDCNNVt9ZI1lzoZdkYRv5vVN9312Q==;ll0pgvD8VBdYN/5uJBY2qQ=="
 ---

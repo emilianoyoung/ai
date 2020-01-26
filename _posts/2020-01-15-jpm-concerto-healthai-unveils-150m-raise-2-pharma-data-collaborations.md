@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-15T23:50:00Z
 sourceUrl: https://www.fiercebiotech.com/medtech/jpm-concerto-healthai-unveils-150m-raise-two-pharma-data-collaborations
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -24,21 +24,6 @@ images:
     title: "JPM: Concerto HealthAI unveils $150M raise, 2 pharma data collaborations"
 
 related:
-  - title: "Healthcare AI firm hiring, considering M&A after $150M raise"
-    excerpt: "A healthcare AI company founded by a billionaire investor plans to substantially grow its team and potentially make some acquisitions after raising $150 million."
-    publishedDateTime: 2020-01-16T11:41:00Z
-    sourceUrl: https://www.bizjournals.com/boston/news/2020/01/16/healthcare-ai-firm-hiring-considering-m-a-after.html
-    ampUrl: https://www.bizjournals.com/boston/news/2020/01/16/healthcare-ai-firm-hiring-considering-m-a-after.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2020/01/16/healthcare-ai-firm-hiring-considering-m-a-after.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 74
-    images:
-      - url: https://media.bizj.us/view/img/11580528/jeffelton-photo-2018*600xx2832-1892-0-905.jpg
-        width: 600
-        height: 400
   - title: "JPM: Concerto HealthAI unveils $150M raise, t2 pharma data collaborations"
     excerpt: "That includes an expansion of its precision oncology collaboration with Pfizer to renal cell carcinoma and prostate cancer as well as a new, multi-disease artificial intelligence project ... expansions into additional therapy areas and commercial patient ..."
     publishedDateTime: 2020-01-15T23:50:00Z

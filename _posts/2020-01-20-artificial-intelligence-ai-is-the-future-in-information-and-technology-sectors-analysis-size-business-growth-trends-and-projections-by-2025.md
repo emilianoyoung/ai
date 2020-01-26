@@ -19,19 +19,62 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Latest News| Artificial Intelligence (AI) in Healthcare Market Growth Analysis|Professional Survey 2020 by Global Demand"
-    excerpt: "The development of ARTIFICIAL INTELLIGENCE technology is helping the healthcare ecosystem to growing ARTIFICIAL INTELLIGENCE in Healthcare Industry.  It has been witnessing a lot of transformations and growth with new technological breakthroughs in various applications,"
-    publishedDateTime: 2020-01-24T07:44:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/latest-news-artificial-intelligence-ai-in-healthcare-market-growth-analysisprofessional-survey-2020-by-global-demand-2020-01-24
+  - title: "Deep Learning Market Report 2020 Competitors and Their Respective Market Share, R&D Status and Future Projections 2026"
+    excerpt: "Global Deep Learning Market Report offers industry news by region, technological developments, value chain status, and market scope 2026. “Deep Learning Market” report 2020 presents the analysis of the business by market size,"
+    publishedDateTime: 2020-01-17T10:12:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-market-report-2020-competitors-and-their-respective-market-share-rd-status-and-future-projections-2026-2020-01-17
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 74
+    quality: 45
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence as a Service Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
+    excerpt: "New York, January 14, 2020: The global Artificial Intelligence as a Service market is segregated on the basis of Services as Cognitive Computing APIs, Custom Cognitive Computing APIs, and Conversational AI."
+    publishedDateTime: 2020-01-14T05:49:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-01-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Mobile AI Market 2020 Classification, Application, Industry Chain Overview, SWOT Analysis and Competitive Landscape To 2023"
+    excerpt: "“”Mobile AI Market”” Mobile AI Market Research Report 2020: Industry Size, Share, Trends, Growth, Sales, Revenue, Risk and Opportunity Assessment"
+    publishedDateTime: 2020-01-23T09:25:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15169842/mobile-ai-market-2020-classification-application-industry-chain-overview-swot-analysis-and-compet
+    ampUrl: https://amp.benzinga.com/amp/content/15169842
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15169842
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
+    images:
+      - url: https://www.abnewswire.com/uploads/1579774680.jpeg
+        width: 800
+        height: 527
+  - title: "Collaborative Robot Market 2019-2023: Key Findings, Regional Analysis, Business Trends, Emerging Technologies and Future Prospects"
+    excerpt: "“Collaborative Robot Market” global collaborative robots market is expected to generate a market value of USD 3538.46 million by 2023 growing at a 54.22%"
+    publishedDateTime: 2020-01-21T10:25:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15152359/collaborative-robot-market-2019-2023-key-findings-regional-analysis-business-trends-emerging-tech
+    ampUrl: https://amp.benzinga.com/amp/content/15152359
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15152359
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 29
+    images:
+      - url: https://www.abnewswire.com/uploads/1579605621.jpeg
+        width: 800
+        height: 435
 
 secured: "Gt2rwe9u8MXMh59u8DuFrGA+G0hdwaV8yG5zqbvCczdTiN2L9ZOFb6REzs/cT1p/hUGVWjIyBUPvDy0y75sSFOmy4KZX1fZUSAyjuVSGhNkV9Ea8F9EU/k0vWwkHwzkK5/V+BDPfehOSSjvEWtaQtCPSqQ2/EnaR8kzPGDP1ve0hSLBFPEIWHXZ+lXv2WBNbI7u8QUAgprCgUAMMkvUDKw2RGSMA0n3UHguGAIAA8d8cKrZXeHG1uK48E6MxCUpyHCO67+W5MZlDzNdsHc5skNTlCxIcR2XHhnxaqBR+Mpo=;MlBVDDQDF2wO4vLeoA4ZJg=="
 ---

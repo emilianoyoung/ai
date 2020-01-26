@@ -25,19 +25,19 @@ images:
     title: "How is AI benefiting industries throughout Southeast Asia?"
 
 related:
-  - title: "How Does AI Contribute to the Efficiency of the Utility Industry?"
-    excerpt: "AI also maps the ideal layout for new energy farms and storage spaces as the enterprise scales. Hence, utility companies should start deploying AI as soon as possible. It will not only empower the companies to reduce costs but also expand access to renewable power and preserve the natural environment."
-    publishedDateTime: 2020-01-25T03:33:00Z
-    sourceUrl: https://www.cioreview.com/news/how-does-ai-contribute-to-the-efficiency-of-the-utility-industry-nid-31102-cid-41.html
+  - title: "Thought Leader Adam Lutostanski: Is There Too Much Artificial Intelligence In The Banking Industry?"
+    excerpt: "In his debut Thought Leader conversation, he introduces himself and gives some background information. Adam and Steve Grzanich discuss artificial intelligence’s role in the banking industry and what Associated Bank does to set itself apart from others. They also touch on digital currencies being used around the world. Adam and Steve wrap ..."
+    publishedDateTime: 2020-01-23T12:51:00Z
+    sourceUrl: https://wgnradio.com/2020/01/23/thought-leader-adam-lutostanski-is-there-too-much-artificial-intelligence-in-the-banking-industry/
     type: article
     provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 37
+      name: WGN Radio
+      domain: wgnradio.com
+    quality: 23
     images:
-      - url: https://www.cioreview.com/news_new/companyimages/10xwg.zzfij.Avertraguys.jpg
-        width: 430
-        height: 300
+      - url: https://tribwgnam.files.wordpress.com/2020/01/portrait-picture-2020.jpg?quality=85&strip=all&w=960
+        width: 960
+        height: 1200
 
 secured: "Qf1OLJt281S00zR/rjKnpGro1Zndd+rlGKMBQxjKXOZhJZ4KsK0lLcrMzHhDXvoY3HH40YG+dgumZXCCa1ysRko62TmnbNpWUKAVHDHriQ5ppI0mqgOCbqVZ2c7tFuXR9v+drexvNLuMXz5LO6LepADTTaVLbzDBS8rRqYOxRTEUEnP0Q/bzRSXeJCm1NkF0mWPmO5651yiaadOyOGP33MX2nFSQKMC9dk8hF8wgfOIsQ5ZurlSUbuWiWxmgKYohmZzjBDDTGYggtZDHLWNhVH6//u1M7sLHg92h1VtlEKQ9iiSvkenyQo5XFj2hhDwm3duL1eYgGz/arPdAzWnZF9ra57L1YwO1alJPOrssD91nh0V2n3v65TS66EwwSgdtlg5KoA4xz1bEYEjq9w0BB1DssLWGvgcIcgawE/Q+YEyvwwJQGM0RSPuvyxjN0Cib+tH8L+HtZ9GuGlbzn88gdA==;eG0ctWeCQyf2ULiiOASOPA=="
 ---

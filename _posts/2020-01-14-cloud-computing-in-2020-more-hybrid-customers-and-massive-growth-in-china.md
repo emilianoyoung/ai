@@ -8,8 +8,8 @@ ampUrl: https://www.techrepublic.com/google-amp/article/cloud-computing-in-2020-
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cloud-computing-in-2020-more-hybrid-customers-and-massive-growth-in-china/
 type: article
 quality: 72
-heat: 82
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechRepublic
@@ -30,19 +30,45 @@ images:
     title: "Cloud computing in 2020: More hybrid customers and massive growth in China"
 
 related:
-  - title: "Deep Learning Market 2020: Global Industry Trends, Sales Revenue, Industry Growth by 2025 – MRE Analysis"
-    excerpt: "New York, January 21, 2020: Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks. The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period."
-    publishedDateTime: 2020-01-21T06:30:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-market-2020-global-industry-trends-sales-revenue-industry-growth-by-2025-mre-analysis-2020-01-21
+  - title: "LinkedIn: Blockchain beats AI and cloud computing for hottest skill in 2020"
+    excerpt: "“Which means that you don’t have to be in financial services to be seeking new hires who have background and expertise in putting blockchain to use.” The Microsoft-owned company then urged recruiters ... How one behaves, how they think, and their cognitive skills are all examples of soft skills. While soft skills are difficult to measure ..."
+    publishedDateTime: 2020-01-13T12:45:00Z
+    sourceUrl: https://thenextweb.com/hardfork/2020/01/13/blockchain-linkedin-solidity-ethereum-cryptocurrency-jobs-recruitment/
+    ampUrl: https://thenextweb.com/hardfork/2020/01/13/blockchain-linkedin-solidity-ethereum-cryptocurrency-jobs-recruitment/amp/
+    cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/hardfork/2020/01/13/blockchain-linkedin-solidity-ethereum-cryptocurrency-jobs-recruitment/amp/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/05/cryptocurrency-blockchain-development-programming-ethereum-solidity-javascript-java-796x450.jpg
+        width: 796
+        height: 450
+  - title: "Blockchain, AI and Analytic Reasoning are the most in-demand hard skills for 2020"
+    excerpt: "Computer skills including Blockchain and AI top the list of the most in-demand skills in Australian companies for 2020. LinkedIn has revealed the top 10 most in-demand hard skills by Australian companies in 2020 as well as the five in-demand soft skills. There are over 50,000 professional skills in the world, according to LinkedIn, and the ..."
+    publishedDateTime: 2020-01-20T09:12:00Z
+    sourceUrl: https://www.news.com.au/finance/work/careers/blockchain-ai-and-analytic-reasoning-are-the-most-indemand-hard-skills-for-2020/news-story/c976357fe4b3addccc47fd1a81b0383c
+    ampUrl: https://amp.news.com.au/finance/work/careers/blockchain-ai-and-analytic-reasoning-are-the-most-indemand-hard-skills-for-2020/news-story/c976357fe4b3addccc47fd1a81b0383c
+    cdnAmpUrl: https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/finance/work/careers/blockchain-ai-and-analytic-reasoning-are-the-most-indemand-hard-skills-for-2020/news-story/c976357fe4b3addccc47fd1a81b0383c
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 32
+  - title: "The Most In-Demand Hard and Soft Skills of 2020"
+    excerpt: "Soft skills are more about behavior and thinking, personal traits and cognitive skills. They’re typically more difficult to measure ... Which means that you don’t have to be in financial services to be seeking new hires who have background and expertise in putting blockchain to use. So, recruiters should start becoming familiar with ..."
+    publishedDateTime: 2020-01-12T18:44:00Z
+    sourceUrl: https://business.linkedin.com/talent-solutions/blog/trends-and-research/2020/most-in-demand-hard-and-soft-skills
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: https://business.linkedin.com/content/dam/business/talent-solutions/global/en_us/blog/2020/01/in-demand-soft-and-hard-skills.jpg
+        width: 1620
+        height: 1000
 
 secured: "GuLFW3XjjyZYYTP1qSwuWXvn8gK6BWTqHQg1CD2fJxAc64tog4sBDYcptZh/1OkvDLfwyAGudkVyZ5D1EYeTnDYgh09Zsg4K65zCqWBKB5ANDyJjeNz8LXMLvKCP7hNmMLMHnCK89kUwN+jQJI+CJI4PHWW9q8tj+08jUg6nQ0K0qP1t4L3GgKTTTZa/LerP7lWYHevbpHii8+H+cVXX80NMV0yreVMvJaRHnvxAzxCJwjvmzDdpnEmHOTRD0YO/9o0Xy4Y3yDLOvu1dCPDQ4Z+dwzVmFHVhWv0VEcsCJ7nCbDgAIfIZtCrF1QzG9GuaqP3XbEtGJWZvgsV91+WypfS/pNEPKCnqx/yc9gyy00AN0NyrdGpexOZ8lLXm9rAi2imeWd5soH7vmcAP6BPFuihLEwK3QMgAn76elG7oIguwBtXD5xWFZIArrFmBmK5d6sTA9S7EFWgTTIA4WKmOzw==;x8pn6ouGgk2KpF4+hCgQWw=="
 ---

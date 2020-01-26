@@ -28,80 +28,50 @@ images:
     title: "Global Automotive Speech Recognition System Market 2019 to Witness Excellent Long-Term Growth Outlook"
 
 related:
-  - title: "Artificial Intelligence and Machine Learning Market Evolving Technology and Growth Outlook 2020 to 2024"
-    excerpt: "Artificial Intelligence and Machine Learning Report by Material, Application, and Geography - Global Forecast to 2024 is a professional and in-depth research report on the world's major regional market conditions,"
-    publishedDateTime: 2020-01-24T07:19:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-evolving-technology-and-growth-outlook-2020-to-2024-2020-01-24
+  - title: "AI In Medical Imaging Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025"
+    excerpt: "The AI In Medical Imaging Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"AI In Medical Imaging Market\"."
+    publishedDateTime: 2020-01-17T17:18:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-enhancement-latest-trends-growth-and-opportunity-during-2019-to-2025-2020-01-17
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
+    quality: 55
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Machine Learning Market Rising Trends and Technology Advancements 2020 to 2026"
-    excerpt: "The Global Machine Learning Market is carefully researched in the report while largely concentrating on top players and their business tactics, geographical expansion, market segments, competitive landscape,"
-    publishedDateTime: 2020-01-17T08:54:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-market-rising-trends-and-technology-advancements-2020-to-2026-2020-01-17
+  - title: "AI chipset market predicted to grow a 30.8% CAGR through 2025"
+    excerpt: "The factors such as the emergence of quantum computing and rising in implementation of AI chips in the robotics industry have shown a positive impact on the growth of the artificial intelligence chipsets market over the forecast period. Research and Markets says the global artificial intelligence chipset market is segmented on the basis of ..."
+    publishedDateTime: 2020-01-17T10:49:00Z
+    sourceUrl: https://www.mactech.com/2020/01/17/ai-chipset-market-predicted-to-grow-a-30-8-cagr-through-2025/
+    type: article
+    provider:
+      name: MacTech
+      domain: mactech.com
+    quality: 54
+    images:
+      - url: https://www.mactech.com/wp-content/uploads/2020/01/AI.png
+        width: 1000
+        height: 500
+  - title: "Artificial Intelligence in Manufacturing Market : Key Facts and Forecast Predictions Presented Until 2025"
+    excerpt: "Artificial Intelligence in Manufacturing Market: Global Drivers, Restraints, Opportunities, Trends, and Forecasts up to 2023 Overview: The manufacturing industry has seen dramatic changes in past decade and continues to undergo radical process changes in the delivery of its products."
+    publishedDateTime: 2020-01-16T12:36:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-key-facts-and-forecast-predictions-presented-until-2025-2020-01-16
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 65
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Platform Market Technology Advancements and Future Scope 2020 to 2026"
-    excerpt: "The Artificial Intelligence Platform Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2020-2026. The Artificial Intelligence Platform Market report is a valuable source of insightful data for business strategists."
-    publishedDateTime: 2020-01-23T07:24:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-technology-advancements-and-future-scope-2020-to-2026-2020-01-23
+    quality: 30
+  - title: "Natural Language Processing Market : Dynamics, Segments, Size and Demand Analysis during 2019 - 2026"
+    excerpt: "Global Natural Language Processing Market valued approximately USD xxx million in 2018 is anticipated to grow with a healthy growth rate of more than xxx% over the forecast period 2019-2026. The Natural Language Processing market is developing and expanding at a significant pace considering the global scenario. The Natural Language processing ..."
+    publishedDateTime: 2020-01-20T07:54:00Z
+    sourceUrl: https://www.openpr.com/news/1900560/natural-language-processing-market-dynamics-segments-size
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence In Medical Imaging Market 2019 Disclosing Latest Trends and Advancement Outlook 2025"
-    excerpt: "The Artificial Intelligence In Medical Imaging Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"Artificial Intelligence In Medical Imaging Market\"."
-    publishedDateTime: 2020-01-20T20:22:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-2019-disclosing-latest-trends-and-advancement-outlook-2025-2020-01-20
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Global Smart Robots Market 2020-2024| Evolving Opportunities with ABB Ltd. and Amazon.com Inc.| Technavio"
-    excerpt: "As a result, companies are increasingly adopting smart robots, such as collaborative robots and professional robots, which are equipped with advanced technologies, such as artificial intelligence (AI), machine learning (ML), and analytics. Collaboative robots can perform tasks such as order pick and place, packaging and palletizing, machine ..."
-    publishedDateTime: 2020-01-18T01:22:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-global-smart-robots-market-2020-2024-evolving-opportunities-/2020/01/17/9083484.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 22
-    images:
-      - url: https://mms.businesswire.com/media/20200117005289/en/768160/4/Global_Smart_Robots_Market_2020-2024.jpg
-        width: 480
-        height: 270
-  - title: "World IoT Chip Markets to 2029: Increasing Demand for IoT Chips in Smart Manufacturing Applications Augments Robust Industry Growth"
-    excerpt: "/PRNewswire/ -- The \"Global IoT Chip Market: Focus on Type, End-use Industry and Region - Analysis and Forecast, 2019-2029\" report has been added"
-    publishedDateTime: 2020-01-24T15:45:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/world-iot-chip-markets-to-2029-increasing-demand-for-iot-chips-in-smart-manufacturing-applications-augments-robust-industry-growth-300992810.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
 secured: "G/65tHHUlbQem+DCmk3Chi8WPU+tk4pSCLyk29zaRpoiG+3fD6JU3O4qILsNztgKAP6UAUzwxBSueNTpSAqurZFNv2jyQxhguU1h/ffYi7YuSNMBhoPOWbXodlmo/90hn9Md5XXrMTHvyKJOWpOPh6zugyk9HnCqEexU4WXh8yplZpsTJTRLT2hbtYIkXhMBFw523iLEyvoL5swe0UmFPAB9pEW5fIE+RE5B1sUmM3tyrjL47yzRk2cBb8DUzNmWHmkm1Bxk3p/IJK+8KUXcBh3yeQV7uqTW4t0euX1BuzQ=;LDkyHkumeFeSy1deQ1MIkQ=="
 ---

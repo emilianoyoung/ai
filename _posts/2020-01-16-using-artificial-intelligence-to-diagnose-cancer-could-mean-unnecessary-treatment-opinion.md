@@ -49,17 +49,6 @@ related:
       - url: https://www.twincities.com/wp-content/themes/twincities/static/images/twincities.jpg
         width: 1280
         height: 720
-  - title: "Commentary: Online dating has enough problems without adding fake AI-generated people"
-    excerpt: "The dating sites hope this will enable them to project more diversity, while the AI startups are counting on dating sites to help normalize their disconcerting technology. Having AI-generated people lure us to dating sites might sound like one further slide into sci-fi dystopia. But it’s not that different from what’s already going on."
-    publishedDateTime: 2020-01-20T14:03:00Z
-    sourceUrl: https://www.seattletimes.com/business/technology/fake-ai-people-wont-fix-online-dating/
-    ampUrl: https://www.seattletimes.com/business/technology/fake-ai-people-wont-fix-online-dating/?amp=1
-    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/fake-ai-people-wont-fix-online-dating/?amp=1
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 30
 
 secured: "BHO5MhwehMNsYbEhAiPS+4nbOYONrgh26aQC2Dp+YAAxa5FGPfmRSZ+bT0wgu73kWQogIODhpzxXr1iV7NkUkTM/M4q/pSmOpPm7olCpzov6zSkTZJFspR5rDWhiwsfun/l7GfP9Do45Pe+EIEiSgA1YhC8ovOaGdgrYY8Hn7rBOLE4AjIHJkVYy2/TKlx3qE5kKwMuJ/+laxfU+BVkBn8dezvd6dl4EaXXicf6N+t/VjUuw6Ox+8DbPpx+L6iuuB6PNNa1e5E0C2ZMWKrmH9qYm8POClKZp3hPXiuwnQQ0OvgDtFB8ASWU6Orsc+gOqz9C95X1amhFvLY2jST/3d4iwcqycYI3toBvKvX2rPn/YTeWHSWYd8q9SGIWlNiGioDskM6h4N/qGBpPG9QSUAt+GeDuSXvi94d2PdU/aBE8In9/uMlTsueuqToag+hG1VgfCNNXYFKlNScuHFNlBaQ==;BtI8bpTQwunx/VcPqlJ25w=="
 ---

@@ -8,8 +8,8 @@ ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is
 cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/amp/
 type: article
 quality: 88
-heat: 138
-published: true
+heat: -1
+published: false
 
 provider:
   name: TheHealthSite
@@ -26,67 +26,84 @@ images:
     title: "Artificial Intelligence or AI: Here is how it is transforming healthcare"
 
 related:
-  - title: "GBT Technologies Transforming the Future Healthcare AI Market"
-    excerpt: "NEW YORK, NY, Jan. 16, 2020 (GLOBE NEWSWIRE) -- GBT Technologies, Inc. (OTC:GTCH) (GBT) is among a handful of companies that are developing Artificial Intelligence (AI) and Internet of Things (IoT) solutions that are expected to transform the future of the healthcare industry. Both segments of the industry, AI and IoT, are growing ..."
-    publishedDateTime: 2020-01-16T15:00:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/g15134360/gbt-technologies-transforming-the-future-healthcare-ai-market
-    ampUrl: https://amp.benzinga.com/amp/content/15134360
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15134360
+  - title: "How AI Is Revolutionizing Health Care"
+    excerpt: "Being a relatively new technology in health care, AI still has a long way to go, but the progress is impressive."
+    publishedDateTime: 2020-01-15T19:45:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/15/how-ai-is-revolutionizing-health-care/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/15/how-ai-is-revolutionizing-health-care/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/15/how-ai-is-revolutionizing-health-care/amp/
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 54
-  - title: "AI Stock News: GBT Technologies (OTCPINK: GTCH) Transforming the Future Healthcare AI Market"
-    excerpt: "NEW YORK, NY - January 16, 2020 (Investorideas.com Newswire) GBT Technologies Inc. (OTCPINK: GTCH) (GBT), is among a handful of companies that are developing Artificial Intelligence (AI) and Internet of Things (IoT) solutions that are expected to transform the future of the healthcare industry. Both segments of the industry, AI and IoT ..."
-    publishedDateTime: 2020-01-16T14:33:00Z
-    sourceUrl: https://www.investorideas.com/CO/GOPH/news/2020/01161Healthcare-AI.asp
-    type: article
-    provider:
-      name: Investor ideas
-      domain: investorideas.com
-    quality: 43
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: https://www.investorideas.com/CO/GOPH/img/GBT-Technologies.jpg
-        width: 649
-        height: 328
-  - title: "Crouse Health using AI software for stroke care"
-    excerpt: "A company called Viz.ai is providing the system. Viz.ai has offices in San Francisco, California and Tel Aviv, Israel. The firm says it focuses on using applied artificial intelligence (AI) software in health care to “reduce time to treatment and improve patient outcomes,” per a Crouse Health news release. When a patient is transported to ..."
-    publishedDateTime: 2020-01-17T17:31:00Z
-    sourceUrl: https://www.cnybj.com/crouse-health-using-ai-software-for-stroke-care/
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F01%2Fa-18-2.jpg
+        width: 640
+        height: 640
+  - title: "NRF 2020: How AI Is Revolutionizing Retail"
+    excerpt: "“I think we’re on the verge of watching indoor location go from something that’s nice to have to a must-have technology for retailers,” he said. Retailers Grapple with the Ethics of AI Even as they’ve been more aggressive in adopting AI than most other industries, retailers are proceeding with some caution as they think through ..."
+    publishedDateTime: 2020-01-14T23:06:00Z
+    sourceUrl: https://biztechmagazine.com/article/2020/01/nrf-2020-how-ai-revolutionizing-retail
+    ampUrl: https://biztechmagazine.com/article/2020/01/nrf-2020-how-ai-revolutionizing-retail?amp
+    cdnAmpUrl: https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/01/nrf-2020-how-ai-revolutionizing-retail?amp
     type: article
     provider:
-      name: Business Journal News Network
-      domain: cnybj.com
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 59
+    images:
+      - url: https://biztechmagazine.com/sites/biztechmagazine.com/files/2020-01/CDW_modernworkforce_IR_mobile.jpg
+        width: 300
+        height: 250
+  - title: "Blog: How artificial intelligence is altering the landscape of liability for the healthcare industry"
+    excerpt: "The Post events team works alongside the brand's editorial staff and industry advisors to produce content around key issues affecting the insurance industry. Don't miss out - follow our events."
+    publishedDateTime: 2020-01-17T06:11:00Z
+    sourceUrl: https://www.postonline.co.uk/technology/4569101/blog-how-artificial-intelligence-is-altering-the-landscape-of-liability-for-the-healthcare-industry
+    type: article
+    provider:
+      name: Insurance Post
+      domain: postonline.co.uk
     quality: 39
     images:
-      - url: https://www.cnybj.com/media/16828/revitalize_download-square.jpg
-        width: 625
-        height: 521
-  - title: "Visit Health: This AI-driven platform helps patients consult doctors"
-    excerpt: "So, to tap into this market, we brought a new concept by providing insurance for OPD,” explains Prasad. Visit Health: This AI-driven platform helps patients consult doctors Fintech Trends: Mobile-first approach and data science are giving a fillip to fintech Flashback: Jeff Bezos reveals first question investors asked him before funding his ..."
-    publishedDateTime: 2020-01-19T19:45:00Z
-    sourceUrl: https://www.financialexpress.com/industry/sme/visit-health-this-ai-driven-platform-helps-patients-consult-doctors/1828354/
-    ampUrl: https://www.financialexpress.com/industry/sme/visit-health-this-ai-driven-platform-helps-patients-consult-doctors/1828354/lite/
-    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/sme/visit-health-this-ai-driven-platform-helps-patients-consult-doctors/1828354/lite/
+      - url: https://www.postonline.co.uk/sites/postonline/files/styles/metatag_image/public/2018-05/robot%20doctor.jpg?itok=0vIm0lz9
+        width: 378
+        height: 234
+  - title: "Powering the Next Revolution: Artificial Intelligence"
+    excerpt: "Smart Cities around the globe are relying on an ever expanding deployment of IoT devices coupled with forthcoming 5G wireless infrastructure and edge computing to bring new levels of management, coordination, service and information to their citizenry. The complexity of the systems used to bring IoT, 5G, and edge computing together will be ..."
+    publishedDateTime: 2020-01-21T14:32:00Z
+    sourceUrl: https://www.computerworld.com/resources/197081/powering-the-next-revolution-artificial-intelligence
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 39
-  - title: "Health care needs AI. It also needs the human touch"
-    excerpt: "We see the writing on the wall, yet it’s hard for us in our day-to-day clinical work to imagine a time when artificial intelligence will have a real impact on what we do. Your weekly guide to how tech is transforming health care and life sciences. Please enter a valid email address. Leave this field empty if you're human: It might be that ..."
-    publishedDateTime: 2020-01-22T12:17:00Z
-    sourceUrl: https://www.statnews.com/2020/01/22/health-care-needs-ai-it-also-needs-human-touch/
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 39
+      name: Computerworld
+      domain: computerworld.com
+    quality: 37
     images:
-      - url: https://www.statnews.com/wp-content/uploads/2020/01/AdobeStock_215322148-1024x576.jpg
-        width: 1024
-        height: 576
+      - url: https://idge.staticworld.net/ctw/computerworld-logo300x300.png
+        width: 300
+        height: 300
+  - title: "Experts: Preventive Health Care Is Key To Long Life"
+    excerpt: "\"A host of converging technologies like artificial intelligence, Robotics, Virtual Reality, Digital Biology, sensors, will clash into 3D printing, blockchain, quantum computing and global gigabyte networks in the near future and it will completely change the dynamics of the healthcare industry and how it will be delivered,\" said Preeti Malhotra ..."
+    publishedDateTime: 2020-01-21T00:25:00Z
+    sourceUrl: https://www.worldhealth.net/news/experts-preventive-health-care-key-long-life/
+    type: article
+    provider:
+      name: Worldhealth
+      domain: worldhealth.net
+    quality: 24
+    images:
+      - url: https://www.worldhealth.net/media/original_images/AdobeStock_128079409.jpeg
+        width: 5343
+        height: 3456
+  - title: "Preventive Health Care: Key to Long Life"
+    excerpt: "\"A host of converging technologies like artificial intelligence, Robotics, Virtual Reality, Digital Biology, sensors, will clash into 3D printing, blockchain, quantum computing, and global gigabyte networks in the near future and it will completely change the dynamics of the healthcare industry and how it will be delivered,\" said Preeti ..."
+    publishedDateTime: 2020-01-21T05:35:00Z
+    sourceUrl: https://www.medindia.net/news/preventive-health-care-key-to-long-life-192639-1.htm
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 4
 
 secured: "DFuhH0p1RVPaim9jaHmlL+tKofcb3qjSZh9Bmne2kw2+quzmZffggg1/Rfm5OmGGoVmpivpU4jFtnSpYu5fmv7NNTnp+5wCVqGzqkaRfnwXvCQboVPr+kJMaxp6bM2surp+3rQ9tYo2MXvve8t40V1DgpZV/PFZFoFxfTZZHkFMJQ2IHuaUxXkFpLrDTqw5ZXvWT1t+N2DP01yZexPDKMjpg+flTEQXXjMl5Jc49U1zT/2qmodQ92Sod5bnEfqj2pJcDufSOA+nDiG5/sSdmALUOdkDp3bv0dCdxInojzpw=;0JjoITKAKkiS3/ctPyz81w=="
 ---

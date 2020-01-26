@@ -4,10 +4,12 @@ title: "AI creativity will bloom in 2020, all thanks to true web machine learnin
 excerpt: "TensorFlow.js is great new creative tool in the developer's arsenal. Machine learning has been trotted out as a trend to watch for many years now. But there’s good reason to talk about it in the ..."
 publishedDateTime: 2020-01-02T08:05:00Z
 sourceUrl: https://thenextweb.com/podium/2020/01/02/ai-creativity-will-bloom-in-2020-all-thanks-to-true-web-machine-learning/
+ampUrl: https://thenextweb.com/podium/2020/01/02/ai-creativity-will-bloom-in-2020-all-thanks-to-true-web-machine-learning/amp/
+cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/01/02/ai-creativity-will-bloom-in-2020-all-thanks-to-true-web-machine-learning/amp/
 type: article
-quality: 48
-heat: -1
-published: false
+quality: 88
+heat: 88
+published: true
 
 provider:
   name: The Next Web
@@ -21,26 +23,12 @@ topics:
   - AI
   - Google AI
 
-related:
-  - title: "Nine AI Marketing Trends Set To Explode In 2020"
-    excerpt: "Share to facebook Share to twitter Share to linkedin Using artificial intelligence in marketing ... According to our recent research, 65% of consumers expect that within five years marketing ..."
-    publishedDateTime: 2019-12-30T12:50:00Z
-    sourceUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Top minds in machine learning predict where AI is going in 2020"
-    excerpt: "If you’re interested in taking a look back, last year we spoke with people like Facebook AI Research chief scientist Yann LeCun, Landing.ai founder Andrew Ng, and Accenture global responsible AI ..."
-    publishedDateTime: 2020-01-02T14:16:00Z
-    sourceUrl: https://venturebeat.com/2020/01/02/top-minds-in-machine-learning-predict-where-ai-is-going-in-2020/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
+images:
+  - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/12/Untitled-design26-796x417.png
+    width: 796
+    height: 417
+    title: "AI creativity will bloom in 2020, all thanks to true web machine learning"
 
-secured: "YxYXBxBrb+uTKCdtlhtQ3mbK4ty1V3U0VO58I+lXfzJtHEpKJFwXTP5c181S3CtqzTjoUI7ugmbRvA9MVS7FlLigDhUQdQrUs7TBp0+tpA+SvvNEqt/K2rtqSilU4Ljo0aySpEmvYGKtDIy7r1SM9nQdH58zyoeEwQe8ApQm9U7EhThb6VpjSO9+Zn+BQgTrtsHRtAYfzdYy+Qmj8jXiZAbJJrJi8fQfudcRGFgPJoaOZXj9Sl7kDcCU13aXWrGNPrxgME8tE9iSQ/gXBjxCeI6ByJXKafHnozqGb1kd4BeMZeVxW/3rI0PqJKHpKaKd;ibMLZ4n/g2q293rwzrjE0Q=="
+secured: "ysF4m3PQM4GX2dBdlGe8e4ziqsIxRFzLjeIPkqxqc+ZtUsFXs+scgqXbVG6wnHAX2vIfcVdooL6pyqHaI8476eueCfqsuJIu0gjfFITYMD/zpoFphMXQtJGNWJm6IWcAOCw3cNhRlzkk8o7fkGud0VUxOKKZHHyhPWomrpTmg4EZSuyKPOZ/oAyNaduKmQMwHpcwvc/wiN8MnXgRO2dLPxw7dXXTmQXYP/Vq3R+d8zxE+bhtw+AfFqcW7p9F6N3FCpwmIuMBBhBP7tynFYKGF60/MGDZUUnJw1LzJFL8GQjcTSQOK2ir5kOSAbCwBtOj;sP6vq2Jz4HJXrT4vvMk3Pg=="
 ---
 

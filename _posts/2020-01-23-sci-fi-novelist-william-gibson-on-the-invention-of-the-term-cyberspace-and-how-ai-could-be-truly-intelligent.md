@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-23T11:44:00Z
 sourceUrl: https://time.com/5770124/author-william-gibson-new-book-interview/
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -27,21 +27,17 @@ images:
     title: "Sci-Fi Novelist William Gibson on the Invention of the Term \"Cyberspace\" and How AI Could be Truly Intelligent"
 
 related:
-  - title: "Agency from William Gibson splits the seams between AI and humans"
-    excerpt: "It involves Bay Area tech startups and AR headsets, spinning a vibe that doesn't feel far off from the life I actually live right now covering emergent tech. There's a mysterious AI program: an assistant, a person, named Eunice. Someone. I don't want to give much more away. I'd prefer you let the book take you on this journey. Eunice meets and ..."
-    publishedDateTime: 2020-01-22T13:30:00Z
-    sourceUrl: https://www.cnet.com/news/agency-from-william-gibson-splits-the-seams-between-ai-and-humans/
-    ampUrl: https://www.cnet.com/google-amp/news/agency-from-william-gibson-splits-the-seams-between-ai-and-humans/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/agency-from-william-gibson-splits-the-seams-between-ai-and-humans/
+  - title: "Mastercard Debuts Canadian Intelligence And Cyber Center"
+    excerpt: "Mastercard has launched a new center called the Intelligence and Cyber Centre in Vancouver, Canada, focused on speeding innovation in artificial intelligence (AI), cybersecurity and Internet of Things (IoT), according to a release. The Vancouver center, which will create 380 jobs, is going to be one of six planned spaces for the financial ..."
+    publishedDateTime: 2020-01-24T01:36:00Z
+    sourceUrl: https://www.pymnts.com/mastercard/2020/mastercard-canadian-intelligence-cyber-center/
+    ampUrl: https://www.pymnts.com/mastercard/2020/mastercard-canadian-intelligence-cyber-center/amp/
+    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/mastercard/2020/mastercard-canadian-intelligence-cyber-center/amp/
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: https://cnet3.cbsistatic.com/img/6eQsnz77aQNhAqQrV6v1SBzBXdc=/756x567/2020/01/21/aaa44387-8e97-463e-bef4-c4adcb32b2e8/william-gibson.jpg
-        width: 756
-        height: 567
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 22
 
 secured: "2d40lZW2yq2RZi3t6ORlk3/ggcq1MU5idHzPLngTPhFxxj9D5pd104/gL2FO8AC8oP/QeKbnImMO9tSJ1LBggaV4QpWRQAvPWBvGuAnBQ94u/lkSup8Fyv2HM04cJd1W1Rz9YgAKZG3E81v3S45MJxGwVaeKSGSDdjtWmJJIfrm16/2l9EcVlyp7umcOYvC5h5A6/nuloVTxEiXYB7qLfHAAE9OAawZ32+OCvVC+DmvWomo6crGbaIhT8UfLGlUtyLmMwLwUpGRXrvSka/iRC6Zk6wC1ezRzNcYjE0prIxYVWOWyS0QXTfFv70ds5FfyGZHcO9h3yqs6/Fdg9tg3iLDpwvuV1ztSvy1bz0weDKFFSM2wungU0C/Rc2Gds55Se9MO5PrzFQXvosRPVLDVt8929UjivmaNUDsQHKUbNHaMrSaDUsAtNBL1KQxOilD4ysFhZxNj5MZyecsv0YzllWRgd2QUy15C4Xpw8/8QQuQ=;OY66S0jA74sWglSEFRpahQ=="
 ---

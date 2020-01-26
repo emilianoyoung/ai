@@ -8,7 +8,7 @@ ampUrl: https://www.digitaltrends.com/health-fitness/computer-reading-glasses/?a
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -60,6 +60,19 @@ related:
       - url: https://images.newindianexpress.com/uploads/user/imagelibrary/2020/1/14/w600X390/Now.jpg
         width: 600
         height: 390
+  - title: "How to reduce call volume with Computer Vision AI"
+    excerpt: "Computer Vision AI refers to the processing and analysis of digital images and videos to automatically understand their meaning and context. It recognizes faces and expressions, helps self-driving cars read traffic signs and avoid pedestrians, and allows factory robots to monitor problems on production lines. It’s important to note that there ..."
+    publishedDateTime: 2020-01-09T00:47:00Z
+    sourceUrl: https://customerthink.com/how-to-reduce-call-volume-with-computer-vision-ai/
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 54
+    images:
+      - url: https://customerthink.com/wp-content/uploads/woman-1446557_1280-pixabay-social-technology-1.jpg
+        width: 1280
+        height: 853
 
 secured: "bah9UN89qj80v7KjnR0YAG3UGZTgWjHRdhD/gEJjnCOSblbD/aOrk6GtB51IkMElFkUPkWd1RPevv1UXzS4nJI0+OK5qUbF+5FMsjfcEsQiI8TQEBNMllE4jiXtH+jC6uFhNwRdrYbFhlQqorVDEEMMlGfClEnnFFonqj5DN38EgNiNmxMflSTFhjj0/DzNSXEgPqNx9l1tjiagASFRM1oRelsb2yf7DMzjK8nDBKaGaDRf3R8bRBk/PB5hFyKQmkHGekkBIZH1NdXXlfQiVaHukb1xn+NI6Up8ZU9neyjF4vqTX89QPKhENS6hVmH/ZAkrBpsuFd0tEQdTtjP8IpicvK0w7di5K/jiVKjcJ+kDjSUvbuNol3kICi4DC653rxel0iO2BQ7W2CaE3Jl/eVudHLwzyNKTJr2dMEWvZl8Jp2Jaqm/HyQ7fQVHNTwSRHLlizYBucZmrxTNTqWU9cRg==;g8Gzf3m8VZ11y45n3snoHg=="
 ---

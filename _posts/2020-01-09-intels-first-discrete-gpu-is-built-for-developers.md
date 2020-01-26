@@ -8,8 +8,8 @@ ampUrl: https://www.engadget.com/amp/2020/01/09/intel-xe-d1g-software-developmen
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/09/intel-xe-d1g-software-development-vehicle/
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Engadget
@@ -28,79 +28,6 @@ images:
     width: 600
     height: 350
     title: "Intel's first discrete GPU is built for developers"
-
-related:
-  - title: "CES 2020: Intel previews Tiger Lake mobile processors and discrete GPU"
-    excerpt: "AI accelerators, and discrete-level integrated graphics based on the new Intel Xe graphics architecture,\" the company said. The first Tiger Lake systems are expected to ship later this year. Intel also offered a preview of the first Xe-based discrete GPU ..."
-    publishedDateTime: 2020-01-07T03:00:00Z
-    sourceUrl: https://www.zdnet.com/article/ces-2020-intel-previews-tiger-lake-mobile-processors-and-discrete-gpu/
-    ampUrl: https://www.zdnet.com/google-amp/article/ces-2020-intel-previews-tiger-lake-mobile-processors-and-discrete-gpu/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ces-2020-intel-previews-tiger-lake-mobile-processors-and-discrete-gpu/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: https://zdnet1.cbsistatic.com/hub/i/2020/01/07/97b8676c-9886-4528-b8e9-30514da51ca5/intel-tiger-lake-4.jpg
-        width: 627
-        height: 432
-  - title: "Intel's Tiger Lake Laptop CPU Brings Thunderbolt 4, AI Graphics Processing"
-    excerpt: "Some laptops with Tiger Lake processors are also expected to use Intel's upcoming discrete GPU, called the DGX1. Intel teased its discrete graphics processor last year at Computex, and at CES here it showed off a working demo of the GPU running Destiny 2 ..."
-    publishedDateTime: 2020-01-07T03:58:00Z
-    sourceUrl: https://www.pcmag.com/news/372882/intels-tiger-lake-laptop-cpu-brings-thunderbolt-4-ai-graph
-    ampUrl: https://www.pcmag.com/news/372882/intels-tiger-lake-laptop-cpu-brings-thunderbolt-4-ai-graph?amp=1
-    cdnAmpUrl: https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/372882/intels-tiger-lake-laptop-cpu-brings-thunderbolt-4-ai-graph?amp=1
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 87
-    images:
-      - url: https://i.pcmag.com/imagery/articles/016yXQZCZtDGZxmUfpB8pav-3.fit_lpad.size_1200x675.jpg
-        width: 1200
-        height: 675
-  - title: "Intel 'Tiger Lake' mobile processors will use new Xe GPU architecture"
-    excerpt: "As a \"first-look\" of the processor, the CES 2020 presentation offered a general overview for the chips, which will have optimizations for the CPU, AI accelerators, and the GPU to achieve \"double ..."
-    publishedDateTime: 2020-01-07T13:15:00Z
-    sourceUrl: https://appleinsider.com/articles/20/01/07/intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture
-    ampUrl: https://appleinsider.com/articles/20/01/07/intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture/amp/
-    cdnAmpUrl: https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/01/07/intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture/amp/
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 59
-    images:
-      - url: https://photos5.appleinsider.com/gallery/34074-60961-intel-tiger-lake-board-xl.jpg
-        width: 870
-        height: 485
-  - title: "Intel makes a splash at CES with AI, autonomous driving tech and Tiger Lake chips"
-    excerpt: "The AI announcement was aimed straight at the current tech battlefield of autonomous-vehicle technology. After emerging during the 2010s, it’s now potentially set to deliver in the 2020s, with likely consolidation of companies along the way. Intel Chief Executive Officer Bob Swan started his CES conference with new from Mobileye NV ..."
-    publishedDateTime: 2020-01-07T03:47:00Z
-    sourceUrl: https://siliconangle.com/2020/01/06/intel-makes-splash-ces-autonomous-driving-tech-ai-tiger-lake/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 49
-    images:
-      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/intel.jpg
-        width: 690
-        height: 560
-  - title: "Intel previews the first Xe-based discrete GPU"
-    excerpt: "Looking at its event schedule you can see a selection of conferences about AI and automotive type projects. However, we did see the Ghost Canyon NUC, Comet Lake-H processors, and a Tiger Lake processors tease yesterday. The iconic chipmaker has now ..."
-    publishedDateTime: 2020-01-07T13:42:00Z
-    sourceUrl: https://www.hexus.net/tech/news/graphics/138533-intel-previews-first-xe-based-discrete-gpu/
-    type: article
-    provider:
-      name: Hexus
-      domain: hexus.net
-    quality: 39
-    images:
-      - url: https://hexus.net/media/uploaded/2020/1/463cda5c-1cd0-404a-a261-802c7dcef04f.jpg
-        width: 515
-        height: 221
 
 secured: "jb8qrKwRPruTM7rmhsvS35ol1eQk7mjoFcIByojSvaZHTnEQ5c39DA/aQuxatCc+p3HLIGdv85I+71bZ0UUNh9TRpF68he2a4qYSZpNEe9mdtj4wsXPN04kQ0Zui4GdmqDxwt3/565w+xelR5coNAyoij935GMq94wwDcEV8jSgWb8uf7SCbGC8g5SquND3lphXSViR8KOoIb91Od/U5afoyYyaUEodCZ3w+Ss1m44SN3DiTGEY1m0P2O12dH+Q2pHhAqJf8AxicAjqpUgNkx1E34DQ3fToS178y1utiPfL4n5PidHw66NjuOtMYYEQ1ncw5CmjXAbT/rOnwzMsAPb7PliVUXzitq0E3Anp9oMQ1TZUuB7qL1v1oESlCQR5QygcGRcf6tHXKv7z0mWyYehu0uRIRae1Gbau9mYAN1IC+AdzAKlaeSxmP4lk859enHxUjRB5YehrrXwKjFW+9BA==;xl2sHa/mxPpKIQHjnQ1v/A=="
 ---

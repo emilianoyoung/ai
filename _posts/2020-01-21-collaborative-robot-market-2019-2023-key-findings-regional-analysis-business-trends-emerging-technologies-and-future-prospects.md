@@ -8,7 +8,7 @@ ampUrl: https://amp.benzinga.com/amp/content/15152359
 cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15152359
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,56 @@ images:
     title: "Collaborative Robot Market 2019-2023: Key Findings, Regional Analysis, Business Trends, Emerging Technologies and Future Prospects"
 
 related:
-  - title: "Smart Robot Market: 2018 Industry Analysis, Size, Trends, Growth and Forecast 2025 | ABB, iRobot Corporation, Grey orange"
-    excerpt: "A smart robot uses an artificial intelligence (AI) system that can learn from its environment and its experience. Smart robots can collaborate while working together as well as learning from the behavior of humans. Flexibility &amp; scalability in operation along with the high performance fuels the growth of the smart robot market. With the ..."
-    publishedDateTime: 2020-01-24T12:31:00Z
-    sourceUrl: https://www.cmo.com.au/mediareleases/37910/smart-robot-market-2018-industry-analysis-size/
+  - title: "Deep Learning Market Report 2020 Competitors and Their Respective Market Share, R&D Status and Future Projections 2026"
+    excerpt: "Global Deep Learning Market Report offers industry news by region, technological developments, value chain status, and market scope 2026. “Deep Learning Market” report 2020 presents the analysis of the business by market size,"
+    publishedDateTime: 2020-01-17T10:12:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-market-report-2020-competitors-and-their-respective-market-share-rd-status-and-future-projections-2026-2020-01-17
     type: article
     provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 14
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
     images:
-      - url: https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg
-        width: 600
-        height: 246
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence as a Service Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
+    excerpt: "New York, January 14, 2020: The global Artificial Intelligence as a Service market is segregated on the basis of Services as Cognitive Computing APIs, Custom Cognitive Computing APIs, and Conversational AI."
+    publishedDateTime: 2020-01-14T05:49:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-01-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Mobile AI Market 2020 Classification, Application, Industry Chain Overview, SWOT Analysis and Competitive Landscape To 2023"
+    excerpt: "“”Mobile AI Market”” Mobile AI Market Research Report 2020: Industry Size, Share, Trends, Growth, Sales, Revenue, Risk and Opportunity Assessment"
+    publishedDateTime: 2020-01-23T09:25:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15169842/mobile-ai-market-2020-classification-application-industry-chain-overview-swot-analysis-and-compet
+    ampUrl: https://amp.benzinga.com/amp/content/15169842
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15169842
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
+    images:
+      - url: https://www.abnewswire.com/uploads/1579774680.jpeg
+        width: 800
+        height: 527
+  - title: "Artificial Intelligence (AI) is the future in information and technology sectors - Analysis, size, business growth, trends and projections by 2025"
+    excerpt: "On the contrary, rise in the adoption of AI in emerging markets and the rapid development of smarter robots are expected to create lucrative opportunities in the near future. Access full summary report @ https://www.alliedmarketresearch.com/artificial-intelligence-market The global artificial intelligence (AI) market was pegged at $4.06 billion ..."
+    publishedDateTime: 2020-01-20T19:04:00Z
+    sourceUrl: https://www.openpr.com/news/1901705/artificial-intelligence-ai-is-the-future-in-information
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "CGWsNfxeSHrgGOVlLLuqlzW+lMYWUj/63XZWg5MQZ6EZfJzrU8hlLifX1WOEf06+tJ4g6SG/+OAez/zI11OhMXiw+wRSF1B5f38BskmjeKDcxQqu4Et71GO2PVHBkBsLcjFTBpn50vZzROqcYb3U05fUdErNUxY/DOJhx0JamAbGvHSj3jmFajy3UcVguyS7sAlXu6WvtUyZR2FefHPV/yNsZObV3JXyx9GEGJSc50hjEFBRcPXDIf0D0Ex+Nue07iHtSgOw3R09r8XSg1PCOo1tQj4tYPdPJIwxr4RCsbDyai8LRXDQ5nCqe9opNtVWND9MrZIIiGBAAKhBfdmYMkyEdQIfnx4TZBBk4+PbssjrhZm9ipbTOKxiIij1R+sVZDCDBwcZ1b5TBnGKCvKR1csKl43yuu/QqQtJOK6VnoOKpWBIY4wGHu3OT6njvaul1572+K+mUrsNLi9sbQBRcg==;2fGzc/rlYbYds5Fxw7iY4w=="
 ---

@@ -40,17 +40,6 @@ related:
       - url: https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20200119&Category=OPINION&ArtNo=200118773&Ref=AR
         width: 2000
         height: 1124
-  - title: "Commentary: Online dating has enough problems without adding fake AI-generated people"
-    excerpt: "The dating sites hope this will enable them to project more diversity, while the AI startups are counting on dating sites to help normalize their disconcerting technology. Having AI-generated people lure us to dating sites might sound like one further slide into sci-fi dystopia. But it’s not that different from what’s already going on."
-    publishedDateTime: 2020-01-20T14:03:00Z
-    sourceUrl: https://www.seattletimes.com/business/technology/fake-ai-people-wont-fix-online-dating/
-    ampUrl: https://www.seattletimes.com/business/technology/fake-ai-people-wont-fix-online-dating/?amp=1
-    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/fake-ai-people-wont-fix-online-dating/?amp=1
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 30
   - title: "Using artificial intelligence to diagnose cancer could mean unnecessary treatment | Opinion"
     excerpt: "The new decade opened with some intriguing news: The journal Nature reported that artificial intelligence was better at identifying breast cancers on mammograms than radiologists. Researchers at Google Health teamed up with academic medical centers in the United States and Britain to train an AI system using tens of thousands of mammograms."
     publishedDateTime: 2020-01-16T20:16:00Z

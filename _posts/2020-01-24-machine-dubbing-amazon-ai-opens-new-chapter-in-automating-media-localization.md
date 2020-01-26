@@ -24,30 +24,32 @@ images:
     title: "Machine Dubbing: Amazon AI Opens New Chapter in Automating Media Localization"
 
 related:
-  - title: "Amazon’s AI automatically dubs videos into other languages"
-    excerpt: "In a paper published this week on the preprint server Arxiv.org, researchers from the tech giant detailed a novel “speech-to-speech” pipeline that taps AI to ... across languages and follows a “fluency-based” rather than a content-based criterion. It comprises several parts, including a Transformer-based machine translation bit trained ..."
-    publishedDateTime: 2020-01-24T18:23:00Z
-    sourceUrl: https://venturebeat.com/2020/01/24/amazons-ai-automatically-dubs-videos-into-other-languages/
-    ampUrl: https://venturebeat.com/2020/01/24/amazons-ai-automatically-dubs-videos-into-other-languages/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/24/amazons-ai-automatically-dubs-videos-into-other-languages/amp/
+  - title: "Interpreting 3D seismic data automatically using Amazon SageMaker"
+    excerpt: "Interpreting 3D seismic data correctly helps identify geological features that may hold or trap oil and gas deposits. Amazon SageMaker and Apache MXNet on AWS can automate horizon picking using deep learning techniques. In this post, I use these services to build and train a custom deep-learning model"
+    publishedDateTime: 2020-01-20T17:49:48Z
+    sourceUrl: https://aws.amazon.com/blogs/machine-learning/interpreting-3d-seismic-data-automatically-using-amazon-sagemaker/
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: AWS
+      domain: aws.amazon.com
     quality: 89
     images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all
-        width: 1200
-        height: 600
-  - title: "Docomo invests in Otter.ai, to develop AI-based translation services"
-    excerpt: "Using Docomo's natural language processing technology, Mirai Translate is expected to offer precise machine translation between Japanese and English. Docomo plans to support the launch of Otter.ai within Japanese companies during the fiscal year 2020. In addition, Docomo seeks to develop advanced translation services capable of conveying the ..."
-    publishedDateTime: 2020-01-22T06:46:00Z
-    sourceUrl: https://www.telecompaper.com/news/docomo-invests-in-otterai-to-develop-ai-based-translation-services--1323596
+      - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/06/12/seismic-1.gif
+        width: 600
+        height: 424
+  - title: "Maximizing NLP model performance with automatic model tuning in Amazon SageMaker"
+    excerpt: "The field of Natural Language Processing (NLP) has had many remarkable breakthroughs in the past two years. Advanced deep learning models are raising the state-of-the-art performance standards for NLP tasks. To benefit from newly published NLP models, the best approach is to apply a pre-trained language"
+    publishedDateTime: 2020-01-23T16:25:19Z
+    sourceUrl: https://aws.amazon.com/blogs/machine-learning/maximizing-nlp-model-performance-with-automatic-model-tuning-in-amazon-sagemaker/
     type: article
     provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
+    images:
+      - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/21/nlp-model-tuning-3.gif
+        width: 800
+        height: 297
 
 secured: "Du3VSyXvD3CUrstCLFmvVJ5Z2ial8J3x1e8lFWVWilL+RusFHemcr6o7/10mCu3PCRH+wx2xpYxAaB5cvMnPiktF1oV76HTjPSnGuIU7j3FNjhb5oik26gXcMnh6aHP8n1/9x8gxrAsv/h16VEpM/sKfU7cjBpBUB2HCk9qrku60nT5qDLDaFumt/Vwh3PG63FcoSWSbc59jSERr2Z066OQhgZIr5Onw4sfpfjg9rl55PFQ6al9zHQSJpSVttUE3+2rJujRNm2Rf6/lxOTMPdey9yUYkl6YouajpQg06lYwUIj7WOm9PilXJHNxSbdkhndF5qH5FV9d+DuVTLPAELMwmPlSYdxv/StO8kAoi+5/LtkzRyyuB/VOB93Oyxrm8XkYM2lvgx40qbbtnFJdUSAdgvxyCs8tGtGBvNdq9PYi6GIWSqUDSh6oY3lM1v40W4oNSDTNNYzIpg1dp/qSDd9JsUFNxZMvQKiEfrCGPPa0=;thGG1J2IvMoYStL/j5G67Q=="
 ---

@@ -30,6 +30,21 @@ images:
     title: "That Car In California That Mysteriously Disappeared After Going Off A Cliff Is A Valuable Lesson For AI Self-Driving Cars"
 
 related:
+  - title: "Silicon Valley Event On Machine Learning Tackles The Latest Riddles Vexing AI Self-Driving Cars"
+    excerpt: "There’s a child’s riddle that asks you to indicate what can be held in your left hand and yet cannot be held in your right hand. Take a moment to ponder this riddle. Your first thought might be that anything that could be held in your left hand should also be able to be held in your right hand,"
+    publishedDateTime: 2020-01-18T15:55:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/18/silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/18/silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/18/silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 94
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1172913287%2F0x0.jpg%3FcropX1%3D931%26cropX2%3D6060%26cropY1%3D0%26cropY2%3D3415
+        width: 1200
+        height: 799
   - title: "Let’s Teach Kids About AI Self-Driving Cars, But Only In An Unbiased Way"
     excerpt: "What should kids know about the advent of self-driving cars? Is it necessary to teach them about self-driving cars or is it something that isn’t worth bringing to their attention? If kids are going to get taught about self-driving cars,"
     publishedDateTime: 2020-01-21T16:47:00Z
@@ -45,101 +60,60 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1049271976%2F0x0.jpg
         width: 1200
         height: 800
-  - title: "The AI that allows self-driving cars to ‘see’ around corners"
-    excerpt: "Researchers at US universities have created an imaging system powered by artificial intelligence that could help self-driving cars \"see\" around corners in minute detail to identify hazards. The imaging system uses a conventional camera sensor and a laser beam that can be \"bounced\" off walls and onto objects to create a pattern – visually ..."
-    publishedDateTime: 2020-01-16T15:00:00Z
-    sourceUrl: https://www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/
-    ampUrl: https://www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/amp/
-    cdnAmpUrl: https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/amp/
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 59
-    images:
-      - url: https://www.telegraph.co.uk/content/dam/technology/2019/08/23/TELEMMGLPICT000206524925_trans%2B%2BKU-op6n8Xxa2ymKjnWOvoZ3L9sb6nC3JvvgkmFaL7wc.jpeg
-        width: 2501
-        height: 1563
-  - title: "Air taxis, Hyperloop, self-driving cars: What your commute could look like in 2030"
-    excerpt: "Experts say self-driving features will reach an inflection point over the next several years, though vehicles aren't expected to be able to do all the driving. \"More and more vehicles will have standard equipment with basic automation like lane-keeping assist, automated braking and left-hand turn assistance,\" Rickert said. \"Those things ..."
-    publishedDateTime: 2020-01-21T09:19:00Z
-    sourceUrl: https://www.usatoday.com/story/money/cars/2020/01/21/air-taxis-evs-and-hyperloop-how-transportation-evolve-2030/2794123001/
-    ampUrl: https://amp.usatoday.com/amp/2794123001
-    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2794123001
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 53
-    images:
-      - url: https://www.gannett-cdn.com/-mm-/d921f5c0d29ad0098c8523b4d7f37189f087d0da/c=139-0-1860-1294/local/-/media/2018/04/02/USATODAY/USATODAY/636582857256863299-Hyper013.JPG?quality=50&width=640
-        width: 640
-        height: 481
-  - title: "Artificial Intelligence system created to allows self-driving cars to 'see' around corners"
-    excerpt: "An artificial intelligence system that allows self-driving cars to 'see' around corners in real time could help prevent accidents, according to its developers. Researchers from Stanford University in the USA have created a system that bounces a laser beam off a wall to create an 'image' of objects hidden from view. The 'image' captured won't ..."
-    publishedDateTime: 2020-01-17T09:32:00Z
-    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7898531/Artificial-Intelligence-created-allows-self-driving-cars-corners.html
-    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7898531/amp/Artificial-Intelligence-created-allows-self-driving-cars-corners.html
-    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7898531/amp/Artificial-Intelligence-created-allows-self-driving-cars-corners.html
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 49
-    images:
-      - url: https://i.dailymail.co.uk/1s/2020/01/17/09/23514880-0-image-a-98_1579253477085.jpg
-        width: 636
-        height: 382
-  - title: "Huawei looks to self-driving cars, inspired by Tesla"
-    excerpt: "Chinese smartphone manufacturer Huawei is currently making a big push towards the 5G industry, but it is also reportedly planning to assist in building self-driving cars, news portal GizmoChaina reported on Thursday. \"Our ultimate goal is to achieve complete driverlessness, but in the process of moving towards the ultimate goal, it can create ..."
-    publishedDateTime: 2020-01-16T18:19:00Z
-    sourceUrl: https://www.khaleejtimes.com/business/corporate/huawei-looks-to-self-driving-cars-inspired-by-tesla
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 39
-    images:
-      - url: https://images.khaleejtimes.com/storyimage/KT/20200116/ARTICLE/200119432/AR/0/AR-200119432.jpg&NCS_modified=&exif=.jpg
-        width: 1200
-        height: 800
-  - title: "I Took a Test Ride in Qualcomm’s Experimental Self-Driving Car on a Busy Freeway"
-    excerpt: "A company known for its smartphone chips wants to power self-driving cars! We’re taking a test \"ride\" in their experimental vehicle! Qualcomm is a San Diego based company best known for its smartphone chips. Now, they want want to be the brains behind self driving cars, too. Recently I took a ride in their experimental prototype car ..."
-    publishedDateTime: 2020-01-20T13:30:00Z
-    sourceUrl: https://ktla.com/2020/01/20/qualcomm-snapdragon-ride-self-driving-car-test-las-vegas-ces-freeway/
-    ampUrl: https://ktla.com/2020/01/20/qualcomm-snapdragon-ride-self-driving-car-test-las-vegas-ces-freeway/amp/
-    cdnAmpUrl: https://ktla-com.cdn.ampproject.org/c/s/ktla.com/2020/01/20/qualcomm-snapdragon-ride-self-driving-car-test-las-vegas-ces-freeway/amp/
+  - title: "I Took a Test Drive in Qualcomm’s Self-Driving Car on a Busy Freeway"
+    excerpt: "A company known for its smartphone chips wants to power self-driving cars! We’re taking a test drive in their experimental vehicle! Qualcomm is a San Diego based company best known for it’s smartphone chips! Now they want want to be the brains behind self driving cars, too. When you think self-driving cars, you might think Tesla ..."
+    publishedDateTime: 2020-01-20T14:28:00Z
+    sourceUrl: https://ktla.com/2020/01/20/i-took-a-test-drive-in-qualcomms-self-driving-car-on-a-busy-freeway/
+    ampUrl: https://ktla.com/2020/01/20/i-took-a-test-drive-in-qualcomms-self-driving-car-on-a-busy-freeway/amp/
+    cdnAmpUrl: https://ktla-com.cdn.ampproject.org/c/s/ktla.com/2020/01/20/i-took-a-test-drive-in-qualcomms-self-driving-car-on-a-busy-freeway/amp/
     type: article
     provider:
       name: KTLA
       domain: ktla.com
-    quality: 39
+    quality: 44
     images:
       - url: https://tribktla.files.wordpress.com/2020/01/image-2020-01-20-055529.jpg?quality=85&strip=all&w=1200
         width: 1200
         height: 900
-  - title: "What Cruise’s self-driving vehicle reveals about GM’s EV ambitions"
-    excerpt: "As Electrek reported, Cruise yesterday unveiled its van-like, self-driving, all-electric vehicle. For the past four years, Cruise (a GM subsidiary) has been repurposing Chevy Bolts — including its four-generation self-driving Bolt that doesn’t have a steering wheel. But now GM’s Cruise has the Origin. The two essential things to consider ..."
-    publishedDateTime: 2020-01-24T17:57:00Z
-    sourceUrl: https://electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/
+  - title: "You may soon see Uber’s self-driving cars on a D.C. road near you"
+    excerpt: "Uber has been testing self-driving cars in other markets, but they haven’t yet made it to D.C. Now, the ride-hailing company is looking to launch the vehicles here."
+    publishedDateTime: 2020-01-24T12:43:00Z
+    sourceUrl: https://www.bizjournals.com/washington/news/2020/01/24/you-may-soon-see-uber-s-self-driving-cars-on-a-d-c.html
+    ampUrl: https://www.bizjournals.com/washington/news/2020/01/24/you-may-soon-see-uber-s-self-driving-cars-on-a-d-c.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/washington/news/2020/01/24/you-may-soon-see-uber-s-self-driving-cars-on-a-d-c.amp.html
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 34
-  - title: "Tomorrow’s Tech Today: Latest in self-driving cars, next-gen HUD for your car, X-ray vision"
-    excerpt: "There is a new self-driving car from Honda with some incredible new features. Plus, a heads-up display in your windshield that can do shocking and dangerous things. And giving doctors X-ray specs."
-    publishedDateTime: 2020-01-16T00:00:00Z
-    sourceUrl: https://www.komando.com/video/diy-how-to/tomorrows-tech-today-latest-in-self-driving-cars-next-gen-hud-for-your-car-x-ray-vision/702102/
-    type: article
-    provider:
-      name: Kim Komando
-      domain: komando.com
-    quality: 14
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 44
     images:
-      - url: https://i.ytimg.com/vi/1Na2pyZ-zfA/hqdefault.jpg
-        width: 480
-        height: 360
+      - url: https://media.bizj.us/view/img/11587279/uber-self-driving*600xx1500-1000-0-0.jpg
+        width: 600
+        height: 400
+  - title: "Uber set to bring self driving cars to Washington"
+    excerpt: "(ABC News) —Uber is bringing a fleet of self-driving cars to the nation’s capital to begin mapping out prospective routes — aided by human drivers at first — starting on Friday. The new self-driving cars that are expected to hit the roads in Washington, D.C., will have the initial goal of data collection, and will have a human vehicle ..."
+    publishedDateTime: 2020-01-25T00:47:00Z
+    sourceUrl: https://www.abccolumbia.com/2020/01/24/uber-set-to-bring-self-driving-cars-to-washington/
+    type: article
+    provider:
+      name: ABC Columbia
+      domain: abccolumbia.com
+    quality: 39
+    images:
+      - url: https://images.abccolumbia.com/wp-content/uploads/2020/01/volvo.jpg
+        width: 992
+        height: 558
+  - title: "The Hype of Self-Driving Cars Gives Way to Reality"
+    excerpt: "However, achieving that last goal has proved to be more of a challenge than engineers originally thought. On the congested streets of Las Vegas, I sat (helplessly) in the back seat of a self-driving Prius, watching as the wheel sawed back and forth in front of the empty driver's seat. It steered us through multiple left turns — inches from ..."
+    publishedDateTime: 2020-01-23T21:32:00Z
+    sourceUrl: https://www.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html
+    ampUrl: https://feeds.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html?_amp=true
+    cdnAmpUrl: https://feeds-aarp-org.cdn.ampproject.org/c/s/feeds.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html?_amp=true
+    type: article
+    provider:
+      name: AARP
+      domain: aarp.org
+    quality: 24
 
 secured: "nIP8mgOwnNjFv6Mw35nXhDy1Q5ET2/zT8ky4wr9PHtjSKL2O8kqEq5L58jF3bh8biTICHLcTwUyTYHu6g6yGr3Q9//5iVTm5c8tYNtb5Q5dUzapKW8/8FKQq7Ol/DCcR7NzwQVGLYRL5n5yL+ahDfoGz4pkqIdJPqPF38CJEmemxWlFqGMCVjZJmMWH0yY9U10zYgvNlUd3cytKMwDOp4BP4qO4g6O10X0eARaQJP2INKJyHl7fz2B/R0UwpIAZXpHRk3yS0RwR9BTsjFxGQPk6xvkj4B8Dfxj8/s59B1axq+fl0Gj9kzzRcLA64fWDNhW+o+UPAEHHUOe2LgbzbMdpwQXYYDla/rDZCFmdh4OHbjhCMm37CrbLtmlDto4SBMxqupO+SnuDYltkDW4Aa0nkEV2jRFqrO8zEhR96Yvh605pPqz4qWUTobL/Um6YegG5HkCiRt1y7M9x9Ip5GRxtFDvhSMxCL16KJtuECloIs=;+7Ayq8YI4tETjrBMgSSb+g=="
 ---

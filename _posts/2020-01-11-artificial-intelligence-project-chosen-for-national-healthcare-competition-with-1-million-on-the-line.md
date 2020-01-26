@@ -24,64 +24,34 @@ images:
     title: "Artificial intelligence project chosen for national healthcare competition - with $1 million on the line"
 
 related:
-  - title: "Verbit raises $31 million for human-in-the-loop AI transcription tech"
-    excerpt: "Now, roughly a year later, Verbit hopes to lay the groundwork for growth with an infusion of fresh capital. Verbit today announced the close of a $31 million ... a human-in-the-loop transcription ..."
-    publishedDateTime: 2020-01-15T14:00:00Z
-    sourceUrl: https://venturebeat.com/2020/01/15/verbit-raises-31-million-for-human-in-the-loop-ai-transcription-tech/
-    ampUrl: https://venturebeat.com/2020/01/15/verbit-raises-31-million-for-human-in-the-loop-ai-transcription-tech/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/verbit-raises-31-million-for-human-in-the-loop-ai-transcription-tech/amp/
+  - title: "What will Google’s healthcare expansion mean for UK data protection?"
+    excerpt: "In just over a year, Google has launched a new Google Health subsidiary, which also absorbed the health unit of DeepMind – the UK-based artificial intelligence lab it acquired in 2014 – and splashed out £1.6 billion on wearable firm Fitbit, giving the search giant access to its trove of data collected from 28 million active users."
+    publishedDateTime: 2020-01-10T12:31:00Z
+    sourceUrl: https://www.techworld.com/data/what-will-googles-healthcare-expansion-mean-for-uk-data-protection-3780397/
+    ampUrl: https://www.techworld.com/data/what-will-googles-healthcare-expansion-mean-for-uk-data-protection-3780397/?amp
+    cdnAmpUrl: https://www-techworld-com.cdn.ampproject.org/c/s/www.techworld.com/data/what-will-googles-healthcare-expansion-mean-for-uk-data-protection-3780397/?amp
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 187
+      name: Techworld
+      domain: techworld.com
+    quality: 44
     images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/01/VERBIT-TEAM-e1578858528453.jpg?fit=1200%2C600&strip=all
-        width: 1200
-        height: 600
-  - title: "Placer.ai raises $12 million to keep tabs on foot traffic in real time"
-    excerpt: "A somewhat newer entrant is Placer.ai, which was cofounded in 2016 by Noam Ben-Zvi, Oded Fossfeld, Ofir Lemel, and Zohar Bar-Yehuda. It might not rival location data giants like FourSquare and ThinkNear, but it managed to nab $12 million this week in a funding round led by BV Capital with participation from Aleph, Reciprocal Ventures ..."
-    publishedDateTime: 2020-01-22T13:00:00Z
-    sourceUrl: https://venturebeat.com/2020/01/22/placer-ai-raises-12-million-to-keep-tabs-on-foot-traffic-in-real-time/
-    ampUrl: https://venturebeat.com/2020/01/22/placer-ai-raises-12-million-to-keep-tabs-on-foot-traffic-in-real-time/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/placer-ai-raises-12-million-to-keep-tabs-on-foot-traffic-in-real-time/amp/
+      - url: https://www.techworld.com/cmsdata/features/3780397/nhs-app_thumb800.jpg
+        width: 800
+        height: 450
+  - title: "Nvidia says it has a solution for healthcare’s data problems"
+    excerpt: "Healthcare leaders wouldn’t stop talking about one topic at the JP Morgan Healthcare Conference: artificial intelligence. At Boston Consulting Group’s annual look-ahead for 2020, audience members rated digital, analytics and innovation as the top strategic priority for healthcare companies, even above pricing, access and M&A. But ..."
+    publishedDateTime: 2020-01-17T00:56:00Z
+    sourceUrl: https://medcitynews.com/2020/01/nvidia-says-it-has-a-solution-for-healthcares-data-problems/
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 39
     images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/06/global-e1579243388331.jpg?fit=1200%2C600&strip=all
-        width: 1200
-        height: 600
-  - title: "Being human in the age of Artificial Intelligence"
-    excerpt: "A future where AI will be everywhere and in everything is coming sooner than we think and we need to be prepared like boy scouts advise us to."
-    publishedDateTime: 2020-01-19T10:08:00Z
-    sourceUrl: https://www.deccanherald.com/sunday-herald/sh-top-stories/being-human-in-the-age-of-artificial-intelligence-795461.html
-    ampUrl: https://www.deccanherald.com/amp/sunday-herald/sh-top-stories/being-human-in-the-age-of-artificial-intelligence-795461.html
-    cdnAmpUrl: https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/sunday-herald/sh-top-stories/being-human-in-the-age-of-artificial-intelligence-795461.html
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 57
-    images:
-      - url: https://www.deccanherald.com/sites/dh/files/article_images/2020/01/19/file78uvgzoba0mwflzi1oj-1579426179.jpg
-        width: 1200
-        height: 497
-  - title: "Verbit Raises $31 Million Series B to Add New Languages for Speech Recognition Product"
-    excerpt: "Verbit, a Tel Aviv, Israel-based provider of classroom transcription and captioning services through speech recognition, has raised a $31 million Series B round. Growth equity firm Stripes led the round. Viola Ventures, Vertex Ventures, HV Ventures, Oryzn Capital and ClalTech participated. Founded in 2017, Verbit plans to spend the money toward ..."
-    publishedDateTime: 2020-01-16T01:52:00Z
-    sourceUrl: https://www.edsurge.com/news/2020-01-15-verbit-raises-31-million-series-b-to-add-new-languages-for-speech-recognition-product
-    type: article
-    provider:
-      name: EdSurge
-      domain: edsurge.com
-    quality: 46
-    images:
-      - url: https://edsurge.imgix.net/static_assets/meta/EdSurge_Bolt_Green.png?auto=compress%2Cformat&w=480&h=480&fit=crop
-        width: 480
-        height: 480
+      - url: https://medcitynews.com/uploads/2018/10/GettyImages-889905792.jpg
+        width: 748
+        height: 467
   - title: "Artificial intelligence project chosen for national healthcare competition - with $1 million on the line"
     excerpt: "A UVA Health proposal to reduce hospital readmissions was among 25 submissions chosen - from more than 300 applications - for a national competition seeking ideas on how artificial intelligence can improve healthcare. The UVA Health data science team will compete alongside proposals from organizations that include IBM and Mayo Clinic in the ..."
     publishedDateTime: 2020-01-10T20:33:00Z
@@ -95,6 +65,19 @@ related:
       - url: https://www.eurekalert.org/multimedia/pub/web/221276_web.jpg
         width: 1440
         height: 1080
+  - title: "Inside Google’s Ambitions To Become The Go-To Vendor For Healthcare IT"
+    excerpt: "One tool is Google Cloud’s AutoML, which allows organizations to develop custom models. For example, Imagia, a Montreal-based startup that develops diagnostic tools for healthcare providers, uses AutoML and Google’s Cloud Machine Learning Engine to train AI models to detect Alzheimer’s. The American Cancer Society also used Google’s ..."
+    publishedDateTime: 2020-01-13T20:08:00Z
+    sourceUrl: https://www.cbinsights.com/research/google-hospital-healthcare-it/
+    type: article
+    provider:
+      name: CB Insights
+      domain: cbinsights.com
+    quality: 24
+    images:
+      - url: https://s3.amazonaws.com/cbi-research-portal-uploads/2019/12/18103828/DeepMind_Health-572x364.png
+        width: 572
+        height: 364
 
 secured: "PqrgkbI/hj6PAwb1FANtDDxuMdwKnas05NKCiUh5715Uw8kNUAuMSkRypoi2zZnTAbC1S0evkJkp8w6R6x3vRMOlUqNaopJKjuHS2XWgno9ZlXItlIW9CiG48jMcK+6X82JtLHDd8+HWDl9i+ptNry2k/VpI63+ZoE2PJffBuuUTCQ1Iz0GsCKVqZTSmeSP10aCIfSRvzywhXdjyato4LlZXKXUUjsh2psCNKfIInaIPq9YJx3zvK6tkq8H8/SGMs/gsnvQMScIxX8SSdU9cYXlrB90mVR0RQVodky+tGiKwjdn/JVuD5Gu4gOHY4BYms0Io8xFNk/Es6hMnAnDW7vFednhHgnFs6HMervC9Y3VxT6C0nZNnM4T4mBkCkOziU0RBqb5JoGkH+j7gnVune5qGDRYksDlhYbRtijyZQHi+QaJ0r1HzA11DD7vW8KXrsWQ9Kv9dkqUA9bLEV0AEHA==;G6xZCNPi21C2dN2A9lZBpg=="
 ---

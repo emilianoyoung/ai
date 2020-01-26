@@ -27,6 +27,26 @@ images:
     height: 630
     title: "Natural Language Processing Market by 2023 with Leading Key Players like Apple Incorporation, Dolbey Systems, Google"
 
+related:
+  - title: "Natural Language Processing Market to reach $26.4 Billion by 2024 | Key players include IBM, Microsoft, Google, AWS, Apple and Facebook"
+    excerpt: "According to recent research \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\", published by MarketsandMarkets, the global Natural Language Processing (NLP ..."
+    publishedDateTime: 2020-01-13T12:24:00Z
+    sourceUrl: https://www.openpr.com/news/1894880/natural-language-processing-market-to-reach-26-4-billion
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
+  - title: "Self-driving car market 2018-2023 and top key players are Microsoft, Apple, IBM, Cisco"
+    excerpt: "A self-driving car, also known as an autonomous car or driverless car, is a vehicle that uses a combination of sensors, cameras, radars and artificial intelligence (AI), to travel between destinations without the need of any human effort. To qualify as fully autonomous, a vehicle must be able to navigate without human intervention, to a ..."
+    publishedDateTime: 2020-01-17T14:36:00Z
+    sourceUrl: https://www.openpr.com/news/1899937/self-driving-car-market-2018-2023-and-top-key-players
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
+
 secured: "TZQz/LFJqagZz2mWNi909fgJpAKD+F/mYys4idkQhCL/R5RSH5VGGq8yQHkENmNrQDKDUvG1TfLGSKII4S7p19OGXb3ca00kM0m3AE5VuH0rUI2IuECMmGW/iKdyXCQQbKW4kuKvxqF7OrNvn75UYZxVmSIkwlfDAZMNEuHcACPkq6ZYN1Y1MEgjod7/MThzc8y8KN8Q00N+TslrzciFaIGjdOs6gHn9hhe4zBsMzqMBKpwxntFFn+AaSr57W/WIusXUskonrn4acvNf8zp07GnBS7Kt+ekwObCdz55Amw4=;1S7ULngLe5zO5LZmV2q7vw=="
 ---
 

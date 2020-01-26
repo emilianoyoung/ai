@@ -24,19 +24,19 @@ images:
     title: "Emerging Tech: Advances in Artificial Intelligence, Virtual Reality and Mobile"
 
 related:
-  - title: "AI, emerging technologies encroaching on role of managers in workplace"
-    excerpt: "Do you want to leverage data governance as an enabler?Are you working at driving AI/ML implementation? Want to stay abreast of data privacy and AI ethics requirements? Are you working hard to push predictive analytics to the limits? With so much to keep on top of in such a rapidly changing technology space, collaboration is key to success."
-    publishedDateTime: 2020-01-24T02:20:00Z
-    sourceUrl: https://itwire.com/strategy/ai,-emerging-technologies-encroaching-on-role-of-managers-in-workplace.html
+  - title: "Sony advances augemented reality with SmartAR"
+    excerpt: "SmartAR, as Sony refers to it, is capable of identifying and tracking objects at a high rate of speed using a hybrid technology which combines advanced object recognition with matching and image tracking technology. Probably the most impressive part of SmartAR is in its ability to identify 3D structures that not only allows for virtual images ..."
+    publishedDateTime: 2020-01-17T22:53:00Z
+    sourceUrl: https://www.geek.com/news/sony-advances-augemented-reality-with-smartar-1382377/
     type: article
     provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 39
+      name: Geek.com
+      domain: geek.com
+    quality: 54
     images:
-      - url: https://itwire.com/media/k2/items/cache/6c9a48c3a6ba8e2feca55584f3079d03_M.jpg
-        width: 375
-        height: 353
+      - url: https://www.geek.com/wp-content/uploads/2011/05/smartar.jpg
+        width: 567
+        height: 304
 
 secured: "vEqjJ6zmoW3mq4CuGvqwRMEsQC5ZR9J3Hnpm6rMW1kKcQeUHX8nG7kY+47+iuFgsuUlh4eGm3LPOMDlRko7nyZcLhWcM28cUIx3cUc+6v+3KBkVTRGjrxhfupmYrlSBDQN6O3WMYmp/G6g37WFEEJUOmQHwWzH6TlEEmuObH8dHoImrXWiB3DzC4TumDW1EAi5mNoe9GBm5fh+wvxd2NU/IV6qP4ZP7DgLopBBEioheMlf8/ILq078b+aZvtvBctmzCBtd55UPeFQtPGzluoHAs0Xo2l8aYrtHivtRPGKQ+7ODQUTcZ5v5LxLfGzNyxEDcKSBb7Xtzk3F4tH1uadQSF5wbPbY2rP2bL3GWszHgedkYa3RyQZ9DeYsft2j5pEhXOzpcK5wmpk2uIqBPdyHW12wDC44wri/hjWJKa3whthY2T0luxTSXiWYhf6jSJ0SqHmO4pjEqKZp05orhsRPg==;FZdQq8EUq4A+xBgxDu1NOg=="
 ---

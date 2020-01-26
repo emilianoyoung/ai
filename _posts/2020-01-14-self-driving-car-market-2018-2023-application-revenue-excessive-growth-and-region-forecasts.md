@@ -28,87 +28,32 @@ images:
     title: "Self-driving car market 2018-2023 Application, Revenue, Excessive Growth, and Region-Forecasts"
 
 related:
-  - title: "Artificial Intelligence for Healthcare Applications Market to Show Strong Growth by 2025"
-    excerpt: "Global Artificial Intelligence for Healthcare Applications Market Size, Status and Forecast 2019-2025 is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis,"
-    publishedDateTime: 2020-01-14T15:23:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-to-show-strong-growth-by-2025-2020-01-14
+  - title: "Future of Cartesian Robot Market 2020: Integration of Artificial Intelligence and Big Data"
+    excerpt: "Cartesian Robots Market Research Report and Forecast to 2019-2024 Report provide extensive research on the fast-evolving Cartesian Robots Market. It also gives the competitive landscape of the leading companies with regional and Global analysis of the market till 2027."
+    publishedDateTime: 2020-01-14T10:16:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/future-of-cartesian-robot-market-2020-integration-of-artificial-intelligence-and-big-data-2020-01-14
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 75
+    quality: 74
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Upcoming Innovations In Artificial Intelligence in Healthcare Thriving Medical Attention by 2025"
-    excerpt: "“Grand View Research, Inc. – Market Research And Consulting.” Artificial Intelligence in Healthcare Market Size, Share, & Trends Analysis By Component"
-    publishedDateTime: 2020-01-09T08:35:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15096479/upcoming-innovations-in-artificial-intelligence-in-healthcare-thriving-medical-attention-by-2025
-    ampUrl: https://amp.benzinga.com/amp/content/15096479
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15096479
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 61
-    images:
-      - url: https://www.grandviewresearch.com/static/img/research/us-artificial-intelligence-in-healthcare-market.png
-        width: 600
-        height: 300
-  - title: "AI In Medical Imaging Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025"
-    excerpt: "The AI In Medical Imaging Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"AI In Medical Imaging Market\"."
-    publishedDateTime: 2020-01-17T17:18:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-enhancement-latest-trends-growth-and-opportunity-during-2019-to-2025-2020-01-17
+  - title: "Cloud Natural Language Processing (NLP) Market 2019-2027 / Trends, Analysis, Segmentation And Forecast"
+    excerpt: "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
+    publishedDateTime: 2020-01-16T10:31:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2019-2027-trends-analysis-segmentation-and-forecast-2020-01-16
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 53
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Software Market Analysis, Evolving Opportunities Studied for the Period Until 2025"
-    excerpt: "Kenneth Research provides an extensive study by our analysts which offers forecast assessment by correlating the historical data with key market dynamics. The Artificial Intelligence Software Market further includes trends and opportunities that are highlighted,"
-    publishedDateTime: 2020-01-16T04:57:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-software-market-analysis-evolving-opportunities-studied-for-the-period-until-2025-2020-01-16
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Healthcare Market to Witness Steady Growth Based on Rising Significance of Big Data in Healthcare"
-    excerpt: "Before it's here, it's on the Bloomberg Terminal."
-    publishedDateTime: 2020-01-21T10:44:00Z
-    sourceUrl: https://www.bloomberg.com/press-releases/2020-01-21/artificial-intelligence-in-healthcare-market-to-witness-steady-growth-based-on-rising-significance-of-big-data-in-healthcare
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 37
-  - title: "Robot Software Market – Growth Strategies & Worldwide Growth Survey by 2025"
-    excerpt: "It is used to perform an autonomous task. The demands for robot software market is anticipated to rise in the forecasted period with growing need to reduce costs while maintaining quality and increasing adoption of Internet of Things (IoT) and Artificial Intelligence (AI). Each segment and sub-segment is analyzed in the research report."
-    publishedDateTime: 2020-01-17T18:21:00Z
-    sourceUrl: https://www.openpr.com/news/1900051/robot-software-market-growth-strategies-worldwide-growth
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 17
-  - title: "Artificial Intelligence as a Service Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
-    excerpt: "New York, January 21, 2020: The global Artificial Intelligence as a Service market is segregated on the basis of Services as Cognitive Computing APIs, Custom Cognitive Computing APIs, and Conversational AI."
-    publishedDateTime: 2020-01-21T04:15:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2020-global-trends-industry-share-supply-demand-size-growth-and-forecast-to-2025mre-analysis-2020-01-21
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
 
 secured: "eVqIKzUUkF0SCsAXEoONSYxZ5fdpBKIbNjQZUuFHw7dr6ByFnA+pudMoWxuxy8tFmKEiuW6MPVHZg6HAj1On/UyBZGIDhuhPn4DWkOs/usaBsryM9fKFUCVL5P7dWS6ziFejGzZ1XA6E7jbuOgWtM1HGFVjYr4Fe+3rpEACfdjz6c3+JeM61mzLpAMAqN+JYgv+KoLFB3ZbDM+UEOFkjHrpdAotSi9yeXhmsJZ3gRVf9JNcUGKIbnrmSt8lYzX3sN3w+79of5M5ERrs9IaFZ6UyxFNWS9DpBPUp06ZgjBnE=;RgTe6WqI/Es1fkd1ENLi2w=="
 ---

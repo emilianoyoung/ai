@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-22T00:10:00Z
 sourceUrl: https://www.telecomstechnews.com/news/2020/jan/21/turkcell-unveils-its-commitment-ethical-and-responsible-ai-usage/
 type: article
 quality: 54
-heat: 74
+heat: 64
 published: true
 
 provider:
@@ -37,19 +37,6 @@ related:
       - url: https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/c/57/c57ca62f-e796-5e70-90d2-e46aa31b4e3c/5e1f306a32dac.image.jpg?resize=1032%2C630
         width: 1032
         height: 630
-  - title: "Turkcell Lays Out AI Principles"
-    excerpt: "We are proud to become the first company to contribute to AI ethics in Turkey. The field will continuously expand and we will witness its transformative impacts in our daily lives,” he added. Speaking to the importance of AI applications being developed in Turkey and the advantages they offer to those developed abroad, Turkcell CIO Serkan ..."
-    publishedDateTime: 2020-01-16T16:21:00Z
-    sourceUrl: https://mobileidworld.com/turkcell-lays-out-ai-principles-011601/
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 39
-    images:
-      - url: https://mobileidworld.com/wp-content/uploads/scroll.jpg
-        width: 599
-        height: 479
 
 secured: "O/95msmy/USl4Vq7qUVW6ppJcs+I3XZnIaRcr/RKF0dJzE708LL4BIXUhrUpgDatkHwAgEHheTqJobDxPB+ymAXta3+tPqihATc4hzues65hdiqbc6hZuPABBKoGVMLs1blbdoj7obU86OTDct0KVn2dNuCjHH2U28JbY8jwCUGexrzDW9N/8+/MwHS7qbSAOjOaIB+gp4jxYhw4p+hAllUN6ZPKzx3uStSUQc1Tv2PvpAhScrTFne4T6AqN0PzciTqU0hyPB+9FPvtRdc590b3TUdp78wYzYihK+uqwFUz1Pqvjy4wEHmAqbvDJ8OGxavwYGNKxGzPHJC4Yf6IHyZ69sieydjY2Il3n06guj+dA8Bir7UrHNLyyvD2dhUdALl62MuNUpNmc3cyBQFxRRGq6b2j+ZmkjJaTidF159fFP3P9wETjaCiFSTVCDOokI7Z5QEHSNYg1DkZ8QMygQOfYfrIGL19Ah3e9KWGBhajA=;+suUeo0hchNPj3daQ8ooog=="
 ---

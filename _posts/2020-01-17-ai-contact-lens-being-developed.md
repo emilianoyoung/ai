@@ -23,47 +23,77 @@ images:
     title: "AI contact lens being developed"
 
 related:
-  - title: "Socially savvy artificial intelligence to be developed at UA"
-    excerpt: "Artificial intelligence is everywhere. Whether it’s Siri, Alexa or Google Assistant, people use AI agents on a daily basis to communicate, to remember things and to make everyday life more convenient. Now, University of Arizona researchers are looking to take AI to the next level. Like something from a science fiction movie, they are hoping ..."
-    publishedDateTime: 2020-01-20T15:00:00Z
-    sourceUrl: https://tucson.com/news/local/socially-savvy-artificial-intelligence-to-be-developed-at-ua/article_0f8879d4-3543-56ba-a7dd-12c18c0b3d7b.html
-    ampUrl: https://tucson.com/news/local/socially-savvy-artificial-intelligence-to-be-developed-at-ua/article_0f8879d4-3543-56ba-a7dd-12c18c0b3d7b.amp.html
-    cdnAmpUrl: https://tucson-com.cdn.ampproject.org/c/s/tucson.com/news/local/socially-savvy-artificial-intelligence-to-be-developed-at-ua/article_0f8879d4-3543-56ba-a7dd-12c18c0b3d7b.amp.html
+  - title: "Mojo Vision demos wildly futuristic AR contact lens that’s ‘years away’"
+    excerpt: "The company was founded in 2015 with prototypes arriving by 2017. Sometime during the 2020s, they hope to have a final feature set that includes a hi-res microLED display, fast wireless data, and battery power, as well as eye tracking and computer vision. The last two aspects would make for an eye-controlled UI, and fulfill that sci-fi vision ..."
+    publishedDateTime: 2020-01-16T00:00:00Z
+    sourceUrl: https://9to5google.com/2020/01/16/mojo-ar-contact-lens/
+    ampUrl: https://9to5google.com/2020/01/16/mojo-ar-contact-lens/amp/
+    cdnAmpUrl: https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/01/16/mojo-ar-contact-lens/amp/
     type: article
     provider:
-      name: Arizona Daily Star
-      domain: tucson.com
-    quality: 57
+      name: 9to5Google
+      domain: 9to5google.com
+    quality: 44
     images:
-      - url: https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/0/85/08513400-1dc1-589e-8d7b-5f0836a08307/5e224e7ec3a7a.image.jpg
-        width: 750
-        height: 415
-  - title: "New AI System Developed To Detect Potentially Hazardous Asteroids"
-    excerpt: "A team of scientists from the Netherlands was able to develop a new system that can track asteroids that are in danger of causing major impact events on Earth. According to their scientists, their system is more effective than the one currently being used by NASA to track asteroids."
-    publishedDateTime: 2020-01-22T03:05:00Z
-    sourceUrl: https://www.ibtimes.com/new-ai-system-developed-detect-potentially-hazardous-asteroids-2907051
+      - url: https://9to5google.com/wp-content/uploads/sites/4/2020/01/mojo-ar-contact-lens-timeline.jpg?quality=82&strip=all&w=700
+        width: 700
+        height: 392
+  - title: "Mojo Vision demos wildly futuristic AR contact lens - 9to5Google"
+    excerpt: "The company was founded in 2015 with prototypes arriving by 2017. Sometime during the 2020s, they hope to have a final feature set that includes a hi-res microLED display, fast wireless data, and battery power, as well as eye tracking and computer vision. The last two aspects would make for an eye-controlled UI, and fulfill that sci-fi vision ..."
+    publishedDateTime: 2020-01-17T00:59:00Z
+    sourceUrl: https://9to5google.com/2020/01/16/mojo-ar-contact-lens/
+    ampUrl: https://9to5google.com/2020/01/16/mojo-ar-contact-lens/amp/
+    cdnAmpUrl: https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/01/16/mojo-ar-contact-lens/amp/
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 37
+      name: 9to5Google
+      domain: 9to5google.com
+    quality: 44
     images:
-      - url: https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2015/03/16/asteroids.jpg
-        width: 946
-        height: 710
-  - title: "$7.5 million grant will fund development of socially savvy artificial intelligence teammates"
-    excerpt: "University of Arizona researchers have been awarded $7.5 million to create an artificial intelligence agent that can understand social cues and human interactions, and use that information to help teams achieve their goals. The grant comes from the Defense Advanced Research Projects Agency and is part of DARPA's Artificial Social Intelligence ..."
-    publishedDateTime: 2020-01-17T15:10:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/uoa-gw011620.php
+      - url: https://9to5google.com/wp-content/uploads/sites/4/2020/01/mojo-ar-contact-lens-timeline.jpg?quality=82&strip=all&w=700
+        width: 700
+        height: 392
+  - title: "Mojo Vision’s Smart Contact Lens Puts An AR Display Directly On Your Eyeball"
+    excerpt: "and “the world’s most power-efficient” image sensor that’s been optimized specifically for computer vision, all adding up to what Mojo Vision claims is “the smallest and densest dynamic display ever made.” Although the device is still in its research and development phase—the company is currently performing clinical studies under ..."
+    publishedDateTime: 2020-01-16T22:46:00Z
+    sourceUrl: https://vrscout.com/news/mojo-visions-smart-contact-lens-puts-an-ar-display-directly-on-your-eyeball/
+    ampUrl: https://vrscout.com/news/mojo-visions-smart-contact-lens-puts-an-ar-display-directly-on-your-eyeball/amp/
+    cdnAmpUrl: https://vrscout-com.cdn.ampproject.org/c/s/vrscout.com/news/mojo-visions-smart-contact-lens-puts-an-ar-display-directly-on-your-eyeball/amp/
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 26
+      name: VRScout
+      domain: vrscout.com
+    quality: 41
     images:
-      - url: https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
-        width: 900
-        height: 300
+      - url: https://l3apq3bncl82o596k2d1ydn1-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/MojoVision_1-1024x683.jpg
+        width: 1024
+        height: 683
+  - title: "Exclusive: Mojo Vision’s AR contact lenses"
+    excerpt: "Before leaving Sun in 2001, Deering had built a reputation as an expert in artificial intelligence, computer vision, 3D graphics, and virtual reality. And he too had poor vision. After Sun, Deering spent a decade working out all the problems of focusing a micro-display—either within a contact lens or implanted in the eye—at the retina."
+    publishedDateTime: 2020-01-16T11:00:00Z
+    sourceUrl: https://www.fastcompany.com/90441928/the-making-of-mojo-ar-contact-lenses-that-give-your-eyes-superpowers?partner=rss
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 24
+    images:
+      - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-MojoWebHeroShotofLens.jpg
+        width: 1280
+        height: 720
+  - title: "Mojo Vision developing “smart” contact lens"
+    excerpt: "Mojo Lens features a power-efficient image sensor that is optimized for computer vision, a custom wireless radio and motion sensors for eye-tracking and image stabilization. The device increases contrast, highlights edges, magnifies objects and zooms out ..."
+    publishedDateTime: 2020-01-17T14:52:00Z
+    sourceUrl: https://www.massdevice.com/mojo-vision-developing-smart-contact-lens/
+    type: article
+    provider:
+      name: MassDevice
+      domain: massdevice.com
+    quality: 24
+    images:
+      - url: https://4euxkl47p0vx1fmnm22vvi3p-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/MDO_webAD_5-19_Vs1.jpg
+        width: 300
+        height: 250
 
 secured: "2jPDC7CdjeuTtmxI9BKuDclHqrsoTCr6wRCxAMmPRUfoRLWkmlpx7cOAICBMBAYs20obEAcX5drf5em6fHCJCxHdbld8NfDv0kdj3bc/ujWk5XBs29TGwKvBC6P2fwp740XyZVWI5t42KGun9rk+ehDTzl3YCvZzPuFz7/sfjMvYjXVSKo2M6qaT/qjCkUi18JD/hpRWD7thg0KG6QmeLQf+p6nPUjQZK9w+7jlYBsdCrG9nbE0isNB53nMwU84Emts4qixGkFge3XDzTJlnTIKp/zqG/KwYkKy2Isg2ShM=;w2D0saRwzlyzINtd+OPhdg=="
 ---

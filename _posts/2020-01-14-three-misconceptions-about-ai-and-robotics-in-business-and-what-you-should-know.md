@@ -44,15 +44,19 @@ related:
       - url: https://biz-file.com/c/2001/534598.jpg
         width: 531
         height: 648
-  - title: "This is exactly what you need to know about AI and the future of your job"
-    excerpt: "Even today, when we hear the words “Artificial Intelligence”, our minds immediately conjure up visions of Hollywood ... It’s here in automated messages randomly calling our phones with offers. Driverless cars, drones delivering our packages, interactive advertising ………, the list is growing. So, we are not dealing with science ..."
-    publishedDateTime: 2020-01-16T13:32:00Z
-    sourceUrl: https://www.theladders.com/career-advice/this-is-exactly-what-you-need-to-know-about-ai-and-the-future-of-your-job
+  - title: "You should stop worrying about robots taking your job"
+    excerpt: "Two 40-year old robots returned to the big screen this year ... Our fears about automation come down to three factors: machines will execute tasks more efficiently; machine learning will enable artificial intelligence (AI) to make complex decisions more effectively; and technology companies will sell software and algorithms to replace slow ..."
+    publishedDateTime: 2020-01-20T06:11:00Z
+    sourceUrl: https://www.wired.co.uk/article/robots-human-jobs
     type: article
     provider:
-      name: TheLadders.com
-      domain: theladders.com
-    quality: 20
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 39
+    images:
+      - url: https://wi-images.condecdn.net/image/MLZdlXaxPy5/crop/1440/0.5235602094240838/f/w30_04_byrona_final.jpg
+        width: 1440
+        height: 753
 
 secured: "KuIttI1z14uYj166gG/P+pkMAXvfw8yQ/42CluItxgiBSe062Azso2OU7e6clLEGMkcR01u82IRo4kehFd/Dx4nJd3BrzEgggE4Z5YLRFbVjakjoEZxRRHpU4bwjlkZB1hZxBvyW2aGsHi9+ClxoTO9ufTs8uxfl1J55QNVVd5WoveIkehC4WlXNuish+YiFweZrPm0j4gE9LE7n3dYlZQEj9FYouRvaEEeXGjMdl/AiKOu/l1rL2xdjMORAYoE1dev3TSeKUKGuvf+sc8Vc9sSg/iKi1iuam9WwS4dPw68=;jEtZLEr8xeGTVa8Z9mYdHA=="
 ---

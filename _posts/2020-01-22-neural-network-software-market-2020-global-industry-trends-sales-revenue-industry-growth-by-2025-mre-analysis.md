@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-22T04:36:00Z
 sourceUrl: https://www.marketwatch.com/press-release/neural-network-software-market-2020-global-industry-trends-sales-revenue-industry-growth-by-2025-mre-analysis-2020-01-22
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -28,30 +28,89 @@ images:
     title: "Neural Network Software Market 2020: Global Industry Trends, Sales Revenue, Industry Growth by 2025 – MRE Analysis"
 
 related:
-  - title: "AI-Powered Storage Market 2020 – 2025: Business Profit Growth, Statistics, Competitor Landscape, Top Key Players and Industry Trends"
-    excerpt: "“AI-Powered Storage Market” Global AI-Powered Storage Market is expected to grow from USD 10.71 Billion in 2018 to USD 25.05 Billion by 2025, at a CAGR of"
-    publishedDateTime: 2020-01-20T08:55:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15148714/ai-powered-storage-market-2020-2025-business-profit-growth-statistics-competitor-landscape-top-ke
-    ampUrl: https://amp.benzinga.com/amp/content/15148714
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15148714
+  - title: "Latest News| Artificial Intelligence (AI) in Healthcare Market Growth Analysis|Professional Survey 2020 by Global Demand"
+    excerpt: "The development of ARTIFICIAL INTELLIGENCE technology is helping the healthcare ecosystem to growing ARTIFICIAL INTELLIGENCE in Healthcare Industry.  It has been witnessing a lot of transformations and growth with new technological breakthroughs in various applications,"
+    publishedDateTime: 2020-01-24T07:44:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/latest-news-artificial-intelligence-ai-in-healthcare-market-growth-analysisprofessional-survey-2020-by-global-demand-2020-01-24
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence and Machine Learning Market Evolving Technology and Growth Outlook 2020 to 2024"
+    excerpt: "Artificial Intelligence and Machine Learning Report by Material, Application, and Geography - Global Forecast to 2024 is a professional and in-depth research report on the world's major regional market conditions,"
+    publishedDateTime: 2020-01-24T07:19:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-evolving-technology-and-growth-outlook-2020-to-2024-2020-01-24
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Deep Learning Market 2020: Global Industry Trends, Sales Revenue, Industry Growth by 2025 – MRE Analysis"
+    excerpt: "New York, January 21, 2020: Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks. The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period."
+    publishedDateTime: 2020-01-21T06:30:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-market-2020-global-industry-trends-sales-revenue-industry-growth-by-2025-mre-analysis-2020-01-21
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Wearable AI Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
+    excerpt: "New York, January 21, 2020: The report scope includes detailed competitive outlook covering market shares and profiles key participants in the global Wearable AI market share. Major industry players with significant revenue share include Google,"
+    publishedDateTime: 2020-01-21T03:54:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/wearable-ai-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-01-20
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Automated Material Handling Equipment Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
+    excerpt: "New York, January 21, 2020: Continuous rise in demand for automation in industries has revolutionized the adoption of automatic material handling equipment. With the appearance of technologies adore artificial intelligence,"
+    publishedDateTime: 2020-01-21T05:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/automated-material-handling-equipment-market-2020-analysis-growth-vendors-shares-drivers-challenges-with-forecast-to-2025-2020-01-21
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 26
     images:
-      - url: https://www.abnewswire.com/uploads/1579513552.jpeg
-        width: 489
-        height: 288
-  - title: "Self-Driving Truck Market: 2019 Industry Analysis, Size, Trends, Growth and Forecast 2025 | BMW AG, Isuzu Motors Limited, General Motors"
-    excerpt: "Global Self-Driving Truck Market Report covers analysis of Manufacturers, Type, Application, Marketing Strategy, Distributors/Traders, Effect Factors, Trends 2019 & Forecasts 2025 Self-driving truck is also known as autonomous truck and robotic truck. Self-driving trucks feature all the major competencies of traditional trucks. Further ..."
-    publishedDateTime: 2020-01-21T12:39:00Z
-    sourceUrl: https://www.techworld.com.au/mediareleases/37759/self-driving-truck-market-2019-industry-analysis/
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Robot Software Market – Growth Strategies & Worldwide Growth Survey by 2025"
+    excerpt: "It is used to perform an autonomous task. The demands for robot software market is anticipated to rise in the forecasted period with growing need to reduce costs while maintaining quality and increasing adoption of Internet of Things (IoT) and Artificial Intelligence (AI). Each segment and sub-segment is analyzed in the research report."
+    publishedDateTime: 2020-01-17T18:21:00Z
+    sourceUrl: https://www.openpr.com/news/1900051/robot-software-market-growth-strategies-worldwide-growth
     type: article
     provider:
-      name: Australian Techworld
-      domain: techworld.com.au
-    quality: 0
+      name: openpr.com
+      domain: openpr.com
+    quality: 17
+  - title: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market Set To See Huge Growth !!"
+    excerpt: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market, By Component (Technology and Services), By Type (Rule-based, Statistical, Hybrid), By Application (Machine Translation, Automated Information Extraction and others), By Deployment Mode (Cloud and On-Premise), By Geographical Segments- Industry Trends and Forecast ..."
+    publishedDateTime: 2020-01-23T20:07:00Z
+    sourceUrl: https://www.openpr.com/news/1906775/global-natural-language-processing-nlp-in-healthcare-and-life
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 2
 
 secured: "uK3wbhYPEAphj6dNyj/60KknqMW05ILTrTrcDO0U8Ld5mhww6BMqEzBq7Fg8mZVTU/nV28WQtEWiWHd8dK12epZa/RdR9ite4keJqgUHG6LxtnWF8AYdAuzjlDAiJTeC6l7kogeFVf2rqo6lDBMz0UjXCNYatvueGafdSxbzx4vG2GuNyldKbotY0H6RKdc+iZxH4mqLLJ/kWd/e12Xum3AwKup9iwUQGl+gJgeOZz0gbct0Z9Qe8tkl0+qkC3eSASipbjqreDFSSfVhQEiVbBHToEj+Bsfy5AQOQOp26Pk=;avYXFHpVjwygk7IyAd2NMA=="
 ---

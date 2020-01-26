@@ -28,19 +28,21 @@ images:
     title: "Pfizer has tied up with a biotech startup to leverage its AI tools to identify drug targets"
 
 related:
-  - title: "Pfizer Taps Insilico Medicine to Use AI for Drug Target Discovery"
-    excerpt: "Insilico Medicine on Tuesday announced that it has entered a research collaboration with Pfizer, which Insilico CEO Alex Zhavoronkov says has “one of the most advanced AI teams internally both in target identification ... Pfizer, not new to applying such advanced analytics, also has worked with IBM Watson and Concerto HealthAI."
-    publishedDateTime: 2020-01-14T17:17:00Z
-    sourceUrl: https://xconomy.com/national/2020/01/14/pfizer-taps-insilico-medicine-to-use-ai-for-drug-target-discovery/
+  - title: "Karnataka Ties Up With Bahrain To Boost AI, Fintech Startup Ecosystem"
+    excerpt: "BrandLabs is the brand marketing arm of Inc42 Media. With a team of journalists & analysts, and 4 years of extensive regional editorial expertise, we cover the country’s startups like no other. Want to start a campaign for your startup? Submit your startup here."
+    publishedDateTime: 2020-01-24T14:17:00Z
+    sourceUrl: https://inc42.com/buzz/karnataka-ties-up-with-bahrain-to-boost-ai-and-fintech-startup-ecosystem/
+    ampUrl: https://inc42.com/buzz/karnataka-ties-up-with-bahrain-to-boost-ai-and-fintech-startup-ecosystem/?amp
+    cdnAmpUrl: https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/karnataka-ties-up-with-bahrain-to-boost-ai-and-fintech-startup-ecosystem/?amp
     type: article
     provider:
-      name: Xconomy
-      domain: xconomy.com
-    quality: 39
+      name: inc42.com
+      domain: inc42.com
+    quality: 59
     images:
-      - url: https://media.xconomy.com/wordpress/wp-content/images/2020/01/14120922/iStock-648272290.jpg
-        width: 750
-        height: 448
+      - url: https://i2.wp.com/cdn.inc42.com/wp-content/uploads/2019/12/Untitled-design-2019-12-24T190039.447.jpg?fit=1200%2C628&#038;ssl=1
+        width: 1200
+        height: 628
 
 secured: "1HX8FNqWhCpWQgMCzG+SORCug6avi7KhlcByFnSKTA3/tCQeyd9AiJA0IVtVI7a8x8B9srAn2S+Pa7yo6CN8VwuAuxroxsaOvNs61D/rE8T49PpJOOLdxEhriDynLiHmyRaB7N04H9LoFKKR0f7/gh0wuw/jPTLXzRaqVy9xifNl7NMAhWf43NwfK34NFCahlz2p1ucPTWPGMYN+c947aHDGCsaum+D0a1OykyF4jI0FmACEPrvTsyVZDCo3/7kVHqJWqVzXn7Ja+xD6U46jjsiL2m1MIZyAmS+0B27NaEZ756C2gffNaqQHL07fEYZB0+KmR48qAJMC8kR0t95UHdYg0rm4kMt6IpLl1ERWV2bTUqfsidCazrlnFTrESCrNqr2bpyhwVz/2lKVgk8s+I5Jo2GATMotBZhqjAXq446yGMDOlY4Q6U11IKlChZl8v9MZWZwZNe5y4xhIg199N6Q==;svbeyO56jCtI2Rot9xBcWQ=="
 ---

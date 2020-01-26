@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Hitachi Vantara Announces Intent To Acquire Waterline Data"
-excerpt: "SANTA CLARA, Calif., Jan. 22, 2020 (GLOBE NEWSWIRE) -- Hitachi Vantara, a wholly owned subsidiary of Hitachi, Ltd. (TSE: 6501), today announced its intent to acquire the business of privately held Waterline Data,"
-publishedDateTime: 2020-01-22T13:00:00Z
-sourceUrl: https://www.benzinga.com/pressreleases/20/01/g15162811/hitachi-vantara-announces-intent-to-acquire-waterline-data
-ampUrl: https://amp.benzinga.com/amp/content/15162811
-cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15162811
+excerpt: "Waterline Data delivers catalog technology enabled by machine learning (ML) that automates metadata discovery to solve modern data ... It can be applied on-premises or in the cloud to large volumes of data in Hadoop, SQL, Amazon Web Services (AWS), Microsoft Azure and Google Cloud environments. Waterline Data’s patented “fingerprinting ..."
+publishedDateTime: 2020-01-22T14:29:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-hitachi-vantara-announces-intent-acquire-waterline-data-/2020/01/22/9085292.htm
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - Microsoft AI
 
-secured: "8opaj3MjIKHBmKeDuQSvc934vFrmkE9qLVUuy9waMK++yYC2KVbiQAtsVIVtKEtpuFzyV3h9ALwQvoTz++awzpUzDrhFoS0qsRDozEFyrmpz58wPHs0vQD9p+zjhMRQsKobaS+t+brfftZQHzc3SO0z0aRguH+ZLFf0yGZZqyriR2LQauNYWqtB+SXECxw0d/Z44zBPeDckFP13DDD/2tPqnGcHqD+6cVdnxXttZKhbk9JfMGF9dy3uDbsX4ZluPD6cqsZoorD1nov+qY6miF7upJcEa1NknvSJwJRIpYkG/xDecN/g2mqZ5KfQ88MMR;LPWBE5TPpxZ2XQnpHJrRpw=="
+images:
+  - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
+    width: 252
+    height: 335
+    title: "Hitachi Vantara Announces Intent To Acquire Waterline Data"
+
+secured: "IG/y9D6D6xnNu6meIxkiqJ3TZNn0hAyY4hCvEANF1DaTF2l6vMlJ5yFKHoY4hTihyZmHkNNsGGgPEJ8bpTXYWB8Gfk16tJCBze2L2G6TD79k1/AbaF0ONoqmtaazV3BNwLxmy/ocZ8w4EhhMc+7PDC8uQq8PHYykHeCsl8Gp1l0ToAoJRB3bD6O1gXHZ71Pz0Qd/fFuI2eatsA9Ugp5bmZGavLjiAvxcBWkqPWXSSZDJSGlzrNdXYQtJAGAoqajMDv5DbVWjdZ4K0lXmi92ZGD0tCvQcpxSDtFJ9QQKEi6YdepWbZHCX9uyXKR/5TMra;nIulEqaBZ3NJHuKhFJj10Q=="
 ---
 

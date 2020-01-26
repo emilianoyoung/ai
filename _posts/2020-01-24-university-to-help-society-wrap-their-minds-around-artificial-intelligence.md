@@ -8,7 +8,7 @@ ampUrl: https://www.governing.com/next/University-to-Help-Society-Wrap-Their-Min
 cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/University-to-Help-Society-Wrap-Their-Minds-Around-Artificial-Intelligence.html?AMP
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,23 @@ provider:
 topics:
   - AI
   - AI Ethics
+
+related:
+  - title: "Artificial intelligence researchers create ethics center at University of Michigan"
+    excerpt: "ANN ARBOR, MI — Researchers at the University of Michigan have been exploring the need to set ethics standards and policies when it comes to the use of artificial intelligence, and they now have their own place to do so. The university has created a new Center of Ethics, Society and Computing (ESC) that will focus on AI, data usage ..."
+    publishedDateTime: 2020-01-23T17:10:00Z
+    sourceUrl: https://www.mlive.com/news/ann-arbor/2020/01/artificial-intelligence-researchers-create-ethics-center-at-university-of-michigan.html
+    ampUrl: https://www.mlive.com/news/ann-arbor/2020/01/artificial-intelligence-researchers-create-ethics-center-at-university-of-michigan.html?outputType=amp
+    cdnAmpUrl: https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2020/01/artificial-intelligence-researchers-create-ethics-center-at-university-of-michigan.html?outputType=amp
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 68
+    images:
+      - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/N7BM7UM7BZDRLNY65JNKX3LVMY.jpg
+        width: 1920
+        height: 1080
 
 secured: "iSrn7oF2/lO02P4SkPSsJ0qHro3cLUOyRlCbgCCjU7WMUPdodA7j1pnH/xmcm1RQf3z4pqf7U+n8yDZUd1mOQXSYUYxu8oyRYJqwVq8/IZ7XaRYElv+tfrRvjEw/Pt6Coa2PmLF0frNgM7jAj3X7uYD+mBomEMJ3LdW/tgBTJWv59j8hWuqOsrUoueTCmfxN601qtY2mjR2VC+1qh66t6qVvFJ468jzeyyTIyARjDumXr6+m/oOxWB9/toJsg5ocMwwOilqSqpZy3HVdP/orbgvIQDGj7OZtMFiTTvo+wnfXeF3PD6+oqV+ewi2Y8BE/;TBcabTl8cqQpAhOM5kNutg=="
 ---

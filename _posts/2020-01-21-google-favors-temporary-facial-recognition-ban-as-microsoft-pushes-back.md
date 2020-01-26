@@ -8,8 +8,8 @@ ampUrl: https://www.theverge.com/platform/amp/2020/1/21/21075001/facial-recognit
 cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/21/21075001/facial-recognition-ban-google-microsoft-eu-sundar-pichai-brad-smith
 type: article
 quality: 89
-heat: 149
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Verge
@@ -30,80 +30,227 @@ images:
     title: "Google favors temporary facial recognition ban as Microsoft pushes back"
 
 related:
-  - title: "Microsoft unveils new Azure Service, Genesys Engage"
-    excerpt: "One of the biggest challenges is connecting the details of every interaction across all channels to ensure each customer has a seamless experience. By leveraging Microsoft’s Azure cloud and AI technologies, Genesys is helping enterprises create a seamless customer journey with Microsoft's trusted, secure and scalable platform.\" Microsoft has ..."
-    publishedDateTime: 2020-01-23T17:52:00Z
-    sourceUrl: https://www.neowin.net/news/microsoft-unveils-new-azure-service-genesys-engage
+  - title: "Advocates ask colleges to avoid facial recognition as surveillance grows"
+    excerpt: "To that end, digital rights advocacy group Fight for the Future today launched a campaign to get facial recognition off of college campuses. The campaign is partnering with student advocacy groups at The George Washington University in Washington, DC, and DePaul University in Chicago. \"Facial-recognition surveillance spreading to college ..."
+    publishedDateTime: 2020-01-14T21:24:00Z
+    sourceUrl: https://arstechnica.com/tech-policy/2020/01/advocates-ask-colleges-to-avoid-facial-recognition-as-surveillance-grows/
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 84
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 168
     images:
-      - url: https://cdn.neow.in/news/images/uploaded/2020/01/1579801417_ms-nadella-satyagenesys-ceo-bates-tony-0019-edit-1-1024x803_story.jpg
+      - url: https://cdn.arstechnica.net/wp-content/uploads/2020/01/GettyImages-1167712182-760x380.jpg
         width: 760
-        height: 595
-  - title: "China cares as deeply about A.I. ethics as the US, Microsoft CEO says, as he calls for global rules"
-    excerpt: "Microsoft CEO Satya Nadella said he believes \"China cares as deeply about AI ethics as the United States.\" Nadella called for global rules around the use of AI such as facial recognition. Nadella's comments come as the U.S. increases its scrutiny of Chinese AI firms, putting some of the country's major firms on a blacklist. China cares \"as ..."
-    publishedDateTime: 2020-01-23T12:35:00Z
-    sourceUrl: https://www.cnbc.com/2020/01/23/microsoft-ceo-at-davos-china-cares-as-deeply-about-ai-ethics-as-us.html
-    ampUrl: https://www.cnbc.com/amp/2020/01/23/microsoft-ceo-at-davos-china-cares-as-deeply-about-ai-ethics-as-us.html
-    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/23/microsoft-ceo-at-davos-china-cares-as-deeply-about-ai-ethics-as-us.html
+        height: 380
+  - title: "Fight for the Future launches campaign to keep facial recognition off U.S. college campuses"
+    excerpt: "Fight for the Future, the Boston-based nonprofit promoting causes related to copyright legislation, online privacy, and internet censorship, today announced that it will team up with advocacy group Students for Sensible Drug Policy to launch an effort to ban facial recognition from university campuses in the U.S. To kick start the grassroots ..."
+    publishedDateTime: 2020-01-14T11:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/
+    ampUrl: https://venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/amp/
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 77
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 94
     images:
-      - url: https://image.cnbcfm.com/api/v1/image/106350993-1579778704338rts2ziu5.jpg?v=1579779171
-        width: 3000
-        height: 2000
-  - title: "Healthcare Cognitive Computing Market Development Analysis 2019- IBM, Google, Microsoft"
-    excerpt: "The New report includes a detailed study of Global Healthcare Cognitive Computing Market. It is the result of a comprehensive research carried out keeping in mind the different parameters and trends dominating the global Healthcare Cognitive Computing Market."
-    publishedDateTime: 2020-01-15T08:36:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/healthcare-cognitive-computing-market-development-analysis-2019--ibm-google-microsoft-2020-01-15
+      - url: https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?fit=1200%2C600&strip=all
+        width: 1200
+        height: 600
+  - title: "Congress moves toward facial recognition regulation"
+    excerpt: "A bipartisan group in Congress is working on legislation that could regulate the use of facial recognition by the private sector, federal government, and law enforcement. “We have a ..."
+    publishedDateTime: 2020-01-15T19:27:00Z
+    sourceUrl: https://venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/
+    ampUrl: https://venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/amp/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+      - url: https://venturebeat.com/wp-content/uploads/2019/08/facial-recognition.png?fit=1200%2C600&strip=all
+        width: 1200
+        height: 600
+  - title: "The top facial recognition cameras of 2020"
+    excerpt: "Many home security cameras nowadays have facial recognition, which lets you create a database of friends and family members who regularly visit your house. Then, when the camera sees a face, it determines whether or not it's someone in your database of known faces. The software can be hit or miss, based on a variety of factors, from ..."
+    publishedDateTime: 2020-01-14T11:06:00Z
+    sourceUrl: https://www.cnet.com/news/top-facial-recognition-home-security-cameras-for-2020-google-nest-hello/
+    ampUrl: https://www.cnet.com/google-amp/news/top-facial-recognition-home-security-cameras-for-2020-google-nest-hello/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/top-facial-recognition-home-security-cameras-for-2020-google-nest-hello/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: https://cnet4.cbsistatic.com/img/BZx8A20yN8Le8NFHcd363ASKdQM=/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg
+        width: 3413
+        height: 1920
+  - title: "College students demand schools ban facial recognition"
+    excerpt: "First, they stopped facial recognition from coming to Coachella. Now they want to protect universities. Prolific digital rights activism organization Fight for the Future has partnered with the group Students for Sensible Drug Policy to stop facial recognition technology from coming to college campuses. The coalition put out a petition that ..."
+    publishedDateTime: 2020-01-14T22:07:00Z
+    sourceUrl: https://mashable.com/article/college-students-facial-recognition-ban/
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 69
+    images:
+      - url: https://mondrian.mashable.com/2020%252F01%252F14%252Fe2%252F5244d9a79187456ca695c1415b52ab3b.7d03a.jpg%252F1200x630.jpg?signature=8MNeI53xaYiJp9UQtLrldvnJY4o=
         width: 1200
         height: 630
-  - title: "Google backs EU’s proposed facial recognition ban; Microsoft disagrees"
-    excerpt: "A ban is like “using a meat cleaver instead of a scalpel to solve potential problems”, he said. Smith also focussed on the benefits of facial recognition technology, citing the example of its use in finding missing children. It is the government’s responsibility to understand how technology is being used, identifying problem areas before ..."
-    publishedDateTime: 2020-01-21T13:41:00Z
-    sourceUrl: https://www.thehindubusinessline.com/info-tech/google-backs-eus-proposed-facial-recognition-ban-microsoft-disagrees/article30616303.ece
-    ampUrl: https://www.thehindubusinessline.com/info-tech/google-backs-eus-proposed-facial-recognition-ban-microsoft-disagrees/article30616303.ece/amp/
-    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/google-backs-eus-proposed-facial-recognition-ban-microsoft-disagrees/article30616303.ece/amp/
+  - title: "The battle against facial recognition goes to college"
+    excerpt: "“The reason that we’re coming at this so hard and so quickly is because there is really aggressive marketing by facial recognition companies to use scare tactics to get administrations to sign onto this technology,” says Erica Darragh, a national board member of the group Students for Sensible Drug Policy, or SSDP. (A company called ..."
+    publishedDateTime: 2020-01-14T11:00:00Z
+    sourceUrl: https://www.fastcompany.com/90451470/the-battle-against-facial-recognition-goes-to-college?partner=feedburner
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 59
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 54
     images:
-      - url: https://www.thehindubusinessline.com/blink/talk/xzq9q3/article30105303.ece/ALTERNATES/LANDSCAPE_615/LEAD-IMAGE
-        width: 615
-        height: 384
-  - title: "Artificial Intelligence in Education Market Is Booming Worldwide | Google, IBM, Pearson, Microsoft, AWS"
-    excerpt: "Global Artificial Intelligence in Education Market research report for easy to understand detailed breakdown of market growth factors, advance technologies, industry drivers, challenges, regulatory policies, with qualitative research of key company profiles and strategies of players such as Amazon Web Services, Blackboard Inc., Blippar ..."
-    publishedDateTime: 2020-01-20T15:56:00Z
-    sourceUrl: https://www.openpr.com/news/1901623/artificial-intelligence-in-education-market-is-booming
+      - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-facial-recognition-college.jpg
+        width: 1280
+        height: 720
+  - title: "Cambridge City Council Votes to Ban Facial Recognition Technology"
+    excerpt: "The Cambridge City Council unanimously approved a measure to ban the use of facial recognition technology in a 9-0 vote Monday night. Following the lead of Brookline, Northampton, and Somerville, Cambridge is the fourth city in Massachusetts to restrict ..."
+    publishedDateTime: 2020-01-15T17:37:00Z
+    sourceUrl: https://www.thecrimson.com/article/2020/1/16/cambridge-city-council-bans-facial-recognition/
+    type: article
+    provider:
+      name: The Harvard Crimson
+      domain: thecrimson.com
+    quality: 39
+    images:
+      - url: https://s3.amazonaws.com:443/thumbnails.thecrimson.com/photos/2017/12/12/171522_1326747.jpg.635x423_q95_crop-smart_upscale.jpg
+        width: 635
+        height: 423
+  - title: "Activists: Facial Recognition on College Campuses Decreases Security"
+    excerpt: "Digital rights group Fight for the Future is collaborating with Students for Sensible Drug Policy to launch a nationwide effort to ban facial recognition technology from university campuses across the United States. The two groups jointly announced Tuesday ..."
+    publishedDateTime: 2020-01-16T22:39:00Z
+    sourceUrl: https://www.campussafetymagazine.com/university/facial-recognition-college-campuses/
+    type: article
+    provider:
+      name: Campus Safety Magazine
+      domain: campussafetymagazine.com
+    quality: 39
+    images:
+      - url: https://www.campussafetymagazine.com/wp-content/uploads/2020/01/facial-recognition.jpg
+        width: 1000
+        height: 500
+  - title: "2019 Proved We Can Stop Face Recognition Surveillance"
+    excerpt: "This piece originally appeared on Fast Company. In 2019, we proved face recognition surveillance isn’t inevitable. Now, it’s time for Congress to rein in the technology once and for all. Even the private sector demonstrated it had a responsibility to act in the face of the growing threat of face surveillance. Axon, the country’s largest ..."
+    publishedDateTime: 2020-01-17T18:26:00Z
+    sourceUrl: https://www.aclu.org/news/privacy-technology/2019-was-the-year-we-proved-face-recognition-surveillance-isnt-inevitable/
+    type: article
+    provider:
+      name: Aclu.org
+      domain: aclu.org
+    quality: 39
+    images:
+      - url: https://www.aclu.org/news/images/share/default_fb_share.png
+        width: 1200
+        height: 630
+  - title: "EU suggests temporary ban on facial recognition"
+    excerpt: "EU states should consider banning facial-recognition technology from public places for the next five years to give governments a chance to assess risks of abuse, the European Commission said in a proposal, Reuters reports. The ban would exempt security services and research projects. EU states should also create special authorities to monitor ..."
+    publishedDateTime: 2020-01-17T06:31:00Z
+    sourceUrl: https://euobserver.com/tickers/147180
+    type: article
+    provider:
+      name: EUobserver
+      domain: euobserver.com
+    quality: 39
+    images:
+      - url: https://s3.eu-central-1.amazonaws.com/euobs-media/6e5f90e3e78121ba09aefe7419b47a16-480x.jpg
+        width: 480
+        height: 270
+  - title: "Facial recognition surveillance is authoritarian and has no place in our society"
+    excerpt: "We shouldn’t have to change how we live our lives to protect ourselves from unwarranted surveillance (Photo: Steffi Loos/Getty) The fight to ban the use of facial recognition in public places is gaining momentum. Last week, it emerged the EU is considering halting the use of this authoritarian technology to allow for a proper assessment of ..."
+    publishedDateTime: 2020-01-20T16:47:00Z
+    sourceUrl: https://inews.co.uk/opinion/facial-recognition-surveillance-is-authoritarian-and-has-no-place-in-our-society-1370329
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 34
+    images:
+      - url: https://inews.co.uk/images-i.jpimedia.uk/imagefetch/https://inews.co.uk/wp-content/uploads/2020/01/GettyImages-826000302-1.jpg
+        width: 2353
+        height: 1499
+  - title: "CyberLink integrates facial recognition engine into VIVOTEK’s IP surveillance solutions"
+    excerpt: "VIVOTEK, the global leading IP surveillance solution provider, and CyberLink, a pioneer of AI and facial recognition technologies, announced they have entered into a strategic partnership, which will integrate CyberLink’s FaceMe AI facial recognition engine into VIVOTEK’s IP surveillance solutions. “Founded in 2000, VIVOTEK has been ..."
+    publishedDateTime: 2020-01-17T00:32:00Z
+    sourceUrl: https://www.helpnetsecurity.com/2020/01/17/vivotek-cyberlink/
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 31
+    images:
+      - url: https://img.helpnetsecurity.com/wp-content/uploads/2019/12/08122003/insecure64.jpg
+        width: 304
+        height: 430
+  - title: "Activists pressure colleges to abandon facial-recognition tech (EdScoop)"
+    excerpt: "\"Promoted as a technology to create a safer and more secure world, facial-recognition software, which is capable of identifying a person from a digital image or a video frame, is beginning to pop up at colleges across the country — but digital rights ..."
+    publishedDateTime: 2020-01-16T20:37:00Z
+    sourceUrl: https://www.avnetwork.com/news/activists-pressure-colleges-to-abandon-facial-recognition-tech-edscoop
+    type: article
+    provider:
+      name: AV Network
+      domain: avnetwork.com
+    quality: 23
+    images:
+      - url: https://cdn.mos.cms.futurecdn.net/UfZPqWvHAnhiMM9LBmGWAn-1200-80.jpg
+        width: 750
+        height: 422
+  - title: "Facial-recognition algos vary wildly, US Congress told, as politicians try to come up with new laws on advanced tech"
+    excerpt: "... in with a single cloud giant's toolset – or bring together best tools from a bunch of vendors Vid A recent US government report investigating the accuracy of facial recognition systems across different demographic groups has sparked fresh questions on how the technology should be regulated. The House Committee on Oversight and Reform ..."
+    publishedDateTime: 2020-01-16T06:12:00Z
+    sourceUrl: https://go.theregister.co.uk/feed/www.theregister.co.uk/2020/01/16/facial_recognition_congress/
+    ampUrl: https://www.theregister.co.uk/AMP/2020/01/16/facial_recognition_congress/
+    cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/01/16/facial_recognition_congress/
+    type: article
+    provider:
+      name: The Register
+      domain: theregister.co.uk
+    quality: 21
+    images:
+      - url: https://regmedia.co.uk/2020/01/16/shutterstock_somebodys_watching_me.jpg
+        width: 1000
+        height: 563
+  - title: "CyberLink and VIVOTEK Announce Strategic Partnership Combining Facial Recognition and IP Surveillance Solutions"
+    excerpt: "CyberLink Corp. (5203.TW), a pioneer of AI and facial recognition technologies, announced a strategic partnership with VIVOTEK (3454.TW), the global leading IP surveillance solution provider, adding CyberLink's FaceMe® AI facial recognition engine to VIVOTEK's IP surveillance solutions. The new collaboration will be showcased in VIVOTEK's ..."
+    publishedDateTime: 2020-01-16T18:39:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-cyberlink-vivotek-announce-strategic-partnership-combining-facial-recognition-/2020/01/16/9082949.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+    images:
+      - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
+        width: 252
+        height: 335
+  - title: "How Facial Recognition Market will Grow at Highest CAGR"
+    excerpt: "The global facial recognition market growth in the forecast period is premised on the rising incidents of identity theft. According to a study conducted by a California-based private research firm, Javelin Strategy, in 2017, 16.7 million Americans fell victim to identity theft crimes. Further, 1 million children in the US in 2017 were victims ..."
+    publishedDateTime: 2020-01-17T10:28:00Z
+    sourceUrl: https://www.openpr.com/news/1899358/how-facial-recognition-market-will-grow-at-highest-cagr
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 20
-  - title: "Emotion Analytics Market To 2022: Google, Apple, Facebook, IBM, and Microsoft"
-    excerpt: "According to Infoholic Research, the Worldwide Emotion Analytics market is estimated to witness a CAGR ... The technologies covered in the report are AI, biometrics & neuroscience, 3D modelling, pattern recognition, records management and others. Technology Analysis: Artificial intelligence (AI) is the major technology that is being implemented ..."
-    publishedDateTime: 2020-01-16T15:15:00Z
-    sourceUrl: https://www.openpr.com/news/1898533/emotion-analytics-market-to-2022-google-apple-facebook-ibm
+    quality: 19
+  - title: "Despite what you may think, face recognition surveillance isn’t inevitable"
+    excerpt: "In 2019, we proved face recognition surveillance isn’t inevitable. Now, it’s time for Congress to rein in the technology once and for all. Even the private sector demonstrated it had a responsibility to act in the face of the growing threat of face surveillance. Axon, the country’s largest body camera supplier, announced it would ban ..."
+    publishedDateTime: 2020-01-15T23:00:00Z
+    sourceUrl: https://www.fastcompany.com/90452524/despite-what-you-may-think-face-recognition-surveillance-isnt-inevitable
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 1
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "4zzuKHftvNuPrEB1zyxg1W4xVrGNsnBlI3F79QRY1ZYo5DUZVQKiDQ301lZx9ufr86+0cX1yhTrm/armWThtHjzkB/JrVB0YDBmUsk+D/sQhAbs/kpcQ83vgiOdwtDBrSb/q9cWtcc+p/pvKSJKqaP0zi+7qbSBSmzDQl7UGwGuh0PMarczpQavNZ9X1b5b+U31NQBGjPUv182+VgR4jWcso18db6csDKCwmChsaYv+OU+a0a9TKSEby96xoCJl1XSnkj6nKq6Uh7j20yoh1FmigzrAt2RdAGkWjLcmQxPYEYo1Xvz7jxV5Xdz+fD4nxoO86M6w8+VC8OBZ6/lzA9YdUanqnAfghnaY6ZoOnHlchBr3OXfRqCgixuxHEe4rWQjgghC1zeluROsfwSf2QAw3KgxAABKHVEmi9xfHIJPrcODTF4m8QYibNwILT8ZOrshnRVvWZyB35dfW+tdGmwg==;vbKBtI7WJr4tZlzZHjtoyw=="
 ---

@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Investing in AI: A Beginner's Guide"
-excerpt: "Advances in AI features should help improve the value of Microsoft's Azure-based services. As such, it's already established itself as an important role in the self-driving car space. NVIDIA's chips are also playing a big role in current applications of AI within the healthcare space, with the company partnered with General Electric to provide ..."
+excerpt: "A report from MarketsandMarkets estimates that the sales generated from hardware, software, and services directly related to AI categories including machine learning, natural language processing, context-aware computing, and machine vision will rise from $21.46 billion in 2018 to $190.61 billion in 2025 -- representing a compound annual growth ..."
 publishedDateTime: 2020-01-24T19:00:00Z
 sourceUrl: https://www.fool.com/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 ampUrl: https://www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 type: article
-quality: 95
-heat: 95
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -21,9 +21,6 @@ provider:
 
 topics:
   - AI
-  - AI Hardware
-  - AI in Autos
-  - Microsoft AI
   - Natural Language Processing
 
 images:
@@ -32,6 +29,21 @@ images:
     height: 466
     title: "Investing in AI: A Beginner's Guide"
 
-secured: "ckumFc25hqYmLniwh3fMoT9cJ+xHTXmmd8HbUFbP51Ag/Tg86gwVrFA7ITGrRpk0R5AW5kzwBhqrYPcTdVFsqjzOpRevyHJ5omrplBlZYKpcHk9nq/LPAqMq4lZzHXTcfNB2sSDZKh9iry/tir/JNEZoBF2E1odQgzK0WyXNk7miUpsNXowUFN4dR8DYXCG9yikmh9nj91a2OxQ8LWOPwqqI0o8IhH+EKJ12S9yD3dMF9cvcBRbmQedOGnQE4FXfNcHswB1JzbLGKmcEeBk3cuVwefu4sERa89FPkB9iXjNGSMPl0NBF5dFh1eNFHBI7;R4tMDpOdZ7EmoJy8Hr2N0g=="
+related:
+  - title: "Dialing Into AI in 2020: Why Investing Now is Key"
+    excerpt: "Autonomous vehicles, robot performed surgeries, even understanding human sentiment is not far ... AI in the Palm of Your Hand Apple’s $200 million acquisition of Xnor.ai, a Seattle startup specializing in low-power, edge-based artificial intelligence tools, is the most recent of many investments across the industry to indicate AI will ..."
+    publishedDateTime: 2020-01-22T09:46:00Z
+    sourceUrl: https://www.geekwire.com/sponsor-post/dialing-ai-2020-investing-now-key/
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 69
+    images:
+      - url: https://cdn.geekwire.com/wp-content/uploads/2020/01/630px-wide.jpg
+        width: 630
+        height: 500
+
+secured: "9/G1lvvPJgVrNfjKxt4T9O0b1AsB+DKSiXPUjEy7yx0vQAByBeF6aHzekxTxElhVjfcJk952ilPwxsacLwSrSx8Lnkwe2rf5qAmN/9b5wc1AwVLkw2W7aSxfNWeJHmp0+UF197ADlwgq8WsYfz0gBmpKawi6iqU0+vfjqCIN4uvlo1vY9L5XbmoJwIc3BAbzrNwMD1jp9bqPLWFDx1FyDbrdmunvwPtxsJSbysXVQmwZu5wIlbPT++OHmW5D8SYop4q+LL1RULkARl24oAj5hLJmwTqqAK1pRQq1Qnow+Q5ooXGQdqetWRxXzLdzhmVj;JFOfT4lsOqTp6+uL9PfTTA=="
 ---
 

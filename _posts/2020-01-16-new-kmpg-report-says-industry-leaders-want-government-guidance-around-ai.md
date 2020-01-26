@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/new-kmpg-report-says-ind
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-kmpg-report-says-industry-leaders-want-government-guidance-around-ai/
 type: article
 quality: 88
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -28,21 +28,6 @@ images:
     width: 1200
     height: 675
     title: "New KMPG report says industry leaders want government guidance around AI"
-
-related:
-  - title: "The legal industry finds ways to leverage AI"
-    excerpt: "How far are we from seeing \"robot judges\"? ZDNet's Stephanie Condon discusses with Karen Roby. Read more: https://zd.net/3auO0jl"
-    publishedDateTime: 2020-01-21T11:03:00Z
-    sourceUrl: https://www.zdnet.com/video/the-legal-industry-finds-ways-to-leverage-ai/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
-    images:
-      - url: https://zdnet1.cbsistatic.com/hub/i/r/2020/01/20/4ae4c042-fca1-4511-9ed4-a9ca543376fd/thumbnail/770x578/505afafec347bbd770275c37d22c5782/20200120-steph-karen-judges.png
-        width: 770
-        height: 578
 
 secured: "/QkegBC6ilWSeiWyrHjKGayXv1CFNAg/GfWx5hRo7X13q38cPoPctwv8IQbaFgdZS4n2cEQtYSVqnhgZ1D6P8S2X0SKese0BLf5eByQOh156hZjIwZ3S85AHNaQLk1g01RcQay/95bh7S3REV7VF9Y30JB0k7M02GLd7O4qoV6r6qtNTDKQrcCGT5PaFQgk7EEQ3p3l79NpYpiXfovQsx865I6vvD7u+6hnET7xgHGRdzAGTWPpNQIZRNaJR6Z88CXgyZwwICwMTiYVFJfRx0l2FDdprMzGhOjbiD9zpTtyjXZRH192i+Ilr2iiPGoxcJ5ck7pnHBQ2CxeHAkbc0xaCuvVO5531/iDBiLnbHl8QjCz4Jy2VrKmCYYNwHhLYQGQpcrRly3Tn2DmXvjrEEOUNh1Xlj5rB+447s4TkTVzi6w+zYk3z9LbJSaJrAa/js+A33/eQh0kbfR6sL2adfcA==;vyrE1z/WmhyxJsVpkKdiDQ=="
 ---

@@ -41,6 +41,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Natural Language Processing (NLP) Market Analysis, Size, Share, Growth, Trends and Forecast to 2025"
+    excerpt: "The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025."
+    publishedDateTime: 2020-01-07T13:21:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-analysis-size-share-growth-trends-and-forecast-to-2025-2020-01-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Machine Learning Market Size Worth $96.7 Billion by 2025 | CAGR: 43.8%: Grand View Research, Inc."
     excerpt: "/PRNewswire/ -- The global machine learning market size is expected to reach USD 96.7 billion by 2025, according to a new report by Grand View Research,"
     publishedDateTime: 2020-01-13T08:05:00Z
@@ -54,26 +67,6 @@ related:
       - url: https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook
         width: 1400
         height: 733
-  - title: "How Facial Recognition Market will Grow at Highest CAGR"
-    excerpt: "The global facial recognition market growth in the forecast period is premised on the rising incidents of identity theft. According to a study conducted by a California-based private research firm, Javelin Strategy, in 2017, 16.7 million Americans fell victim to identity theft crimes. Further, 1 million children in the US in 2017 were victims ..."
-    publishedDateTime: 2020-01-17T10:28:00Z
-    sourceUrl: https://www.openpr.com/news/1899358/how-facial-recognition-market-will-grow-at-highest-cagr
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
-  - title: "Global Natural Language Processing (NLP) Market is Set to Reach USD 23.0 billion by 2024, Observing a CAGR of 20.0% during 2019–2024: VynZ Research"
-    excerpt: "NEW YORK, Jan. 08, 2020 (GLOBE NEWSWIRE) -- The global natural language processing (NLP) market is expected to grow at a CAGR of 20.0% during the forecast period with its market size predicted to ..."
-    publishedDateTime: 2020-01-08T13:08:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/g15093385/global-natural-language-processing-nlp-market-is-set-to-reach-usd-23-0-billion-by-2024-observing-a
-    ampUrl: https://amp.benzinga.com/amp/content/15093385
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15093385
-    type: article
-    provider:
-      name: benzinga.com
-      domain: benzinga.com
-    quality: 1
 
 secured: "M+crmubwQ31axdI7bovSDhwPBGcsHSjCnBL51o7Lpi//+Yo9/kmz95sU8Z8PPi9rrMcszGGKpasP3raxSsS3yhbRbfCDOP2p1bIeRG9UBYI0WoFGK6NJi0q7pwAv9snhBhvxIKwNC0mlNb/tJIT2QIz5iI5crXsx7tPCCdklgnsEEyeeYYx5hiVshyouooqIITtR31PpyMgjXgrRY+zb7jRmjQs5wbzFI0rOZDMBkFr2fuO3s7EYcaPFVvCJV8HSsJjfAaEYxx7977z9BayBVrJyKqLTSkV6JKAigSXWF0Y=;1xSCktiKoAroFiSxdoXdvg=="
 ---

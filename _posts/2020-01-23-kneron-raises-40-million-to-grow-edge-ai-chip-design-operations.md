@@ -45,6 +45,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2020/01/Snyk.png?fit=1301%2C579&strip=all
         width: 1301
         height: 579
+  - title: "Placer.ai raises $12 million to keep tabs on foot traffic in real time"
+    excerpt: "A somewhat newer entrant is Placer.ai, which was cofounded in 2016 by Noam Ben-Zvi, Oded Fossfeld, Ofir Lemel, and Zohar Bar-Yehuda. It might not rival location data giants like FourSquare and ThinkNear, but it managed to nab $12 million this week in a funding round led by BV Capital with participation from Aleph, Reciprocal Ventures ..."
+    publishedDateTime: 2020-01-22T13:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/22/placer-ai-raises-12-million-to-keep-tabs-on-foot-traffic-in-real-time/
+    ampUrl: https://venturebeat.com/2020/01/22/placer-ai-raises-12-million-to-keep-tabs-on-foot-traffic-in-real-time/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/placer-ai-raises-12-million-to-keep-tabs-on-foot-traffic-in-real-time/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/06/global-e1579243388331.jpg?fit=1200%2C600&strip=all
+        width: 1200
+        height: 600
   - title: "AISense raises $10 million for AI transcription tool Otter"
     excerpt: "And a word cloud at the top of each recording tracks the most-used terms. Otter competes with Microsoft’s Microsoft 365, which can host live events with AI-powered features such as facial recognition of attendees and autonomous speech-to-text conversion, as well as comparable meeting transcription tools from Cisco and startups Voicera ..."
     publishedDateTime: 2020-01-24T02:25:00Z
@@ -90,19 +105,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2020/01/awesometable-e1579626289453.png?fit=1200%2C649&strip=all
         width: 1200
         height: 649
-  - title: "London-based AI startup ChAI raised $1.7 million to address the $60 billion commodity price market"
-    excerpt: "This AI startup draws from reams of data to predict changes to commodity pricing."
-    publishedDateTime: 2020-01-24T10:41:00Z
-    sourceUrl: https://www.businessinsider.com/chai-london-ai-startup-raises-funds-from-passion-capital-and-mmc-2020-1
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
-    images:
-      - url: https://i.insider.com/5e29b5c662fa8143430769e3?width=1200&format=jpeg
-        width: 1200
-        height: 600
   - title: "This Week In AI: Snyk Raises $150M, Cruise Automation Previews Electric AV, AI Chip Maker Kneron Raises $40M"
     excerpt: "Facebook researchers developed a \"mapless\" navigation system for robots. ServiceNow acquired Loom Systems. Procurement marketplace scoutbee raised $60M. This week, we released our quarterly AI in Numbers report. This quarter’s report highlights AI investment activity, partnerships, and M&A in 2019. You can check it out in CB Insights Stories ..."
     publishedDateTime: 2020-01-25T00:13:00Z

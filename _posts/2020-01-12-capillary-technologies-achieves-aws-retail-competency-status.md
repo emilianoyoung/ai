@@ -8,7 +8,7 @@ ampUrl: https://www.zawya.com/mena/en/story/amp/ZAWYA20200112060923/
 cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200112060923/
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -26,15 +26,6 @@ images:
     title: "Capillary Technologies achieves AWS retail competency status"
 
 related:
-  - title: "Fractal Named Certified Retail Competency Partner by Amazon Web Services (AWS)"
-    excerpt: "/PRNewswire/ -- Fractal (https://fractal.ai), a global leader in artificial intelligence and analytics, powering decision-making in Fortune 100"
-    publishedDateTime: 2020-01-13T12:24:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/fractal-named-certified-retail-competency-partner-by-amazon-web-services-aws-300985633.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 45
   - title: "Peak Achieves AWS Retail Competency Status"
     excerpt: "Peak offers outcome-focused artificial intelligence (AI) solutions and technology working across the entire retail ... Inc. “We are delighted to welcome Peak to the AWS Retail Competency Program. Their solutions for retail operations, powered and vetted by AWS, can help our customers to accelerate their transformation, modernisation, and ..."
     publishedDateTime: 2020-01-13T09:53:00Z

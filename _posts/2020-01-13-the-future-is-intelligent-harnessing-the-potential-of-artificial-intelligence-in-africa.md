@@ -41,6 +41,21 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e0e2c98ab5be6000762cf62%2F0x0.jpg
         width: 1181
         height: 663
+  - title: "The Self-Driving Enterprise And The Road To Automation"
+    excerpt: "The autonomous enterprise won’t happen overnight and needs the right tools and plan to achieve success. Just like autonomous vehicles, we need to be knowledgeable about automation and how it can improve our business processes."
+    publishedDateTime: 2020-01-09T13:09:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/09/the-self-driving-enterprise-and-the-road-to-automation/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/09/the-self-driving-enterprise-and-the-road-to-automation/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/09/the-self-driving-enterprise-and-the-road-to-automation/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: https://thumbor.forbes.com/thumbor/711x461/https://specials-images.forbesimg.com/dam/imageserve/941265460/960x0.jpg?fit=scale
+        width: 711
+        height: 461
   - title: "Putting Recommendation Engines to the Test in the Dell EMC AI Innovation Lab"
     excerpt: "Research at the Dell EMC and Intel HPC and AI Innovation Lab is demonstrating how organizations can build better ... using parallel processing such as those used for image classification and language translation. Basically, the Lab wanted to create a neural net that can process more than one experience at a time, so it could do the task ..."
     publishedDateTime: 2020-01-06T08:11:00Z

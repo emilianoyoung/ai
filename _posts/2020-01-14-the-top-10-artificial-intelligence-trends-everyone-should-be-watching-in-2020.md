@@ -43,19 +43,19 @@ related:
       - url: https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/973718316/960x0.jpg?fit=scale
         width: 711
         height: 474
-  - title: "Business Challenge 2020: Keeping Pace with the Rising Expectations for Artificial Intelligence"
-    excerpt: "NEW YORK, Jan. 16, 2020 /PRNewswire/ -- In the next decade, artificial intelligence (AI ... noticeable differences in the pace of AI adoption across five industries (healthcare, financial services, transportation, technology and retail)."
-    publishedDateTime: 2020-01-16T14:32:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/2020/01/16/9082753.htm
+  - title: "Machine Learning Market Rising Trends and Technology Advancements 2020 to 2026"
+    excerpt: "The Global Machine Learning Market is carefully researched in the report while largely concentrating on top players and their business tactics, geographical expansion, market segments, competitive landscape,"
+    publishedDateTime: 2020-01-17T08:54:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-market-rising-trends-and-technology-advancements-2020-to-2026-2020-01-17
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
     images:
-      - url: https://mma.prnewswire.com/media/648978/KPMG_Logo.jpg
-        width: 400
-        height: 295
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "What Are The Top 5 Fintech Trends Everyone Should Be Watching In 2020?"
     excerpt: "Here are the top 5 fintech trends everyone should be watching in 2020 because they will impact anything that involves money. 1. Hyper-personalization via big data and AI For many years, marketing experts espoused the benefits of personalization to attract customers and keep them loyal. Today, thanks to big data and artificial intelligence that ..."
     publishedDateTime: 2020-01-12T23:03:00Z
@@ -82,6 +82,32 @@ related:
       - url: https://www.washingtonpost.com/pbox.php?url=https://palomaimages.washingtonpost.com/pr2/43572665e7be2b8ca08046d9a801d074-GK2R6OFINYI6TBZTJDEHENPTSY-680-453-70-8.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517
         width: 1484
         height: 988
+  - title: "Cognitive Computing Technology Market 2020 – 2023: Business Trends, Emerging Technologies, Size, Global Segments and industry Profit Growth"
+    excerpt: "The study indicates that by technology segment, natural language processing is the most prominent technology used in the cognitive computing industry owing to its integral capacity to process natural language interactions. At present, automated reasoning and information recovery technologies have limited applications thereby, restricting the ..."
+    publishedDateTime: 2020-01-22T11:20:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15161098/cognitive-computing-technology-market-2020-2023-business-trends-emerging-technologies-size-global
+    ampUrl: https://amp.benzinga.com/amp/content/15161098
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15161098
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 10
+    images:
+      - url: https://www.abnewswire.com/uploads/1579690500.png
+        width: 800
+        height: 428
+  - title: "Image Recognition Market is Striving in Worldwide with Top Key Players 2020 | IBM Corporation, Imagga Technologies Ltd., Amazon Web Services, Inc"
+    excerpt: "Growing popularity of media cloud services and increasing pace of technological advancements in facial recognition technology drive the growth of the global image recognition market. Moreover, surge in the number of mobile devices equipped with cameras and rise in demand for security applications and products laden with image recognition features supplement the market growth."
+    publishedDateTime: 2020-01-17T03:12:00Z
+    sourceUrl: https://www.benzinga.com/press-releases/20/01/wr15140449/image-recognition-market-is-striving-in-worldwide-with-top-key-players-2020-ibm-corporation-imag
+    ampUrl: https://amp.benzinga.com/amp/content/15140449
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15140449
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "7qwtK2VbDml6DDP695wxqgylXqp109EL+2EpMDLHt6kQ3qDlpk1k+/fsDHYlEmK4bFtaPD8fREPBwmbV1BvQKJc7uefeATW+RCnBpYvOPOk4eVGARML9CJJL4RF8Q2z9h+xAQTHQWkvizCiqNAxWDExSDPxEGC/bEHLAe1uZJc/guO2DpJbV/qApg6h+km+LpNogz4t2DqwLtU2bKCIi5B6bDpqRasOhxmaP481QEve54+PNnrALHKlXBFHwtEl+t18rXm/X6nCNkfMvlUDYzxs+/KCm6DIyv2g6C8RcIhb8TUSGniBYFipq2ZT0WyCBXr2y0F3IEKdvm20qw94PAuhyiDJrGKr3KiRFL7e8QnNG4XgGAIeV/kJYu/vZSvtVT3T1U6zy8TCIZI2xP5P1RhM1d0uHl3zPKi9IqAk00U1D/cjamnnCwRzt3km+RdglYOVfD23I+XjsVjYXW+JKDQ==;gAqHl7nCl6k5rrlo2utgzA=="
 ---

@@ -45,21 +45,6 @@ related:
       - url: https://cdn.vox-cdn.com/thumbor/zDwZYvo4k1HcO2tTSho5Vwl76h0=/0x0:2559x1664/1400x933/filters:focal(1076x628:1484x1036):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66122889/1189070708.jpg.0.jpg
         width: 1400
         height: 933
-  - title: "Waymo’s self-driving minivans and big rigs arrive in two more states"
-    excerpt: "Waymo, one of the leaders in autonomous-vehicle technology, is taking its self-driving cars and trucks to more states for testing on public roads. From this week, its driverless vehicles will be heading to Texas and New Mexico for the first time as Waymo ..."
-    publishedDateTime: 2020-01-24T06:00:00Z
-    sourceUrl: https://www.digitaltrends.com/cars/waymos-self-driving-minivans-and-big-rigs-arrive-in-two-more-states/
-    ampUrl: https://www.digitaltrends.com/cars/waymos-self-driving-minivans-and-big-rigs-arrive-in-two-more-states/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymos-self-driving-minivans-and-big-rigs-arrive-in-two-more-states/?amp
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 89
-    images:
-      - url: https://icdn3.digitaltrends.com/image/digitaltrends/waymo-autonomous-truck-2-1200x630-c-ar1.91.jpg
-        width: 720
-        height: 376
   - title: "If AI Suddenly Gains Consciousness, Some Say It Will Happen First In AI Self-Driving Cars"
     excerpt: "There has been a lot of speculation that one of these days there will be an AI system that suddenly and unexpectedly gives rise to consciousness. Often referred to as the singularity, there is much hand-wringing that we are perhaps dooming ourselves to either utter death and destruction or to becoming slaves of AI once the singularity occurs."
     publishedDateTime: 2020-01-11T16:07:00Z
@@ -195,21 +180,6 @@ related:
       - url: https://i.insider.com/5e2b1cd3b6d52d20320b5500?width=1200&format=jpeg
         width: 1200
         height: 600
-  - title: "GM's autonomous car company, Cruise, unveils Origin self-driving shuttle"
-    excerpt: "The automaker’s autonomous vehicle subsidiary, Cruise, unveiled a self-driving shuttle prototype on Tuesday in San Francisco, and it doesn’t have a steering wheel, foot pedals or any driver controls -- just seating for six accessed through large sliding doors. The all-electric Origin was designed to provide maximum passenger space and will ..."
-    publishedDateTime: 2020-01-22T03:00:00Z
-    sourceUrl: https://www.foxnews.com/auto/gm-autonomous-car-company-cruise-origin
-    ampUrl: https://www.foxnews.com/auto/gm-autonomous-car-company-cruise-origin.amp
-    cdnAmpUrl: https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/gm-autonomous-car-company-cruise-origin.amp
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 73
-    images:
-      - url: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/origin.jpg?ve=1&tl=1
-        width: 640
-        height: 320
   - title: "Uber’s self-driving unit starts mapping Washington, D.C. ahead of testing"
     excerpt: "Uber Advanced Technologies Group will start mapping Washington, D.C., ahead of plans to begin testing its self-driving vehicles in the city this year. Initially, there will be three Uber vehicles mapping the area, a company spokesperson said. These vehicles, which will be manually driven and have two trained employees inside, will collect ..."
     publishedDateTime: 2020-01-23T21:14:00Z
@@ -270,6 +240,21 @@ related:
       - url: https://s4.reutersmedia.net/resources/r/?m=02&d=20200123&t=2&i=1480447771&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0M1ZY
         width: 818
         height: 545
+  - title: "Video shows a grandma freaking out while sitting in a self-driving Tesla Model S"
+    excerpt: "Tesla a few months ago rolled out a software update with a feature it calls Smart Summon. As the name suggests, the feature allows Tesla owners to beckon their car and have it drive itself to wherever they happen to be. Imagine, for instance, leaving a supermarket in the pouring rain and having your car meet you at the exit. The original ..."
+    publishedDateTime: 2020-01-13T00:26:00Z
+    sourceUrl: https://bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/
+    ampUrl: https://bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/amp/
+    cdnAmpUrl: https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/amp/
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 54
+    images:
+      - url: https://boygeniusreport.files.wordpress.com/2016/08/tesla-model-s-new.jpg?quality=98&#038;strip=all
+        width: 1200
+        height: 680
   - title: "GM's Cruise Self-Driving Unit Unveils Electric Vehicle Sans Steering Wheel, Pedals"
     excerpt: "General Motors Co's self-driving car unit Cruise on Tuesday unveiled an electric vehicle with no steering wheel or pedals that will be used in an autonomous ride-sharing fleet. The vehicle, named \"Cruise Origin\","
     publishedDateTime: 2020-01-22T02:22:00Z
@@ -328,6 +313,21 @@ related:
       - url: https://i.kinja-img.com/gawker-media/image/upload/s--1PrXytma--/c_scale,f_auto,fl_progressive,q_80,w_800/mflsmhuugfa4nhvwsnwn.jpg
         width: 800
         height: 450
+  - title: "No plans for self-driving Rolls-Royce cars, says CEO"
+    excerpt: "There are no plans to develop autonomous Rolls-Royce vehicles for the foreseeable future, according to Torsten Müller-Ötvös, CEO, Rolls-Royce Motor Cars Speaking during a media briefing in Dubai, Müller-Ötvös reiterated the company’s desire to be “all electric” by the end of the decade. Müller-Ötvös said the technology wasn’t ..."
+    publishedDateTime: 2020-01-16T06:33:00Z
+    sourceUrl: https://www.arabianbusiness.com/cars-boats/437760-no-plans-for-self-driving-rolls-royce-cars-says-ceo
+    ampUrl: https://amp.arabianbusiness.com/amp/article_listing/aben/cars-boats/437760-no-plans-for-self-driving-rolls-royce-cars-says-ceo
+    cdnAmpUrl: https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/cars-boats/437760-no-plans-for-self-driving-rolls-royce-cars-says-ceo
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 44
+    images:
+      - url: https://www.arabianbusiness.com/sites/default/files/styles/fb_share_style_image/public/images/2020/01/15/Torsten-Muller-Otvos.jpg?itok=vCAm4zQI
+        width: 1200
+        height: 630
   - title: "Cruise CTO Says Safety Reporting For Self-Driving Cars Is Broken"
     excerpt: "California requires all companies that test self-driving cars on public roads in the state to report miles driven and the number of “disengagements,” or times a human driver takes over control. Cruise co-founder and CTO Kyle Vogt believes this reporting method is a poor metric for comparing companies, and is causing companies to test and ..."
     publishedDateTime: 2020-01-18T17:13:00Z
@@ -343,6 +343,51 @@ related:
       - url: https://i.kinja-img.com/gawker-media/image/upload/s--E8Ser8s1--/c_scale,f_auto,fl_progressive,q_80,w_800/ugisluglqvfjuwou1zyt.jpg
         width: 800
         height: 450
+  - title: "Qualcomm experiments with self-driving cars"
+    excerpt: "SAN DIEGO -- San Diego-based Qualcomm is best known for its smartphone chips, but now they want to be the brains behind self-driving cars, too. FOX 5 Tech Expert Rich DeMuro took a ride in their experimental prototype."
+    publishedDateTime: 2020-01-20T20:25:00Z
+    sourceUrl: https://fox5sandiego.com/2020/01/20/qualcomm-experiments-with-self-driving-cars/
+    ampUrl: https://fox5sandiego.com/2020/01/20/qualcomm-experiments-with-self-driving-cars/amp/
+    cdnAmpUrl: https://fox5sandiego-com.cdn.ampproject.org/c/s/fox5sandiego.com/2020/01/20/qualcomm-experiments-with-self-driving-cars/amp/
+    type: article
+    provider:
+      name: Fox 5 San Diego
+      domain: fox5sandiego.com
+    quality: 44
+    images:
+      - url: https://tribkswb.files.wordpress.com/2020/01/qualcomm2.jpg?quality=85&strip=all&w=1200
+        width: 1200
+        height: 675
+  - title: "GM-Backed Cruise's Self-Driving Robo-Taxi Revealed"
+    excerpt: "Cruise, the self-driving car start-up, in which General Motors Company GM owns a majority state, revealed a prototype of its driverless robo-taxi on Tuesday. The robo-taxi called Cruise Origin is a “fully engineered vehicle that’s on its way to production,"
+    publishedDateTime: 2020-01-22T10:08:00Z
+    sourceUrl: https://www.benzinga.com/news/20/01/15160801/gm-backed-cruises-self-driving-robo-taxi-revealed
+    ampUrl: https://amp.benzinga.com/amp/content/15160801
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15160801
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: https://www.benzinga.com/files/images/story/2012/01.jpg
+        width: 1750
+        height: 869
+  - title: "GM's Cruise rolls out a self-driving shuttle developed with Honda"
+    excerpt: "GM's Cruise rolls out a self-driving shuttle developed with Honda The boxy Cruise Origin has no steering wheel or gas pedal in order to free up room for passengers Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/autos/general-motors/2020/01/21/general-motors-autonomous-vehicle-unveiling/4530535002/"
+    publishedDateTime: 2020-01-22T06:49:00Z
+    sourceUrl: https://www.detroitnews.com/story/business/autos/general-motors/2020/01/21/general-motors-autonomous-vehicle-unveiling/4530535002/
+    ampUrl: https://amp.detroitnews.com/amp/4530535002
+    cdnAmpUrl: https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4530535002
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 44
+    images:
+      - url: https://www.gannett-cdn.com/presto/2020/01/22/PDTN/4265128e-540f-4307-a3be-f6e3b826e6a1-1_ppQPCa8VrWrYChCDsch4XA.jpeg?crop=1379,1034,x227,y437&quality=50&width=640
+        width: 640
+        height: 480
   - title: "GM’s Cruise unveils a self-driving car. Don’t look for it on roads."
     excerpt: "Four years ago, self-driving hype reached a fever pitch. Automakers struck partnerships with technology companies almost every week. Startups raised piles of funding at high valuations. That year, GM plunked down nearly $1 billion to acquire a 40-person startup in San Francisco called Cruise. The startup went on to raise billions more in ..."
     publishedDateTime: 2020-01-22T14:28:00Z
@@ -358,6 +403,21 @@ related:
       - url: https://www.chicagotribune.com/resizer/PB88HHJmKYBwIjwQZKELC1iZKuw=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/MVYXQWQ66NAD7GOTII6RTI63PY.jpg
         width: 1200
         height: 800
+  - title: "Self-driving big-rig trucks coming soon? Waymo set to begin mapping interstates in Texas, New Mexico"
+    excerpt: "The Lone Star State may become a little lonelier — at least when it comes to big-rig trucking. Waymo, the self-driving vehicle division of Google parent Alphabet, is about to start mapping in Texas and New Mexico as a prelude to testing its self-driving big-rig trucks. The mapping minivans, to be followed by the large trucks, will run ..."
+    publishedDateTime: 2020-01-23T12:22:00Z
+    sourceUrl: https://www.jsonline.com/story/news/nation/2020/01/23/waymo-texas-new-mexico-mapping-self-driving-big-rigs/4546366002/
+    ampUrl: https://amp.jsonline.com/amp/4546366002
+    cdnAmpUrl: https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/4546366002
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 44
+    images:
+      - url: https://media.gannett-cdn.com/29906170001/29906170001_5975956542001_5975943510001-vs.jpg?pubId=29906170001
+        width: 640
+        height: 360
   - title: "Uber is bringing its self-driving vehicle testing to D.C. streets"
     excerpt: "Uber will start scanning and mapping District roads Friday in preparation for testing self-driving cars here later this year, the company said Thursday. The ride-hailing company is moving to expand testing on public roads following the conclusion, in November, of a federal investigation into problems with Uber’s technology and management that ..."
     publishedDateTime: 2020-01-23T17:54:00Z
@@ -403,21 +463,6 @@ related:
       - url: https://media.wusa9.com/assets/WUSA/images/cdaca044-3043-4f02-ba14-2589615a5fd5/cdaca044-3043-4f02-ba14-2589615a5fd5_360x203.jpg
         width: 360
         height: 203
-  - title: "You may soon see Uber’s self-driving cars on a D.C. road near you"
-    excerpt: "Uber has been testing self-driving cars in other markets, but they haven’t yet made it to D.C. Now, the ride-hailing company is looking to launch the vehicles here."
-    publishedDateTime: 2020-01-24T12:43:00Z
-    sourceUrl: https://www.bizjournals.com/washington/news/2020/01/24/you-may-soon-see-uber-s-self-driving-cars-on-a-d-c.html
-    ampUrl: https://www.bizjournals.com/washington/news/2020/01/24/you-may-soon-see-uber-s-self-driving-cars-on-a-d-c.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/washington/news/2020/01/24/you-may-soon-see-uber-s-self-driving-cars-on-a-d-c.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 44
-    images:
-      - url: https://media.bizj.us/view/img/11587279/uber-self-driving*600xx1500-1000-0-0.jpg
-        width: 600
-        height: 400
   - title: "Self-driving semis will soon be sitting in Houston traffic with the rest of us"
     excerpt: "HOUSTON — If you commute on an interstate that cuts through the Houston area, do you think you would notice a self-driving big rig? Waymo, which is the self-driving division of Google, announced Thursday that it's starting to drive its Chrysler Pacifica minivans and long-haul trucks in Texas and parts of New Mexico. The autonomous vehicles ..."
     publishedDateTime: 2020-01-24T01:01:00Z
@@ -433,6 +478,32 @@ related:
       - url: https://media.khou.com/assets/KHOU/images/8b4d1fb4-635f-4bf7-ae2d-7044e834b8fb/8b4d1fb4-635f-4bf7-ae2d-7044e834b8fb_360x203.jpg
         width: 360
         height: 203
+  - title: "Designing better nursing care with robots"
+    excerpt: "Robots are becoming an increasingly important part of human care ... both in the categories of \"Information System\" and \"Artificial Intelligence\". JAS has been in the 1st quantile (Q1) in all three categories it belongs to. Why publish with us: Fast and high quality peer review; Simple and effective online submission system; Widest possible ..."
+    publishedDateTime: 2020-01-15T23:10:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/caoa-dbn011420.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
+        width: 900
+        height: 300
+  - title: "Huawei looks to self-driving cars, inspired by Tesla"
+    excerpt: "Chinese smartphone manufacturer Huawei is currently making a big push towards the 5G industry, but it is also reportedly planning to assist in building self-driving cars, news portal GizmoChaina reported on Thursday. \"Our ultimate goal is to achieve complete driverlessness, but in the process of moving towards the ultimate goal, it can create ..."
+    publishedDateTime: 2020-01-16T18:19:00Z
+    sourceUrl: https://www.khaleejtimes.com/business/corporate/huawei-looks-to-self-driving-cars-inspired-by-tesla
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 39
+    images:
+      - url: https://images.khaleejtimes.com/storyimage/KT/20200116/ARTICLE/200119432/AR/0/AR-200119432.jpg&NCS_modified=&exif=.jpg
+        width: 1200
+        height: 800
   - title: "Uber's self-driving vehicles are coming to Washington, DC"
     excerpt: "Why it matters: Waymo isn't the only company that wants to move the world toward a self-driving future. Uber is pushing for a similar goal, albeit at a slower, more deliberate pace following some past controversies involving its autonomous car tech. Regardless, the company is hitting another major milestone today: its fleet of self-driving ..."
     publishedDateTime: 2020-01-24T12:28:00Z
@@ -455,17 +526,6 @@ related:
       - url: https://i.insider.com/5e27cca5b6d52d4b53130ed2?width=1200&format=jpeg
         width: 1200
         height: 600
-  - title: "Report: Detailed, fast imaging of hidden objects could help self-driving cars detect hazards"
-    excerpt: "Researchers have harnessed the power of a type of artificial intelligence known as deep learning to create a new laser-based system that can image around corners in real time. With further development, the system might let self-driving cars “look” around parked cars or busy intersections to see hazards or pedestrians. It could also be ..."
-    publishedDateTime: 2020-01-16T20:29:00Z
-    sourceUrl: https://www.tunisiesoir.com/science/report-detailed-fast-imaging-of-hidden-objects-could-help-self-driving-cars-detect-hazards-18849-2020/
-    ampUrl: https://www.tunisiesoir.com/science/report-detailed-fast-imaging-of-hidden-objects-could-help-self-driving-cars-detect-hazards-18849-2020/amp/
-    cdnAmpUrl: https://www-tunisiesoir-com.cdn.ampproject.org/c/s/www.tunisiesoir.com/science/report-detailed-fast-imaging-of-hidden-objects-could-help-self-driving-cars-detect-hazards-18849-2020/amp/
-    type: article
-    provider:
-      name: Tunisie Soir
-      domain: tunisiesoir.com
-    quality: 28
   - title: "What self-driving cars will really do to cities"
     excerpt: "The prevailing belief is that a system of self-driving cars will solve several environmental and social problems without us needing to worry about messy stuff like politics, activism or changing our travel habits. Unfortunately, this future will almost ..."
     publishedDateTime: 2020-01-11T11:00:00Z
@@ -479,6 +539,19 @@ related:
       - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-90450754-what-self-driving-cars-will-really-do-to-cities.jpg
         width: 1280
         height: 720
+  - title: "Kubota to release self-driving rice planting machine in October"
+    excerpt: "Demand for self-driving farming machinery is high because of manpower shortages and the aging of farmers. Kubota has already launched tractors and combine harvesters with self-driving functions."
+    publishedDateTime: 2020-01-16T07:45:00Z
+    sourceUrl: https://www.japantimes.co.jp/news/2020/01/16/business/corporate-business/kubota-self-driving-rice-planting-machine/
+    type: article
+    provider:
+      name: The Japan Times
+      domain: japantimes.co.jp
+    quality: 24
+    images:
+      - url: https://www.japantimes.co.jp/wp-content/uploads/2020/01/b-kubota-a-20200117-870x951.jpg
+        width: 870
+        height: 951
   - title: "How to Invest in Self-Driving Car Stocks"
     excerpt: "Amazingly, breakthroughs in related technology such as artificial intelligence and the internet of things make autonomous vehicles a reality. Or at least, they will be much more of a reality in very short order. Let’s break down further what, exactly, goes into driverless car technology. The task of autonomous driving is accomplished with a ..."
     publishedDateTime: 2020-01-17T11:14:00Z
@@ -529,17 +602,6 @@ related:
       - url: https://images.axios.com/RuadaS8GdpPrVkbGKAu71OjWW60=/0x391:1920x1471/1920x1080/2020/01/22/1579671552958.jpg
         width: 1920
         height: 1080
-  - title: "The Hype of Self-Driving Cars Gives Way to Reality"
-    excerpt: "However, achieving that last goal has proved to be more of a challenge than engineers originally thought. On the congested streets of Las Vegas, I sat (helplessly) in the back seat of a self-driving Prius, watching as the wheel sawed back and forth in front of the empty driver's seat. It steered us through multiple left turns — inches from ..."
-    publishedDateTime: 2020-01-23T21:32:00Z
-    sourceUrl: https://www.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html
-    ampUrl: https://feeds.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html?_amp=true
-    cdnAmpUrl: https://feeds-aarp-org.cdn.ampproject.org/c/s/feeds.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html?_amp=true
-    type: article
-    provider:
-      name: AARP
-      domain: aarp.org
-    quality: 24
   - title: "Uber taking 'first step towards' self-driving cars in DC"
     excerpt: "Uber is working towards replacing its human drivers in Washington, D.C., and they are starting the process by collecting data from self-driving cars in the city. The testing will begin Friday and will include a driver who will maintain control of the self-driving vehicle but will map out roads in the car along with a co-rider. The company did ..."
     publishedDateTime: 2020-01-23T18:31:00Z
@@ -562,15 +624,6 @@ related:
       name: AARP
       domain: aarp.org
     quality: 24
-  - title: "Spoiler Alert: Three Key Ways GM-Backed Cruise’s Electrifying New Self-Driving Minivan Might Have Some Heartburn"
-    excerpt: "At a grand spectacle in San Francisco last night, the GM-backed Cruise that aims to bring forth autonomous vehicles with true self-driving capabilities had an unveiling of their newest creation (said to have been devised via engineers from GM,"
-    publishedDateTime: 2020-01-24T17:13:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/22/spoiler-alert-three-key-ways-that-the-new-and-electrifying-gm-backed-cruise-self-driving-car-minivan-might-have-some-heartburn/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 13
   - title: "Uber bringing fleet of self-driving cars to Washington, DC"
     excerpt: "Uber is bringing a fleet of self-driving cars to the nation's capital to begin mapping out prospective routes -- aided by human drivers at first -- starting on Friday. The new self-driving cars that are expected to hit the roads in Washington, D.C., will have the initial goal of data collection, and will have a human vehicle operator ..."
     publishedDateTime: 2020-01-24T17:00:00Z

@@ -54,22 +54,7 @@ related:
       - url: https://s.hdnux.com/photos/01/10/11/73/18915015/7/375x250.jpg
         width: 375
         height: 249
-  - title: "GM-Backed Cruise's Self-Driving Robo-Taxi Revealed"
-    excerpt: "Cruise, the self-driving car start-up, in which General Motors Company GM owns a majority state, revealed a prototype of its driverless robo-taxi on Tuesday. The robo-taxi called Cruise Origin is a “fully engineered vehicle that’s on its way to production,"
-    publishedDateTime: 2020-01-22T10:08:00Z
-    sourceUrl: https://www.benzinga.com/news/20/01/15160801/gm-backed-cruises-self-driving-robo-taxi-revealed
-    ampUrl: https://amp.benzinga.com/amp/content/15160801
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15160801
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: https://www.benzinga.com/files/images/story/2012/01.jpg
-        width: 1750
-        height: 869
 
-secured: "8ZtshReOLkmYpjSuw0tsw1VR20r7ldP8FddvnTq15PwpY4RUW13qmS/hxeFEi3FsKrUzytOdVhL4ivVjRiW4TUqjc2QbcYAq0YPF17e5G1j4mjJ8TDZ6chEVqomScmk0nEZKpgge/R8VE6/iSYkCIKMHrcAtGZTNXr9jMu6NTcH6bkW4nd/GRQPWFAxL28ZY8jEiJD2xkHqqwWIaVq20Cl1hh/qFbfei+YtXaqEnGSieF/MXfZwNfC8cXGHjJj5vhaMjDD75VMQAVOHjXHnAcS42rq6fUWWdM61q2HZp+ApIjK3qUAhkycHcVWVIVMWE;woJYX4mkH3aca7jtcQsUMQ=="
+secured: "iMLgumH6av33MrzW8y6bljTtuFIEky9AQizeFChYeDlJEOR82tdPtHnVJB5Lt/ROvFTsu04yw+LePk56Vi29KW+hRw5eIVsOyrZnTBrxEIVHR4RL1XKKzLTna0kcEo/OAHpfGKVFoDWD/YeZizcfpWj9BreXwHQoZ+fymfiZsKnDT5TTAqSnXe8jC1BxDXgfifHQ7gJLAbWimabufC1jO6g5S7J69RLgtx+S3InQN7sibRngmHL+J5UsCf0e+30qhuWymgc5vrw1t72zcohSuPGdf1SYUJBowJju3UrocNhE67cVd0DzmsttzWpKd54WRd8ZSMHn/VQrtmmJhGNCEkBtSYU8W0hRv2v6Qo0qeV4qrBXVZefj/CF1WAh7Gd9vbfyo5nCd1ZreBno+X5nBIxwUzjwA1PczCZS2WY0ZomQGgEOaa5sMc7SXBEbRy0DTK3VMHyXF2364m3vFSQahItkeQUsnznXbptcObidy5P4=;rqgRtuXZBpYFSsDKJHOUmQ=="
 ---
 

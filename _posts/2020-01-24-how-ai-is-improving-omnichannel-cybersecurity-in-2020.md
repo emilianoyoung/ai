@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/louiscolumbus/2020/01/24/how-ai-is-improvin
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/01/24/how-ai-is-improving-omnichannel-cybersecurity-in-2020/amp/
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -29,36 +29,19 @@ images:
     title: "How AI Is Improving Omnichannel CyberSecurity In 2020"
 
 related:
-  - title: "3 Big Takeaways From NRF 2020: Omnichannel Holidays, AI And The Measured Store"
-    excerpt: "It’s important to gauge retailers’ moods at NRF not least because it’s usually the first warning you have as to what holiday results are going to be like."
-    publishedDateTime: 2020-01-21T02:56:00Z
-    sourceUrl: https://www.forbes.com/sites/nikkibaird/2020/01/20/three-big-take-aways-from-nrf-2020-omnichannel-holidays-ai-and-the-measured-store/
-    ampUrl: https://www.forbes.com/sites/nikkibaird/2020/01/20/three-big-take-aways-from-nrf-2020-omnichannel-holidays-ai-and-the-measured-store/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nikkibaird/2020/01/20/three-big-take-aways-from-nrf-2020-omnichannel-holidays-ai-and-the-measured-store/amp/
+  - title: "How LG’s Artificial Intelligence Is Changing How Consumers Use Appliances, Improving Sustainability And Doing Our Laundry Better"
+    excerpt: "One of the biggest trends at CES 2020 was Artificial Intelligence or AI. Advances in this type of technology have truly changed the way consumers use many devices in a relatively short period. And we’ve only just begun to discover the potential of what it can do."
+    publishedDateTime: 2020-01-20T16:20:00Z
+    sourceUrl: https://www.forbes.com/sites/amandalauren/2020/01/20/how-lgs-artificial-intelligence-is-changing-how-consumers-use-appliances-improving-sustainability-and-doing-our-laundry-better/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 83
+    quality: 55
     images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1193597438%2F0x0.jpg
-        width: 1200
-        height: 800
-  - title: "Three Big Take-Aways from NRF 2020: Omnichannel Holidays, AI, and the Measured Store"
-    excerpt: "It’s important to gauge retailers’ moods at NRF not least because it’s usually the first warning you have as to what holiday results are going to be like."
-    publishedDateTime: 2020-01-20T20:39:00Z
-    sourceUrl: https://www.forbes.com/sites/nikkibaird/2020/01/20/three-big-take-aways-from-nrf-2020-omnichannel-holidays-ai-and-the-measured-store/
-    ampUrl: https://www.forbes.com/sites/nikkibaird/2020/01/20/three-big-take-aways-from-nrf-2020-omnichannel-holidays-ai-and-the-measured-store/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nikkibaird/2020/01/20/three-big-take-aways-from-nrf-2020-omnichannel-holidays-ai-and-the-measured-store/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
-    images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1193597438%2F0x0.jpg
-        width: 1200
-        height: 800
+      - url: https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e25c0dd8b6cf300071c7e19%2F960x0.jpg
+        width: 600
+        height: 315
   - title: "Artificial Intelligence in Cybersecurity Market is anticipated to grow at a CAGR of ~22.3% from 2019 to 2030"
     excerpt: "Market Industry Reports (MIR) has published a new report titled \"Artificial Intelligence in Cybersecurity Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2019-2030.\" According to the report,"
     publishedDateTime: 2020-01-23T12:53:00Z
@@ -70,6 +53,19 @@ related:
     quality: 48
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "What Is AI and How Can It Improve an Organization’s Security Posture?"
+    excerpt: "and translation between languages.” Gartner states that “Artificial intelligence applies advanced analysis and logic-based techniques, including machine learning, to interpret events, support and automate decisions, and take actions.” To summarize, AI in cybersecurity refers to a set of capabilities similar to human abilities that allow ..."
+    publishedDateTime: 2020-01-17T14:57:00Z
+    sourceUrl: https://securityintelligence.com/posts/what-is-ai-and-how-can-it-improve-an-organizations-security-posture/
+    type: article
+    provider:
+      name: Hack
+      domain: securityintelligence.com
+    quality: 39
+    images:
+      - url: https://securityintelligence.com/wp-content/uploads/2020/01/internal_what-is-ai-and-how-can-it-improve-an-organizations-security-posture.jpg
         width: 1200
         height: 630
   - title: "Training in cybersecurity a ‘hot topic’ in Australia"
@@ -107,19 +103,6 @@ related:
       name: Robotics & Automation News
       domain: roboticsandautomationnews.com
     quality: 17
-  - title: "Client Note: Apple’s AI Acquisition, A $5B Challenger Bank Valuation, Snyk Becomes A Cybersecurity Unicorn, And More"
-    excerpt: "Also covered are an open banking mega-round, SoftBank invests in an IoT startup, and Amazon's hand-based payments. Want the full post? Become a CB Insights customer. If you’re already a customer, log in here."
-    publishedDateTime: 2020-01-22T17:33:00Z
-    sourceUrl: https://www.cbinsights.com/research/apple-ai-acquisition-challenger-bank-snyk-cybersecurity-unicorn/
-    type: article
-    provider:
-      name: CB Insights
-      domain: cbinsights.com
-    quality: 14
-    images:
-      - url: https://s3.amazonaws.com/cbi-research-portal-uploads/2020/01/22112245/climate-change_news-coverage_CN_012220.png
-        width: 512
-        height: 276
 
 secured: "mKmMGsbqksJDAQ3rencxJ2VQ2Slt3JlkDWDdfy/ArlWMNhpwfOKZNnJIFQFtNH4ZvIKsCuSb9N3M3XFpuy5r8mNAM1DEB0xwdeVFdl1ArtMxTWEsHxyoifWatHpgYRSKZK8BIn10jQwDYKoJ3fLJT4Y021sbCs1d9eh5epaSgHzgFy6ar57Oyso68SWeqaQ/PY55rz+5fSz4eiML73zn37yMexnfbB7jOKxeQ8bmIaRmneCAkMfRt5E3FOKt1pXTWyif36AlPVlVYMktkVKKQ5TV5fK3sSYRy51dq6UARaD9VHlyR3Vs7wA2aP8DVl7b9Uybyv8/Vmvuu1PXBgw3YNiatvcCCFsGSz7aoZ6bdZtnW3jYEwLdFJadvY0kHLChy2tKv2RFy9v75Ard3ksCJYdOs8T/qpYz46+p3PbewhpuBX2G65MphZsE983OwT6bptf/FhY0EEdlBak0WNvPwDbWfvJ+2v6fxVng933PSY4=;eesbjCdfKhw26v054G16Mg=="
 ---

@@ -35,21 +35,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
-  - title: "An AI reality check"
-    excerpt: "We can see validation for this “data first” perspective in the actions of IBM’s Watson group. Watson is arguably the most prominent commercial AI platform, and was a critical pioneer in the market, with impressive technical capabilities. However, a new class of Open Source entrants, probably best characterised by H20.ai and TensorFlow ..."
-    publishedDateTime: 2020-01-16T10:30:00Z
-    sourceUrl: https://www.itproportal.com/features/an-ai-reality-check/
-    ampUrl: https://www.itproportal.com/amp/features/an-ai-reality-check/
-    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/an-ai-reality-check/
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 59
-    images:
-      - url: https://cdn.mos.cms.futurecdn.net/6P7pF9xiMRwNZeeottPsKb-1200-80.jpg
-        width: 1200
-        height: 675
 
 secured: "c/zNopnHHuezlIZtnmq6QOvmyyiTbB/Q1jQy/kiOccrHMm2SzW6AmKJ4nrWsd5qYCaeRa8U1tOZdmPb6bDl5lZSxoCH/9os0swTrDMp82i4ftZQhsmNA1S3I6PgJKVFVTgAm4OqlemCVQFdjR2a0o8/Kt89uZv7zaKWmfoFitlQHbjD7lMZ8aqMuNE/H+RMsAU33JK3UWeaNaBgVT8GaDNluFd0wofRoGemQOu6q7jCvUjAsApbnX8IXAJuUBQbYaustFVnqQhff/EUp/jqWThhC/1bWPmJGLqsXJJBTGAAHLywPgH5TuByax6FQ2eMPgYLts4POnIwIAmEe9HpqUYKEzlP2hq5rr9TQM8yIaR4yE1mRDyNIIEwiIWoqWLsq024M1g9GZM/ORRzNT7cpPPPoAtssBzlR665u4+8JRZiK3WUcPfzuKZ4mUSngOGpIFADMlHIxRpVJ5OES8cu6DQ==;Vl5fJg7cqoYm2ATBBalrWw=="
 ---

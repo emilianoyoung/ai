@@ -27,34 +27,54 @@ images:
     title: "Explore Machine Learning and Data Science With This $35 Training Bundle"
 
 related:
-  - title: "Future-proof your tech skills with the Ultimate Deep Learning Bundle"
-    excerpt: "Whether we like it or not, AI and deep learning are rapidly becoming part of our daily lives. So far, the rise of AI hasn’t led to toasters becoming our overlords, but there are high-paying jobs being created. You can pick up the Ultimate Deep Learning ..."
-    publishedDateTime: 2020-01-15T10:02:00Z
-    sourceUrl: https://www.androidauthority.com/ultimate-deep-learning-1073754/
-    ampUrl: https://www.androidauthority.com/ultimate-deep-learning-1073754/amp/
-    cdnAmpUrl: https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/ultimate-deep-learning-1073754/amp/
+  - title: "Dive into AI and machine learning with this $40 training"
+    excerpt: "With four courses and over 280 lessons, this bundle will introduce you to the exciting and lucrative world of machine learning and AI The interconnected worlds of machine learning and AI can be found at the heart of some of today's most exciting and important technologies—from quantum computing and Google algorithms to medical innovations and ..."
+    publishedDateTime: 2020-01-19T14:00:00Z
+    sourceUrl: https://www.engadget.com/2020/01/19/ai-and-machine-learning-training/
+    ampUrl: https://www.engadget.com/amp/2020/01/19/ai-and-machine-learning-training/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/19/ai-and-machine-learning-training/
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 89
+      name: Engadget
+      domain: engadget.com
+    quality: 104
     images:
-      - url: https://cdn57.androidauthority.net/wp-content/uploads/2019/11/Businessman-and-robot-shaking-hands-920x470.jpg
-        width: 920
-        height: 470
-  - title: "Future-Proof Your Marketing Tech Stack with the Right Customer Experience (and Help from AI)"
-    excerpt: "In 2019, this was certainly the case when marketing cloud Acoustic emerged as the rebranded spinoff of IBM Watson Marketing. On day one ... and is valuable for the customer and easy to manage for the marketers.\" Where does AI fit in? “AI is essentially pattern recognition,” Guadagno explained. “It’s something that humans can’t ..."
-    publishedDateTime: 2020-01-13T22:12:00Z
-    sourceUrl: https://www.dmnews.com/customer-experience/article/21109830/futureproof-your-marketing-tech-stack-with-the-right-customer-experience-and-help-from-ai
+      - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F8b238210-38a9-11ea-917e-fb2730af35ad%26client%3Da1acac3e1b3290917d92%26signature%3D38805b0262324ddf51afce57692f092fd86987eb&client=amp-blogside-v2&signature=d5a5d6b2ff11988bc4300d6be4722d34508587fa
+        width: 600
+        height: 350
+  - title: "Accelerating Learning Through AI At Cerego And TechStyle"
+    excerpt: "Cerego, an AI-based learning management system, helps fashion retailer TechStyle accelerate learning for call center agents."
+    publishedDateTime: 2020-01-23T16:10:00Z
+    sourceUrl: https://www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/
+    ampUrl: https://www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/amp/
     type: article
     provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 28
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+  - title: "Understand AI and Machine Learning With This $40 Training Bundle"
+    excerpt: "You don’t have to look far. Every day, there’s another news story about the impact of artificial intelligence and machine learning on our daily lives. Like how AI researchers are using something as mundane as insurance claim data to more accurately diagnose cases of amyotrophic lateral sclerosis (ALS) well before conventional methods."
+    publishedDateTime: 2020-01-16T16:00:00Z
+    sourceUrl: https://www.extremetech.com/deals/304990-understand-ai-and-machine-learning-with-this-40-training-bundle
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 54
     images:
-      - url: https://cdn.dmnews.com/files/base/acbm/dmn/image/2020/01/960w/GettyImages_1051617224.5e1c25379b3da.jpg
-        width: 960
-        height: 532
+      - url: https://www.extremetech.com/wp-content/uploads/2020/01/sale_25319_primary_image_wide.jpg
+        width: 992
+        height: 558
+  - title: "Enabling AI with Intel’s Deep Learning Boost"
+    excerpt: "Getting more performance out of a system to handle machine-learning (ML) chores can be done using Intel’s Deep Learning Boost. I talked with Huma Abidi, Director of Engineering, Artificial Intelligence and Deep Learning at Intel, to find out more."
+    publishedDateTime: 2020-01-14T17:15:00Z
+    sourceUrl: https://www.electronicdesign.com/technologies/embedded-revolution/article/21120470/enabling-ai-with-intels-deep-learning-boost
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 38
 
 secured: "aV/lqWntDQNfyNheXIvcwO8Qvs5x/jbD6ibCF2a80qMKqnw8XSrATq6K9/vkeJj+QZRscMcSGgG0azTlv5dtK8NbiSD9149w4f3061UIQaba6VbNrk2/wMckngYA9lpbrHNuTn4oRYLzzTlJc/QBeU8Mm64x5hLjqEwwjdzdCfycFGCu3Zxf63GF2ysoXgeI2puQ12nKgBdastASHiaTSCCh8xuYQPjNJv81JVzhQuC/+yxTC2IiYOHcSP0wuwweRX38gDzrCm1sNVznpBYvzUjuTeUpTPUjc8FO/6Biu5Ai+0gcFXr9RSRC+zjYEDeSy0xkbMq7ifZ7m47K2SFmMDUX/i2wafIMIo4GOIYcgpcDLgVlpXVeiex2Bq+uhAi+zLBn9AJpElVDUUi7usOhQhBp5da/gXVB5W2Uu0Xx4Kv8v9sYKqOId++lM5KVUHuedQXRpjjZ6+RbPfWU6S1dQA==;597wq2GU6tar6hH+XR58iw=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.smartinsights.com/content-management/content-management-syst
 cdnAmpUrl: https://www-smartinsights-com.cdn.ampproject.org/c/s/www.smartinsights.com/content-management/content-management-systems/how-ai-powered-content-marketing-can-fuel-your-business-growth/amp/
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -24,38 +24,6 @@ images:
     width: 700
     height: 245
     title: "How AI-powered content marketing can fuel your business growth"
-
-related:
-  - title: "2020: The Year Of Artificial Intelligence For Your Business"
-    excerpt: "Close to 40% of businesses use artificial intelligence (AI). This number was estimated at 5% to 10%, but a survey by IBM showed that we grossly underestimated the scale of AI’s existence. Most importantly, this number is set to grow to 80% to 90% over the next 18-24 months. Furthermore, AI specialists are the number one job role for 2020."
-    publishedDateTime: 2020-01-19T03:30:00Z
-    sourceUrl: https://www.entrepreneur.com/article/345112
-    ampUrl: https://www.entrepreneur.com/amphtml/345112
-    cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345112
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 87
-    images:
-      - url: https://assets.entrepreneur.com/content/3x2/2000/20190109070104-shutterstock-529299211.jpeg?width=600&crop=16:9
-        width: 600
-        height: 338
-  - title: "NRF 2020: How AI Is Revolutionizing Retail"
-    excerpt: "“I think we’re on the verge of watching indoor location go from something that’s nice to have to a must-have technology for retailers,” he said. Retailers Grapple with the Ethics of AI Even as they’ve been more aggressive in adopting AI than most other industries, retailers are proceeding with some caution as they think through ..."
-    publishedDateTime: 2020-01-14T23:06:00Z
-    sourceUrl: https://biztechmagazine.com/article/2020/01/nrf-2020-how-ai-revolutionizing-retail
-    ampUrl: https://biztechmagazine.com/article/2020/01/nrf-2020-how-ai-revolutionizing-retail?amp
-    cdnAmpUrl: https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/01/nrf-2020-how-ai-revolutionizing-retail?amp
-    type: article
-    provider:
-      name: BizTech
-      domain: biztechmagazine.com
-    quality: 59
-    images:
-      - url: https://biztechmagazine.com/sites/biztechmagazine.com/files/2020-01/CDW_modernworkforce_IR_mobile.jpg
-        width: 300
-        height: 250
 
 secured: "8qe3L0GnnwXy99a2ORtOT7EIoJ15Gap9Z/3krhiyxWystZ4XXPE0ZfhdzZTpSb/N4+AnnJLPcWZfYxMbbKTcrkK+LbDDUxbwQsKZPxKfErMBoHzWHKgXnhUhGfuiO/r6h9fF81LCboycidYUj/6Gyj6AIKwDMTicjWQAAOOFSFcACJrXhLMN+XY3t/JfoYjzLvLBEo9IMHPHj0vCCOL4vHY/y5+M4tD/+qkBRrN9YoWDd4nV6RR5aFFCQlGkxUVNAs9erm06RZM1xZS8lwXoGzS6VoEzF8M2bTVKKJ0osp2wCykt4hz4371iopaRrJxDMzfFgno1VZX3ArlO/oCXjTft/i6Kt7lCF52lxwWOKllNSPBnOoV8Y8DnqYmygAUWu0jIwYtdIW3jsYQzv7ftCOG/axjg+WSkKJv6F+MzSL3ixzLz4E/ibm4Ag14Zvd9SiVdjeAzV74W/aTwRdyiYxw==;QGVyYY/OoeGaHW1YYsynrw=="
 ---

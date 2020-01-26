@@ -45,6 +45,15 @@ related:
       - url: https://thumbor.forbes.com/thumbor/711x544/https://specials-images.forbesimg.com/imageserve/5e27bb58a854780006af293b/960x0.jpg?fit=scale
         width: 711
         height: 544
+  - title: "Spoiler Alert: Three Key Ways GM-Backed Cruise’s Electrifying New Self-Driving Minivan Might Have Some Heartburn"
+    excerpt: "At a grand spectacle in San Francisco last night, the GM-backed Cruise that aims to bring forth autonomous vehicles with true self-driving capabilities had an unveiling of their newest creation (said to have been devised via engineers from GM,"
+    publishedDateTime: 2020-01-24T17:13:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/22/spoiler-alert-three-key-ways-that-the-new-and-electrifying-gm-backed-cruise-self-driving-car-minivan-might-have-some-heartburn/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 13
 
 secured: "l46oxFutM3EZlNO7zjgZuuIxjyFEAKUY6PG9ajMVv+5NJm3KNhPjpiXs+TsVqkxdkgJKQMOG+6BStKRaRN6Kt6Yq09oYhI8VotdT+GcOCK9hFKELyF9TjGfPAdaJep6ObX19EOdi60lJy0Vg/BHhAq3RwjNDjfBb879Vr0QwYseCC3XVLaVvlecV4U6IoUZ606ioWmhJ/use2Q5LQUjRu9FwgY4uFpSo/yrhTjKxvyjEA/KS4GyDcul4oIZPfTl0xNhK6forSAE3CwH5h89deiY44+PUZ2SphPok9j2tAy5f46b0G3n3JgReQHZ0Of2RAnThAPQguVhkvTXIPg6W0pHHLlv9l4/DYpY6hC6678URKZaCTRsHbJrBHLlYBmuHO7ZWrxMtMNSB/a2lnIjsVAUPgLaaWoRSbsYC5SL3pmnfkBAKd3GKJlnQ7lE8598qjr35cLYmiKzKZiPsYe1xyb5CWgmM8A/HJGg0d6Jfzws=;UojK5cvMaQJiyyJPrYEdRQ=="
 ---

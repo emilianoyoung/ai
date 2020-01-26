@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-08T04:26:00Z
 sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-2020-analysis-forecast-research-and-development-report-2025-market-research-engine-2020-01-08
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,34 @@ images:
     width: 1200
     height: 630
     title: "Machine Learning as a Service Market 2020 Analysis Forecast Research and Development Report 2025 – Market Research Engine"
+
+related:
+  - title: "Machine Translation Market Research and Technology Developments 2020 to 2024"
+    excerpt: "Machine Translation Market - Growth, Trends And Forecast (2020 - 2024) Machine translation (MT) refers to fully automated software that can translate source content into target languages. Humans may use MT to help them render text and speech into another language,"
+    publishedDateTime: 2020-01-06T08:36:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-research-and-technology-developments-2020-to-2024-2020-01-06
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Global Machine Translation Market 2020 Witnessing Robust Growth and Advancement (AppTek, Asia Online, Cloudwords, IBM, Lighthouse, Lingo24)"
+    excerpt: "MENAFN - MarketersMEDIA) The Machine Translation Market report provides study with in-depth overview, describing about the Product, Industry Scope and elaborates market outlook and status to 2025. Dublin,"
+    publishedDateTime: 2020-01-08T01:53:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-machine-translation-market-2020-witnessing-robust-growth-and-advancement-apptek-asia-online-cloudwords-ibm-lighthouse-lingo24-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "KKZgg1of0Qqf7QP4Q7K15qsDpSAVVOnq+uBz12aVN+EZu/SSXkUHLcoV9vbbgqLZIA4FFE5EQx2fxm94rKycpyIqCJRS8J/612inhnMQaP2eV0io7LwkDHdpNZu9DvcKEP9GwjhUUNIvBCwxKwTrqwq8P9MePJ77IlxtpE1ZOBp4TGIzFlqgUNr6l/AU5mX7ji9BnsHGoN3L+oaLTLzRGAbFTFENT247aDVGae8N9ChVApdcp+maDvG0a4/heCcwd5wox2qZAXfxx5Ve3ATIP+rMZF70FKl83Xxk03enAXo=;tDD+r3rvyME0hkICgdY2ww=="
 ---

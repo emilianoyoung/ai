@@ -8,8 +8,8 @@ ampUrl: https://www.forbes.com/sites/forbescommunicationscouncil/2020/01/10/five
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/01/10/five-conversational-ai-predictions-for-2020/amp/
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: Forbes
@@ -30,78 +30,52 @@ images:
     title: "Five Conversational AI Predictions For 2020"
 
 related:
-  - title: "AI in 2020: From Experimentation to Adoption"
-    excerpt: "Advances in data discovery and management, skills training and AI explainability are driving the rate of AI adoption faster than many predicted."
-    publishedDateTime: 2020-01-07T19:15:00Z
-    sourceUrl: https://www.forbes.com/sites/ibm/2020/01/07/ai-in-2020-from-experimentation-to-adoption/
-    ampUrl: https://www.forbes.com/sites/ibm/2020/01/07/ai-in-2020-from-experimentation-to-adoption/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ibm/2020/01/07/ai-in-2020-from-experimentation-to-adoption/amp/
+  - title: "Conversational AI Can Propel Social Stereotypes"
+    excerpt: "Alexa, Siri, Watson, and their talking AI siblings serve to make our lives easier, but they also reinforce gender stereotypes. Polite, subservient digital secretaries like Alexa and Siri are presented as female. Assertive, all-knowing Jeopardy! champion Watson is most often referred to as “he.” New generations of AI are coming that will ..."
+    publishedDateTime: 2020-01-14T09:00:00Z
+    sourceUrl: https://www.wired.com/story/opinion-conversational-ai-can-propel-social-stereotypes/
+    ampUrl: https://www.wired.com/story/opinion-conversational-ai-can-propel-social-stereotypes/amp
+    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-conversational-ai-can-propel-social-stereotypes/amp
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Wired
+      domain: wired.com
+    quality: 87
     images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e135cf50bf81b0006244a5e%2F0x0.jpg
-        width: 800
-        height: 450
-  - title: "Future of Cartesian Robot Market 2020: Integration of Artificial Intelligence and Big Data"
-    excerpt: "Cartesian Robots Market Research Report and Forecast to 2019-2024 Report provide extensive research on the fast-evolving Cartesian Robots Market. It also gives the competitive landscape of the leading companies with regional and Global analysis of the market till 2027."
-    publishedDateTime: 2020-01-14T10:16:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/future-of-cartesian-robot-market-2020-integration-of-artificial-intelligence-and-big-data-2020-01-14
+      - url: https://media.wired.com/photos/5e1cef377b7b080008560ead/master/pass/Conversational%20AI%20Can%20Propel%20Social%20Stereotypes-01.jpg
+        width: 2400
+        height: 1350
+  - title: "Conversational AI Market 2020 Analysis, Growth by Top Companies, Trends by Types and Application, Forecast to 2025 – Market Research Engine"
+    excerpt: "New York, January 14, 2020: Based on Type, the global Conversational AI market is segmented in Intelligent Virtual Assistants and Chatbots. The report also bifurcates the global Conversational AI market based on Technology in Machine Learning and Deep Learning,"
+    publishedDateTime: 2020-01-14T08:34:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/conversational-ai-market-2020-analysis-growth-by-top-companies-trends-by-types-and-application-forecast-to-2025-market-research-engine-2020-01-14-41753458
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 74
+    quality: 35
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "CES 2020: Older adults embrace AI with transparency"
-    excerpt: "Tonya Hall talks with Kari Olson, chief innovation and technology officer at Front Porch, about how older adults are beginning to understand and embrace AI."
-    publishedDateTime: 2020-01-14T14:01:00Z
-    sourceUrl: https://www.zdnet.com/video/ces-2020-older-adults-embrace-ai-with-transparency/
+  - title: "AI Chips: 5 Predictions for 2020"
+    excerpt: "Will Intel’s acquisition of Israeli AI accelerator startup Habana Labs last month kick-start a surge of acquisitions? This market is absolutely teeming with chip startups, many of whom are reaching a level of maturity where they are revealing their architectures and starting to produce measurable results. As established semiconductor ..."
+    publishedDateTime: 2020-01-17T01:04:00Z
+    sourceUrl: https://www.eetindia.co.in/news/article/AI-Chips-5-Predictions-for-2020
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
-    images:
-      - url: https://zdnet4.cbsistatic.com/hub/i/r/2020/01/14/8d8ebb00-3f91-4110-adc1-769ce1d616d0/thumbnail/770x578/8cdde30d9fe62b9ee966452220fe3f7f/thumb.jpg
-        width: 770
-        height: 578
-  - title: "AI in 2020: Artificial Intelligence? Or just plain artificial?"
-    excerpt: "But that hasn’t stopped AI from becoming one of the buzziest terms thrown around by technology and financial services experts. Fintech startups use the word to make products appear cutting-edge and established firms find they have to offer “AI” to remain competitive. The products they are referring to as AI, though, are often little more ..."
-    publishedDateTime: 2020-01-10T22:21:00Z
-    sourceUrl: https://www.investmentnews.com/ai-in-2020-artificial-intelligence-or-just-plain-artificial-176281
+      name: eetindia.co.in
+      domain: eetindia.co.in
+    quality: 34
+  - title: "Vonage Partners with Artificial Solutions to Deliver Conversational AI"
+    excerpt: "Artificial Solutions® is the leading specialist in enterprise-strength conversational AI, a form of Artificial Intelligence that allows people to communicate with applications, websites and devices in everyday, humanlike natural language via voice, text, touch or gesture input. Designed for the global enterprise, the Company's advanced ..."
+    publishedDateTime: 2020-01-16T13:39:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-vonage-partners-with-artificial-solutions-deliver-conversational-ai-/2020/01/16/9082672.htm
     type: article
     provider:
-      name: InvestmentNews
-      domain: investmentnews.com
-    quality: 54
-    images:
-      - url: https://s32566.pcdn.co/wp-content/uploads/2020/01/CoverStory-image-20200113-900x600-1.jpg
-        width: 900
-        height: 600
-  - title: "CES 2020: Investing In Artificial Intelligence"
-    excerpt: "I have been following IBM for more than 20 years now and only owned the stock once from just after the financial crisis to early 2014. The stock has been in a steady chop down since late 2014. The company itself has seemed burdened by legacy and frankly been rather boring. I'm not bored anymore. Watson, their famous AI, is already solving ..."
-    publishedDateTime: 2020-01-07T17:59:00Z
-    sourceUrl: https://seekingalpha.com/article/4315618-ces-2020-investing-in-artificial-intelligence
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 21
-  - title: "Fluent.ai Named CES 2020 Innovation Honoree for its Advancements in Voice Recognition Technology"
-    excerpt: "The speech technology start-up will be highlighted for its Multi-Wake Word and Intent Recognition technology, in addition to announcing a new partnership with COMMAX Inc."
-    publishedDateTime: 2020-01-06T14:04:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2020/01/06/1966557/0/en/Fluent-ai-Named-CES-2020-Innovation-Honoree-for-its-Advancements-in-Voice-Recognition-Technology.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 6
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "8PoVRcQNkZFydNiQZZVdGa469kZwU6+f52OkSM4GWieBZ0pF84rD9FB/I6PJb3tMIT2u2dF2HryZnbcCcS0oq26B7kSGi522KZ53tcHYJY8ChnuFUtkZxvVhD/OHTSsBAAMsUndTu+6T5mWVyqr1utJKYVahSE1CfcjGs/GAbZE+kyJo3W2GYvWVt7znn2axILyM/7aiMNOoTuIFS5tnYAKaUpczIiDF0EcAOivxGm3V4JT8sMXA1p7Pmggvx0V9va7imrEOokSvJj0rll+wvPi1a8CCcUwr4Fp5hT4pEG0ppibuZCNSgz9GiOqSYxNKxEBPDEsWqPzAeigmiH58pz6jIR38gA93wqW6h2L1xoZ+u2pyXqD1Wv9t8iUclsHIuz27qo4rHOlphcFfHovCDoKj3kq16d5kACW9sV2O1TQnDZ3LUbW6G2X6QXUDsa+2cCrnAkI6c550l4O7hP4N+Q==;XP66zj+NC7/gj5fa491Bjw=="
 ---

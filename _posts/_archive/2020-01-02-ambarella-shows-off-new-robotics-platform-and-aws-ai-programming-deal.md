@@ -4,10 +4,12 @@ title: "Ambarella shows off new robotics platform and AWS AI programming deal"
 excerpt: "Santa Clara, California-based company will demo the robotics platform and the Amazon SageMaker Neo technology for training machine-learning models at CES 2020, the big tech trade show in Las Vegas ..."
 publishedDateTime: 2020-01-02T10:04:00Z
 sourceUrl: https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/
+ampUrl: https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/amp/
+cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/amp/
 type: article
-quality: 64
-heat: -1
-published: false
+quality: 104
+heat: 114
+published: true
 
 provider:
   name: VentureBeat
@@ -20,6 +22,12 @@ provider:
 topics:
   - AI
   - AWS AI
+
+images:
+  - url: https://venturebeat.com/wp-content/uploads/2020/01/Ambarella-and-AWS-CES-2020.jpg?fit=1200%2C646&strip=all
+    width: 1200
+    height: 646
+    title: "Ambarella shows off new robotics platform and AWS AI programming deal"
 
 related:
   - title: "Ambarella unveils new AI chips for automotive cameras and driver assistance"
@@ -37,35 +45,7 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2020/01/ambarella-2.jpg?fit=1200%2C655&strip=all
         width: 1200
         height: 655
-  - title: "Ambarella collaborates with AWS and enables AI on connected cameras using Amazon SageMaker Neo"
-    excerpt: "Ambarella, Inc., an artificial intelligence (AI) vision silicon company, announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo to train machine learning (ML) models once and run them on any device equipped with an Ambarella CVflow-powered AI vision system on chip (SoC). Until now, developers had ..."
-    publishedDateTime: 2020-01-08T11:05:00Z
-    sourceUrl: https://www.sourcesecurity.com/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html
-    ampUrl: https://www.sourcesecurity.com/amp/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html
-    cdnAmpUrl: https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 77
-    images:
-      - url: https://security-img.scdn6.secure.raxcdn.com/news/612/uk-counter-unmanned-aircraft-strategy-to-tackle-malicious-drones-use-920x533.jpg
-        width: 612
-        height: 355
-  - title: "Ambarella Enables Artificial Intelligence on a Wide Range of Connected Cameras Using Amazon SageMaker Neo"
-    excerpt: "Ambarella, Inc. AMBA, +0.02%, an artificial intelligence (AI) vision silicon company, today announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo ..."
-    publishedDateTime: 2020-01-02T10:04:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo-2020-01-02
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
 
-secured: "Fc7z2LtxwziOkc7f1xlRM8LAJPWwrGdhBSy2fnR6aQS6PV01uAujIS9XEjQ5J9pYSv19Z4l675Q7luGWyQB+gMz2py0xozHLzCRBRTXrNivyBjqYJ6MGdyFa6XihP748hl2guE1cbC1KzGkqvh6hzaltA0tYNZv6x9icqQTQsyKGcgaK58rYrKdsA6vqTl4xjOe2yfwVaN7cLhfKLMDilYWLY62L5HIdomDomQhQg/UAANI2Tf80uJC/PpZqclWgX53ZTrxLzkAtErsbyflw9p+dHrHhDN7sCBaLOFfvkgK2ryGSGW8qDomvf3uWcBcd;qYtq5dmYHJ4XPPuj8nZKzw=="
+secured: "2+kHyTCBrA0QiOdk5WEuNzRIk4I5+VMk7qhPNYfKve/621lCh2q2pZQukic9gZ4G0dDVyzU4VH89p0S1YvWkbcf7mgOeTu62GPmLyAcNxMQqZniDR+jbIdrIIKAAoyuHSKavqHAO6LMQvGWLxFXf1X/waNWu2OXdKu+c7zGAHDsBP4Xs5aw4/2/9T74VaPpX5sH2jJpVeera55NvOGTFlICh1bvEN53HPk9yIFwmN+TtI8vbuTAwzpWb9qoHH+4IHjLt9joHPZ4dIEqmnb3sgqv2ExreVK+AcZsVJurc9+QwHNt4BpRbKnZPpn6JMel4;epT2DgkDAhAV25eJp8ItHA=="
 ---
 

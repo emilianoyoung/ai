@@ -26,80 +26,36 @@ images:
     title: "How AI is humanizing health care"
 
 related:
-  - title: "Creating a more accessible world with Azure AI"
-    excerpt: "At Microsoft, we are inspired by how artificial intelligence is transforming organizations of all sizes, empowering them to reimagine what’s possible. AI has immense potential to unlock solutions to some of society’s most pressing challenges. One challenge is that according to the World Health Association,"
-    publishedDateTime: 2020-01-16T08:00:51Z
-    sourceUrl: https://azure.microsoft.com/blog/creating-a-more-accessible-world-with-azure-ai/
+  - title: "How AI Supports And Accelerates Healthcare"
+    excerpt: "AI is currently most adept at helping to improve and accelerate workflows for researchers and healthcare professionals."
+    publishedDateTime: 2020-01-22T17:40:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-ai-supports-and-accelerates-healthcare/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-ai-supports-and-accelerates-healthcare/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/how-ai-supports-and-accelerates-healthcare/amp/
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
+      name: Forbes
+      domain: forbes.com
     quality: 104
     images:
-      - url: https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e79a07b9-c903-4f16-8e4f-ee19d7dfdf0d.jpg
-        width: 1024
-        height: 576
-  - title: "How DeepMind is unlocking the secrets of dopamine and protein folding with AI"
-    excerpt: "Demis Hassabis founded DeepMind with the goal of unlocking answers to some of the world’s toughest questions by recreating intelligence itself. His ambition remains just that — an ambition — but Hassabis and colleagues inched closer to realizing it this week with the publication of papers in Nature addressing two formidable challenges in ..."
-    publishedDateTime: 2020-01-15T18:00:00Z
-    sourceUrl: https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/
-    ampUrl: https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/
+      - url: https://thumbor.forbes.com/thumbor/711x446/https://specials-images.forbesimg.com/dam/imageserve/1147479249/960x0.jpg?fit=scale
+        width: 711
+        height: 446
+  - title: "How Artificial Intelligence is progressing in mental healthcare"
+    excerpt: "According to the report, suicide is among the top 20 leading causes of death worldwide. Over the years, Artificial Intelligence (AI) tools have been used to fill gaps in mental health care: be it the diagnosis or detection of the early signs of mental health issues. Now, researchers at the University of South Carolina’s Viterbi School of ..."
+    publishedDateTime: 2020-01-24T15:08:00Z
+    sourceUrl: https://www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare-11579878039985.html
+    ampUrl: https://www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare/amp-11579878039985.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare/amp-11579878039985.html
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 101
+      name: Mint
+      domain: livemint.com
+    quality: 76
     images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all
-        width: 1200
-        height: 600
-  - title: "Here Is How Artificial Intelligence Can Make Blogging More Productive"
-    excerpt: "While marketers have been continually using the best possible strategies to improve the existing global blogging landscape, the inclusion of artificial intelligence has taken the ballgame to a whole different level. Moreover, blogging is one marketing activity that needs to be initiated flawlessly for massive returns and any deviation from the ..."
-    publishedDateTime: 2020-01-20T17:10:00Z
-    sourceUrl: https://www.smartdatacollective.com/how-artificial-intelligence-can-make-blogging-more-productive/
-    type: article
-    provider:
-      name: SmartData Collective
-      domain: smartdatacollective.com
-    quality: 37
-    images:
-      - url: https://www.smartdatacollective.com/wp-content/uploads/2020/01/how-AI-helping-the-bloggers.jpg
-        width: 1000
-        height: 667
-  - title: "Counting Antarctic penguins with AI"
-    excerpt: "In order to study penguin populations, researchers first need to accurately count them. A new crowd counting solution from Intel AI Builder member and data science company Gramener could enable researchers to use computer vision to count penguin populations faster and more accurately. \"Today, on Penguin Awareness Day, it's important to ..."
-    publishedDateTime: 2020-01-21T13:40:00Z
-    sourceUrl: https://phys.org/news/2020-01-antarctic-penguins-ai.html
-    ampUrl: https://phys.org/news/2020-01-antarctic-penguins-ai.amp
-    cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-01-antarctic-penguins-ai.amp
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 37
-  - title: "Creating inclusiveness at our first AI for Accessibility Hackathon in Asia Pacific"
-    excerpt: "identifying opportunities to use AI to build a more inclusive and accessible world around us. Their solutions were developed on Microsoft Azure and used Power Apps to create solutions that tackle problems faced by the community every day. Team Grab from Singapore on their communication solution for people with autism Problem statements on ..."
-    publishedDateTime: 2020-01-17T01:17:00Z
-    sourceUrl: https://news.microsoft.com/apac/2020/01/17/creating-inclusiveness-at-our-first-ai-for-accessibility-hackathon-in-asia-pacific/
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 33
-    images:
-      - url: https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2020/01/Feature-image-1600x1065.jpg
-        width: 1600
-        height: 1065
-  - title: "Treating health disparities with artificial intelligence"
-    excerpt: "Healthcare is an imperfect practice, with disparities in care reflecting those in society. While algorithms may be misued to amplify biases, they may also be used to identify and correct disparities. Institute of Medicine (US). Committee on Understanding and Eliminating Racial and Ethnic Disparities in Health Care. Unequal Treatment ..."
-    publishedDateTime: 2020-01-13T20:29:00Z
-    sourceUrl: https://www.nature.com/articles/s41591-019-0649-2
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 19
+      - url: https://images.livemint.com/img/2020/01/24/600x338/Asset_1579878227723.jpg
+        width: 600
+        height: 337
 
 secured: "dfvuZ2PvR69p4IQB2Z29K3Sci/YvsawV7MyAvCPYKWZVOjTHyaiBhBIUpShyV3AW1TMBX+5V8nqR+6l1z1D44ujLcK0IWtHEvDPXvjVVUu4AukM/W++24BYQJeD88EDzGS3Av3FHOhJVcsMX2/cMCBCKRJzSNR7ADS5Yf60O43gtvGbzvSrP+rG7ibXpPNvWAMkjsoSDsRqy4B6d4rUU7I8gI4zGf+Lq0s9Dt/kWlRftFqOMFnsoWM1cRde00AkLRwI4GldQPx6gEeEZzYfQoVlOQBAElJSUi/aBo9XzjmzOPo5odabUwfADTEsSpRxN7j6sZMhlRMzS476KTiaej1ySwX11WLopOZIDXlbExrGC0UPjT9v7tYAqeTUA/lViEhxQzk0DM/N/FYYKK56QG0y+8FVKPEiiMPLiQwY45yN5lLHFJCLM+HILk2c7Sp90TNfF09uHQZthMVKnBEw/+A==;4kDyvmdHh5xoNecy7bmmkg=="
 ---

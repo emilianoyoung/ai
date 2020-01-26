@@ -18,21 +18,21 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "New AI dog trainer uses computer vision and a treat launcher"
-    excerpt: "Computer vision is key to how the machine works, detecting a dog's comportment in real time to tune its delivery of rewards to reinforce desired behavior. It remains to be seen how well it can approximate the experience of a skilled human trainer, though SF SPCA says it will soon release a peer-reviewed case study on how the machine worked with ..."
-    publishedDateTime: 2020-01-16T19:09:00Z
-    sourceUrl: https://www.cnet.com/news/new-ai-dog-trainer-uses-computer-vision-and-a-treat-launcher/
-    ampUrl: https://www.cnet.com/google-amp/news/new-ai-dog-trainer-uses-computer-vision-and-a-treat-launcher/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-ai-dog-trainer-uses-computer-vision-and-a-treat-launcher/
+  - title: "Phiar launches AI-powered AR navigation app in invite-only iPhone beta"
+    excerpt: "It also uses AI for lane segmentation, semantic segmentation, and 3D localization, allowing the app to determine and draw a proper navigational route through multi-lane streets. The user can then just follow the suggested path, as well as seeing floating icons that indicate points of interest and traffic signals. One key to these tricks is on ..."
+    publishedDateTime: 2020-01-23T15:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/23/phiar-launches-ai-powered-ar-navigation-app-in-invite-only-iphone-beta/
+    ampUrl: https://venturebeat.com/2020/01/23/phiar-launches-ai-powered-ar-navigation-app-in-invite-only-iphone-beta/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/23/phiar-launches-ai-powered-ar-navigation-app-in-invite-only-iphone-beta/amp/
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 106
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: https://cnet1.cbsistatic.com/img/fWHvXXNhn2vuzxeOrGZW83vxgMM=/2020/01/16/54bce4bf-92df-44da-bf91-3e172ee7f65e/sf-pcs-image.png
-        width: 1200
-        height: 674
+      - url: https://venturebeat.com/wp-content/uploads/2020/01/phiar.jpg?fit=2299%2C1150&strip=all
+        width: 2299
+        height: 1150
 
 secured: "zTrAf6GyU8uV9JAde8zx4yrUEhzVJRyTdeyOufoVhMeZFuEIeQmNcgpFKsWyfeLX28jes2fyGLFtrRDvtZK7Yrk9T0jvEb/eQlLJIq0JRFFRGM0ZXhu9R1mGDsWxQw3kHRZ1ckFNp+L7kuQVlC7HtnznKWW9Yj3OcnXFfQ0h6GReUZi7/y7PQj/jSKXia3hw9pMpnmD3oEA0iiLPgNAJODrOjcl3+i64OVRmyG4Sn7r8VC9OVG2IhiJNUc1Q6kwxb/f/1pSg2vzZgDYcJDCngMRLvzZK+WFNVfw/wHQ5ycKwILQRGb7TYDzY9I1xrdwTFIgQLjw7JI+oDbu/LLTqZ3Zp4T2WRqyQBfn05M0aw+TVPlnjIGsfb8pdIzpIO5VmnKRksJcXhiFCozkkqPUWU6bLs2erhEcfklyh+t2nwZZ9CAVJYLETQiBJKILZ1ajbk1MChA6JZN4rKQC2cZQOCA==;T0No+f4aUhkMTu0BgQgiGw=="
 ---

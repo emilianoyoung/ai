@@ -33,78 +33,37 @@ related:
       - url: https://www.abnewswire.com/uploads/1579519636.jpeg
         width: 417
         height: 455
-  - title: "AI chipset market predicted to grow a 30.8% CAGR through 2025"
-    excerpt: "The factors such as the emergence of quantum computing and rising in implementation of AI chips in the robotics industry have shown a positive impact on the growth of the artificial intelligence chipsets market over the forecast period. Research and Markets says the global artificial intelligence chipset market is segmented on the basis of ..."
-    publishedDateTime: 2020-01-17T10:49:00Z
-    sourceUrl: https://www.mactech.com/2020/01/17/ai-chipset-market-predicted-to-grow-a-30-8-cagr-through-2025/
+  - title: "Intelligent Automation Benefits Across Businesses: Industry Implementation and Key Market Players"
+    excerpt: "Such technologies provide a structured output with enhanced productivity. Additionally, IA being an evolved version of automation mimics human actions and possess cognitive capabilities, including natural language processing, speech recognition, computer vision technology, and machine learning to comprehend the vast amount of structured and ..."
+    publishedDateTime: 2020-01-19T13:36:00Z
+    sourceUrl: https://www.analyticsinsight.net/intelligent-automation-benefits-across-businesses-industry-implementation-and-key-market-players/
     type: article
     provider:
-      name: MacTech
-      domain: mactech.com
-    quality: 54
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 11
     images:
-      - url: https://www.mactech.com/wp-content/uploads/2020/01/AI.png
-        width: 1000
-        height: 500
-  - title: "Artificial Intelligence Chipsets Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
-    excerpt: "New York, January 21, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Chevron Phillips Chemical Company,"
-    publishedDateTime: 2020-01-21T06:20:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-2020-analysis-growth-vendors-shares-drivers-challenges-with-forecast-to-2025-2020-01-21-21752033
+      - url: https://www.analyticsinsight.net/wp-content/uploads/2020/01/Intelligent-Automation-Benefits-Across-Businesses.png
+        width: 1634
+        height: 918
+  - title: "Artificial Intelligence in Healthcare Market Advanced Technology and New Innovations by 2023 – Welltok, Intel, Nvidia, Google"
+    excerpt: "Market Industry Reports (MIR) has announced the addition of the “Global Artificial Intelligence in Healthcare Market Research Report 2019” The report focuses on global major leading industry players with information such as company profiles, product picture and specification. Artificial intelligence assists the machines to perform any task ..."
+    publishedDateTime: 2020-01-20T12:39:00Z
+    sourceUrl: https://www.techworld.com.au/mediareleases/37700/artificial-intelligence-in-healthcare-market/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Chipsets Market 2020 Industry Outlook, Comprehensive Insights, Growth and Forecast 2025 – Market Research Engine"
-    excerpt: "New York, January 16, 2020: Due to high growth in computing applications, enterprises tend to demand machine learning specialised devices, equipped with specialised chipsets. These AI enabled chipsets are expected to drive the expansion of hardware chipset producing into next stage of progress during this field."
-    publishedDateTime: 2020-01-16T03:34:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-2020-industry-outlook-comprehensive-insights-growth-and-forecast-2025-market-research-engine-2020-01-15
+      name: Australian Techworld
+      domain: techworld.com.au
+    quality: 7
+  - title: "World IoT Chip Markets to 2029: Increasing Demand for IoT Chips in Smart Manufacturing Applications Augments Robust Industry Growth"
+    excerpt: "/PRNewswire/ -- The \"Global IoT Chip Market: Focus on Type, End-use Industry and Region - Analysis and Forecast, 2019-2029\" report has been added"
+    publishedDateTime: 2020-01-24T15:45:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/world-iot-chip-markets-to-2029-increasing-demand-for-iot-chips-in-smart-manufacturing-applications-augments-robust-industry-growth-300992810.html
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Mobile AI Market 2020 Classification, Application, Industry Chain Overview, SWOT Analysis and Competitive Landscape To 2023"
-    excerpt: "“”Mobile AI Market”” Mobile AI Market Research Report 2020: Industry Size, Share, Trends, Growth, Sales, Revenue, Risk and Opportunity Assessment"
-    publishedDateTime: 2020-01-23T09:25:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15169842/mobile-ai-market-2020-classification-application-industry-chain-overview-swot-analysis-and-compet
-    ampUrl: https://amp.benzinga.com/amp/content/15169842
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15169842
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
-    images:
-      - url: https://www.abnewswire.com/uploads/1579774680.jpeg
-        width: 800
-        height: 527
-  - title: "AI Chips: 5 Predictions for 2020"
-    excerpt: "Will Intel’s acquisition of Israeli AI accelerator startup Habana Labs last month kick-start a surge of acquisitions? This market is absolutely teeming with chip startups, many of whom are reaching a level of maturity where they are revealing their architectures and starting to produce measurable results. As established semiconductor ..."
-    publishedDateTime: 2020-01-17T01:04:00Z
-    sourceUrl: https://www.eetindia.co.in/news/article/AI-Chips-5-Predictions-for-2020
-    type: article
-    provider:
-      name: eetindia.co.in
-      domain: eetindia.co.in
-    quality: 34
-  - title: "Global Artificial Intelligence In Accounting Market Industry Revenue To Surge To US$ 7,085 Million By 2025"
-    excerpt: "Innovation and Future Developments Based on Research Methodology The global market 2019 report Artificial Intelligence in Accounting Market includes identifying and comparing major competitors AWS, Microsoft, Intuit, Xero, Sage, UiPath, OSP, AppZen, Kore.ai, IBM, and YayPay. For this, the Artificial Intelligence in Accounting Market report ..."
-    publishedDateTime: 2020-01-14T12:24:00Z
-    sourceUrl: https://www.openpr.com/news/1895885/global-artificial-intelligence-in-accounting-market-industry
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 1
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
 
 secured: "dG9qvtSrDMagT8615gnLvkZxtpmhUslum9i/GcO9c3PndqOqMugjpfszQdxTlutiDhgbBAGbweZ4ETbOXwsLcu7jLAObEIvmTx0a3Z7tlbt0SJ6S9iFtUD2bHBGmrVpk1eK7Ufe8IGfkre9p7JbmEXze64esd62BEfFtLqbXrD1zcd6/IyaM5vtgR4N43/K85+qiYTbcmSd2sXOXh4XV6/Jd/wvIaQDECz1UvQLrWt/anta4h852xj6oP53rsCSTKp7OTLDqnjc1DvRze+nSRbU6K58zXHeLCRtFu+R6+Ns=;3NjNmNKIue4/r0czdJ75dw=="
 ---

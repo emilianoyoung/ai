@@ -24,47 +24,34 @@ images:
     title: "SEI invests in AI insights firm ForwardLane"
 
 related:
-  - title: "Can AI Drive Education Forward?"
-    excerpt: "Teachers are asked to incorporate more technology in the classroom but they are not necessarily given the time to learn and make the most out of it."
-    publishedDateTime: 2020-01-23T15:46:00Z
-    sourceUrl: https://www.forbes.com/sites/carolinamilanesi/2020/01/23/can-ai-drive-education-forward/
-    ampUrl: https://www.forbes.com/sites/carolinamilanesi/2020/01/23/can-ai-drive-education-forward/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinamilanesi/2020/01/23/can-ai-drive-education-forward/amp/
+  - title: "Tech firm, after $75M investment, plots global expansion"
+    excerpt: "uses artificial intelligence and machine learning to analyze customer interactions via call centers and other channels. That analysis provides its more than 400 clients — which include some of the world’s largest brands, financial institutions and communications companies — with actionable recommendations for improving customer service ..."
+    publishedDateTime: 2020-01-24T11:38:00Z
+    sourceUrl: https://www.businessobserverfl.com/article/tech-firm-after-dollar75m-investment-plots-global-expansion
+    ampUrl: https://www.businessobserverfl.com/article/tech-firm-after-dollar75m-investment-plots-global-expansion?amp
+    cdnAmpUrl: https://www-businessobserverfl-com.cdn.ampproject.org/c/s/www.businessobserverfl.com/article/tech-firm-after-dollar75m-investment-plots-global-expansion?amp
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Business Observer
+      domain: businessobserverfl.com
+    quality: 44
     images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1049273190%2F0x0.jpg
-        width: 1200
-        height: 800
-  - title: "ForwardLane & SEI Ventures to boost the delivery of AI Insights"
-    excerpt: "to accelerate the growth and for the provision of AI insights for wealth managers, asset managers and commercial banks. SixThirty Global Fintech Fund joined SEI Ventures in the investment round as a follow-on to their first investment in 2018. ForwardLane’s AI insight platform makes use of its proprietary NLP with enterprise data aggregation ..."
-    publishedDateTime: 2020-01-23T12:42:00Z
-    sourceUrl: https://ibsintelligence.com/ibs-journal/ibs-news/forwardlane-sei-ventures-to-boost-the-delivery-of-ai-insights/
+      - url: https://www.businessobserverfl.com/sites/default/files/278691_standard.jpeg
+        width: 1933
+        height: 1289
+  - title: "AI-driven fintech set to expand team after securing £2.5m investment"
+    excerpt: "An AI-driven software as a service (SaaS) business has secured multi-million pound investment to propel its expansion. London-based fintech FeedStock has raised £2.5m in a funding round led by Praetura Ventures. Founded in 2015 and is run by co-founders and joint managing directors Charlie Henderson and Lucas Wurfbain, FeedStock Based in ..."
+    publishedDateTime: 2020-01-20T15:08:00Z
+    sourceUrl: https://bdaily.co.uk/articles/2020/01/20/ai-driven-fintech-set-to-expand-team-after-securing-25m-investment
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
     quality: 39
     images:
-      - url: https://32thcv3s4g2f4bru3o3jkumf-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/MPU-under-Journal-of-the-month-300x250.jpg
-        width: 300
-        height: 250
-  - title: "SEI Ventures and ForwardLane Partner to Scale AI Insights for Financial Service Professionals"
-    excerpt: "/PRNewswire/ -- ForwardLane, the leader in providing AI driven intelligence to financial services professionals, is thrilled to announce SEI"
-    publishedDateTime: 2020-01-23T11:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/sei-ventures-and-forwardlane-partner-to-scale-ai-insights-for-financial-service-professionals-300991802.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
-    images:
-      - url: https://mma.prnewswire.com/media/1080972/ForwardLane_Logo.jpg?p=facebook
-        width: 1284
-        height: 673
+      - url: https://bdaily.co.uk/images/uploads/sEnCbXVe1i6mucg9Tr1kl5CHGvogkNMAx6N0AWOV.jpeg?w=940&h=430&fit=crop-50-50&s=33e72a848f890614183ea7b19622c751
+        width: 940
+        height: 430
 
 secured: "e3WvezNeQE9tYW71GLoqF8hVkpChjQ+Icy7acI4SFFy12/CwOEbLGQmvAl2ebKF2Jxi8oc4xDXnowlWb2aB9ew3rnSeiB0IhIAdwdEQOPhmUS53jVFG/HFmRs92wZQMNBdaxGPj2F3/Ix3Tya+50z0o/kPl0JjAUQiMmxn5wK1usu1dtcVS+4h9YTIYT0i+kukA/2Y2ZJj3Z8cSlmtJJJmXqG2X0AsbBSv0+v1czub7cN0DUxsjc/mv0QN4tt2I+ciot/h9BEzB7yBS3s3IJMCRBXtDq74zOO8cyaJKyb/4/oVIZ//g3kje2m7maQeXB;/kmsqZ2r3BhNZyNhPb1CVg=="
 ---

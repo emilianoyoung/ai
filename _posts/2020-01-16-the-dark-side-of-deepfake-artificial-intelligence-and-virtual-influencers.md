@@ -8,8 +8,8 @@ ampUrl: https://www.forbes.com/sites/forbesbusinesscouncil/2020/01/16/the-dark-s
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/01/16/the-dark-side-of-deepfake-artificial-intelligence-and-virtual-influencers/amp/
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 96
+published: true
 
 provider:
   name: Forbes
@@ -29,21 +29,19 @@ images:
     title: "The Dark Side Of Deepfake Artificial Intelligence And Virtual Influencers"
 
 related:
-  - title: "SenseTime’s AI generates realistic deepfake videos"
-    excerpt: "Typically only a scarce number of videos are available to train an AI system, and any method has to cope with large audio-video variations among subjects and the absence of knowledge about scene geometry, materials, lighting, and dynamics, To overcome these challenges, the team’s approach uses the expression parameter space, or the values ..."
-    publishedDateTime: 2020-01-17T16:55:00Z
-    sourceUrl: https://venturebeat.com/2020/01/17/sensetimes-ai-generates-realistic-deepfake-videos/
-    ampUrl: https://venturebeat.com/2020/01/17/sensetimes-ai-generates-realistic-deepfake-videos/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/17/sensetimes-ai-generates-realistic-deepfake-videos/amp/
+  - title: "Compound’s Mike Dempsey on virtual influencers and AI characters"
+    excerpt: "In a series of three interviews, I’m exploring the startup opportunities in both of these spaces in greater depth. First, Michael Dempsey, a partner at VC firm Compound who has blogged extensively about digital characters, avatars and animation, offers his perspective as an investor hunting for startup opportunities within these spaces."
+    publishedDateTime: 2020-01-18T18:11:00Z
+    sourceUrl: https://techcrunch.com/2020/01/18/compounds-mike-dempsey-on-virtual-influencers-and-ai-characters/
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 187
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
     images:
-      - url: https://venturebeat.com/wp-content/uploads/2020/01/deepfake_sensetime-e1579279865680.png?fit=1200%2C600&strip=all
-        width: 1200
-        height: 600
+      - url: https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1150572105.jpg?w=600
+        width: 600
+        height: 400
 
 secured: "ZMVfWxgtKrkxLSEpEe8KQNUOibL93VPtFGc/jhTFT4XBCmWNWRBKszAm/5tV1+h4yd/aIrDcz+bLI7+ftYm+YnHBx/Zi36tZa1NTXG3G0hJ81/SDzDWWYUEr5MAjAD/KSRiNBTf98uw5k1YaiiaJFRhv6xp2Whmq5lt68L434O5tC9yxDp0OH9veAsneMcyQonzYPEQj9vbLYniQsU0/90pHwxmJmjwWMI7NbvC6Aimdb9zUpafwQnbaNzJ9PaZ66MuSt91NhYcdFq29vul3ukPVRsfMNTMJx8nu8Njlago4cYRqST3YVDDm7xvmN1FgLIGuo80lY2wyIHfpys6snSl5t8LSa9W+L2cOPWfg2bqnBPKGY5Epgwy3fdB3poffGx+o+/PSj3ZmOD9aRBkYz8BQ5HYVqreM43e+yNbexYttk2yy2rUl1JpjMdbQeWKheKdnaRJp17SThgFfRUAk/A==;3hsIolLTWX88/xSAEcIzng=="
 ---

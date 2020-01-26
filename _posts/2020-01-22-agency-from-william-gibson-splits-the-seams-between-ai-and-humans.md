@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/agency-from-william-gibson-splits-t
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/agency-from-william-gibson-splits-the-seams-between-ai-and-humans/
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,21 +27,6 @@ images:
     width: 756
     height: 567
     title: "Agency from William Gibson splits the seams between AI and humans"
-
-related:
-  - title: "Sci-Fi Novelist William Gibson on the Invention of the Term \"Cyberspace\" and How AI Could be Truly Intelligent"
-    excerpt: "The sci-fi novelist on inventing the term cyberspace, the surprising way AI could be truly intelligent and the ending he regrets In the same way Hunter S. Thompson and Pablo Picasso gave us gonzo journalism and Cubism, you’ve been credited with creating cyberpunk and inventing the term cyberspace. How do you plead? I remember early in my ..."
-    publishedDateTime: 2020-01-23T11:44:00Z
-    sourceUrl: https://time.com/5770124/author-william-gibson-new-book-interview/
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 47
-    images:
-      - url: https://api.time.com/wp-content/uploads/2020/01/author-william-gibson-new-book-interview.jpg
-        width: 2400
-        height: 1600
 
 secured: "QwHhkC1X9fXnfE5xK00Bs4AzvrDI5wYFYf+pnnT5sGDf9adpWR5LR7UvglbtuSGRji+rHWpalbmwV0ErFfB2IKpRClTuly6rNlTIrEplN4Kizrj1XsuhK84cugY7oCSlbTMMATB3l93b+xLaTkmXIIwM1+svGtpfZnIKvEfDMz1Nw5DkkepqG+CHKVrMKArWlUvUIJL3F5YAsrqMl3GLAOTLIPhx9AmiRRTzejx5bHs6LUBWvEvYYfokv70507doHFA3bisy4ho6BWl6VeQ+eCK9IUOVa5H8zWR/Oo3ksXa5MPKph8LIwFWt8/0izAzSwyFg10LIBHtKrzf2irNaQdDIdVNist2JbrYFGMnmxHOp4TkrkzkE3zJVzOfVwfE9nFbxoQii2jXMUjVmcMFiSVuFRfvjSzhkZJirxpVdqdR9SMH3AuaAoBScPwzfvJ3Y7VPjniAOXL1T7bY/i9OjGg==;pQBEsLf6e6wWRrMGaLUFfg=="
 ---

@@ -36,6 +36,19 @@ related:
       - url: https://i.insider.com/5aac3309cc502927008b48d0?width=1200&format=jpeg
         width: 1200
         height: 600
+  - title: "London-based AI startup ChAI raised $1.7 million to address the $60 billion commodity price market"
+    excerpt: "This AI startup draws from reams of data to predict changes to commodity pricing."
+    publishedDateTime: 2020-01-24T10:41:00Z
+    sourceUrl: https://www.businessinsider.com/chai-london-ai-startup-raises-funds-from-passion-capital-and-mmc-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 53
+    images:
+      - url: https://i.insider.com/5e29b5c662fa8143430769e3?width=1200&format=jpeg
+        width: 1200
+        height: 600
   - title: "Free service Mine helps users to demand companies delete their data"
     excerpt: "New free service Mine claims to wrestle control ... passed in May 2018. Mine uses machine learning algorithms to analyse the contents of a user's inbox to work out the companies and services they've signed up to over the years that may hold financial or identity-related information about them. Sorry, there seem to be some issues."
     publishedDateTime: 2020-01-21T04:42:00Z
@@ -61,6 +74,6 @@ related:
       domain: businessinsider.in
     quality: 2
 
-secured: "WSAbOi45lSr+4mZNYUC17/Y8GgV6zBGXlPOALZGHFtuKzS3f74WcZFH1avS+hjJsDHhcUuc55S9r9Bo2Z5eHuVD7rux1EUlAprZ7gY3HA/ft4pzVIHWVEiD2UB6mTHho91hNWvhFuVAniIN1GzPFDjlNEng6/sVHnKQ85d0eWaH/GTB/GMMYYvHHqZH6VVm+V6rV/p5448GpSiqWkLXPaf0PmLqtlE43kUocJaJXP86RxEtYHkezJxM4T2jCEfwHlaqIKN73jJPpLIfQT92ofIWIRA9/uG/kseOzbWX4gKVxCZOXqWQ8AgluoEWg7b4r;U2sRZGXFBm1wYU05GiMYAA=="
+secured: "1dnQK0sFeHDxyUwcKY/Alc9vKm2GmhUbuWEAyYmLpNKH6xTi08V7RYBKpLM1B4tP4SmTgUUYdQSVJ/4KdGZdfVY8E9fWxtMxQs03QDD3oqvw78CDCdR+t/CxE3N1AwAV3eccpjcL49/PfAPTNp8MtKYBdvp1szG5FEHNHplprcF5Fwn1gzSHreukDBUuTJRtb7QBU6I80w4iBDolJxeiVDBqzY6guj8Jv+ZNh7SI4uH7zgLqauvU6scGZV2LWcssyu5itocG42sfK15Bms6t0aIbZM+IDXvQfUW7IFr/YJ1j2Mpxh/V3BduZztUjKVM6QpchuUjUha3THn1Cs29XIfxi1ULU1V3bNRfoCCF8wv2ARIsQTZeyBmkedhBn9PNboTOCAzF6vnRZkCp7HgKkv3YHhvVdqtzJr5Os/MxHQgmyXHIdpACSFpg/2ZVDyozfaZDZKn+gAJjLh7vIBceK2wZgeD0TncJ6aqVeSXsmJF4=;0VbC7cp99OMFentI+aU8Qw=="
 ---
 

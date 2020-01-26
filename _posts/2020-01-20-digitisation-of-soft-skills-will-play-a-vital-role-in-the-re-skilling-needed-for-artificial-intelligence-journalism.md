@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-20T17:18:00Z
 sourceUrl: https://www.gulftoday.ae/opinion/2020/01/20/digitisation-of-soft-skills-will-play-a-vital-role
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -22,21 +22,6 @@ images:
     width: 750
     height: 450
     title: "‘Digitisation of soft skills’ will play a vital role in the re-skilling needed for Artificial Intelligence journalism"
-
-related:
-  - title: "Reskilling At Scale: How To Prepare For The Age Of Artificial Intelligence?"
-    excerpt: "Artificial intelligence is set to disrupt the job market for all types of industries, changing the way we run our operations, businesses, and dealing with existing or new customers. New kinds of workers will be fundamental, working along with robots and increasing automation to drive company-wide AI strategies. However, it is also true that ..."
-    publishedDateTime: 2020-01-23T12:54:00Z
-    sourceUrl: https://analyticsindiamag.com/reskilling-at-scale-how-to-prepare-for-the-age-of-artificial-intelligence/
-    type: article
-    provider:
-      name: India
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: https://analyticsindiamag.com/wp-content/uploads/2020/01/reskilling.png
-        width: 939
-        height: 629
 
 secured: "wneesiGpDFu8bt9toXd7Od07lvY/huE9qDcTpVqqqEzMOjbr7LUekwSSD2BW5f/V3x4N7hjv88RZ8freUqnaGQdzwbcQQ2LtyNLvdMIhIKhLr1PtI0Hkldh8RlPuTgVX0/uox4QZRu1KhfWhvn0BXP5QbAPRDJKiP/OUKH+cPDEphxGbURC8aKAWsvtqBRnnxQf8HakSNTxRQuKwheerJVdWbknlkrKwj2dTUxGeMltjdGmwFNEh+9SimUbIy+Yk1e/K+joxVXYgYokuIYooojtHz3DkrsF44VrWAX3KrTZSde4Leweo3vEppRNAeAX9sBbc8ExxiY0ITFGYapQb9fiCO2gBgMDAXg/QKsQ+GSEZU40ksP2kI8xiBgX+pM+tndGyjLr+cvAnLwHuWZmHOvD4bQq+c5fFW7qsJihwcATchpr+CCwGyyQwNmm0SyxEm2VzGpiGyWXyGNRHrvHOAQ==;W2iSgXDwMiXNVo51WbpovQ=="
 ---

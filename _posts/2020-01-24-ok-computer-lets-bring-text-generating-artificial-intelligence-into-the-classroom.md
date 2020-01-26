@@ -8,7 +8,7 @@ ampUrl: https://phys.org/news/2020-01-text-generating-artificial-intelligence-cl
 cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-01-text-generating-artificial-intelligence-classroom.amp
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -19,26 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Cloud-Native Cognitive Computing How to Get Ready For The Next Frontier in AI"
-    excerpt: "Cognitive computing is a compute-intensive undertaking, which is of course why cognitive services are so closely linked to cloud-based environments. The leading providers in this field – Amazon AWS, Microsoft Azure, Google Cloud, and IBM Watson – are all cloud computing heavyweights. They offer highly modular services with capabilities such ..."
-    publishedDateTime: 2020-01-24T13:44:00Z
-    sourceUrl: https://www.business2community.com/cloud-computing/cloud-native-cognitive-computing-how-to-get-ready-for-the-next-frontier-in-ai-02277792
-    ampUrl: https://www.business2community.com/cloud-computing/cloud-native-cognitive-computing-how-to-get-ready-for-the-next-frontier-in-ai-02277792/amp
-    cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/cloud-computing/cloud-native-cognitive-computing-how-to-get-ready-for-the-next-frontier-in-ai-02277792/amp
+  - title: "Federated machine learning is coming - here's the questions we should be asking"
+    excerpt: "The case is point in Intel's Introducing the Intel® Neural Compute Stick 2 computer vision and deep learning accelerator — powered by the Intel® Movidius™ Myriad™ X VPU, that can stick into a Pi for less than $70.00. But for truly distributed processing, the Apple A13 chipset in the iPhone 11 has a few features that boggle the mind ..."
+    publishedDateTime: 2020-01-24T20:42:00Z
+    sourceUrl: https://diginomica.com/federated-machine-learning-coming-heres-questions-we-should-be-asking
     type: article
     provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 38
-  - title: "AI in Retail and e-Commerce Market Continues To Show Positive Growth"
-    excerpt: "IBM, SAP, AWS, and Microsoft are the key players in the AI in retail and e-commerce market. In 2017, Godrej Interio, a leading furniture brand in India, collaborated with IBM and selected Watson Commerce for increasing customer engagement and experience. Kroger, one of the America's largest grocery store chain, and Microsoft partnered in ..."
-    publishedDateTime: 2020-01-24T06:43:00Z
-    sourceUrl: https://www.openpr.com/news/1907036/ai-in-retail-and-e-commerce-market-continues-to-show-positive
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
+      name: Diginomica
+      domain: diginomica.com
+    quality: 15
 
 secured: "5Y0OjI8DtJF8bJX0LN4UT84KgskSSLoWQhwkrY6vaBc0JLEpP7sUnSR3tFd3DEyHViVqJaCe2SNgPg1JuHt5VkAV2ZJ5tpMeq/lV7+M6hogLgB0MLoQSXvHA49Fc3fctWQQlrdSepSaqlukB7KmK2TDSa9Cx9FA2xNqOsFxl+796sAz1G/6S4kgbIdTJBssNkM4u89/LNgv8HZWplhLAESu+1jzGm+S18h2D1jLAO1w15iHWD5vPN7dj7lMa+c/Somz41XYJBBBzURw6AKF4dI8TrdIQptvhvissg1Nr/jSk1NZCvkKPWu9vtAcZ3fIVb9JkLIKAgIAet0/Q1EqgPj+eTVIcOy/oXbfBIiuE5ExX6FauNRbapADft9y7cFwUmgRMkH/9VTscj8oDEL1c9pSm0hOV6G7vyPAkb3sLU36Kgot6jvVavbvWxKYIDn1irjBOMKW2bEEP5bjhouoeiBRhVlUc70GKcv4YNo6eevs=;5m3shSaRMrNrqP7NEoJYXw=="
 ---

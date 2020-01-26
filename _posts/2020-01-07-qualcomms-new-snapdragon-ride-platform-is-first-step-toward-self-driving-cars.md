@@ -25,32 +25,6 @@ images:
     height: 209
     title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
 
-related:
-  - title: "Qualcomm Shifts Gears, Turns Towards Autonomous Driving Safety"
-    excerpt: "Its foray into safety/autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo and Intel-Mobileye. In addition, Telsa and other automakers have their own in-house initiatives. Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar's assets ..."
-    publishedDateTime: 2020-01-07T22:26:00Z
-    sourceUrl: https://www.governing.com/news/headlines/Qualcomm-Shifts-Gears-Turns-Towards-Autonomous-Driving-Safety.html
-    ampUrl: https://www.governing.com/news/headlines/Qualcomm-Shifts-Gears-Turns-Towards-Autonomous-Driving-Safety.html?AMP
-    cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/news/headlines/Qualcomm-Shifts-Gears-Turns-Towards-Autonomous-Driving-Safety.html?AMP
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 24
-  - title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
-    excerpt: "Its foray into safety/autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo and Intel-Mobileye. In addition, Telsa and other automakers have their own in-house initiatives. Ford bought artificial intelligence startup Argo for US$1bil (RM4.07bil) to bolster its autonomous driving work. GM acquired Sidecar ..."
-    publishedDateTime: 2020-01-13T00:35:00Z
-    sourceUrl: https://www.thestar.com.my/tech/tech-news/2020/01/13/qualcomms-new-snapdragon-ride-platform-is-first-step-toward-self-driving-cars
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 20
-    images:
-      - url: https://apicms.thestar.com.my/uploads/images/2020/01/10/485282.jpg
-        width: 1240
-        height: 827
-
 secured: "fzcUdbr5Zazni5I+XIg2Ldc/dxkXqbHFTxlOTuQiTQDzu4i2yEL7DA+4xr7pyIyFPPlBNPkbfOnAXhd4vbRHHOF4/DsDXN8NAtEi8N3ufNhQ1OKyAhK1KrEwle9E4bvu1E4SBdet4GBN5DAmUnb+aYmpP1YP3iaokgdXDJkoveqBvSUk2BZNZh58qggrXWh5pSwTLyrk/o8VaaPxfN+WjA2va0V6bsioJ9yjrjZSW+1higKhiGy9jr4f9jw1i1bIXlUzUXPHVyshJ2JazxKnoGnBjy/xTTfcB/rbYnEYItUYfvnoI097JljqgKJGua7nMco+m1s/HTyq2d6QfMT/Qsscp01/lJR/oXNOlfbCWc98GlJfzp13Lb7kWe5EF19QJWFLr2rAm3aIb01YFRmbL6H5EzflVnIedmvd1Cq+HwEXgKXt/ZT71HKuMCjvUbJYVHUZLoDuhOPUB8cfBKkrWQ==;Kc3FRfTGVPbZDgtI8mJ5Zw=="
 ---
 

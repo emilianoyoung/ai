@@ -41,19 +41,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all
         width: 1200
         height: 600
-  - title: "Amazon aims to democratize deep learning with new library AutoGluon"
-    excerpt: "“We developed AutoGluon to truly democratize machine learning, and make the power of deep learning available to all developers,” said Jonas Mueller, AWS applied scientist. According to ..."
-    publishedDateTime: 2020-01-10T16:00:00Z
-    sourceUrl: https://sdtimes.com/ai/amazon-aims-to-democratize-deep-learning-with-new-library-autogluon/
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 84
-    images:
-      - url: https://sdtimes.com/wp-content/uploads/2020/01/download-1.png
-        width: 1440
-        height: 810
   - title: "AWS announces AutoGluon, an open-source library for writing AI models"
     excerpt: "AutoGluon is just the latest new offering from AWS as it looks to democratize machine learning. The company recently updated its SageMaker tool for continuously training and deploying machine learning models to the cloud and edge environments. Updates include SageMaker Studio, a model training and workflow management tool that collects all of ..."
     publishedDateTime: 2020-01-10T00:34:00Z

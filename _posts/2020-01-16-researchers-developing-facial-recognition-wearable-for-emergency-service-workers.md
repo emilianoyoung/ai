@@ -24,101 +24,86 @@ images:
     title: "Researchers developing facial recognition wearable for emergency service workers"
 
 related:
-  - title: "Facial-recognition scanners are coming to Philadelphia’s airport starting Tuesday"
-    excerpt: "Facial-recognition scanners will be used on select outbound international flights starting Jan. 21. The technology is meant to increase security and speed up the boarding process. It's part of a 45-day pilot program where three brands will be tested to determine which will be installed permanently. Only non-citizens are required to be scanned."
-    publishedDateTime: 2020-01-16T10:57:00Z
-    sourceUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html
-    ampUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
-    cdnAmpUrl: https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
+  - title: "Facial recognition's accuracy is the least of our worries, lawmakers say"
+    excerpt: "One of the issues with facial recognition today is its high error rates with people of color and women. But lawmakers on Wednesday pointed to a broader concern as well: Facial recognition's effects on civil liberties and privacy. At the House Oversight Committee's third hearing on facial recognition, members of Congress looked to address the ..."
+    publishedDateTime: 2020-01-16T00:34:00Z
+    sourceUrl: https://www.cnet.com/news/facial-recognitions-accuracy-is-the-least-of-our-worries-lawmakers-say/
+    ampUrl: https://www.cnet.com/google-amp/news/facial-recognitions-accuracy-is-the-least-of-our-worries-lawmakers-say/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognitions-accuracy-is-the-least-of-our-worries-lawmakers-say/
     type: article
     provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 154
+      name: CNET
+      domain: cnet.com
+    quality: 88
     images:
-      - url: https://www.inquirer.com/resizer/Bqd7C0g_vqzmOp6vDtoU_K9St20=/1200x0/center/middle/www.inquirer.com/resizer/Gfpkh9hliXlyDb-XZGMx3v92mn8=/1200x0/center/middle/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/IM55BNURYVFVFBQDQ6VYGZYAUA.jpg
-        width: 1200
-        height: 908
-  - title: "Facial-recognition scanners are coming to Philadelphia’s airport starting Tuesday"
-    excerpt: "Three gates at the airport will begin a 45-day pilot program for facial-recognition scanners that cross-check a live image of a person with their government photos. The scanners are meant to help U.S. Customs and Border Protection process passengers and speed up boarding, the airport said. Gates A15, A16, and A17 will each use a different ..."
-    publishedDateTime: 2020-01-17T12:08:00Z
-    sourceUrl: https://www.mcall.com/news/pennsylvania/mc-nws-pa-facial-recognition-20200117-zvrcz27mw5a6to6445vfs3nbpm-story.html
-    ampUrl: https://www.mcall.com/news/pennsylvania/mc-nws-pa-facial-recognition-20200117-zvrcz27mw5a6to6445vfs3nbpm-story.html?outputType=amp
-    cdnAmpUrl: https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/news/pennsylvania/mc-nws-pa-facial-recognition-20200117-zvrcz27mw5a6to6445vfs3nbpm-story.html?outputType=amp
+      - url: https://cnet3.cbsistatic.com/img/H6AUA_n2v1b3OwxJS1xtij9rQtg=/756x567/2020/01/15/727e8cd0-4aa7-4ebb-b416-cb1ccbf3c7b7/gettyimages-1198303844.jpg
+        width: 756
+        height: 567
+  - title: "From Washington state to Washington DC, lawmakers rush to regulate facial recognition"
+    excerpt: "Amid the start of an impeachment trial; talk of mounting hostility with Iran; new trade deals with China, Canada, and Mexico; and the final presidential debate before the start of the Democratic presidential primary season, you might’ve missed it, but it was also a momentous week for facial recognition regulation. A bipartisan group in ..."
+    publishedDateTime: 2020-01-19T21:09:00Z
+    sourceUrl: https://venturebeat.com/2020/01/19/from-washington-state-to-washington-dc-lawmakers-rush-to-regulate-facial-recognition/
+    ampUrl: https://venturebeat.com/2020/01/19/from-washington-state-to-washington-dc-lawmakers-rush-to-regulate-facial-recognition/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/19/from-washington-state-to-washington-dc-lawmakers-rush-to-regulate-facial-recognition/amp/
     type: article
     provider:
-      name: Morning Call PA
-      domain: mcall.com
-    quality: 154
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
     images:
-      - url: https://www.mcall.com/resizer/662IptMsHi99xN6J-SNxQSoolGk=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/GUF353ITLREW5CDR7K74JGZARY.jpg
-        width: 1200
-        height: 800
-  - title: "Philadelphia International Kicks Off Facial Recognition Pilot"
-    excerpt: "Three gates at the airport will begin a 45-day pilot program for facial-recognition scanners that cross-check a live image of a person with their government photos. The scanners are meant to help U.S. Customs and Border Protection process passengers and speed up boarding, the airport said. Gates A15, A16, and A17 will each use a different ..."
-    publishedDateTime: 2020-01-16T21:03:00Z
-    sourceUrl: https://www.govtech.com/products/Philadelphia-International-Kicks-Off-Facial-Recognition-Pilot.html
-    ampUrl: https://www.govtech.com/products/Philadelphia-International-Kicks-Off-Facial-Recognition-Pilot.html?AMP
-    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Philadelphia-International-Kicks-Off-Facial-Recognition-Pilot.html?AMP
+      - url: https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-1181457356.jpg?fit=2215%2C1353&strip=all
+        width: 2215
+        height: 1353
+  - title: "Washington state lawmakers debut legislation for consumer privacy and facial recognition"
+    excerpt: "From left to right: Sen. Joe Nguyen; Sen. Reuven Carlyle; and Sen. (TVW screenshot) Washington state legislators introduced two draft bills on Monday intended to regulate personal consumer data privacy and the use of facial recognition technology. GeekWire previously reported on the bills this past November. The data privacy bill, known as the ..."
+    publishedDateTime: 2020-01-14T01:31:00Z
+    sourceUrl: https://www.geekwire.com/2020/washington-state-lawmakers-debut-legislation-consumer-privacy-facial-recognition/
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
+      name: GeekWire
+      domain: geekwire.com
+    quality: 60
     images:
-      - url: https://media2.govtech.com/images/shutterstock_406404352.jpg
-        width: 1029
-        height: 630
-  - title: "Philadelphia International Airport Testing Facial Recognition On Some International Flights"
-    excerpt: "PHILADELPHIA (CBS) — Some passengers at the Philadelphia International Airport will see a new security screening starting Tuesday. The airport is testing a new program to scan the faces of passengers leaving the airport on some international flights. Only a few flights on American Airlines, British Airways, Lufthansa, and Qatar Airways are ..."
-    publishedDateTime: 2020-01-21T19:10:00Z
-    sourceUrl: https://philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/
-    ampUrl: https://philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/amp/
-    cdnAmpUrl: https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/amp/
+      - url: https://cdn.geekwire.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-13-at-3.12.42-PM.png
+        width: 987
+        height: 554
+  - title: "Why your palm could be safer than fingerprints or facial recognition"
+    excerpt: "Maybe you’ve worried about your facial data being held by various tech companies or hesitated about pressing your finger on a dirty scanner at border checks. Touchless palm verification is one piece of tech that might be able to address these problems. Palm recognition systems work by identifying vein patterns and lines and creases on the ..."
+    publishedDateTime: 2020-01-16T05:27:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition
+    ampUrl: https://amp.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition
     type: article
     provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 44
-  - title: "Software Detects Backdoor Attacks on Facial Recognition"
-    excerpt: "As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from cyberattacks becomes essential. An Army project conducted by researchers at Duke University and led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran ..."
-    publishedDateTime: 2020-01-16T15:04:00Z
-    sourceUrl: https://www.defensemedianetwork.com/stories/software-detects-backdoor-attacks-facial-recognition/
-    type: article
-    provider:
-      name: defensemedianetwork.com
-      domain: defensemedianetwork.com
+      name: South China Morning Post
+      domain: scmp.com
     quality: 39
-    images:
-      - url: https://www.defensemedianetwork.com/wp-content/uploads/2020/01/original.jpg
-        width: 1500
-        height: 844
-  - title: "This exhibition at the Philadelphia Museum of Art showcases incredible futuristic ideas"
-    excerpt: "Yasin founded Petit Pli, available online, which aims to reduce wastage in the fashion industry. Neurodildo is a mind-controlled sex toy, designed by Brazilian electrical engineer Leonardo Mariano Gomes. Still in the testing phase, the ‘Neurodildo’ provides a vibrator for one partner that is remotely connected to an electroencephalogram ..."
-    publishedDateTime: 2020-01-22T22:58:00Z
-    sourceUrl: https://www.architecturaldigest.in/content/philadelphia-museum-of-art-exhibition-design-show-robots-futuristic-ideas/
-    ampUrl: https://www.architecturaldigest.in/content/philadelphia-museum-of-art-exhibition-design-show-robots-futuristic-ideas/amp/
-    cdnAmpUrl: https://www-architecturaldigest-in.cdn.ampproject.org/c/s/www.architecturaldigest.in/content/philadelphia-museum-of-art-exhibition-design-show-robots-futuristic-ideas/amp/
+  - title: "Worried About the Security of Facial Recognition? Try Facial Detection: Episode 88 of AV+"
+    excerpt: "You don’t need to be wearing an aluminum foil hat to think that there could be security risks with facial recognition technology… but you might be able to get around those risks with facial detection. Learn more about the latter in this episode of AV+. The phrase ‘pro AV’ doesn’t do justice to all of the integration crowd ..."
+    publishedDateTime: 2020-01-17T22:05:00Z
+    sourceUrl: https://www.commercialintegrator.com/podcast/facial-detection-episode-88/
     type: article
     provider:
-      name: Architectural Digest India
-      domain: architecturaldigest.in
-    quality: 36
+      name: Commercial Integrator
+      domain: commercialintegrator.com
+    quality: 30
     images:
-      - url: https://media.architecturaldigest.in/wp-content/uploads/2020/01/Philadelphia-Museum-of-Art-1366x768.jpg
-        width: 1366
-        height: 768
-  - title: "Ticket to Fly in Philly: A Scanned Boarding Pass and Your Face"
-    excerpt: "Philadelphia’s airport will begin using facial recognition scanners, though there are still many concerns. Officials expect mistakes, but wonder “how might those mistakes be unequally distributed across demographics.” (TNS) — Starting Tuesday, travelers boarding certain international flights at Philadelphia International Airport will ..."
-    publishedDateTime: 2020-01-16T21:45:00Z
-    sourceUrl: https://www.governing.com/security/Ticket-to-Fly-Philly-Scanned-Boarding-Pass-Face.html
-    ampUrl: https://www.governing.com/security/Ticket-to-Fly-Philly-Scanned-Boarding-Pass-Face.html?AMP
-    cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Ticket-to-Fly-Philly-Scanned-Boarding-Pass-Face.html?AMP
+      - url: https://www.commercialintegrator.com/wp-content/uploads/2018/03/Untitled.jpg
+        width: 1202
+        height: 656
+  - title: "The Technology 202: Facial recognition gets another look on Capitol Hill today from skeptical lawmakers"
+    excerpt: "A congressional facial recognition hearing slated for today could revive bipartisan momentum on Capitol Hill for regulation of the nascent software being rolled out from law enforcement agencies to summer camps. Expect a skeptical tone today as the House Oversight and Reform Committee convenes this morning for its third hearing on the topic ..."
+    publishedDateTime: 2020-01-15T13:49:00Z
+    sourceUrl: https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/01/15/the-technology-202-facial-recognition-gets-another-look-on-capitol-hill-today-from-skeptical-lawmakers/5e1dfc4588e0fa2262dcd2b5/
     type: article
     provider:
-      name: Governing
-      domain: governing.com
-    quality: 24
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 23
+    images:
+      - url: https://www.washingtonpost.com/pbox.php?url=https://palomaimages.washingtonpost.com/pr2/7791c5031c0c2d9d36d30a1baac53364-680-453-70-8-O7C3FGBTCII6VFY3IO7MH74YMA.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517
+        width: 1484
+        height: 988
 
 secured: "K5od3H7DCcYbGbGaGlmwV0h6l+Hms4XjgSVACkAgP/KNRlOkBZJUs0Iyu+JDXahz12G21aC0FsX5iJmCQsfUjP8F/V58bXS8A4rHdGkj8nVAELHhaYARqJTNr5Tu0Y3oCJ92NViCuMwdsGv/cNlxctnAtv+csUH5B1rJ9e42re2j6CFSb3At9XQQkw2E1y34ADLVNJ8Hbxi43TCUHRZ124QFvjgQtSTMlyTfzxpyjaOAFwQCwXZkQOBFC/c1X/r0x6mymdv2DWS0NW+lcfGJj8BtfZlbWGIP8Q7mMkNZVsE=;wE+QUTd1KcjAIiRTmXIzSw=="
 ---

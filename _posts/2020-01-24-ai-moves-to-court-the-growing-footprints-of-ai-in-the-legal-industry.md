@@ -24,21 +24,19 @@ images:
     title: "AI Moves to Court: The Growing Footprints of AI in the Legal Industry"
 
 related:
-  - title: "AI in the court: Are robot judges next?"
-    excerpt: "Los Angeles is now working on a Jury Chat Bot project that will leverage true AI, Snorri Ogata, CIO of the LA Superior Court, told ZDNet. It's being built on top of the Microsoft Cognitive Services platform, leveraging features like natural language understanding, QnA maker (to build \"FAQ on steroids,\" as Ogata put it) and translation services."
-    publishedDateTime: 2020-01-22T11:00:00Z
-    sourceUrl: https://www.zdnet.com/article/ai-in-the-court-are-robot-judges-next/
-    ampUrl: https://www.zdnet.com/google-amp/article/ai-in-the-court-are-robot-judges-next/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-in-the-court-are-robot-judges-next/
+  - title: "The legal industry finds ways to leverage AI"
+    excerpt: "How far are we from seeing \"robot judges\"? ZDNet's Stephanie Condon discusses with Karen Roby. Read more: https://zd.net/3auO0jl"
+    publishedDateTime: 2020-01-21T11:03:00Z
+    sourceUrl: https://www.zdnet.com/video/the-legal-industry-finds-ways-to-leverage-ai/
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 106
+    quality: 67
     images:
-      - url: https://zdnet2.cbsistatic.com/hub/i/r/2020/01/20/4ae4c042-fca1-4511-9ed4-a9ca543376fd/thumbnail/1200x675/75aab1fe59aac1c4c387f2acdc3a60c4/20200120-steph-karen-judges.png
-        width: 1200
-        height: 675
+      - url: https://zdnet1.cbsistatic.com/hub/i/r/2020/01/20/4ae4c042-fca1-4511-9ed4-a9ca543376fd/thumbnail/770x578/505afafec347bbd770275c37d22c5782/20200120-steph-karen-judges.png
+        width: 770
+        height: 578
 
 secured: "9mN7xcJwBKkdSADEJu+OKqQ+83og3Mn87ZNnmaplpU1iOPMLlizfY4bOA5xoQEG0deQZPq4BqSR1u5JpHTq0R9oWnUV9vXlDRSWm5xpUbAu1euhNmpTHrTvLQz8eTGkAycOM68qObGa5pBY6jujqqjRxBxqSMZ/Bu/Y2tqBE5ZoDdyJXe0+nwPmCh17/DfYfY7BP6MJ1a0ZBGBUeRd8tBTSC7Z4Wi9defOeF30Alq+kechBf3GlQRDdmajamw7YJHda8YZVydTWnWOgTru7qIxQusnEWxrfTSuC76QuNZI5QwmIezwAY9ufC5e5ZZscxplMdxQfi2yV2R75c1APKUbGzFDuTYlCnWgAfZUaPRXneJlp9L0M1gY1Qk2wP4+BB6DMh+arwLNFKB0zxh97ygf+UE4qyaWenZyM2FjEZkPq42kS3KhEReE1O3JrUKFSlSaq/zdXBgT953YnDzGT4rH6VWiW4WjQ2oFLffq7L0Iw=;l8laaDU/823CPYhqTxeNsw=="
 ---

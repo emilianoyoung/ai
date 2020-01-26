@@ -8,8 +8,8 @@ ampUrl: https://www.asianage.com/amp/life/health/261219/artificial-intelligence-
 cdnAmpUrl: https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
 type: article
 quality: 59
-heat: 59
-published: false
+heat: 69
+published: true
 
 provider:
   name: The Asian Age
@@ -25,6 +25,19 @@ images:
     height: 448
     title: "Artificial intelligence can now track down blood cancer"
 
-secured: "v8h5cbL5V8CN7LCJE/DnMg1RVeYFp5yZtRvWxPDRS8p75YhuyfW99dkpkYTRGqexxoN0BXsSZCLPmYNH/uPjpHjfFKK16GcHByexklXmhQkSe08m8wRzNpoPyrRzcmACf1G0cx/fqn90IDuxIfbydUp9Vnh10FKpk+eqirKoXjwFSPI8RP7RFrinWNPCLZku1pWXRVKRm83NxCKNpuBmYHdeRE7SiTihVKub4lZ5iLO5fVeEn94+BUGYLNypY+L0ibCe7SzjOH/CNUvZby+f6n5dZQCdpiNcIKl3mycuiKEWv87802nxU7zMub6AtJdR;TlpHWMmRt7ZHlmgeuf/NXg=="
+related:
+  - title: "Artificial intelligence tracks down acute myeloid leukaemia"
+    excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms ..."
+    publishedDateTime: 2019-12-26T12:48:00Z
+    sourceUrl: https://health.economictimes.indiatimes.com/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
+    ampUrl: https://health.economictimes.indiatimes.com/amp/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
+    cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
+    type: article
+    provider:
+      name: ETHealthworld.com
+      domain: indiatimes.com
+    quality: 39
+
+secured: "neUYa8une+BO+rn2R4V1tcb/Mbt4tNtexobvZIZLbpZhYb0sUsfRGiBz2VG/IDvVWRaWDKVgx0G3GTe6AhXMR/EYTMiGK1mSxYfwIDnhLlbcvPXjKWhZJ96h9BZXCPiF6p4/3mDkuRmQ9YIVnMqBssxhXL5jpo9jYwh08Ab0pn0QomwMsy6GdmBKcuwgmC7euHTJVHJpXo5rkKK2+xqNbovkY+pPMhJMo6LgIup9YRnqWQ8AtQQM5MqctNNFtkDBBjVK18yquolZusbF/MCOt72Cc+yNfx8f7gTW9w7sUlPMTG7IhV5jGayIj95QYB62;6TSa2YYLqcX3DC6+ZgqjCg=="
 ---
 

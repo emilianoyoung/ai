@@ -71,6 +71,19 @@ related:
       name: Lab Manager
       domain: labmanager.com
     quality: 49
+  - title: "Does Machine Learning Improve Prediction of VA Primary Care Reliance?"
+    excerpt: "Health Care System, did not outperform traditional regression models. Welcome the the new and improved AJMC.com, the premier managed market network. Tell us about yourself so that we can serve you better."
+    publishedDateTime: 2020-01-16T01:59:00Z
+    sourceUrl: https://www.ajmc.com/journals/issue/2020/2020-vol26-n1/does-machine-learning-improve-prediction-of-va-primary-care-reliance
+    type: article
+    provider:
+      name: The American Journal of Managed Care
+      domain: ajmc.com
+    quality: 39
+    images:
+      - url: https://hraresearch.s3.amazonaws.com/_media/_core/ajmc-twitter-logo.jpg
+        width: 270
+        height: 270
 
 secured: "WQtJIkAYWboYt8cf2ZMnBbquPSV8dfl+KZZxFF81J58uwpDXQv1V84LU9SxUjwy3IqHspYcAqAnSW+9hZ2emVZd9mABbJH7uTApgavSCQvkQXEpi8k5/w1AzhsIC88hIkjUi7wHGX0Myq/ACbwHWItrpKw9m57WO05ynCCxKuW+MiHtW9EMPf0eX356E3n6q8vK67x+ap/FahVzKEnZ5XnlO2wHsnNy5Txy1cd+EBK8p3pkmC33zfk3mEU5xI9iEsPg3E8FblxNcDM4xsNhNDMDMp5gVyqmDjqpqp0X6NU1vz3+fwOgyLqv4irfi2snLOUvRIosUoqot1o86tcLVAuf9JfyQxxWYAqDoos0Pg8hBgUAguDL3X3ZxlcemrDuagAjR8CFCRMFI2Xad4nQn3QolBZJtX9SNZVIqTRZ0SDjkCGUmLud2g2FY9jcH+WPZssZzbx0wbGCtQ1r7fpuqdA==;UTajwWIhuc9/8hxi1cbAEg=="
 ---

@@ -26,36 +26,51 @@ images:
     title: "Artificial Intelligence system created to allows self-driving cars to 'see' around corners"
 
 related:
-  - title: "Let’s Teach Kids About AI Self-Driving Cars, But Only In An Unbiased Way"
-    excerpt: "What should kids know about the advent of self-driving cars? Is it necessary to teach them about self-driving cars or is it something that isn’t worth bringing to their attention? If kids are going to get taught about self-driving cars,"
-    publishedDateTime: 2020-01-21T16:47:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/21/lets-teach-kids-about-ai-self-driving-cars-but-only-in-an-unbiased-way/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/21/lets-teach-kids-about-ai-self-driving-cars-but-only-in-an-unbiased-way/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/21/lets-teach-kids-about-ai-self-driving-cars-but-only-in-an-unbiased-way/amp/
+  - title: "There's nowhere to hide anymore: This AI can see around corners"
+    excerpt: "Hiding behind a wall might not be practical for much longer thanks to new technology that uses artificial intelligence to see and even read around corners. A team of researchers from Princeton, Stanford, Rice and Southern Methodist universities devised a system that uses powerful lasers similar to a laser pointer. The beam is bounced off a ..."
+    publishedDateTime: 2020-01-22T05:11:00Z
+    sourceUrl: https://www.cnet.com/news/sorry-theres-nowhere-to-hide-this-ai-can-see-around-corners/
+    ampUrl: https://www.cnet.com/google-amp/news/sorry-theres-nowhere-to-hide-this-ai-can-see-around-corners/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sorry-theres-nowhere-to-hide-this-ai-can-see-around-corners/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
+      name: CNET
+      domain: cnet.com
+    quality: 87
     images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1049271976%2F0x0.jpg
-        width: 1200
-        height: 800
-  - title: "That Car In California That Mysteriously Disappeared After Going Off A Cliff Is A Valuable Lesson For AI Self-Driving Cars"
-    excerpt: "Lessons learned for self-driving cars due to a conventional car that went off a cliff and disappeared altogether."
-    publishedDateTime: 2020-01-25T15:26:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/25/that-car-in-california-that-mysteriously-disappeared-after-going-off-a-cliff-is-a-valuable-lesson-for-ai-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/25/that-car-in-california-that-mysteriously-disappeared-after-going-off-a-cliff-is-a-valuable-lesson-for-ai-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/25/that-car-in-california-that-mysteriously-disappeared-after-going-off-a-cliff-is-a-valuable-lesson-for-ai-self-driving-cars/amp/
+      - url: https://cnet3.cbsistatic.com/img/exUfnlVhyXneSn2qZmf2J9UfJ-k=/756x567/2020/01/09/e0e4d486-f8d6-46bd-b260-426ee82d8d3f/rs-show-ces-2020-sld-laser-lights-holdingstill.jpg
+        width: 756
+        height: 567
+  - title: "Researchers propose system that taps AI to see hidden objects around corners"
+    excerpt: "To reconstruct the object from the speckle pattern, the researchers tapped an AI algorithm trained on synthesized data of characterized noise, which eliminated the need to capture experimental training samples. Crucially, it’s able to operate with the shorter exposure times necessary for real-time imaging, exaplined coauthor Prasanna ..."
+    publishedDateTime: 2020-01-16T15:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/16/researchers-propose-system-that-taps-ai-to-see-hidden-objects-around-corners/
+    ampUrl: https://venturebeat.com/2020/01/16/researchers-propose-system-that-taps-ai-to-see-hidden-objects-around-corners/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/researchers-propose-system-that-taps-ai-to-see-hidden-objects-around-corners/amp/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 63
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
     images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F175421479%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D285%26cropY2%3D3444
-        width: 1200
-        height: 675
+      - url: https://venturebeat.com/wp-content/uploads/2020/01/df112978-8d5f-4235-80dd-264758329d91-e1579063150693.png?fit=831%2C414&strip=all
+        width: 831
+        height: 414
+  - title: "Artificial Intelligence Can See Around Corners in Real Time"
+    excerpt: "Detailed, fast imaging of hidden objects could help self-driving cars detect hazards. Researchers have harnessed the power of a type of artificial intelligence known as deep learning to create a new laser-based system that can image around corners in real time. With further development, the system might let self-driving cars “look” around ..."
+    publishedDateTime: 2020-01-16T15:37:00Z
+    sourceUrl: https://scitechdaily.com/artificial-intelligence-can-see-around-corners-in-real-time/
+    ampUrl: https://scitechdaily.com/artificial-intelligence-can-see-around-corners-in-real-time/amp/
+    cdnAmpUrl: https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-can-see-around-corners-in-real-time/amp/
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 59
+    images:
+      - url: https://scitechdaily.com/images/Imaging-Around-Corners-777x524.jpg
+        width: 777
+        height: 524
   - title: "The AI that allows self-driving cars to ‘see’ around corners"
     excerpt: "Researchers at US universities have created an imaging system powered by artificial intelligence that could help self-driving cars \"see\" around corners in minute detail to identify hazards. The imaging system uses a conventional camera sensor and a laser beam that can be \"bounced\" off walls and onto objects to create a pattern – visually ..."
     publishedDateTime: 2020-01-16T15:00:00Z
@@ -71,71 +86,6 @@ related:
       - url: https://www.telegraph.co.uk/content/dam/technology/2019/08/23/TELEMMGLPICT000206524925_trans%2B%2BKU-op6n8Xxa2ymKjnWOvoZ3L9sb6nC3JvvgkmFaL7wc.jpeg
         width: 2501
         height: 1563
-  - title: "Air taxis, Hyperloop, self-driving cars: What your commute could look like in 2030"
-    excerpt: "Experts say self-driving features will reach an inflection point over the next several years, though vehicles aren't expected to be able to do all the driving. \"More and more vehicles will have standard equipment with basic automation like lane-keeping assist, automated braking and left-hand turn assistance,\" Rickert said. \"Those things ..."
-    publishedDateTime: 2020-01-21T09:19:00Z
-    sourceUrl: https://www.usatoday.com/story/money/cars/2020/01/21/air-taxis-evs-and-hyperloop-how-transportation-evolve-2030/2794123001/
-    ampUrl: https://amp.usatoday.com/amp/2794123001
-    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2794123001
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 53
-    images:
-      - url: https://www.gannett-cdn.com/-mm-/d921f5c0d29ad0098c8523b4d7f37189f087d0da/c=139-0-1860-1294/local/-/media/2018/04/02/USATODAY/USATODAY/636582857256863299-Hyper013.JPG?quality=50&width=640
-        width: 640
-        height: 481
-  - title: "Huawei looks to self-driving cars, inspired by Tesla"
-    excerpt: "Chinese smartphone manufacturer Huawei is currently making a big push towards the 5G industry, but it is also reportedly planning to assist in building self-driving cars, news portal GizmoChaina reported on Thursday. \"Our ultimate goal is to achieve complete driverlessness, but in the process of moving towards the ultimate goal, it can create ..."
-    publishedDateTime: 2020-01-16T18:19:00Z
-    sourceUrl: https://www.khaleejtimes.com/business/corporate/huawei-looks-to-self-driving-cars-inspired-by-tesla
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 39
-    images:
-      - url: https://images.khaleejtimes.com/storyimage/KT/20200116/ARTICLE/200119432/AR/0/AR-200119432.jpg&NCS_modified=&exif=.jpg
-        width: 1200
-        height: 800
-  - title: "I Took a Test Ride in Qualcomm’s Experimental Self-Driving Car on a Busy Freeway"
-    excerpt: "A company known for its smartphone chips wants to power self-driving cars! We’re taking a test \"ride\" in their experimental vehicle! Qualcomm is a San Diego based company best known for its smartphone chips. Now, they want want to be the brains behind self driving cars, too. Recently I took a ride in their experimental prototype car ..."
-    publishedDateTime: 2020-01-20T13:30:00Z
-    sourceUrl: https://ktla.com/2020/01/20/qualcomm-snapdragon-ride-self-driving-car-test-las-vegas-ces-freeway/
-    ampUrl: https://ktla.com/2020/01/20/qualcomm-snapdragon-ride-self-driving-car-test-las-vegas-ces-freeway/amp/
-    cdnAmpUrl: https://ktla-com.cdn.ampproject.org/c/s/ktla.com/2020/01/20/qualcomm-snapdragon-ride-self-driving-car-test-las-vegas-ces-freeway/amp/
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 39
-    images:
-      - url: https://tribktla.files.wordpress.com/2020/01/image-2020-01-20-055529.jpg?quality=85&strip=all&w=1200
-        width: 1200
-        height: 900
-  - title: "What Cruise’s self-driving vehicle reveals about GM’s EV ambitions"
-    excerpt: "As Electrek reported, Cruise yesterday unveiled its van-like, self-driving, all-electric vehicle. For the past four years, Cruise (a GM subsidiary) has been repurposing Chevy Bolts — including its four-generation self-driving Bolt that doesn’t have a steering wheel. But now GM’s Cruise has the Origin. The two essential things to consider ..."
-    publishedDateTime: 2020-01-24T17:57:00Z
-    sourceUrl: https://electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 34
-  - title: "Tomorrow’s Tech Today: Latest in self-driving cars, next-gen HUD for your car, X-ray vision"
-    excerpt: "There is a new self-driving car from Honda with some incredible new features. Plus, a heads-up display in your windshield that can do shocking and dangerous things. And giving doctors X-ray specs."
-    publishedDateTime: 2020-01-16T00:00:00Z
-    sourceUrl: https://www.komando.com/video/diy-how-to/tomorrows-tech-today-latest-in-self-driving-cars-next-gen-hud-for-your-car-x-ray-vision/702102/
-    type: article
-    provider:
-      name: Kim Komando
-      domain: komando.com
-    quality: 14
-    images:
-      - url: https://i.ytimg.com/vi/1Na2pyZ-zfA/hqdefault.jpg
-        width: 480
-        height: 360
 
 secured: "bBiSpJSWrZ/PvVFiMOGPNsucG150yZ80g14BJDLCyLJRKPaeQaXbg8bfzabcNTAOr4O95MfYdd4mVqRILvonX+ycacojRaN3theGXodeV4ifKJWa3lgIsBzfyN/YgRXP05QJH3WhO3vbcUD85c6DOXnyPwML3+UbvZ2AVpaK+O75/1U46RvAhEf+ECU+Rk9Ps/lBbUHvOdk147N11s0VhwvGW4ObLpYfEJEp5Cs9GMGJzPKQPPF5hQYaZEjCQ3G4X4/AMDCskJIyFmLd0kNVTvpFxlQTWPXtjPMXBktoCpkaSd6uKY68bnCdfsIYMoz2eQkCJvPIaCJjq63l2uxX2m7T8s5A4JWGWlpRl1pdfNysBA8vVrQCVGUy/ZBBhjx8D7UURXsRfosbizQ9x9f7Jq2GJQAgXdia8ViedYRlPShaHhuLoFh3WXPhdQkdhJV4kH8iv4e1fKtZTbXQaQCyTQ==;YjDkMUUA8XSPgSShu4DE6A=="
 ---

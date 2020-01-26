@@ -72,15 +72,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 13
-  - title: "Europe Deep Learning in Machine Vision Market Is Expected to Reach Usd 104.59 Million"
-    excerpt: "Press release from: Data Bridge Market Research Pvt. Ltd. Europe Deep Learning in Machine Vision Market,By Application (Image Classification, Optical Character Recognition, Bar Code Detection, Anomaly Detection), By End-User (Automotive, Electronics, Food & Beverage, Healthcare, Aerospace & Defense, Others), ByGeography (Germany, France ..."
-    publishedDateTime: 2020-01-23T18:49:00Z
-    sourceUrl: https://www.openpr.com/news/1906733/europe-deep-learning-in-machine-vision-market-is-expected
+  - title: "Voice Assistant Market is Forecasted to Hit $26,872.6 Million by 2030: P&S Intelligence"
+    excerpt: "Voice Assistant Market Research Report: By Component (Solution, Services), Technology (Speech Recognition, Text-to-Speech Recognition, Voice Recognition, NLP), Application (Messenger Bots, Websites, Contact Centers),"
+    publishedDateTime: 2020-01-22T07:45:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2020/01/22/1973435/0/en/Voice-Assistant-Market-is-Forecasted-to-Hit-26-872-6-Million-by-2030-P-S-Intelligence.html
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 12
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "B/lmLmYivBPi7Djfr6T2YXft8CCLe0Eb67ls8EDHj3GGXeSPNCgIyesQwlTU3PZ3ISulbakir1MRsfHHtDeF9zToCHcSykKR5GuuHPnQ156xxalt+rD+1unZVclBdF4OJtKnL1hB8d5NfNZwYRGJ/F/sg57rO/F/wc39N/w6pppm/vKLJfRUBzuRtMoEGg//vmpby34J0AfLhcsrXxDn9XWef1TB+BgZfVVk446WZzFdE7cg2oS12BaFkYCWtl5CDHv5GP9UhbUBIIBiEYRbVxe9C8sfCMDwscwWYZJBsNu+dU948zF/qklKhpHEng7Z;c0FCSSgODb4BQBtxKVXumw=="
 ---

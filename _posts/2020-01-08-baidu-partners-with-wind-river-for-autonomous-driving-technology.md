@@ -20,34 +20,36 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Is Baidu Stock a Buy?"
-    excerpt: "For instance, there is the company's \"open-source autonomous vehicle technology platform\" Apollo. Baidu claims to have over 135 partners that support its self-driving cars initiative, and while we are still in the early stages of the autonomous cars revolution, Baidu is looking to maintain an edge in this potentially lucrative market with a ..."
-    publishedDateTime: 2020-01-08T19:33:00Z
-    sourceUrl: https://www.fool.com/investing/2020/01/08/is-baidu-stock-a-buy.aspx
-    ampUrl: https://www.fool.com/amp/investing/2020/01/08/is-baidu-stock-a-buy.aspx
-    cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/08/is-baidu-stock-a-buy.aspx
+  - title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than Autonomous Driving"
+    excerpt: "Damon Motorcycles unveiled its new electric motorcycle today at CES in Las Vegas, calling it “the world’s smartest, safest, and most powerful electric motorcycle.” My first thought: it can’t be both the most powerful and the safest."
+    publishedDateTime: 2020-01-07T17:42:00Z
+    sourceUrl: https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/
+    ampUrl: https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 79
     images:
-      - url: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F552479%2Fgettyimages-647336420.jpg&w=700&op=resize
-        width: 700
-        height: 466
-  - title: "Baidu Gets Licenses to Test Self-Driving Vehicles"
-    excerpt: "Chinese multinational technology company Baidu announced on December 30 it was granted 40 road test licenses for passenger-carrying autonomous driving by regulators in Beijing. The tech giant is one of the first companies in China to be given green lights to self-driving cars for carrying passengers on Beijing’s roads. Up to now, Baidu Apollo ..."
-    publishedDateTime: 2020-01-10T05:53:00Z
-    sourceUrl: https://steelguru.com/auto/baidu-gets-licenses-to-test-self-driving-vehicles/554691
-    type: article
-    provider:
-      name: Steel News
-      domain: steelguru.com
-    quality: 39
-    images:
-      - url: https://steelguru.com/uploads/news/baidu-autonomous-cars_42031.jpg
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1489b24e291700061a9d51%2F0x0.jpg
         width: 1200
-        height: 800
+        height: 729
+  - title: "VW's all-electric ID Buzz van is a platform for self-driving efforts - Electrek"
+    excerpt: "The ID Buzz still seems almost too cool (and far away) to be true. But at CES 2020, the new chief of VW self-driving told Electrek that the Buzz is also the basis of VW’s first self-driving vehicles for limited commercial use by 2022. That’s a good sign that the ultimate electric hipster van is on track. “The ID Buzz will be our first L4 ..."
+    publishedDateTime: 2020-01-12T16:28:00Z
+    sourceUrl: https://electrek.co/2020/01/10/interview-vws-hip-all-electric-id-buzz-van-is-a-platform-for-its-self-driving-efforts/
+    ampUrl: https://electrek.co/2020/01/10/interview-vws-hip-all-electric-id-buzz-van-is-a-platform-for-its-self-driving-efforts/amp/
+    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/01/10/interview-vws-hip-all-electric-id-buzz-van-is-a-platform-for-its-self-driving-efforts/amp/
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 70
+    images:
+      - url: https://electrek.co/wp-content/uploads/sites/3/2020/01/id-buzz-beach.jpg?quality=82&strip=all&w=1000
+        width: 1000
+        height: 501
 
 secured: "Piol8m60ViKeBy0/GV1wmehWB2oDhjmPnfIFy0ZweXFaOsQOmvhjqefJ7YXM+SZkrvCk2rIZ3mY6LZ7pxk6K595hjIv4Ss0mb1D9EZiF4V+y7r1gDA8gIiNtoIvD/cxr1o1PdTkV9PZBzw8wDSNi0PNH+ZtVynZqkjY+sG8oBDvWOzXLJIV2g4tBLORBhVigrOvliX/yQg7/9wpQDsVNSOrFfY6APecm9F258Br3su3yWIl0kk0kWipX25RGqo50/ZwmvaFNgjPKod/9nFcoF4bO9q6OsF6kLibubeqsmol2SV2r+8qMpVxVOjdUEuYKNEzK1xyV2FIdVnpPcoDHjmqGgyR4Dpo98WW+z/GjYHMjr7QLiPWO1xK216wvgMn3yb12X14ANc2butAHiVnbcSmdt+bsnvMBtYmjD4yOCHe1uem/OFEXwVj4NsgNgms17y4ZAvkeW/7Pq+ReqlvtIA==;GRhSTySx9cqySYt1d0swvw=="
 ---

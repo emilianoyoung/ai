@@ -24,30 +24,19 @@ images:
     title: "Sogou Showcases World-Class AI-Powered Products and Services at CES 2020"
 
 related:
-  - title: "Robots, artificial intelligence highlight CES expo"
-    excerpt: "The annual gadget fest in Las Vegas started this week with \"CES Unveiled,\" an event highlighted by several new robotic and artificial intelligence technology, including one that acts as a pet. (Jan. 6)"
-    publishedDateTime: 2020-01-06T19:33:00Z
-    sourceUrl: https://www.fltimes.com/robots-artificial-intelligence-highlight-ces-expo/video_f52d8126-6f46-54e2-9e89-503ffb536d94.html
+  - title: "OrCam Updates Computer Vision Tech, Announces New Products at CES 2020"
+    excerpt: "OrCam has announced an update to its most popular device, and will be unveiling a series of new products at CES 2020 this year in Las Vegas. This is a companion discussion topic for the original entry at https://findbiometrics.com/orcam-updates-computer-vision-tech-announces-new-products-ces-2020-011002/"
+    publishedDateTime: 2020-01-10T16:18:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/orcam-updates-computer-vision-tech-announces-new-products-at-ces-2020/228310
     type: article
     provider:
-      name: Finger Lakes Times
-      domain: fltimes.com
-    quality: 54
+      name: BCW
+      domain: businesscomputingworld.co.uk
+    quality: 39
     images:
-      - url: https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/editorial/f/52/f52d8126-6f46-54e2-9e89-503ffb536d94/5e13998eab3cc.preview.jpg?crop=960%2C720%2C160%2C0&resize=840%2C630&order=crop%2Cresize
-        width: 840
-        height: 630
-  - title: "Robots, artificial intelligence highlight CES expo"
-    excerpt: "The annual gadget fest in Las Vegas started this week with \"CES Unveiled,\" an event highlighted by several new robotic and artificial intelligence technology, including one that acts as a pet."
-    publishedDateTime: 2020-01-11T11:10:00Z
-    sourceUrl: https://qconline.com/robots-artificial-intelligence-highlight-ces-expo/video_114cec98-2844-5eff-bafb-33473b852da1.html
-    ampUrl: https://qconline.com/robots-artificial-intelligence-highlight-ces-expo/video_114cec98-2844-5eff-bafb-33473b852da1.amp.html
-    cdnAmpUrl: https://qconline-com.cdn.ampproject.org/c/s/qconline.com/robots-artificial-intelligence-highlight-ces-expo/video_114cec98-2844-5eff-bafb-33473b852da1.amp.html
-    type: article
-    provider:
-      name: The Dispatch / The Rock Island Argus
-      domain: qconline.com
-    quality: 54
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
 
 secured: "iKgi1yzEvn6KpLilpG00n+y+q266gdzL2jXWtWpurtiwE30E+9Dji9vu8thwSP0LxxckUMw2tXck9Py38sZXLpWDQJqMxFaxLcCwGirv4pGa5I+WXnw6CbCzlGLce+jJWpbktNTpuB97lPZkkTvYKDuk9837j9cdFnWvYa6upGdF6x0n087UlA/UB8r2IQ/AO3UYSQ3gwr22tNmdq5ohNw6p/N4gAlmUH7NXilXs9zawnEPB0e6rdvsYLLEg7hzIlN4m0D1ITYcUTwVMj53PtVqkuCp/LW/zn777lCTxaHXXr4p3R0cUQIctcdwzl3KDJiro7YTpqYt1xAlwc7YpWxX2ROZqJvPFyf9VgImd2czTyg4xiPBC8kHRNXCqaG47M503NK9ryz8MDmlxdsr2nbiUuZorO6yx4Py3USq6q3GepKlhog7DzbA+IJIfHqrGzQpOVa6LQbex6Sa5mtmK9w==;+dd10cq/59tPoK4HHmJiNg=="
 ---

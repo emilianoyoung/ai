@@ -8,7 +8,7 @@ ampUrl: https://inc42.com/buzz/flourish-ventures-to-continue-its-investment-spre
 cdnAmpUrl: https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/flourish-ventures-to-continue-its-investment-spree-in-indias-fintech-space/amp/
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -26,36 +26,30 @@ images:
     title: "Flourish Ventures To Continue Its Investment Spree In India’s Fintech Space"
 
 related:
-  - title: "Accenture FinTech scheme targets women-founded start-ups"
-    excerpt: "Those chosen for 2020 include; BITA, Globacap, Invisage, ResonanceX, ChAI, Fintech Sandpit, Hazy, USEncryption, Bewica, Caura, PORTABL.co, ThePensionLab, ApTap, Cerebreo, Ducit AI, LendFlo, Apiax, Cybsafe, Norbloc, and Swidch. Tom Graham, managing director and executive sponsor for Accenture’s FinTech Innovation Lab London, noted ..."
-    publishedDateTime: 2020-01-22T04:28:00Z
-    sourceUrl: https://www.consultancy.uk/news/23392/accenture-fintech-scheme-targets-women-founded-start-ups
-    ampUrl: https://www.consultancy.uk/news/amp/23392/accenture-fintech-scheme-targets-women-founded-start-ups
-    cdnAmpUrl: https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/23392/accenture-fintech-scheme-targets-women-founded-start-ups
+  - title: "SEI Ventures Partners AI-Enhanced Intelligence Firm ForwardLane to Provide Insights to Financial Institutions"
+    excerpt: "in order to support the growth and for the provision of AI-enhanced insights for wealth management firms, asset managers and commercial banking institutions. SixThirty Global Fintech Fund has reportedly joined SEI Ventures in the funding round, which is a follow-up to their initial investment round back in 2018. ForwardLane’s AI insight ..."
+    publishedDateTime: 2020-01-24T21:43:00Z
+    sourceUrl: https://www.crowdfundinsider.com/2020/01/156712-sei-ventures-partners-ai-enhanced-intelligence-firm-forwardlane-to-provide-insights-to-financial-institutions/
+    ampUrl: https://www.crowdfundinsider.com/2020/01/156712-sei-ventures-partners-ai-enhanced-intelligence-firm-forwardlane-to-provide-insights-to-financial-institutions/amp/
+    cdnAmpUrl: https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/01/156712-sei-ventures-partners-ai-enhanced-intelligence-firm-forwardlane-to-provide-insights-to-financial-institutions/amp/
     type: article
     provider:
-      name: Consultancy
-      domain: consultancy.uk
-    quality: 44
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 40
     images:
-      - url: https://www.consultancy.uk/illustrations/news/spotlight/2019-09-27-114952477-Diacle-spot.jpg
-        width: 546
-        height: 312
-  - title: "St. Louis fintech startup taps its own customers for $9.5M Series A round"
-    excerpt: "This startup said it's hiring for positions in both its St. Louis and New York offices after raising $9.5 million."
-    publishedDateTime: 2020-01-22T18:45:00Z
-    sourceUrl: https://www.bizjournals.com/stlouis/news/2020/01/22/st-louis-fintech-startup-taps-its-own-customers.html
-    ampUrl: https://www.bizjournals.com/stlouis/news/2020/01/22/st-louis-fintech-startup-taps-its-own-customers.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/stlouis/news/2020/01/22/st-louis-fintech-startup-taps-its-own-customers.amp.html
+      - url: https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Zoom-Warp-Speed-Blast-Artificial-Intelligence-300x267.jpeg
+        width: 300
+        height: 267
+  - title: "Goldman Sachs on its way to dominating the fintech market"
+    excerpt: "The startup uses AI and is in partnership with over 3000 merchants to build these profiles. While usually, the investment comes from venture capitals and private entities the banks are usually hesitant to invest in fintech. this is what sets Goldman Sachs apart and why Forbes named it as the “winner” of the 2019 fintech industry."
+    publishedDateTime: 2020-01-21T08:30:00Z
+    sourceUrl: https://www.finextra.com/blogposting/18348/goldman-sachs-on-its-way-to-dominating-the-fintech-market
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 43
-    images:
-      - url: https://media.bizj.us/view/img/11443621/sultan-meghji-neocova*600xx1200-800-0-72.png
-        width: 600
-        height: 400
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "Rcy7U1ydW77EpGrKWkAY8TnTzrg97t54xuB9dJ3/0P0f5rTtNL586c/q0CoBklBdpSyozpAfqDV0Y+64cVc1ERQpR4DNadwe0xf7Nu+gq0dwttVK7AYvqWPmvnlc847WdkZjzRLvRv7Zt14oN/UKPNYvxzI2EfJ7kX+Oi91IcECTDDbqKgF4/hL+y9u3XGlHRNHVAYLtlJaPtguVVvqPlQ+azvfWuLif3hoRDQ4Jy6ECWGbIjzuLj0FdMSA3VPrDQz6CgJ8LZoYxQBiYByDzspITDr1dZJPNzHUDnMvefgD3h9PWWeuJ7U0xLtnwxE77/8xG1MbgYJy60brQcUXsDCjvQnyRJqVRwu+t4uijopB/oBjXeZmTVX8ZlakpsIvEd0FPScTKaH8CIA42upF4FKTtr2snyqKuSonB/PfIPngRKWIFgnRtK8XVVh/I/remMkffwlhtSW4aAq8UD50APQ==;2IPUz1YrEJ4M6Qdy/m5SAA=="
 ---

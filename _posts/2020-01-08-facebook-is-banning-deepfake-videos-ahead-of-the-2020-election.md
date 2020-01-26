@@ -8,7 +8,7 @@ ampUrl: https://www.popularmechanics.com/technology/security/amp30444133/faceboo
 cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/security/amp30444133/facebook-bans-deepfakes-election/
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -26,47 +26,15 @@ images:
     title: "Facebook Is Banning Deepfake Videos Ahead of the 2020 Election"
 
 related:
-  - title: "Facebook bans deceptive deepfakes and some misleadingly modified media"
-    excerpt: "Hence the new policy bans deepfake content that involves the use of AI technologies ... to produce more research and open source tools to detect deepfakes”. While says Facebook has been working ..."
-    publishedDateTime: 2020-01-07T11:11:00Z
-    sourceUrl: https://techcrunch.com/2020/01/07/facebook-bans-deceptive-deepfakes-and-some-misleadingly-modified-media/
-    ampUrl: https://techcrunch.com/2020/01/07/facebook-bans-deceptive-deepfakes-and-some-misleadingly-modified-media/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/07/facebook-bans-deceptive-deepfakes-and-some-misleadingly-modified-media/amp/
+  - title: "Facebook tweaks ad policy but does not ban political lies ahead of 2020 US presidential election"
+    excerpt: "Facebook announced limited changes on Thursday ... Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand ..."
+    publishedDateTime: 2020-01-10T02:29:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3045468/facebook-tweaks-ad-policy-does-not-ban-political-lies-ahead-2020-us
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
-    images:
-      - url: https://techcrunch.com/wp-content/uploads/2019/09/gettyimages-487867268.jpg?w=1024
-        width: 1024
-        height: 663
-  - title: "Facebook’s Deepfakes Policy ‘Inadequate’ to Some Lawmakers"
-    excerpt: "Facebook Inc.’s new policy to address “deepfake” videos came under fire from some lawmakers and disinformation experts who say it fails to address other kinds of online manipulation. The criticism, in interviews,"
-    publishedDateTime: 2020-01-08T20:23:00Z
-    sourceUrl: https://www.bloomberg.com/news/articles/2020-01-08/facebook-s-deepfakes-policy-inadequate-to-some-lawmakers
-    ampUrl: https://www.bloomberg.com/amp/news/articles/2020-01-08/facebook-s-deepfakes-policy-inadequate-to-some-lawmakers
-    cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-08/facebook-s-deepfakes-policy-inadequate-to-some-lawmakers
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
-  - title: "Fake Trump video? How to spot deepfakes on Facebook and YouTube ahead of the presidential election"
-    excerpt: "Facebook and other tech companies are sponsoring a \"Deepfake Detection Challenge\" to encourage AI researchers to develop new ways to ... Nearly two-thirds of Americans recently surveyed by Pew Research said altered images and videos caused a great deal ..."
-    publishedDateTime: 2020-01-08T22:44:00Z
-    sourceUrl: https://www.usatoday.com/story/tech/2020/01/08/deepfakes-facebook-youtube-donald-trump-election/2836428001/
-    ampUrl: https://amp.usatoday.com/amp/2836428001
-    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2836428001
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 30
-    images:
-      - url: https://www.gannett-cdn.com/presto/2019/04/26/USAT/32128b1f-352f-49ed-9d3d-83a48600d31f-RectThumb.png
-        width: 1920
-        height: 1080
+      name: scmp.com
+      domain: scmp.com
+    quality: 0
 
 secured: "FvzMpLszX4r4q/UxCd2OHyL5ufxTLNIJV+dleMSDqgPb7RtX6OePgFeSVY6oPvvy4WfeVSnQUxcL181z6nlNwaCrVcdY+1NmDAZ9ED/M+H2E+UnAEXcrfY/G33cayjIhOUQ4ZfEOKgPKaa+oeu6v/l6HnT2GkUYsi3z15v6iV5XUMo4476Hq/RPyB540sZZgZ+HRhGJJabewoNNrBi43U1SdomAdnYgbd2IQTDrbr52vneq4eeIim5dxrrL1zxqpEQ65Bow60Z1N6aaI+JAAi9Z0DMTpfuqNW4iGYIgT/OI=;D4dt0pjSdYd3G1/0Z3NuOw=="
 ---

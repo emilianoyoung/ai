@@ -28,15 +28,28 @@ images:
     title: "Quickstart: Personalizer client library"
 
 related:
-  - title: "Quickstart: Create and manage knowledge base"
-    excerpt: "var file1 = new FileDTO { FileName=\"myFileName\", FileUri=\"https://mydomain/myfile.md\" }; var urls = new List<string> { \"https://docs.microsoft.com/en-in/azure/cognitive-services/qnamaker/faqs\" }; var createKbDto = new CreateKbDTO { Name = \"QnA Maker FAQ from c# quickstart\", QnaList = new List<QnADTO> { qna1 }, //Files = new List<FileDTO> { file1"
-    publishedDateTime: 2020-01-16T02:20:00Z
-    sourceUrl: https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/quickstarts/quickstart-sdk
+  - title: "Azure Text Analytics client library samples for JavaScript"
+    excerpt: "These sample programs show how to use the JavaScript client libraries for Azure Cognitive Services Text Analytics in some common scenarios. The samples are compatible with Node.js >= 8.0.0. You need an Azure subscription and an Azure Cognitive Services Instance to run these sample programs. Samples retrieve credentials to access the Cognitive ..."
+    publishedDateTime: 2020-01-24T23:22:00Z
+    sourceUrl: https://docs.microsoft.com/en-us/samples/azure/azure-sdk-for-js/ai-text-analytics-javascript/
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 24
+    quality: 39
+    images:
+      - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
+        width: 400
+        height: 400
+  - title: "Azure Text Analytics client library samples for TypeScript"
+    excerpt: "These sample programs show how to use the TypeScript client libraries for Azure Cognitive Services Text Analytics in some common scenarios. The samples are compatible with Node.js >= 8.0.0. Before running the samples in Node, they must be compiled to JavaScript using the TypeScript compiler. For more information on TypeScript, see the ..."
+    publishedDateTime: 2020-01-24T23:22:00Z
+    sourceUrl: https://docs.microsoft.com/en-us/samples/azure/azure-sdk-for-js/ai-text-analytics-typescript/
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
     images:
       - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
         width: 400

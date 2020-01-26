@@ -24,19 +24,34 @@ images:
     title: "SalesChoice Announces IBM Business Partner Relationship With IBM Watson Analytics for Relationship Analytic Integration"
 
 related:
-  - title: "Blue Prism Expands IBM Partnership to Deliver Broader Intelligent Automation Capabilities"
-    excerpt: "LONDON and AUSTIN, Texas, Jan. 22, 2020 /PRNewswire/ -- Blue Prism (aim:PRSM), a global leader in Robotic Process Automation (RPA), announces an expanded technical partnership with IBM. The collaboration integrates three core capabilities of IBM Cloud Pak for Automation,"
-    publishedDateTime: 2020-01-22T12:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/blue-prism-expands-ibm-partnership-to-deliver-broader-intelligent-automation-capabilities-2020-01-22
+  - title: "A Look Inside Augmented Analytics And Its Business Value In 2020"
+    excerpt: "Here's what you need to know about augmented analytics -- and how to deploy the technology to support your business development goals."
+    publishedDateTime: 2020-01-16T15:25:00Z
+    sourceUrl: https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/16/a-look-inside-augmented-analytics-and-its-business-value-in-2020/
+    ampUrl: https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/16/a-look-inside-augmented-analytics-and-its-business-value-in-2020/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/16/a-look-inside-augmented-analytics-and-its-business-value-in-2020/amp/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      - url: https://thumbor.forbes.com/thumbor/711x395/https://blogs-images.forbes.com/forbesbusinessdevelopmentcouncil/files/2020/01/a.jpg?width=960
+        width: 711
+        height: 395
+  - title: "Varicent acquires Symon.AI to provide enhanced analytics to business users and data scientists"
+    excerpt: "He will continue with his teaching and research alongside his duties at Varicent. “In my work across myriad brands and businesses, the Symon.AI technology stood out and compelled me to become involved with Varicent,” said Dr. Joel Shapiro, Chief Analytics Officer for Varicent. “With this technology Varicent now has the opportunity to ..."
+    publishedDateTime: 2020-01-23T00:36:00Z
+    sourceUrl: https://www.helpnetsecurity.com/2020/01/23/varicent-symon-ai/
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 27
+    images:
+      - url: https://img.helpnetsecurity.com/wp-content/uploads/2019/12/08122003/insecure64.jpg
+        width: 304
+        height: 430
 
 secured: "irGuRJsXVOJBynKK4DlaHl6uYLDpbDUMbD35yFHv6VOWgKnh/jUqXJz5vQs6zoXWZ2a94FK4hcjjITXWC2ZlSzAD7njGJk3VnsODG8GQ9YPoSptfukYRrnDsE/GDdQY44kLge10cywCVsZQZxEyhHYDOiNs4A70g340r2lY2nfqro1J1Dt/IcJ+dZOKDsqydECpmUoSzdDXwmbSCZV8ZV7Y3+A2AZWS6QXJvGFhJTv+U28jDFrvXnFxZy/xiqlofWCBW8TVryCcEcXPdhF5VlkLf5STOnKRVTT/IrezbKGE=;rpJnJeyxDvpZlTwdMuu23w=="
 ---

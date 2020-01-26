@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-07T03:47:00Z
 sourceUrl: https://siliconangle.com/2020/01/06/intel-makes-splash-ces-autonomous-driving-tech-ai-tiger-lake/
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -24,79 +24,19 @@ images:
     title: "Intel makes a splash at CES with AI, autonomous driving tech and Tiger Lake chips"
 
 related:
-  - title: "CES 2020: Intel previews Tiger Lake mobile processors and discrete GPU"
-    excerpt: "AI accelerators, and discrete-level integrated graphics based on the new Intel Xe graphics architecture,\" the company said. The first Tiger Lake systems are expected to ship later this year. Intel also offered a preview of the first Xe-based discrete GPU ..."
-    publishedDateTime: 2020-01-07T03:00:00Z
-    sourceUrl: https://www.zdnet.com/article/ces-2020-intel-previews-tiger-lake-mobile-processors-and-discrete-gpu/
-    ampUrl: https://www.zdnet.com/google-amp/article/ces-2020-intel-previews-tiger-lake-mobile-processors-and-discrete-gpu/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ces-2020-intel-previews-tiger-lake-mobile-processors-and-discrete-gpu/
+  - title: "Autonomous driving to take off in 2020, China robotaxi CEO says"
+    excerpt: "The taxi departed, stopped and changed lanes all on its own. After studying in the U.S., Han developed self-driving tech for Baidu at the Chinese company's Silicon Valley location. Han left the search engine giant to co-found WeRide in 2017, and the startup has traced a rapid ascent. \"Right now, we operate about 100 robotaxis, and so far we've ..."
+    publishedDateTime: 2020-01-06T23:01:00Z
+    sourceUrl: https://asia.nikkei.com/Business/China-tech/Autonomous-driving-to-take-off-in-2020-China-robotaxi-CEO-says
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
     images:
-      - url: https://zdnet1.cbsistatic.com/hub/i/2020/01/07/97b8676c-9886-4528-b8e9-30514da51ca5/intel-tiger-lake-4.jpg
-        width: 627
-        height: 432
-  - title: "Intel's first discrete GPU is built for developers"
-    excerpt: "It also promised \"double digit\" CPU performance increases with Tiger Lake, and \"massive\" AI improvements. Apart from that, it again revealed no additional performance data. As we've already noted in our AMD vs. Intel CES 2020 explainer, AMD has unveiled very specific products and plans, while Intel has just announced upcoming products and been ..."
-    publishedDateTime: 2020-01-09T16:00:00Z
-    sourceUrl: https://www.engadget.com/2020/01/09/intel-xe-d1g-software-development-vehicle/
-    ampUrl: https://www.engadget.com/amp/2020/01/09/intel-xe-d1g-software-development-vehicle/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/09/intel-xe-d1g-software-development-vehicle/
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D2560%252C1440%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C900%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252Fe2f080e0-32c5-11ea-8f6f-37137cd1d902%26client%3Da1acac3e1b3290917d92%26signature%3Da06d205743b2b87fd7053dfb965a6a535c1f922a&client=amp-blogside-v2&signature=c3c0854f900a4547e7c71aeea1722fbf77cd645c
-        width: 600
-        height: 350
-  - title: "Intel's Tiger Lake Laptop CPU Brings Thunderbolt 4, AI Graphics Processing"
-    excerpt: "Some laptops with Tiger Lake processors are also expected to use Intel's upcoming discrete GPU, called the DGX1. Intel teased its discrete graphics processor last year at Computex, and at CES here it showed off a working demo of the GPU running Destiny 2 ..."
-    publishedDateTime: 2020-01-07T03:58:00Z
-    sourceUrl: https://www.pcmag.com/news/372882/intels-tiger-lake-laptop-cpu-brings-thunderbolt-4-ai-graph
-    ampUrl: https://www.pcmag.com/news/372882/intels-tiger-lake-laptop-cpu-brings-thunderbolt-4-ai-graph?amp=1
-    cdnAmpUrl: https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/372882/intels-tiger-lake-laptop-cpu-brings-thunderbolt-4-ai-graph?amp=1
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 87
-    images:
-      - url: https://i.pcmag.com/imagery/articles/016yXQZCZtDGZxmUfpB8pav-3.fit_lpad.size_1200x675.jpg
-        width: 1200
-        height: 675
-  - title: "Intel 'Tiger Lake' mobile processors will use new Xe GPU architecture"
-    excerpt: "As a \"first-look\" of the processor, the CES 2020 presentation offered a general overview for the chips, which will have optimizations for the CPU, AI accelerators, and the GPU to achieve \"double ..."
-    publishedDateTime: 2020-01-07T13:15:00Z
-    sourceUrl: https://appleinsider.com/articles/20/01/07/intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture
-    ampUrl: https://appleinsider.com/articles/20/01/07/intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture/amp/
-    cdnAmpUrl: https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/01/07/intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture/amp/
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 59
-    images:
-      - url: https://photos5.appleinsider.com/gallery/34074-60961-intel-tiger-lake-board-xl.jpg
-        width: 870
-        height: 485
-  - title: "Intel previews the first Xe-based discrete GPU"
-    excerpt: "Looking at its event schedule you can see a selection of conferences about AI and automotive type projects. However, we did see the Ghost Canyon NUC, Comet Lake-H processors, and a Tiger Lake processors tease yesterday. The iconic chipmaker has now ..."
-    publishedDateTime: 2020-01-07T13:42:00Z
-    sourceUrl: https://www.hexus.net/tech/news/graphics/138533-intel-previews-first-xe-based-discrete-gpu/
-    type: article
-    provider:
-      name: Hexus
-      domain: hexus.net
-    quality: 39
-    images:
-      - url: https://hexus.net/media/uploaded/2020/1/463cda5c-1cd0-404a-a261-802c7dcef04f.jpg
-        width: 515
-        height: 221
+      - url: https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F9%2F7%2F1%2F0%2F24270179-3-eng-GB%2FCropped-1578400284weride_Data.jpg?source=nar-cms&width=1024&height=512&fit=cover&gravity=faces
+        width: 1024
+        height: 512
 
 secured: "GA8ZQZXMY8eUoZDATS1EMv8rBB+733LOUUgjx3+SKprkjLaBKCe83o/hEA8icnPg5EfWzJnGJY0l3HXZSTFM/tuP8jEnYtN7rzBVaq+tLZjKiQZ+M5BC9C2ocoFCw6nMWwiUviR4CahNkKAijdW7XQVMTwZTCF8RTbV+zb+sCWZL87oOEBsfavgJAGoRq+i0nU97EZLtGPv2VDe7pfzHIDsGysrVj+cpFx3cj8Pa1Cv8KtpiQGy0g+WPlG7gxzdltVKUjpoS2nbzvZvYCo1M6bmwclh6VSZ/B/+YYDXFf1g=;+aqX1SfWu/GqOZrym2R1XQ=="
 ---

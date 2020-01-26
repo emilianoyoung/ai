@@ -54,6 +54,21 @@ related:
       - url: https://cnet2.cbsistatic.com/img/VI9-cNAjtYJbIEyrIJJ5Q-7Q--0=/2020/01/23/b8af5a80-d4eb-4a64-8711-62295d5c8fc9/ogi-waymo.jpg
         width: 1200
         height: 630
+  - title: "Waymo’s self-driving minivans and big rigs arrive in two more states"
+    excerpt: "Waymo, one of the leaders in autonomous-vehicle technology, is taking its self-driving cars and trucks to more states for testing on public roads. From this week, its driverless vehicles will be heading to Texas and New Mexico for the first time as Waymo ..."
+    publishedDateTime: 2020-01-24T06:00:00Z
+    sourceUrl: https://www.digitaltrends.com/cars/waymos-self-driving-minivans-and-big-rigs-arrive-in-two-more-states/
+    ampUrl: https://www.digitaltrends.com/cars/waymos-self-driving-minivans-and-big-rigs-arrive-in-two-more-states/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymos-self-driving-minivans-and-big-rigs-arrive-in-two-more-states/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
+    images:
+      - url: https://icdn3.digitaltrends.com/image/digitaltrends/waymo-autonomous-truck-2-1200x630-c-ar1.91.jpg
+        width: 720
+        height: 376
   - title: "Waymo is bringing its self-driving minivans and trucks to Texas and New Mexico"
     excerpt: "Waymo is hitting the open road and bringing some of its self-driving minivans and long-haul trucks to two new states. The Alphabet subsidiary said in a tweet on Thursday that it would deploy a portion of its fleet in Texas and New Mexico as it seeks to learn about new road conditions and environments. It also feeds into Waymo’s ultimate quest ..."
     publishedDateTime: 2020-01-23T15:42:00Z
@@ -69,6 +84,36 @@ related:
       - url: https://cdn.vox-cdn.com/thumbor/C-DSTBFZm2XI38ztN2zQglY2u28=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66153324/vpavic_191202_3827_0042.0.jpg
         width: 1400
         height: 933
+  - title: "Lyft’s autonomous vehicle partner Magna is done with self-driving tech"
+    excerpt: "The auto parts maker plans to focus on assisted driving. Two years after teaming up with Lyft to collaborate on self-driving technology, Magna said that partnership's coming to an end. The auto parts maker plans to focus on assisted driving products, instead of fully autonomous tech. Magna isn't fully severing ties with Lyft, in which it ..."
+    publishedDateTime: 2020-01-17T03:02:00Z
+    sourceUrl: https://www.engadget.com/2020/01/16/lyft-self-driving-tech-partnership-ending-magna/
+    ampUrl: https://www.engadget.com/amp/2020/01/16/lyft-self-driving-tech-partnership-ending-magna/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/16/lyft-self-driving-tech-partnership-ending-magna/
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 74
+    images:
+      - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D6331%252C4223%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F2fa83510-38aa-11ea-bdab-ba516203e818%26client%3Da1acac3e1b3290917d92%26signature%3D740de19c4f087efeacd976980dcbc932d65cf18a&client=amp-blogside-v2&signature=c1e264aaff1ea7ffa94e2fcf1c60d9746caa91d2
+        width: 600
+        height: 350
+  - title: "New Apple self-driving car patent could turn Siri into your personal chauffeur"
+    excerpt: "Apple wants to patent a new technology that would allow you to use voice commands to tell your self-driving car where you want to go, with the car doing the navigation, driving, and parking for you. The end result would be a Siri-like system for controlling your self-driving car. The patent application, titled “Guidance of Autonomous Vehicles ..."
+    publishedDateTime: 2020-01-23T19:24:00Z
+    sourceUrl: https://www.digitaltrends.com/cars/new-apple-self-driving-car-patent-could-turn-siri-into-your-personal-chauffeur/
+    ampUrl: https://www.digitaltrends.com/cars/new-apple-self-driving-car-patent-could-turn-siri-into-your-personal-chauffeur/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/new-apple-self-driving-car-patent-could-turn-siri-into-your-personal-chauffeur/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 70
+    images:
+      - url: https://icdn3.digitaltrends.com/image/digitaltrends/lexus-rx450h-apple-smart-car-press-image-1-1200x630-c-ar1.91.jpg
+        width: 1200
+        height: 628
   - title: "Today's Pickup: Waymo To Run Self-Driving Trucks In Texas, New Mexico"
     excerpt: "Good day, Waymo, the self-driving vehicle unit of Google parent Alphabet Inc (NASDAQ: GOOGL), announced this morning that it is beginning testing of self-driving trucks on"
     publishedDateTime: 2020-01-23T16:42:00Z
@@ -108,34 +153,30 @@ related:
       - url: https://media.bizj.us/view/img/11586802/waymo-truck-3*600xx6000-4000-0-0.png
         width: 600
         height: 400
-  - title: "Self-driving big-rig trucks coming soon? Waymo set to begin mapping interstates in Texas, New Mexico"
-    excerpt: "The Lone Star State may become a little lonelier — at least when it comes to big-rig trucking. Waymo, the self-driving vehicle division of Google parent Alphabet, is about to start mapping in Texas and New Mexico as a prelude to testing its self-driving big-rig trucks. The mapping minivans, to be followed by the large trucks, will run ..."
-    publishedDateTime: 2020-01-23T12:22:00Z
-    sourceUrl: https://www.jsonline.com/story/news/nation/2020/01/23/waymo-texas-new-mexico-mapping-self-driving-big-rigs/4546366002/
-    ampUrl: https://amp.jsonline.com/amp/4546366002
-    cdnAmpUrl: https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/4546366002
+  - title: "Self-Driving Cars and Trucks Market Analysis by Key Players, End Users, Application and CAGR Value Forecast to 2029"
+    excerpt: "A recent market research analysis titled, Self-Driving Cars and Trucks Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Self-Driving Cars and Trucks market covering industry surroundings,"
+    publishedDateTime: 2020-01-22T10:46:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/self-driving-cars-and-trucks-market-analysis-by-key-players-end-users-application-and-cagr-value-forecast-to-2029-2020-01-22
     type: article
     provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
-    quality: 44
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
     images:
-      - url: https://media.gannett-cdn.com/29906170001/29906170001_5975956542001_5975943510001-vs.jpg?pubId=29906170001
-        width: 640
-        height: 360
-  - title: "Uber set to bring self driving cars to Washington"
-    excerpt: "(ABC News) —Uber is bringing a fleet of self-driving cars to the nation’s capital to begin mapping out prospective routes — aided by human drivers at first — starting on Friday. The new self-driving cars that are expected to hit the roads in Washington, D.C., will have the initial goal of data collection, and will have a human vehicle ..."
-    publishedDateTime: 2020-01-25T00:47:00Z
-    sourceUrl: https://www.abccolumbia.com/2020/01/24/uber-set-to-bring-self-driving-cars-to-washington/
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Self-Driving Vehicles Need a Reality Check"
+    excerpt: "(TNS) — By all rights, Bryan Salesky might be the last guy you’d expect to hear managing expectations about fully self-driving vehicles becoming reality, and doing so in volume. As CEO of Argo AI, he helps lead the autonomous-vehicle programs for partners Ford Motor Co. and Volkswagen AG. He’s an early alum of Google’s self-driving ..."
+    publishedDateTime: 2020-01-16T21:45:00Z
+    sourceUrl: https://www.governing.com/next/Self-Driving-Vehicles-Need-Reality-Check.html
+    ampUrl: https://www.governing.com/next/Self-Driving-Vehicles-Need-Reality-Check.html?AMP
+    cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/Self-Driving-Vehicles-Need-Reality-Check.html?AMP
     type: article
     provider:
-      name: ABC Columbia
-      domain: abccolumbia.com
-    quality: 39
-    images:
-      - url: https://images.abccolumbia.com/wp-content/uploads/2020/01/volvo.jpg
-        width: 992
-        height: 558
+      name: Governing
+      domain: governing.com
+    quality: 24
   - title: "Self-driving semi trucks may be coming to a highway near you"
     excerpt: "A self-driving vehicle company started testing autonomous long-haul trucks on Texas roads this week. Waymo, a subsidiary of Google’s parent company Alphabet Inc., will roll out the trucks on several highways,"
     publishedDateTime: 2020-01-25T01:38:00Z
