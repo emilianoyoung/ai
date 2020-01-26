@@ -683,6 +683,19 @@ related:
       - url: https://thehill.com/sites/default/files/twitter_090419getty.jpg
         width: 980
         height: 551
+  - title: "Consumers Are Still Split on Facial Recognition"
+    excerpt: "Reuven Carlyle proposed a bill to require companies that make facial recognition tech to first obtain consumer consent, and notify those consumers that when they walk into a store or access a website, it’s in use. \"Despite concerns, retailers are exploring biometric technology, including behavioral tracking and facial and voice recognition ..."
+    publishedDateTime: 2020-01-26T05:08:00Z
+    sourceUrl: https://www.emarketer.com/content/consumers-are-still-split-on-facial-recognition
+    type: article
+    provider:
+      name: eMarketer
+      domain: emarketer.com
+    quality: 41
+    images:
+      - url: https://contentstorage-nax2.emarketer.com/ab38dfa809dcc6b9c4e1d34ceba68d21/default-image-share.png
+        width: 1280
+        height: 720
   - title: "CBP Expands Facial Recognition for Global Entry Travelers"
     excerpt: "Over the last few years, Customs and Border Protection has been rolling out facial recognition programs at ports of entry across the country, including the nation’s international airports. Now, the agency is increasing the use of the technology for its optional Global Entry program. The Global Entry program allows frequent travelers who are ..."
     publishedDateTime: 2020-01-16T20:33:00Z
@@ -900,19 +913,6 @@ related:
       name: South China Morning Post
       domain: scmp.com
     quality: 24
-  - title: "Consumers Are Still Split on Facial Recognition"
-    excerpt: "Reuven Carlyle proposed a bill to require companies that make facial recognition tech to first obtain consumer consent, and notify those consumers that when they walk into a store or access a website, it’s in use. \"Despite concerns, retailers are exploring biometric technology, including behavioral tracking and facial and voice recognition ..."
-    publishedDateTime: 2020-01-26T05:08:00Z
-    sourceUrl: https://www.emarketer.com/content/consumers-are-still-split-on-facial-recognition
-    type: article
-    provider:
-      name: eMarketer
-      domain: emarketer.com
-    quality: 24
-    images:
-      - url: https://contentstorage-nax2.emarketer.com/ab38dfa809dcc6b9c4e1d34ceba68d21/default-image-share.png
-        width: 1280
-        height: 720
   - title: "Battle over facial recognition technology"
     excerpt: "Alphabet (GOOG, GOOGL) CEO Sundar Pichai has come out in support of a EU proposal for instating a temporary ban (for up to five years) on the use of facial recognition in public areas until officials beef up privacy regulations. Microsoft (NASDAQ:MSFT) President Brad Smith, on the other hand, has warned against pumping the brakes so quickly ..."
     publishedDateTime: 2020-01-21T09:53:00Z

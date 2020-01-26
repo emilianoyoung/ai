@@ -367,6 +367,21 @@ related:
       - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F823b5d34-3eae-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500
         width: 500
         height: 281
+  - title: "Face recognition is not the enemy"
+    excerpt: "Face recognition fearmongering is in full swing, with at least a small contingent of Americans breathlessly warning that its use by law enforcement is going to portend the end of privacy as we know it. Slow down. This technology is a great advance over the way we used to identify suspects, eyewitness memory. It promises to identify the guilty ..."
+    publishedDateTime: 2020-01-26T10:00:00Z
+    sourceUrl: https://www.nydailynews.com/opinion/ny-oped-face-recognition-is-not-the-enemy-20200126-pjz4z367bvgfhaws465je5o52m-story.html
+    ampUrl: https://www.nydailynews.com/opinion/ny-oped-face-recognition-is-not-the-enemy-20200126-pjz4z367bvgfhaws465je5o52m-story.html?outputType=amp
+    cdnAmpUrl: https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-face-recognition-is-not-the-enemy-20200126-pjz4z367bvgfhaws465je5o52m-story.html?outputType=amp
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 59
+    images:
+      - url: https://www.nydailynews.com/resizer/zSmItPl11VfSZK_HlthWE4t6ueI=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/TRO2XAVMCJDFDHJMTP7WVOQS3E.jpg
+        width: 1200
+        height: 799
   - title: "EU plans five-year ban on use of facial recognition tech in public spaces"
     excerpt: "The EU is considering halting the use of facial recognition technology in public spaces, while the European Commission hammers out a tighter legal framework for its use. A leaked draft white paper, obtained by Belgian not-for-profit think tank Euractiv, shows that the EU may look at how the technology can be better aligned with the EU’s ..."
     publishedDateTime: 2020-01-19T09:50:00Z

@@ -5,7 +5,7 @@ excerpt: "Reuven Carlyle proposed a bill to require companies that make facial r
 publishedDateTime: 2020-01-26T05:08:00Z
 sourceUrl: https://www.emarketer.com/content/consumers-are-still-split-on-facial-recognition
 type: article
-quality: 24
+quality: 41
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+  - Computer Vision
 
 images:
   - url: https://contentstorage-nax2.emarketer.com/ab38dfa809dcc6b9c4e1d34ceba68d21/default-image-share.png

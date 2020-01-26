@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Investing in AI: A Beginner's Guide"
-excerpt: "A report from MarketsandMarkets estimates that the sales generated from hardware, software, and services directly related to AI categories including machine learning, natural language processing, context-aware computing, and machine vision will rise from $21.46 billion in 2018 to $190.61 billion in 2025 -- representing a compound annual growth ..."
+excerpt: "Artificial intelligence involves the use of algorithms that guide machine behavior to solve ... and strength in AI have also helped the company to position itself as an early leader in self-driving cars. The tech giant's Waymo subsidiary is currently the only American unit that is testing Level 4 driverless vehicles on people who are not ..."
 publishedDateTime: 2020-01-24T19:00:00Z
 sourceUrl: https://www.fool.com/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 ampUrl: https://www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 type: article
-quality: 89
-heat: 99
+quality: 93
+heat: 103
 published: true
 
 provider:
@@ -21,6 +21,8 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+  - Microsoft AI
   - Natural Language Processing
 
 images:
@@ -44,6 +46,6 @@ related:
         width: 630
         height: 500
 
-secured: "XV8CBQvYqIEHJkPbWpyWg5AT62QVjs3yFzXSiRayJAqi/Cecqe92dzr2kBRoJXj2TFLli1k9opL5NUEB9o4iNNEH8jdrrh80DB5vS+os0s2BiVlep97fGoPiLasWvOLwqk051VGgyCsEQRaC3EOKKMgBg3LfFJPK/q2NzdMK8E2CSjUcsgJ2v1sIaUzUd08vFDeeV6g2db3vY5qAgo/yRnS397+kAxj1T7tyxAxjQXLU8nw1mzEu1dteUuFtmsOKiUEkOvDsbCF9pb2L2RTv3kVhh7l+7Pkp/hq+aOM//cNbcKxhk0YPm/6/iPo74tsr;nJvmHgzzOItjKx+5YVgFJQ=="
+secured: "ve+P9Qb0vOFYclN+mq6uvA3inTQvEc9WP25XpYtomY48FT8NdhloBUtQkl3szG3TdRTS6gMQh4q+R0uljzy3Gkoz71jku/rY6jxBLDMmmmvQzNHINonB9RfDTDqMm1vJk9sT9UvfPWmAVU9zuXwh01zri/iHLMmeXZhaK/jogrqyc0gZ9Aams+P3e9E4MSPTJ8Vp09fuvfav4tKHg6D9EedsJ7anSZCt+UUpsWUsec0E7cm+74A1vVyZ0ZD9ym1OdZs7EYwiwnQi0yLz/QaDEeXQYpOZZEoFzsO/mhDpvU8XCh3xTTuA5C9wevwQ+Akz;zKKXOB43FzN/hv+CQPRxuQ=="
 ---
 

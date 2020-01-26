@@ -8,7 +8,7 @@ ampUrl: https://markets.businessinsider.com/amp/news/prevedere-to-present-its-er
 cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/prevedere-to-present-its-erin-predictive-analytics-cloud-powered-by-microsoft-azure-at-microsoft-showcase-during-nrf-2020-1028812725
 type: article
 quality: 58
-heat: 78
+heat: 68
 published: true
 
 provider:
@@ -24,19 +24,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "What Value Does Microsoft Azure Synapse Bring To The World Of Analytics?"
-    excerpt: "Azure Synapse also integrates with Power BI and Azure Machine Learning to gain insights for all users, all the way from data scientists to the business users using Power BI. Microsoft also said Synapse partner ecosystem that includes Databricks ..."
-    publishedDateTime: 2020-01-06T17:17:00Z
-    sourceUrl: https://analyticsindiamag.com/azure-synapse-analytics/
-    type: article
-    provider:
-      name: India
-      domain: analyticsindiamag.com
-    quality: 53
-    images:
-      - url: https://analyticsindiamag.com/wp-content/uploads/2020/01/azure-synapse-analytics-microsoft.jpg
-        width: 800
-        height: 533
   - title: "Omnipresence Platform Provides Biopharmaceutical Companies Advanced Analytics, AI and Cloud Innovations Powered by Microsoft"
     excerpt: "Omnipresence Platform Provides Biopharmaceutical Companies Advanced Analytics, AI and Cloud Innovations Powered by Microsoft"
     publishedDateTime: 2020-01-09T12:03:00Z

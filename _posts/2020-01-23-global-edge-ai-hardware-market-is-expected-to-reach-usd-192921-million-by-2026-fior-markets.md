@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-23T22:00:00Z
 sourceUrl: https://www.marketwatch.com/press-release/global-edge-ai-hardware-market-is-expected-to-reach-usd-192921-million-by-2026-fior-markets-2020-01-23
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     title: "Global Edge AI Hardware Market is Expected to Reach USD 1,929.21 Million by 2026 : Fior Markets"
 
 related:
+  - title: "Artificial Intelligence (AI) Market Exceed US$ 160 Bn 2026"
+    excerpt: "The global artificial intelligence market is expected to exceed the market value of around US$ 160 billion by 2026. LOS ANGELES, Jan. 23, 2020 /PRNewswire/ -- Acumen Research and Consulting, Recently Published Report titled \" Artificial Intelligence (AI) Market Size,"
+    publishedDateTime: 2020-01-23T13:30:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-ai-market-exceed-us-160-bn-2026-300992123.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 54
+    images:
+      - url: https://mma.prnewswire.com/media/962993/Acumen_Research_and_Consulting_Logo.jpg?p=facebook
+        width: 597
+        height: 315
   - title: "Russia and NATO Artificial Intelligence in Military Market 2019-2027 | USD 18,649 Million Predicted By 2027"
     excerpt: "Facts and Factors Market Research has published a new report titled \"Russia and NATO Artificial Intelligence in Military Market By Application (Warfare Platform, Information Processing, Logistics & Transportation,"
     publishedDateTime: 2020-01-22T12:21:00Z

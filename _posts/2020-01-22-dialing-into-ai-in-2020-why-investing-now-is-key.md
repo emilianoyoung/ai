@@ -29,7 +29,7 @@ images:
 
 related:
   - title: "Investing in AI: A Beginner's Guide"
-    excerpt: "A report from MarketsandMarkets estimates that the sales generated from hardware, software, and services directly related to AI categories including machine learning, natural language processing, context-aware computing, and machine vision will rise from $21.46 billion in 2018 to $190.61 billion in 2025 -- representing a compound annual growth ..."
+    excerpt: "Artificial intelligence involves the use of algorithms that guide machine behavior to solve ... and strength in AI have also helped the company to position itself as an early leader in self-driving cars. The tech giant's Waymo subsidiary is currently the only American unit that is testing Level 4 driverless vehicles on people who are not ..."
     publishedDateTime: 2020-01-24T19:00:00Z
     sourceUrl: https://www.fool.com/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
     ampUrl: https://www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
@@ -38,7 +38,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 89
+    quality: 93
     images:
       - url: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F484858%2Fgettyimages-851955936.jpg&w=700&op=resize
         width: 700

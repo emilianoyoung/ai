@@ -41,6 +41,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence (AI) Market Exceed US$ 160 Bn 2026"
+    excerpt: "The global artificial intelligence market is expected to exceed the market value of around US$ 160 billion by 2026. LOS ANGELES, Jan. 23, 2020 /PRNewswire/ -- Acumen Research and Consulting, Recently Published Report titled \" Artificial Intelligence (AI) Market Size,"
+    publishedDateTime: 2020-01-23T13:30:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-ai-market-exceed-us-160-bn-2026-300992123.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 54
+    images:
+      - url: https://mma.prnewswire.com/media/962993/Acumen_Research_and_Consulting_Logo.jpg?p=facebook
+        width: 597
+        height: 315
   - title: "Edge Artificial intelligence (AI) Software Market 2020: Key factors behind market's rapid growth by 2030"
     excerpt: "The Objective of the \"Global Edge AI Software Market Market\" report is to depict the trends and upcoming for the Edge AI Software Market industry over the forecast years. Edge AI Software Market Market report data has been gathered from industry specialists/experts."
     publishedDateTime: 2020-01-24T02:56:00Z

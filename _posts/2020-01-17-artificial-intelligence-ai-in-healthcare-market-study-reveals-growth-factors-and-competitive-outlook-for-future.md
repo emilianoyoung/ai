@@ -106,19 +106,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) Market Exceed US$ 160 Bn 2026"
-    excerpt: "LOS ANGELES, Jan. 23, 2020 /PRNewswire/ -- Acumen Research and Consulting, Recently Published Report titled \"Artificial Intelligence (AI) Market Size, Opportunities and Forecast, 2019 to 2026\". The worldwide artificial intelligence market and is anticipated to grow at a CAGR of around 49% in terms of revenue during the forecasting period 2019 ..."
-    publishedDateTime: 2020-01-23T14:42:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-market-exceed-us-160-bn-/2020/01/23/9086203.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 52
-    images:
-      - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
-        width: 252
-        height: 335
   - title: "Artificial Intelligence Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
     excerpt: "New York, January 21, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report includeIBMCorp IBM,"
     publishedDateTime: 2020-01-21T06:20:00Z

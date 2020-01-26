@@ -382,6 +382,21 @@ related:
       - url: https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0120/metropolitan_police_camera.jpg
         width: 1200
         height: 672
+  - title: "Face recognition is not the enemy"
+    excerpt: "Face recognition fearmongering is in full swing, with at least a small contingent of Americans breathlessly warning that its use by law enforcement is going to portend the end of privacy as we know it. Slow down. This technology is a great advance over the way we used to identify suspects, eyewitness memory. It promises to identify the guilty ..."
+    publishedDateTime: 2020-01-26T10:00:00Z
+    sourceUrl: https://www.nydailynews.com/opinion/ny-oped-face-recognition-is-not-the-enemy-20200126-pjz4z367bvgfhaws465je5o52m-story.html
+    ampUrl: https://www.nydailynews.com/opinion/ny-oped-face-recognition-is-not-the-enemy-20200126-pjz4z367bvgfhaws465je5o52m-story.html?outputType=amp
+    cdnAmpUrl: https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-face-recognition-is-not-the-enemy-20200126-pjz4z367bvgfhaws465je5o52m-story.html?outputType=amp
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 59
+    images:
+      - url: https://www.nydailynews.com/resizer/zSmItPl11VfSZK_HlthWE4t6ueI=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/TRO2XAVMCJDFDHJMTP7WVOQS3E.jpg
+        width: 1200
+        height: 799
   - title: "Metropolitan Police Service now using Live Facial Recognition technology"
     excerpt: "LONDON – The Metropolitan Police Service announced Friday that it will start using Live Facial Recognition (LFR) technology. Met Police says the use of live facial recognition tech will be used in specific locations in London. They say this will help tackle serious crime, including serious violence, gun and knife crime, child sexual ..."
     publishedDateTime: 2020-01-25T19:55:00Z
