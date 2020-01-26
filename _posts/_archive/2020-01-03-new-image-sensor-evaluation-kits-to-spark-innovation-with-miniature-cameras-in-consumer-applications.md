@@ -86,6 +86,6 @@ related:
       domain: design-reuse.com
     quality: 0
 
-secured: "Xdy9AF6YdKbl7heG+hcaAAiXa8ERQXlTMhWIebQEp2MrVUGNm/0VIyHIcnf4UScs9Qf8ZLGGbY789FiyCJONOeQG843m/I3AkO4X45jrviNpy4PbQ5u2JDKNiQAqQcjgrmG6Ih0u4hweNJbMcAlsmqDyhUlN9JFiaWaVXMFT+MBJHqUp8YuW+rMxrpRyvi15eKK+EjT6hD9DO45/5SiAfUjtUjaPa6chGhABvF8XKVlJViGtWcIfcxj7U3vxf2jE4e0HL4YYniuHwIDAQAamxsuX6YGVPI8IB5QVcw/rYXpqJqrihZ1NCJiPJSF2dlM+;k3hsbWq6U/60JQY3isf6/Q=="
+secured: "dX0dnk/d5WyzhV1+RwYn5MutEh01Ei7p00GCTkz9yUER+BJoZaeemE/4ZHJilgqzO9JxF9LGLqWZu21ImBYwch5dK09H751AnMnCKilVs7ZrKKe7avhUL2GclB0YQhvcLQIIvuQbscayjYXz9S6Mq6/6qcqipdHfDwLCUj25L/WIJgEdjWd7ouWqU3mO4wbcLNj/jaVNCUxKR/PmHx/SUCufyCddo5wfAt5R5ISAfcSesBMadfqwwMqApifYVPhx/6Xuh+P31BKvBKz89K7QJgqAUjrVs31nn3LfNFypEwtXLgt6JtLpmWJ2WPWypk01;tQMjzIuqaLfyByxf9RXqdQ=="
 ---
 

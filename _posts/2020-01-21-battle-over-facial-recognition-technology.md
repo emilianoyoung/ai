@@ -907,6 +907,19 @@ related:
       name: South China Morning Post
       domain: scmp.com
     quality: 24
+  - title: "Consumers Are Still Split on Facial Recognition"
+    excerpt: "Reuven Carlyle proposed a bill to require companies that make facial recognition tech to first obtain consumer consent, and notify those consumers that when they walk into a store or access a website, it’s in use. \"Despite concerns, retailers are exploring biometric technology, including behavioral tracking and facial and voice recognition ..."
+    publishedDateTime: 2020-01-26T05:08:00Z
+    sourceUrl: https://www.emarketer.com/content/consumers-are-still-split-on-facial-recognition
+    type: article
+    provider:
+      name: eMarketer
+      domain: emarketer.com
+    quality: 24
+    images:
+      - url: https://contentstorage-nax2.emarketer.com/ab38dfa809dcc6b9c4e1d34ceba68d21/default-image-share.png
+        width: 1280
+        height: 720
   - title: "Facial recognition’s reckoning, Fourth Amendment edition"
     excerpt: "Last week, The New York Times reported on a facial recognition technology company offering law enforcement, federal government agencies, and companies the ability to identify people simply by uploading a photograph. Clearview AI has compiled more than three billion images by scanning Facebook and other platforms. It analyzes uploaded facial ..."
     publishedDateTime: 2020-01-23T11:17:00Z

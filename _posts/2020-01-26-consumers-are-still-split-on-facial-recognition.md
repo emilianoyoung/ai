@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Chinese city uses facial recognition to shame pajama wearers"
-excerpt: "BEIJING — When officials in an eastern Chinese city were told to root out “uncivilized behavior,” they were given a powerful tool to carry out their mission: facial recognition software. Among their top targets? People wearing pajamas in public. On Monday, the urban management department of Suzhou, a city of 6 million people in Anhui ..."
-publishedDateTime: 2020-01-22T04:50:00Z
-sourceUrl: https://www.seattletimes.com/nation-world/chinese-city-uses-facial-recognition-to-shame-pajama-wearers/
-ampUrl: https://www.seattletimes.com/nation-world/chinese-city-uses-facial-recognition-to-shame-pajama-wearers/?amp=1
-cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/chinese-city-uses-facial-recognition-to-shame-pajama-wearers/?amp=1
+title: "Consumers Are Still Split on Facial Recognition"
+excerpt: "Reuven Carlyle proposed a bill to require companies that make facial recognition tech to first obtain consumer consent, and notify those consumers that when they walk into a store or access a website, it’s in use. \"Despite concerns, retailers are exploring biometric technology, including behavioral tracking and facial and voice recognition ..."
+publishedDateTime: 2020-01-26T05:08:00Z
+sourceUrl: https://www.emarketer.com/content/consumers-are-still-split-on-facial-recognition
 type: article
-quality: 59
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: eMarketer
+  domain: emarketer.com
 
 topics:
   - AI
-  - Computer Vision
+  - Natural Language Processing
 
 images:
-  - url: https://static.seattletimes.com/wp-content/uploads/2020/01/01212020_nightgownbiker_214352-300x258.jpg
-    width: 300
-    height: 258
-    title: "Chinese city uses facial recognition to shame pajama wearers"
+  - url: https://contentstorage-nax2.emarketer.com/ab38dfa809dcc6b9c4e1d34ceba68d21/default-image-share.png
+    width: 1280
+    height: 720
+    title: "Consumers Are Still Split on Facial Recognition"
 
 related:
   - title: "Twitter Tells Facial Recognition Trailblazer to Stop Using Site’s Photos"
@@ -472,6 +470,21 @@ related:
       - url: https://www.chicagotribune.com/resizer/zvBykLjQuHpA183lPUW5jbRQwd4=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/QFTFUXZSXVF4HLTSDJQJT46L74.jpg
         width: 1200
         height: 960
+  - title: "Chinese city uses facial recognition to shame pajama wearers"
+    excerpt: "BEIJING — When officials in an eastern Chinese city were told to root out “uncivilized behavior,” they were given a powerful tool to carry out their mission: facial recognition software. Among their top targets? People wearing pajamas in public. On Monday, the urban management department of Suzhou, a city of 6 million people in Anhui ..."
+    publishedDateTime: 2020-01-22T04:50:00Z
+    sourceUrl: https://www.seattletimes.com/nation-world/chinese-city-uses-facial-recognition-to-shame-pajama-wearers/
+    ampUrl: https://www.seattletimes.com/nation-world/chinese-city-uses-facial-recognition-to-shame-pajama-wearers/?amp=1
+    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/chinese-city-uses-facial-recognition-to-shame-pajama-wearers/?amp=1
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 59
+    images:
+      - url: https://static.seattletimes.com/wp-content/uploads/2020/01/01212020_nightgownbiker_214352-300x258.jpg
+        width: 300
+        height: 258
   - title: "India's Telangana to test facial recognition in local elections"
     excerpt: "The southern Indian state of Telangana will use facial recognition software in local elections on Wednesday, authorities said, the first such use of the technology in the country despite growing concerns about privacy and surveillance. Facial recognition software will be used to verify voters in 10 polling stations in the Medchai Malkajgiri ..."
     publishedDateTime: 2020-01-22T10:30:00Z
@@ -900,19 +913,6 @@ related:
       name: South China Morning Post
       domain: scmp.com
     quality: 24
-  - title: "Consumers Are Still Split on Facial Recognition"
-    excerpt: "Reuven Carlyle proposed a bill to require companies that make facial recognition tech to first obtain consumer consent, and notify those consumers that when they walk into a store or access a website, it’s in use. \"Despite concerns, retailers are exploring biometric technology, including behavioral tracking and facial and voice recognition ..."
-    publishedDateTime: 2020-01-26T05:08:00Z
-    sourceUrl: https://www.emarketer.com/content/consumers-are-still-split-on-facial-recognition
-    type: article
-    provider:
-      name: eMarketer
-      domain: emarketer.com
-    quality: 24
-    images:
-      - url: https://contentstorage-nax2.emarketer.com/ab38dfa809dcc6b9c4e1d34ceba68d21/default-image-share.png
-        width: 1280
-        height: 720
   - title: "Battle over facial recognition technology"
     excerpt: "Alphabet (GOOG, GOOGL) CEO Sundar Pichai has come out in support of a EU proposal for instating a temporary ban (for up to five years) on the use of facial recognition in public areas until officials beef up privacy regulations. Microsoft (NASDAQ:MSFT) President Brad Smith, on the other hand, has warned against pumping the brakes so quickly ..."
     publishedDateTime: 2020-01-21T09:53:00Z
@@ -965,6 +965,6 @@ related:
       domain: sfchronicle.com
     quality: 4
 
-secured: "Dv8nHLH/cwpL0wlsOzYZDfJY5v1QVaE0BjKORCkxMEkJkz7HpdFzjKiyZe9OK8W9k2RJDeAg564LY69txSWHB+se53KiPZHmkKgMHynhVsAEd/N8v+FN/g0d7ra8/qWkFWBYKbLUgRD+vor3+t7BusadfhKQdemrZiWYvWMlPRR1GK4dzUP92fitcYBlVF93VjRTM9y8E25+3OHB7neKW3tDvUGKcf4LFXM8Fl9jnj5+hHQmVj2HvKccJwCjVwHgp885cmx2ojjUib6/nnnX/fdFmGidFBdv5415kvtBgcwX2m1Z/nf4cJ3GwdKdTlN/DQsPKyAJnM0E7zv2Nyp122kfoyvF12XI1FCTtESOPdxCTyYcbcCN4nvsg4Hj1lIrk3jsHwWlnmAR0MSjNL/3KDRtVW3DSZemojbN1u2RVj0ElZ4TnGdRg0Agx112RPFV9oGGHukQ6xkfC09rSRHhyA==;r6wk5EbpbEmPeVv15MTQ7A=="
+secured: "j5jbhn/7UivzxFBGHiDM/vbyxD+/XIM5idBrA6C98XLfzhakVI/+AvNHqHGj0w7bSndzRaksJ+lIBpoLatpmWzacKDpt9DmJcuBJ8/2084e8L+WTGF1pUPuvGWAsprWS/wDU9xVWg9LW5xh8/aoUchaWJN01n5BUKS+eQyD6ZUrPTD97AzueA6sYN+MVSaYLav7XvzCFPAvtE+HBCDCnpmiGyyNwVuHu5XsfdWYWUev+FBzLZH+LYcfRRusmqeQbfJQ39Ohf4zIIRh7i6oEBsqNnFwF0+Tongp9rDm7zdm/mxEUEKY8+k8vJy/bDgRnA;5pVcEJYhBCAn0lp+X8a/6A=="
 ---
 

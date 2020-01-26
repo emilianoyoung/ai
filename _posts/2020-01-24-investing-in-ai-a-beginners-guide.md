@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Investing in AI: A Beginner's Guide"
-excerpt: "A report from MarketsandMarkets estimates that the sales generated from hardware, software, and services directly related to AI categories including machine learning, natural language processing, context-aware computing, and machine vision will rise from $21.46 billion in 2018 to $190.61 billion in 2025 -- representing a compound annual growth ..."
+excerpt: "Advances in AI features should help improve the value of Microsoft's Azure-based services. As such, it's already established itself as an important role in the self-driving car space. NVIDIA's chips are also playing a big role in current applications of AI within the healthcare space, with the company partnered with General Electric to provide ..."
 publishedDateTime: 2020-01-24T19:00:00Z
 sourceUrl: https://www.fool.com/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 ampUrl: https://www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 type: article
-quality: 89
-heat: 99
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
   - Natural Language Processing
 
 images:
@@ -44,6 +45,6 @@ related:
         width: 630
         height: 500
 
-secured: "7wd5EGSUWhKTrcfb75qKaaUBJuLZ3LMzA85V8EZGPGok5ZwAwlLbgej4Wj5elaaOv9ZRvvu2nvbFqhGY1agDpPYc+SBRBkNUkZ7T98ExwtMHeFLAERBAWUnlXqz/afHSu1H7FdWJFG6kNMWAY+TPvxcN9w+SGZCF24ppmTCNrbe+zoVQhawXF6CPi3dRlhYICT5RGSC/iddKeGgtHIxukcD9MLT13iBmj4Wiz43374oGSqFYQghkW2xcilR7uDacNVjNGCWb/K6FEjeJq3yGmW2XXBDjyX6MIYO7/lQqEg04j9Ey23RYuhYtym/sYPG0;9vyEORjtOk7CDAwrhn6PEQ=="
+secured: "kVOky6P6NoWatBKVRZu99JpO18dyVFF8wJnsk/9uYIiwRu9uTnTnxP0tpUkdYkge8yjWiZKWvia6ZMurtbe4rgYsroz0HRGahPABvnA2GZgNyK+CEaIHeIMASKKqMO3X+yyP0qHoqOyt4Q4YrwuUZMCcqrSEKGVFmKn3PnJ3vxk/qqQtHuxaC7mo++U+BplEMr96IFuV/QpQtF5LwvrT53v4Qz6r2P8+Vb9BX5X/O3wJ+l8c8noLgP4O4ejbPLYJpNvRhfQ4dDerNj46C8TETnV7fLMt2Flwh8BZy1YWD6dhkP3JJ7J98xlwIAX73TqS;8Au59Klmslo91xIPfWU7Yg=="
 ---
 
