@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Samsung’s new Family Hub refrigerator uses computer vision to keep tabs on groceries"
-excerpt: "Samsung first demoed in-fridge computer vision last January at CES 2019, where it suggested that Bixby Vision — technology that’s been around in some form since 2016 — might someday automatically labels groceries in-fridge, eliminating the need for users to do so manually. For its part, Smarter took an aftermarket approach with FridgeCam ..."
-publishedDateTime: 2020-01-02T16:50:00Z
+excerpt: "If you’re in the market for a new fridge, no need to fret — Samsung’s got you covered. This morning, ahead of the 2020 Consumer Electronics Show (CES), the tech giant debuted the latest ..."
+publishedDateTime: 2020-01-02T16:52:00Z
 sourceUrl: https://venturebeat.com/2020/01/02/samsungs-new-family-hub-refrigerator-uses-computer-vision-to-keep-tabs-on-groceries/
 ampUrl: https://venturebeat.com/2020/01/02/samsungs-new-family-hub-refrigerator-uses-computer-vision-to-keep-tabs-on-groceries/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/samsungs-new-family-hub-refrigerator-uses-computer-vision-to-keep-tabs-on-groceries/amp/
@@ -29,6 +29,6 @@ images:
     height: 600
     title: "Samsung’s new Family Hub refrigerator uses computer vision to keep tabs on groceries"
 
-secured: "na5K1Yx3MxQFJphKjVxrGvMugNTiGdAeZ7kYYQcxGvqBYvPmxjJZOQahaf3D8U3zCPTYBdqv0JueXq2R0Oxa8eVk+likB7GHmINiU8Jq0h83hXi2cjW2bQNx525BPVb7vQrNsJIEVV2vN6nxYkL74zGfAAGzYvWkNWzKgTDWQIR0IQ15faxXHyTKh/Aj7BQP4mxYY3/6JJ4NtgpTfAoj5hotsPVckTSXIsW+lrr+IpMRDjq7h/R6d+2ioNGAfgVOB7mKOXmDK2IzaKp/0IXkA6FToQCgWr5rI0EUSrWN///T9jRonqKL7H+1m7jN5+8Ui7eiclYbsgPgzl9d46R7tilGvLm+7y/uuIy1DykNFhyNZ3ZmP1YxDBUzaBGBHGtCz7+WmlUMI0pl2J2eTS2CQRTE9PtQd06rckVNo9EfTrxDc7o8tipZW7PUmwHOySq5k5dIgOTsQCyqHWFTmj0bQw==;8Hg9Xhq92/rAN6V3wE5sxQ=="
+secured: "2vnrPGD/a0Em/6H12oFFE7y0X89Wp6JYgo7CSuqmbp0jGCHaFxs66UgfHwPX7Z3nVip7Bh4FqA2ZVVFrsiqxKWG9jNdui48Uh4jqTPrUUXe31p0dfWMtg17Saav79IFU2r2SIhV58I1Mq/m3m3A6G40Dfd04NAcohStzwQgTA45g5v9q9MnlBovReG5IRM1YwZboSpHuF0oHqyvIXy3CdU6/h0/tzSMW899tvWw6R8EZ1OwAOEyXXo1eo5UJcdJrPL4/RpYdQ1wD99tNglizQvdUQlPa73Aw1vCcAi/Zv5aOYif1QVAHKtuTGB0Qs7xW;lxYVqtsRSfftBJJH1UwmbQ=="
 ---
 

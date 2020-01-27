@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Progenics Pharmaceuticals Provides Update on Reconstituted Board's Ongoing Strategic Review"
-excerpt: "The Board of Directors of Progenics Pharmaceuticals, Inc. PGNX, -1.07%, an oncology company developing innovative targeted medicines and artificial intelligence to find, fight and follow cancer, issued the following letter to shareholders: January 21,"
+excerpt: "NEW YORK, Jan. 21, 2020 (GLOBE NEWSWIRE) -- The Board of Directors of Progenics Pharmaceuticals, Inc. PGNX, -1.07%, an oncology company developing innovative targeted medicines and artificial intelligence to find,"
 publishedDateTime: 2020-01-21T20:16:00Z
-sourceUrl: https://www.marketwatch.com/press-release/progenics-pharmaceuticals-provides-update-on-reconstituted-boards-ongoing-strategic-review-2020-01-21
+sourceUrl: https://www.marketwatch.com/press-release/progenics-pharmaceuticals-provides-update-on-reconstituted-boards-ongoing-strategic-review-2020-01-21-161841639
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
@@ -20,12 +20,6 @@ provider:
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
-    title: "Progenics Pharmaceuticals Provides Update on Reconstituted Board's Ongoing Strategic Review"
 
 related:
   - title: "Progenics Pharmaceuticals Announces Presentation at the 2020 SNMMI Mid-Winter Meeting"
@@ -42,6 +36,6 @@ related:
         width: 1200
         height: 630
 
-secured: "UwzUiSQTuUCQRDqnz9FM/EAZRAiH9e4HxIxpXPlfUsJbBPvjckIrCvQVJ9qm7xm8J8d+7bvG2oy2img/O2ZTUhBriMYwHEMw10QBzBHpisHtl+fwr8ymkT7M4KzOE0SGHtEqjyKGXNOhMj+8zAe7l7LNYZq+Q/IVibetiAwJUiJC59tYbmb51v2HeTwREoy0bD+z9eFhIENWpaMw/6OarYMmXauIVj7xFwnHEem52qNmYZduZNs4CUmBAKYtddUQT+U2J/ssQ+oXIi63DMZLTtMb12aU6h0Eu08rQgSyOt0=;yicvFUjXXvpuxbxsQskEfA=="
+secured: "4XuOz822HuV5oHk/eweZFSYUw2WYQQQ/dPYE9v2PDpuBM21HaCKaACd/bFf3sNsaEe8eHAde9BbSNpGqVGvXI07FnMjt505YWT4gg/S6N3yWuyb3G2+CodQ1mQfJsHXPxVPax+XHaWamn/uVBXJ1G/kPfM8KncKBpWZsxU3mpS5NXhWP5QLVsJiZbThi+XtXLFJBbnXmNGml0yv/lL4kVYst07ELCSFDJcxlyk1gjVAVXrxpAUoE1mQc0xYI7HVPRg3wEr8ayKRRzQxYHLRQPmMm9IZccyH/CbbZqtAiKpEFULGDF6guM2sVJ28Gx/qq;aZGByqnUyR1oel+rJfK+gA=="
 ---
 

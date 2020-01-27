@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-22T09:44:00Z
 sourceUrl: https://www.marketwatch.com/press-release/top-players-in-ai-technology-market-2020-23-ibm-amazon-google-intel-and-facebook-2020-01-22
 type: article
 quality: 62
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     title: "Top Players in AI Technology Market (2020-23) IBM, Amazon, Google, Intel and Facebook"
 
 related:
+  - title: "AI in Fintech Market Checkout the Unexpected Future 2025 | key Players Microsoft, Google, Salesforce"
+    excerpt: "The research study forecast Revenue Opportunities and Sales Volume Area taken into consideration the primaries from industry experts and includes relevant data such as (revenue, market Size, growth rate,"
+    publishedDateTime: 2020-01-27T07:50:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-in-fintech-market-checkout-the-unexpected-future-2025-key-players-microsoft-google-salesforce-2020-01-27
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Machine Learning Market Report 2020 by Technology Advancements and Top Companies- GOOGLE, IBM, BAIDU, SOUNDHOUND, ZEBRA MEDICAL VISION"
     excerpt: "Global Machine Learning Market Size, Status and Forecast 2020-2026 \"Machine Learning Market\" research report provides an actual industry viewpoint, future trends and dynamics for market growth rate, market size,"
     publishedDateTime: 2020-01-22T06:09:00Z

@@ -8,7 +8,7 @@ ampUrl: https://markets.businessinsider.com/amp/news/digital-wealth-manager-kris
 cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/digital-wealth-manager-kristal-ai-raises-6-million-in-series-a-funding-1028838445
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -35,6 +35,15 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 37
+  - title: "Ibibo founder’s fintech startup INDwealth pulls in Series C funding"
+    excerpt: "The company operates a financial advisory platform that uses AI and machine learning to allow users to manage their investments, liabilities, future cash flows and taxation. VCCircle has reached out to INDwealth on the details of the investment and will update this report accordingly. The Series C round comes after the fintech startup secured $ ..."
+    publishedDateTime: 2020-01-27T07:44:00Z
+    sourceUrl: https://www.vccircle.com/ibibo-founder-s-fintech-startup-indwealth-pulls-in-series-c-funding
+    type: article
+    provider:
+      name: VCCircle
+      domain: vccircle.com
+    quality: 4
 
 secured: "8+9tD3uKff2CJgvDUZOXIreQ7ykGFNE+3hTiZj1pHzutefVJfmLnaLX5Wg3pDBxUKL+SnUwo/psl1u+Wunzh3P2f5mXPhyT6zr59A7CfyJrYfzjhliDSwGv1wsJf3ID1igrWrYdmkZwX/6QKqY0PRV/1OHoeHe2aF+LhWVi35xeifiUtOPxtcOd4itOu300skoJMbn2Wcs+Zb9BPy5l+EDvQk0rEYJ0PvUy8Nh/t+pyc7DbAgLiBlUh0ucOOwLY04cn/1x6Hf16yyzdqYUlmfbtmMkrKHaZ+96p7rJKMt50DqLIdbFD2AjQwv3UBGhgC;fMT3LfBWs4xe/TNQmqryew=="
 ---

@@ -69,6 +69,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 35
+  - title: "Image Recognition MarketWorth $ 81.88 billion By 2026 | CAGR 19.6%"
+    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, 2019-2026 The global image recognition market size is projected to reach USD 81."
+    publishedDateTime: 2020-01-27T05:55:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-marketworth-8188-billion-by-2026-cagr-196-2020-01-27
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
   - title: "Voice Assistant Market is Forecasted to Hit $26,872.6 Million by 2030: P&S Intelligence"
     excerpt: "Voice Assistant Market Research Report: By Component (Solution, Services), Technology (Speech Recognition, Text-to-Speech Recognition, Voice Recognition, NLP), Application (Messenger Bots, Websites, Contact Centers),"
     publishedDateTime: 2020-01-22T07:45:00Z

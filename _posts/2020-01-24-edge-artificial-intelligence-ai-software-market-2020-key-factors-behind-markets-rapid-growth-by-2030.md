@@ -58,6 +58,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Image Recognition MarketWorth $ 81.88 billion By 2026 | CAGR 19.6%"
+    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, 2019-2026 The global image recognition market size is projected to reach USD 81."
+    publishedDateTime: 2020-01-27T05:55:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-marketworth-8188-billion-by-2026-cagr-196-2020-01-27
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
   - title: "Battery Management System Market is Poised to Hit $22.3 Billion by 2030: P&S Intelligence"
     excerpt: "NEW YORK, Jan. 20, 2020 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global battery management system market share was valued at $5.1 billion in 2019,"
     publishedDateTime: 2020-01-20T07:20:00Z

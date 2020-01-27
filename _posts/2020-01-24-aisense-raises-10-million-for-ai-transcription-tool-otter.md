@@ -117,6 +117,15 @@ related:
       - url: https://s3.amazonaws.com/cbi-research-portal-uploads/2020/01/24103300/Facebook_AI_navigation-572x364.png
         width: 572
         height: 364
+  - title: "Kneron raises $40m for next-gen Edge AI chip"
+    excerpt: "Kneron, the San Diego and Taipei-based low-power edge AI startup, has raised $40 million in an A2 funding round. This funding round was led by previous backer Horizons Ventures and brings the company’s total financing to $73 million. Kneron CEO Albert Liu told EETimes that the additional funding will be used for a variety of things ..."
+    publishedDateTime: 2020-01-27T08:31:00Z
+    sourceUrl: https://www.design-reuse.com/news/47434/kneron-ai-chip-funding.html
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 34
 
 secured: "AjXshis2JNtN//jsLmp7qYFNyHInhRFGONM1zyAqyYbmHxJhlRC2cNE9FLzupdZbYjYeUIlypVYzOpRIzXCrwrmgYbpjSAVN4xDiM8+/QlMOST2Q88gzoSISnTc6dGOe6oYjyGrwkvi85foUjY5NwOHTafaXqttFG+/yHDMIH5Ln6qqFKLUKps0VcllYeDI0rF1OO2F5RlI7gVHZ0KPusriLtl0B9SIvoagYF5lDTytfAKXt27bPPWx7xVS1d1+jgEVukmfKYDA8yCafrywPpX34Xqi4+OBPqYl8pd2Z0vAw08DR7EBkx4FkKNBLJhlMKbeDFA6c7D7cibh0cY0gLdkpSm+QFrLY6Yx0uLiE0NMASWaiI1sSrHBL1PlT6oSKPA0aoI0nuTI+QAvWhVr+7OFOTNPjgrN7tjqbKWhYeBklHU1ommz1nyF613be0JbHg6u7Zhat2KzYxAy4BcQiRT2VKUdECdjgD7T1ttsXB7M=;x6GnbGP2veehmNtCk9xAvw=="
 ---

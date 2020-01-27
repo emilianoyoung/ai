@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/ralphjennings/2020/01/27/taiwan-is-opening-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ralphjennings/2020/01/27/taiwan-is-opening-a-giant-ai-focused-business-park/amp/
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 675
     title: "Taiwan Is Opening A Giant AI-Focused Business Park"
 
-secured: "8B7F6OAkTGzSr5tnnBOxaJksX4iKeJV3AcecZX5+FX0NyDVjZ883CS5oIfEbXbnQCoeBOy2OykV3VDWNz1WA7aYgt2TuxUclwXjLkSZi30iWLoWWI+YvmKRBTeB0N691AerC2ZZxmbhPkOX9GQhP7FJmjxOuhLgkaYdpwrOs6kAuttyD6L6ApNTujx3lg1KZEr3SpYuZtnNFqTHXfkcXa7Oa1KzNaY4SJKWAxs/0cus3wkD+qc/N+/ZfQJoCf0Lml+3Zb1uHHNKmqWl7fbXHRRLT6YhKpfH4/QjKRJBFPzLXIiKE+G+XIoNH6NkfKQ9a;Pt2Cb7ejY1TlC1SU4CHhFg=="
+secured: "SxuQxoniUHkF9++Jav5kQ+4JhW30WQVJWeFycR8Kv+LsDJmeNO7OD0YMtbBpgLThp/43RgQrjksi7s2TsRhj+u1i42aQD7uTVmA4/6XbVc9yFMA+DWWg5tRlbVUS19ADcen1+aMrXQePVYu28AcoX9n7XyPjrnpdfmh809uRgat1cxDJ0dQy2MUc7avMXFT8PVpkg99y8d0jgP/j5FssekFTsHGnPwJDpJBIAjSmEZ3J+tMRdshYNonrcpgc4Al++Hu3qtg9ojOxite69/56zrvoUjAfEQENPwivaiIX2514XtMI16jUOHccRfxK3KFbiMODPSy8V67bQxRzDV4PlNleGt8RQuk0npnW/BlHHwA0LwsQyhSGeLtIkkUfILxlBc2pcr89T2jYv8czoX7mBLnFukudscbV9UEjhzpJasPMjQELqS6aVh2rCwvqnMRh9DaDqFyISN7Mumx3ulJJ3L6IMVR+qzhq/hY4ifEy6JY=;brU+Ys0rou4j/P5wMJBvEQ=="
 ---
 

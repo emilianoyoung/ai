@@ -4,10 +4,8 @@ title: "CES trade show to spotlight big tech trends in 5G, self-driving cars, 8K
 excerpt: "Gigantic consumer electronics show in Las Vegas features about 40 San Diego companies showing off their latest technologies."
 publishedDateTime: 2020-01-06T14:06:00Z
 sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more
-ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
-cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
 type: article
-quality: 37
+quality: 0
 heat: -1
 published: false
 
@@ -19,43 +17,48 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: https://ca-times.brightspotcdn.com/dims4/default/3de7005/2147483647/strip/true/crop/3024x1975+0+146/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb6%2F73%2Fcfca9b914994bd002b870005233e%2Fwd.jpg
-    width: 320
-    height: 209
-    title: "CES trade show to spotlight big tech trends in 5G, self-driving cars, 8K TVs and more"
-
 related:
-  - title: "Baidu secures licenses to test self-driving cars in Beijing"
-    excerpt: "Tech giant Baidu is slowly but surely progressing toward the launch of a commercial robot-taxi fleet in mainland China. This week, the company announced that it has secured licenses to test ..."
-    publishedDateTime: 2019-12-31T16:58:00Z
-    sourceUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/
-    ampUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
+  - title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than Autonomous Driving"
+    excerpt: "Damon Motorcycles unveiled its new electric motorcycle today at CES in Las Vegas, calling it “the world’s smartest, safest, and most powerful electric motorcycle.” My first thought: it can’t be both the most powerful and the safest."
+    publishedDateTime: 2020-01-07T17:42:00Z
+    sourceUrl: https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/
+    ampUrl: https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 79
     images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/11/1573720765750856_upscaled_image_x4-e1573743944240.jpg?fit=1200%2C600&strip=all
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1489b24e291700061a9d51%2F0x0.jpg
         width: 1200
-        height: 600
-  - title: "3 Things That Sent Baidu Stock Soaring to Start 2020"
-    excerpt: "Baidu's Apollo self-driving car program is gearing up. Image source: Baidu. Word emerged on Tuesday that Baidu had been granted a license to test its Apollo driverless cars in Beijing, one of the ..."
-    publishedDateTime: 2020-01-02T20:42:00Z
-    sourceUrl: https://www.fool.com/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx
-    ampUrl: https://www.fool.com/amp/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx
-    cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx
+        height: 729
+  - title: "VW's all-electric ID Buzz van is a platform for self-driving efforts - Electrek"
+    excerpt: "The ID Buzz still seems almost too cool (and far away) to be true. But at CES 2020, the new chief of VW self-driving told Electrek that the Buzz is also the basis of VW’s first self-driving vehicles for limited commercial use by 2022. That’s a good sign that the ultimate electric hipster van is on track. “The ID Buzz will be our first L4 ..."
+    publishedDateTime: 2020-01-12T16:28:00Z
+    sourceUrl: https://electrek.co/2020/01/10/interview-vws-hip-all-electric-id-buzz-van-is-a-platform-for-its-self-driving-efforts/
+    ampUrl: https://electrek.co/2020/01/10/interview-vws-hip-all-electric-id-buzz-van-is-a-platform-for-its-self-driving-efforts/amp/
+    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/01/10/interview-vws-hip-all-electric-id-buzz-van-is-a-platform-for-its-self-driving-efforts/amp/
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 89
+      name: Electrek
+      domain: electrek.co
+    quality: 70
     images:
-      - url: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F552284%2Fbaidu-self-driving-car-fleet.jpg&w=700&op=resize
-        width: 700
-        height: 393
+      - url: https://electrek.co/wp-content/uploads/sites/3/2020/01/id-buzz-beach.jpg?quality=82&strip=all&w=1000
+        width: 1000
+        height: 501
+  - title: "Baidu partners with Wind River for autonomous driving technology"
+    excerpt: "This platform will come with an Autosar Adaptive-based software architecture clubbed with Baidu's Apollo autonomous driving open architecture.ETAuto | January 08, 2020, 16:36 IST As the company claims, this will cater to the next generation of self-driving vehicles. New Delhi: Chinese internet search engine Baidu has joined hands with Wind ..."
+    publishedDateTime: 2020-01-08T11:06:00Z
+    sourceUrl: https://auto.economictimes.indiatimes.com/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435
+    ampUrl: https://auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435
+    cdnAmpUrl: https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 39
   - title: "Baidu testing self-driving cars in Beijing"
     excerpt: "Baidu (BIDU-0.1%) has secured licenses to test self-driving vehicles carrying passengers on designated roads in Beijing, according to Venture Beat. The company's self-driving cars have traveled ..."
     publishedDateTime: 2019-12-31T18:38:00Z
@@ -66,6 +69,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "vB/x6SLE9pbRcCnXl/FnuDNqW+taGSb4/hoSXymOl/jyk6inv/8Lf4ounlmYPJbtNEZzAngGCLGKniVK2B25GOXKjoM1bGIBvDp139mNF9tgjVb+QWKQCuoR0H1Sx4oWR127wasSwaS2Nw+mZqTrX3EYAiq9VMAtWWBlBD+yVOW2GnZrOLN2/UFwFaAiOsATJgP1bHwGfk6LONPVZE09BXRWevi/yIhbw+6Blfp/7mlGpuUVqPyMcHXnhNaNmT60bj0Ke97CFk3AewTNKmkAYMtDeRMEMcwkSA/91DNfmQUsojOLnK2Dd7ia9ZwI6tVo;uQTdcaaFrj7+abV2le3kgQ=="
+secured: "ftaXjXG68nmw00oYJdhI777/QRngSzuUj2WAEdf7LlJNemUehkGpdar8wSyNeiUmw+ve3Sq2Wfh1UxuNrXG1cawUaakHaXcQQh5iTKUi3wodAfS5x/ROIG+Rs4iSmkakigukKCkwlg/sfFzvI1mS3lxTiXD/hHCBo99GZtA15DteLuRqnb095I5d2OOElQ8tSv+9Pcy4O4MESajzRTHzplKsHCDq5jOOpxJpkrs7B8/NCuibVxmZo+Ayb672y/Cu6XiaTF5E63YR36bHKE6NqzySFTe2sp6mWQVakWQ3R5hGhMBMSvmcBA8PgbAu+WP9nb7pR0o9ifWhae1r6BJBpCf70CJOxMQXFYJjVr5wpu4myD4CkalpkzsUwg/lTUZtNQk2PRiKYnGgl40B5Xd40EBWS7/H0Oq/jMXFyuA6z85lTQ7HTG8v8R9vCC5xlV/oxxeo2yfr2nNbRGjMgidEuvrYAgIyTnqmfTLWt2VtjJk=;sI4BV5guLbCjXh0nOVFcSw=="
 ---
 

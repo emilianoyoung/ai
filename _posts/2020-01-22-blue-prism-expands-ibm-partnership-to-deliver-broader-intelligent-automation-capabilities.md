@@ -27,6 +27,6 @@ images:
     height: 630
     title: "Blue Prism Expands IBM Partnership to Deliver Broader Intelligent Automation Capabilities"
 
-secured: "KGZBERCddzNcb1pEiIB8Bx40SNN1J7YsiA/sXfL80JCXH6D6ns+LMu14jrc+vyi7bmGkBSkQWes1pq7BS1x1CTWO6Ud03fE1cFN428ucqt1Jd3KXLmM+WZ7OoYij5YxtJuU0kA2HwLaLifhRRbpdjOg1c3jyp8vAQ7MQASrK588JnwiueuIXk22NJCZANIUqqBaGZXaBaFQY2UQYB51dWGs8+wUEhFKgeKAH9UAdOp+4Y0+F+mdvoY1HaaIcaJFUORhOcaXHK8dMXLnDat1X6M3pBp/hij+iIt+4bbFLLiTRBCke42V1eDB/54+YHEWE;jlTOnFC8egnqaGw4YGozNg=="
+secured: "gaGHCr3O4A0aPIg0r0tUnxNV5jl+p5YcctBvXKugClIIsBOWZtWx8TZTULzGQ2ZRsTXF90O8Gfnp3f4LZo0Mz8zjDIL6p+9NM2h6t66t6wQOVSszW+EhUquSMqO9GS3pNcUpHJPkaB5TrOMhaosdcKgImhu+OvEyzdISDbDWWsfE2Bb7GFLKWjdPl6IFYeOPmu+v1FDMEPaEIeUvFO8q6OQdrDIq7WzjamZGQw/yQBPN4+hcUMR3LtxN15ILv5x0BPzJ2hifEocQ4fgvpfB0Fte+eMM0fsSleqvPb0IFgnZztxd9QGXwIcFH3lBrSMUZ;xeundhAuAkDTTrXn792TlA=="
 ---
 

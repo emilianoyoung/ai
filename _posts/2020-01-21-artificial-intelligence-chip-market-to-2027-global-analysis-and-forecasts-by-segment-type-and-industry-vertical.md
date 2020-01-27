@@ -1,27 +1,26 @@
 ---
 category: news
 title: "Artificial Intelligence Chip Market to 2027 - Global Analysis and Forecasts by Segment ; Type ; and Industry Vertical"
-excerpt: "/PRNewswire/ -- The global artificial intelligence chip market was valued at US$ 5,658.1 Mn in 2018 and is expected to reach US$ 83,252.7 Mn by 2027 with"
-publishedDateTime: 2020-01-21T14:05:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-chip-market-to-2027---global-analysis-and-forecasts-by-segment--type--and-industry-vertical-300990150.html
+excerpt: "The others section include SoC Accelerators and other application specific custom & hybrid chips.Based on industry vertical, the artificial intelligence chip market is further segmented into BFSI, Retail, IT & Telecom, Automotive & Transportation, Healthcare, Media & Entertainment, and others. The overall artificial intelligence chip market ..."
+publishedDateTime: 2020-01-21T15:19:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-artificial-intelligence-chip-market-2027-global-analysis-forecasts-/2020/01/21/9084575.htm
 type: article
-quality: 33
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
-  - AI Hardware
   - AI in Healthcare
 
 images:
-  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-    width: 600
-    height: 315
+  - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
+    width: 252
+    height: 335
     title: "Artificial Intelligence Chip Market to 2027 - Global Analysis and Forecasts by Segment ; Type ; and Industry Vertical"
 
 related:
@@ -77,6 +76,15 @@ related:
       - url: https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg
         width: 600
         height: 246
+  - title: "Speech and Voice Recognition Market Global Industry Size, Growth, Share, Demand, Trends, Competitive Landscape and Forecasts to 2026"
+    excerpt: "Top Players in Speech and Voice Recognition Market are Google, Baidu, Facebook, Amazon, Advanced Voice Recognition Systems, Apple Inc, IBM , Microsoft , Brianasoft, Voicebox Technologies Corporation,"
+    publishedDateTime: 2020-01-27T05:55:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-global-industry-size-growth-share-demand-trends-competitive-landscape-and-forecasts-to-2026-2020-01-27
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 3
   - title: "Self-Driving Truck Market: 2019 Industry Analysis, Size, Trends, Growth and Forecast 2025 | BMW AG, Isuzu Motors Limited, General Motors"
     excerpt: "Global Self-Driving Truck Market Report covers analysis of Manufacturers, Type, Application, Marketing Strategy, Distributors/Traders, Effect Factors, Trends 2019 & Forecasts 2025 Self-driving truck is also known as autonomous truck and robotic truck. Self-driving trucks feature all the major competencies of traditional trucks. Further ..."
     publishedDateTime: 2020-01-21T12:39:00Z
@@ -87,6 +95,6 @@ related:
       domain: techworld.com.au
     quality: 0
 
-secured: "+/QcvOCACoDlynQyROS7Ugs0llprEgREE2KUJD+DN89H7HcRYh4SDG64r6aBQU0hlXBsk4ZpLBetmVViS7o6Yia+jvIe8JiE7fJWIgsoSADQyxEfXFMLqYnT5AQu6Sfe75xdkyq2c8huvHT93vpbqfDdKcEVjmqV88Ih1yJD48JqE8Wevi0764sOHQYaImTTIrOKZ/DIjOuFKwzKe3kg31J54lDiHxkFq3kY5+9nGVVPoWLr/xdObr12eXYDGK3HXpgiV0ahROZ+9U54jf/kAskD+j24fEVtoo8V1Hrk8FndzYxZdqcjTBA0h2Iy6CF5;dYRcNrFsdJ2+JFRw1Pz3GA=="
+secured: "+X8GP2UMvDtWbTL2ifmSh/5BvJtETqivAuNkDgJn/JQta83Smc7/jRlYD8OkXCkN/TiSmdI08b1pnTCV9m0fQ/k4YLzau/lLFw5bDikkil3xJrmJTHSQlxXmAcaiKsC/95s9rTmsnvilbBayG5nngv6Wg4EIQcFrGUvZKZe8EaBFB5GDFktb1XrsoVjR+IpR/ClDDdiGfB0A+57SVNv9lpPmkFJFb6CKmmnUZpjxhX0KGD2kpsOp4xcfQB1CAGG+tbW+wMz0fCMgCEG2Gp5dHuh/YvMZa8vIua0bEk3hg0mOJcQ9fAEkzA4iezY18doq;20yn9EKqDlmwAf09MTEQBQ=="
 ---
 

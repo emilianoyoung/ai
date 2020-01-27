@@ -1,9 +1,9 @@
 ---
 category: news
 title: "OSS Expands AI on the Fly(R) Product Line, Adding PCI Express 4.0 Expansion System with Eight NVIDIA V100S Tensor Core GPUs"
-excerpt: "One Stop Systems, Inc. OSS, +0.99%, the leading provider of specialized high-performance computing solutions for mission-critical edge applications, announced the availability of a new OSS PCIe 4.0 value expansion system incorporating the latest NVIDIA V100S Tensor Core GPU."
+excerpt: "ESCONDIDO, Calif., Jan. 21, 2020 (GLOBE NEWSWIRE) -- One Stop Systems, Inc. OSS, +0.99%, the leading provider of specialized high-performance computing solutions for mission-critical edge applications,"
 publishedDateTime: 2020-01-21T12:31:00Z
-sourceUrl: https://www.marketwatch.com/press-release/oss-expands-ai-on-the-flyr-product-line-adding-pci-express-40-expansion-system-with-eight-nvidia-v100s-tensor-core-gpus-2020-01-21
+sourceUrl: https://www.marketwatch.com/press-release/oss-expands-ai-on-the-flyr-product-line-adding-pci-express-40-expansion-system-with-eight-nvidia-v100s-tensor-core-gpus-2020-01-21-81843117
 type: article
 quality: 58
 heat: 78
@@ -51,6 +51,6 @@ related:
       domain: businessinsider.com
     quality: 39
 
-secured: "q4Fti8RDGBWvBmbVfR4gdk3c3fNmay/IzQxb/OiQQRLzW5RFj3BLgkeXpbJaKFATSqOtg4VrwZfFw3zHN8Bf/3Ip4OZQvQ+X59N3Qznr1p+3QcBvQInhbWzcSsYdDDTdP+6SRSf/5qy93qeJsRrP+AOQLFud2KASQtS3ea9Py/ijb/CKo5CceyEocA/nJhLHE+4Axl5LBQVaODy7JSXSzh29OJwdcN35K4oUhcgzC+Te9siBIkQXEjLe6k52IMBFgJvuWdUVj50HuJyQdqd6diXOraIjvEn3JLnaBEc9kBJMxYFvU2hlDzU3ogHKs6NP;HIeUVXS4EM77Yx2LW437eg=="
+secured: "L5FXp/xpxnGmk/s4QLd53zOiV1PbDQwMJbXAnUs2sFoNlrV9I3dk12NZkKJ1/gbvt9o+XF3cC9L01wDCpo891woz98EgzfgKanVWVjdCo3OYy6o8tlfEI5j1pddLGJZ6JdrsLHKTdxoRPl3+E1i80+r++lmk8UfKqGa4gv17bh+XPw4Xry//sEtJQCo3n0tWjlMVeoiPbajxBpUDZxdy4O3XsWjyW5zbgGyOMXhtoGzNhoxmTcjIbU0drcOB+XW00rQbo69h/LnbkoASBxO8IE6sI64d/q8a4xV4T1N3tCrRs4uhYyR/0+s22fHe1q8O;zGPPvDcVAarGOQ2TQe1g9w=="
 ---
 
