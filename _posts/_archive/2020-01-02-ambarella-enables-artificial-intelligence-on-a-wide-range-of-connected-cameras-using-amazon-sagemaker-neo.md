@@ -3,7 +3,7 @@ category: news
 title: "Ambarella Enables Artificial Intelligence on a Wide Range of Connected Cameras Using Amazon SageMaker Neo"
 excerpt: "Ambarella, Inc. AMBA, +0.02%, an artificial intelligence (AI) vision silicon company, today announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo ..."
 publishedDateTime: 2020-01-02T10:04:00Z
-sourceUrl: https://www.marketwatch.com/press-release/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo-2020-01-02
+sourceUrl: https://www.marketwatch.com/press-release/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo-2020-01-02?mod=mw_quote_news
 type: article
 quality: 67
 heat: -1
@@ -44,6 +44,6 @@ related:
         width: 612
         height: 355
 
-secured: "kfzQPnaGXWJgS5ch1/8GVx+8rTqYTEzg4DZhZHu6wocu57Hsj2h7Y7FwBXoep2X576766vVW+UBDjUXwTfySvLHRC7br/Lwfi2HUclJlEKRboj4EXBp3PGAEMXa1HV0U0EbxECoEPGKF//9uvfMZI3GS+zEWA8KhvzRuORYebrO+cDktC/y91NVmoX0ktloVBK5GlySANlvfK8WRI+Co2vlkS1qjrOKO+CbugdIhNHndwAOhjO6qFWqViGhngG5bboheSnwr8n5YFOyCQoM7qKuqXMBTgz2Tqcm2xdJHBzFqfRxZbfFwezjYHC8l7Ssp;fVs97TeCWKW4j2pq8jcX0w=="
+secured: "9JsoU6ZS/1cB0caXmYlrKhYiIc+CsYwXTJQJXB3UTX5wIkYg2X/WYyQlegNo64SNa01sLI1IQcqG/G+JsgT13yAk37V0kCwoGM5VvNlwN8yJOvWFphQ+9kruNJu1n/kLsubWx/MsAt+IdHsCYZf0/iUvBjqAKkI+4hXeXn/2uGU6/4SVMqJPRgnB7TlnWkzKEwGfTdUySJSDpJ4xuhhJsSJ096dU8zx/9Tca9MWnxkmzukfVlZLFTZgqnnlJKux97PTZHAvf/LesuVNxZxsCbsIklCa+x20RRovA080FWpFhd9Rv2YL+69PWW+60MxKQ;oGjbebGf93fbMlkXk/Xt4g=="
 ---
 

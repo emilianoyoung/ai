@@ -45,6 +45,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/11/1573720765750856_upscaled_image_x4-e1573743944240.jpg?fit=1200%2C600&strip=all
         width: 1200
         height: 600
+  - title: "CES trade show to spotlight big tech trends in 5G, self-driving cars, 8K TVs and more"
+    excerpt: "Gigantic consumer electronics show in Las Vegas features about 40 San Diego companies showing off their latest technologies."
+    publishedDateTime: 2020-01-06T14:06:00Z
+    sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more
+    ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
+    cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 37
+    images:
+      - url: https://ca-times.brightspotcdn.com/dims4/default/3de7005/2147483647/strip/true/crop/3024x1975+0+146/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb6%2F73%2Fcfca9b914994bd002b870005233e%2Fwd.jpg
+        width: 320
+        height: 209
   - title: "Baidu testing self-driving cars in Beijing"
     excerpt: "Baidu (BIDU-0.1%) has secured licenses to test self-driving vehicles carrying passengers on designated roads in Beijing, according to Venture Beat. The company's self-driving cars have traveled ..."
     publishedDateTime: 2019-12-31T18:38:00Z
@@ -55,6 +70,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "CVdX/0kZ/kKcPQcIWa1ShafhsR+olvIQgL5xbcT65N9+59phXgYVkph6BmHMEBaad7w1u6oSODHsZDTPzyqoAEv3zCHQ0Zg/zVhb1dJ9/o6hU+H8xtoUkWymQj9KVvgPTQUeaVXZMyeRydyCPd5IXFxxQCq9xsb+/dfvXWKWiSUjHGPkWjxdZ7C09kesZWIOflyyPnfxd4Nxa4DUYLyYTF57R+6h8aputybmBF6ADYToZF91ZS063Nl7JAam2LmlzgS2D/YMWL6nu8tuvzLVs/WdaAaZjdboiYbThPuqtriglrGxnMM3a2zbWqCHIR6e;Nx5xiOznl1pFDeFPVT2Kew=="
+secured: "qeQjDX044Kjr1Tal+PPkZE7Ur7IqeZFyxQnXeIxKgJ6slBWfGsrhdaGPZQuWHe2FAygHs417UaBusr40yr2U2VsAZtFed07bhubBg2oOi3BSZBVRJIUwpEMSV878+JaSg6s9QLc1390o9l3g6QQFSG6Gydkyn08/HJmucnfuF8XICfqxELlvipW6HcYOADBqTwSuBvCjpmte+VUTnZk5/8yBYpoxUzftFU0DS73d9cfX4nKBgMxVE44IYOjTq4nfIAWoQ7ika+db8xLDQ8Xkd8LMqR79trwoxMS+teI03s7/Bh2swkyf0KZFjKs6tCDl;/AhbpFVwF0aGjVnjtI0G7A=="
 ---
 

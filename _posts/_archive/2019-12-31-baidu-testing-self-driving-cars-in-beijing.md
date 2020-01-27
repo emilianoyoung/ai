@@ -48,7 +48,22 @@ related:
       - url: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F552284%2Fbaidu-self-driving-car-fleet.jpg&w=700&op=resize
         width: 700
         height: 393
+  - title: "CES trade show to spotlight big tech trends in 5G, self-driving cars, 8K TVs and more"
+    excerpt: "Gigantic consumer electronics show in Las Vegas features about 40 San Diego companies showing off their latest technologies."
+    publishedDateTime: 2020-01-06T14:06:00Z
+    sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more
+    ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
+    cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 37
+    images:
+      - url: https://ca-times.brightspotcdn.com/dims4/default/3de7005/2147483647/strip/true/crop/3024x1975+0+146/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb6%2F73%2Fcfca9b914994bd002b870005233e%2Fwd.jpg
+        width: 320
+        height: 209
 
-secured: "vu4WG+ikqPKBVRmjiYVtFeuccm+lvjF+fOKJ8Zs8HsVSq0H0UFWzHL+ON/xQoVRXLe0H+2QS0YPN52ToM1UEayMP1wF0S08Sz8BseQVZC1Xhro6M3UfpNgu6m6KsuUveS8F0emuWb3qNIilX7XNapSbNK9C3eP7WZkro9zjDhVD5f8s26DA6fqI9xQeJviW0bcwAHJFp7VmZXIgGOxrWFu75H2GcyecSgULjAkey6G6itEKqg0+w0mi4ubGgHifDZfoK3QGlmFoxPSs0TbRFs9BLSiBGI0A4KFPLRyDojflyw1VDNIgDRROeS7hStxaT;Rb8ja9C1qx4TMS8Ay5mc1g=="
+secured: "KAPQzbTqi1Hn0oCH2YfcOit+u7nKpZB0F4POMQzVYyAw4YPnK7RaEK8ya40XcwiQ1cjih24dxQsfQES+SPtwKLxTtKwjCf7pY2yOxzxAiH/JV0ZlwZ8SeZulyMhkw3Zo5zzA7i8ylzqtYsMQ7saz39uMynLcJ+iM0rGgQv/XGre1jUFfntIBy30TJl16L2fxZMRMqJ1oBReFdTQVG4hqwVVubans3acVHfaNNB1v0fD6cE8fif34YmthvjAo7NbU6PfaQY/xHiwyK6mhQjKljSLPcbgpH6Hs1vi05sszrA7AUrD5pJoJEdbHAxOjUw08;2BueKOgCRByXIq4KGbQQ7A=="
 ---
 
