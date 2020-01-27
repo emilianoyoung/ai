@@ -29,6 +29,6 @@ images:
     height: 3416
     title: "Google's DeepMind A.I. beats doctors in breast cancer screening trial"
 
-secured: "IEq2YfFNeHgwePDS/klzBREsbsn6c7T8CiDH7SiwHPLFpOteBQOYdwPNyXhTyqj0VIribJM5CwsgBT3IrSHiy/KpHI0Le442WP26PKt5CY42mZYVRty9SuQeKrLNKV6/Kbw0gqcK71k1+h/10DOAPqBUX4pcbF4PQfouiQlelIhRdTnS6sG/x+xkS+OOuw/9qXrm4Mnud3RZzy7eR7NU6bqxYytv5sTEfdgY7kuD4LKUP/IHuMQ2Kzw6o+kd+BGTZ5f0K+CjkeKZYSMBFQ3O04MLruzvfN0PlJj2WLnWs9EVsb3k0IOXgNNkiKmQKCoT;rygDwy0K5+g4WO1+Yk5Lvg=="
+secured: "Ip7onzKRWKpvyQGvxgCx1fE52EEVd5j50wmykC5Mnd88chrncanJN/aj16/GHD+MLAkqpuC7Jsk+O9acyiAeuyJcnFXlsG/YPHF1okp+3f6Hj8dBahuwCsV5dx1/sV0MsYTCIsCefdZKzDl95NHZBISKMPPr//iJLdRsrKtwKbe1HD0+shxu75juKOL4JmoU1gi0rt5QXyALA1dg9Eg5tBSrIPi3IWSyfkiPB5O136EVIzPdL/RhW/0fk0HSGg+N+zg0L+HqdBVcOCvJj4i5Biwh+FJsubvwlJbLZJdqoNWOJp7jhvmLDuyGttYO3sof;T2vj2MNvRb9gDwbei2/nLg=="
 ---
 

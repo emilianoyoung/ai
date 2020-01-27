@@ -29,6 +29,6 @@ images:
     height: 417
     title: "AI creativity will bloom in 2020, all thanks to true web machine learning"
 
-secured: "16fGvHTgN4OL79HmfXyhx2ULDl9BTizemnsIoOn08p3CAYlvGzjEqt6U3Nv4+b+Z0hYNGv5rX/QlyliiDJK4STQ0LTkGTc9UE0LZQTlzkal6ZdgQodpOXOV7m/DgSAMqdy2+tdF4cAtRBqwEszeMG5g38QP8Eg5/QoFL+sWBI255heRZigZeQ4IssU/2q16a2TXyb0xxz0FtU320uZEs50qFXNi5+BSYqH7J3xGYMddcxzAEB4YDddC2/6Z3eLg4GHhXZQCQhbd9LhDQl7yTwok/kkRDgWN05wI3tmqFQhteL0Jjpjb0lSaaqGCVLPAo;PT5aS4lYbJX952O6VPLsYQ=="
+secured: "zU0yGRwunh4dgM60b24QTwRYJz+l9zjxY8K0cRxauDauPiwGKd2PhozTLqBSQvG9rQCSjKqqt3VOSzh6RSdo/PKHDCCExbJI1rBlPOzW7jU4JZ+LBN+LSRc0G0F7RdmAiUxvHqRyr/afbNM/Fx7coofn6cqiEnGGQFrIOCV5Pt21tV44S8ZtuEVbZmMKO33lUSsUImEZQlrQ/M9r+Y1n334F1sRiaJqmgXZJk1kn7MMcSOy9xk4oNLQtUa5aAKY/GqBzuQnWeV3KimN5UeoeHM+xcsaQLvnghdMvj3F2e5sn/FHklhQNAABsJl9xxx+H;foPvWfGZI34qLNnmkmEBsA=="
 ---
 

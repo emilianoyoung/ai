@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-d
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -30,19 +30,6 @@ images:
     title: "Baidu secures licenses to test self-driving cars in Beijing"
 
 related:
-  - title: "Qualcomm pushes into self-driving cars with Snapdragon Ride Platform"
-    excerpt: "Semiconductor maker Qualcomm Inc. is making a play for the automotive sector with the launch of its first self-driving car ... including the artificial intelligence software needed to avoid ..."
-    publishedDateTime: 2020-01-07T02:02:00Z
-    sourceUrl: https://siliconangle.com/2020/01/06/qualcomm-pushes-self-driving-cars-snapdragon-ride-platform/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 24
-    images:
-      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/Qualcomm-Snapdragon-Ride.png
-        width: 1233
-        height: 880
   - title: "Baidu testing self-driving cars in Beijing"
     excerpt: "Baidu (BIDU-0.1%) has secured licenses to test self-driving vehicles carrying passengers on designated roads in Beijing, according to Venture Beat. The company's self-driving cars have traveled ..."
     publishedDateTime: 2019-12-31T18:38:00Z
@@ -53,6 +40,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "yNtHDC6Q22qK+ZawdmO1paKl6awYjm91JDSCiyRwCHzK9CJXDEMdcYiQFT3IWKZO5+pxIOYX6ELJGupJ6E8mCA7xyrck4NepnDseLeIesGCCrbabOKYea4Lav2IwOC5mSwdicO2HM83NfgYk/Eew960vUkZBI9gNxkE/XDpN0qk1+pLFvRZlOlWJqKmITU3vuXDkhUFSAGaSPQ5+TyCNGOC20vFyV+G10Dwt4m6AR5To9cFAACd5TBxIVqcZiM0OW4nV75JmFwk1zIeUJTlouBSqWkX9ambcFqda+yHSWQNbzN3IhawivSwYNqC7V/JZ;qsisYlFo0sA4zYdQwGbg1w=="
+secured: "kpexe+qEDwGrKLWJsnO3q1u8gT1kwpKYFNbwgd+ODhl3+fUCqAUU5y+PKzMAaDNt1DAbASQpKUdO5nenOckZulEBbLQZDN6DM0COvvEY4+K7waiL1qfHmvKN8lSv5SbuJUq8dCf729PVtuqCAdjK2wMTvAmyigrB96NlEKROkIppn9XKbK7ZmE1453iy19i/YaMKj8MIfBx7ZvUfS4NzR8DoTcdSd1SNcxbp5/Je26uUaCxhzoECbA6KROc1vmQnu6hR+vj630uiPx2gTelZ6+RjUxMgW36U/jbe/TkTlU2Y3CrG3YwgKQsJuIbDYz6N;o6Sdtw1dxWpkJrOOMGzf/Q=="
 ---
 

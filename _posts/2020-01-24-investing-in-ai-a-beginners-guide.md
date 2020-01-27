@@ -7,8 +7,8 @@ sourceUrl: https://www.fool.com/investing/2020/01/24/investing-in-ai-a-beginners
 ampUrl: https://www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 type: article
-quality: 89
-heat: 99
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
   - Microsoft AI
 
 images:
@@ -44,6 +45,6 @@ related:
         width: 630
         height: 500
 
-secured: "mSTPRknmGQp/DsBBBqjWE2Akp3Pf54w2A08HKMZNcGDGZqz3CgvRFwNQru+1TlP4Y/ex0eJLxn05aQC/SNI4mw8SGyonxJtJCwQmeUmluNB2kb/ibVYHHq6pccHSWDF6WCw2JTv+j13HlO+WSMzmmcCdnbSgUCa1caBKKkvqzoCAbmffW/Z2849wBKkxT8ASG4/l0P0w+stTgTYDoj+I81OWADxr79LphHQOlVbCERfND8gm3iBVlsdpmoi0aCyr0MshWftKF1hL2IXCLtvZ8kgfeebuNNxfadVno0uSN8iXf0Rc8LlJjuv+Q+21H8Wg;ta1OuA+ax8gcW/LgeEGQrQ=="
+secured: "GOrZF9V8k8XpW6z2gWE83wrqOf+pbU/lbjCYtit392x3jdpt6FJ+OZq6U0eMg/U/wupPxwfPZGoM+MDctaBs5NFJs4BT0Ih+suNw/pv1clTsgFPw9V4n4FCKLaDi2w2nnnhqyqzfoBYXjsS9kIykGfeZGfi3Q6QTLjWV2CeyIfO4xIXc2r5CcWxAqRGytS+LhjNfhnx56xjpvwQtagvEVS25KzgiDK4ycswQ7wj5KOfix413E4xpyfMNSO/JOzWcPG/EHpLkVSWWe3U1bp7BH0lqv77CQNckfrlhPnnkjvclzQDECrSYZnUd9L2PVl2E;v9sCJCP+xo8l6gMIbA18pQ=="
 ---
 

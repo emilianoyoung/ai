@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-04T00:00:00Z
 sourceUrl: https://sdtimes.com/msft/microsoft-takes-azure-to-the-next-level/
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,21 +27,6 @@ images:
     height: 371
     title: "Microsoft takes Azure to the next level"
 
-related:
-  - title: "What Value Does Microsoft Azure Synapse Bring To The World Of Analytics?"
-    excerpt: "Azure Synapse also integrates with Power BI and Azure Machine Learning to gain insights for all users, all the way from data scientists to the business users using Power BI. Microsoft also said Synapse partner ecosystem that includes Databricks ..."
-    publishedDateTime: 2020-01-06T17:17:00Z
-    sourceUrl: https://analyticsindiamag.com/azure-synapse-analytics/
-    type: article
-    provider:
-      name: India
-      domain: analyticsindiamag.com
-    quality: 53
-    images:
-      - url: https://analyticsindiamag.com/wp-content/uploads/2020/01/azure-synapse-analytics-microsoft.jpg
-        width: 800
-        height: 533
-
-secured: "Z+4Su2cRb+Aq3udeFlSvLLf5wQGDSNSBlKea9zH/I9TJIJnirNh4dhXqlST7sU72uCrda01jTUQ4aso+yDSjmoAbA7F/nrjRyyGlgrF1YFUiqgTE+Xk/lbxDgMlPIhdbaW8DZqYcbeQ9ZtGX4FGQ7rbHdUjgHgbg4HrGWqtJlsiE4qr3QbxVA/JZS43PRaHjBK9C+bg+By8sJ6bIYD7fnA+ddFH3uKm6srDTDyZJePlG+w0484Y9FBE8AJ7yz4NYyOvuLCbZ5qXJsWWbGvVDlYDr7PueWxJ8edKRqke+RBXE2Fzyx5fbENhxI+Jx1wU4;98zfMsAdQy+gFZE98KnwTg=="
+secured: "kAxBeaL63aNlhX7v5FUgJ+do2NUJ+BRB04AK5CJ7DeN6vDQluikGQXEv8WS9Uk/entOgzTAWyZHzvoEgvFDXGN24csTLv8W7zpFqOt4hcIlxMQOG515Ll/7ehKONqqRUYp+sRASgGoQfVrmTW9nRb6n8dSu7bUhpb/YnqkqMvRaAhwz4LkIxx0rbF1Jt4VJy9wSXUKNqmbgv9Tv8gJA40eofaGvNF6qoJ8I93OUAhOGM9dEIlCuM1F5uhBqhAhd4FVFzUj8XUHpwMDd1Nj9ne8hTiac8rBISHJD9061x1m2WpSw66EDWKSnj9Z2yD9lN;nUSzqkhFFSN3ddNvB/NxNA=="
 ---
 

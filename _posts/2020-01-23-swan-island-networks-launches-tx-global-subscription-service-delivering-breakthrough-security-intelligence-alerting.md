@@ -25,6 +25,6 @@ images:
     height: 220
     title: "Swan Island Networks Launches TX Global Subscription Service Delivering Breakthrough Security Intelligence Alerting"
 
-secured: "IwltOUH8+kOR50SVBeqfUvHxhSFooha5k33fFD8zfsKVyoJdIUYHofCMAVmqTXZIfUInxlO/10WhjXvzaiLOXqPKoJLSl4t7ej0ZS3PtJIAeNcAfHm+i6jQNizGTR74tocRrms+IZYcNxDyKQCwRecR6vrHrze/kbziXMTdOIZr54tFHGd+a7aCXDmHcN6EpW+fvTNkBHgUYck5PXkV4NCe4ysEIuvwQqTJBzO4BVmm+DeU+KR3hlREP8/x4kLx3uvBtoBp7ZlCGQ9Vy9/7gWuXodrU/Fr34wA9kxGyob2SsaRPzuFrcwq0ryH7lLh2x;0QqNy1VXUCLZomHyPvW/XA=="
+secured: "lSW05QwzV2R4Vx5hFd2ouwd6S507v0NNjR8JEg93LeKD1+qTDGfk+DwLiTCAt/dfL+a0LbYV2V0DjB+owYlOWwVLJ7/RKijjJEu6z91Ph2TxHzS9B6Wj2rPRGltM2ik5BewrWHXJ9qZugusU16iQSlILHEGXXCzxpv+95x83D+5K0rNd2spkZ5H5mu0+ewYhFd4Va4ream8zEYPxWv4Wx1z+B6peXR5omhCXeZ1EI3wUKhcC5ecsnDzCx0ll0iv/OJR3q9fzezraJnanD1KBZHRM8WAKDrz0zQXXN/4QP7+uAcnHCYLne6qsAolQE2ko/rft450vaaAI8+AC38SMqkVKsfGI/IXwtrQg3mS3nEO5/hj0IDwiEGAifwreXYa9lHMUiSQrwwkz8V6S6BQ+XqYRIx63b+9K7URdp0CUZwTq7Y4rDLHsW+XU+A+riqRctHrCoiAYPhWbx+gWIzcHBzRPymL1iWE/fGU11vtm/Eg=;/sbn9mEajO7qppxXg5rUSA=="
 ---
 

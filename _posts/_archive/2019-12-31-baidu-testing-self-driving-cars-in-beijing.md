@@ -33,20 +33,7 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/11/1573720765750856_upscaled_image_x4-e1573743944240.jpg?fit=1200%2C600&strip=all
         width: 1200
         height: 600
-  - title: "Qualcomm pushes into self-driving cars with Snapdragon Ride Platform"
-    excerpt: "Semiconductor maker Qualcomm Inc. is making a play for the automotive sector with the launch of its first self-driving car ... including the artificial intelligence software needed to avoid ..."
-    publishedDateTime: 2020-01-07T02:02:00Z
-    sourceUrl: https://siliconangle.com/2020/01/06/qualcomm-pushes-self-driving-cars-snapdragon-ride-platform/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 24
-    images:
-      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/Qualcomm-Snapdragon-Ride.png
-        width: 1233
-        height: 880
 
-secured: "JhyM4WWn4u+pmMTiAFXKFsht0AX4w5nFN/rI/oEDWNyIV4xe2mxNffL+l/ljIzR3TKxiACJcSyHJSGUD2zEl78iGMqaSRbtN4l2RNHvwEpbpoaIwCAMMSR0dfK0g2p/H9EVr8D7ruOvZXM6IqngQ6PknYr3a96gYPEBUgUTBpzLAra1opre+ezeqCUPS99vqvqJvZussadFhH/xKv+TL1CCZScoiahCzRBjK3qzDcVfqlV9uSD/TXzGcTwZcoY0UDS/IEQRwEXReT7LHnwM/jLrXWeTzcw3gQ2Nm+d9ThWKqzELfKC3ehD05ezohf+Td;OawW1EXi5CpqEwlBiHErHA=="
+secured: "fzY0VJAKN9wIL7wXxDaQxjmLo9K8qhu29sDrDgfLgQ6sAeCncHfYYeeDXkP75pCfg4OlNjnryVVMxHBdnW69IRqRauKpumfUMxsdIyNY2UIy8qXkLts17ahU10+65vTeKMPlEpVH0Ifbms94628U4ZDF92CyhIex/D0+7B3eNcdjQQLciMc2e6TUdM5n6QVlChmYE+freErr9UnvNaCrMqhdEYhatmQf/udjT6YYNWqG98SkH8cHA/fJ1htYpIgEfIv59UCQhzpjjdrLPWMOV3n80gvvpcGXC95+VtdhQ3cmXc8yAjzc32k8J9ea+bJV;xHCv83e8Ckin4BJzJ337RQ=="
 ---
 
