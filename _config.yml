@@ -190,7 +190,7 @@ default_event_settings: &default_event_settings
 default_newsletter_settings: &default_newsletter_settings
   layout: post
   category: newsletter
-  permalink: /web/newsletter/:path/
+  permalink: /web/newsletters/:path/
   deleted: false
   has_sidebar: false
   comments:
@@ -378,7 +378,7 @@ collections:
     output: true
   events:
     output: true
-  newsletter:
+  newsletters:
     output: true
 
 defaults:
@@ -456,10 +456,10 @@ defaults:
       permalink: /api/events/collections/:title/index.json
       type: collection
       support_paging: false
-  # _newsletter
+  # _newsletters
   - scope:
       path: ""
-      type: newsletter
+      type: newsletters
     values:
       <<: *default_newsletter_settings
   # _terms

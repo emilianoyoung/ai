@@ -5,11 +5,11 @@ excerpt: "Recent daily digests presented by AI Inside Out."
 
 <section class="post-listing-sec">
     {% include dynamo function="render_posts" 
-        post_collection="newsletter"
+        post_collection="newsletters"
         num_of_posts=20 
         order_by="publishedDateTime"
         order="DESC"
         format="bootstrap"
         item_class="single-post col-lg-4 col-md-6 col-xs-12"
-        render_post_function="render_newsletter_issue_card" %}
+        render_post_function="render_newsletter_card" %}
 </section>

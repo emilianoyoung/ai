@@ -1,19 +1,19 @@
-# Contributing
+# Contributing to AI Inside Out
 
-Hi there! We're excited you've got ideas to improve topics and collections. You're helping the community discover valuable information.
-
-This project adheres to the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+Hi there! We're excited you've got ideas to improve topics and collections. You're helping the community discover valuable information.  This project adheres to the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
 
 There are a few ways you can contribute:
 
 - Improving existing content or collections
 - Curating new content or collections
 
-Note: Updates won't immediately appear once we've merged your PR. We pull in these changes regularly.
+Note: We pull in, review and merge your changes within one business day.
 
 ## Improving existing content or collection
 
-If a content or collection already exists, it will be listed in its respective directory:
+Each content or collection is backed by a .md file. For example, 
+
+https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository
 
 - [topics/](https://github.com/github/explore/tree/master/topics)
 - [collections/](https://github.com/github/explore/tree/master/collections)

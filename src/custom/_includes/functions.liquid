@@ -6,14 +6,14 @@ functions.   The function parameters can be accessed through include.params obje
 {% case include.function -%}
 
 {% comment -%}---------------------------------------------------------------------------
-Function: render_newsletter_issue_card
+Function: render_newsletter_card
 
 Description: Filter the default display of a post in the 'render_posts' function call.
 
 Parameters:
     * post          (object) - The post object
 ------------------------------------------------------------------------{% endcomment -%}
-{% when "render_newsletter_issue_card" -%}
+{% when "render_newsletter_card" -%}
 <div class="card">
     <img src="{{ include.params.post.images[0].url }}" alt="{{ include.params.post.title | escape }}" />
     <div class="card-body">
