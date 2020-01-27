@@ -5,8 +5,8 @@ excerpt: "Snap Inc. has acquired AI Factory Inc., a two-year-old startup that ma
 publishedDateTime: 2020-01-03T21:23:00Z
 sourceUrl: https://siliconangle.com/2020/01/03/snap-acquires-computer-vision-startup-ai-factory-reported-166m/
 type: article
-quality: 34
-heat: -1
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -17,19 +17,12 @@ topics:
   - AI
   - Computer Vision
 
-related:
-  - title: "Snap Acquires AI Factory Computer Vision Startup for $166M"
-    excerpt: "Snap, the parent company of Snapchat, has acquired a Ukraine-based company called AI Factory, to help the social media app provide a new type of video service that uses a person’s face to play ..."
-    publishedDateTime: 2020-01-06T01:22:00Z
-    sourceUrl: https://www.pymnts.com/news/partnerships-acquisitions/2020/snap-acquires-ai-factory-computer-vision-startup/
-    ampUrl: https://www.pymnts.com/news/partnerships-acquisitions/2020/snap-acquires-ai-factory-computer-vision-startup/amp/
-    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2020/snap-acquires-ai-factory-computer-vision-startup/amp/
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 54
+images:
+  - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/snapchat.png
+    width: 718
+    height: 400
+    title: "Snap acquires computer vision startup AI Factory for a reported $166M"
 
-secured: "DbEcE7f5947eHBvZJSD+tOms8cuC5fIhQLnRs3e1JJ5JmRUpclkhSf8jQqE+tVdXbxVYvPzF6hPmNSUTL3m2JjaX21+GRCBAiGv92UvihHvY1Zc9ikwN2u2gD3efws1Tq1+G/x6QcHiiky7PjzgBtEaulUvKl9XoFpHiMSCpc2UfSvrrzSv4XSLffyTMVjhPHQPCPHlZWHRNnajJg5Q+rcM6dc/9P/OQpPhRNygovGtvpBd9D8Ms9OI4s7Ko0+YJ8aa5/9JjsGKOMVR0P1ijf8WUoNm87wLF9yAGJD7pvp/uqMO3SMDtAvFu1aGuqR9n;tHG9ZiNaAJT8W+7nHPO33Q=="
+secured: "oPMsDHKMIFzGqgHGuY8XlajHAjHFV4/5jB4qNcXQWMqPGwv7UkFE7WDI8z9DWSXIb8xoc2+ed7M6X7pfEiGCAQIVzAQBaMqr8f6IlONqVKL7k8/YYakmAjMCwDQlkTrGU2qb9WrdPpjrwZB0ROzPq5EUXiyCBveOOjdOecqQu845hn612S9PdWq0RoFJkZ/3LMpsx8ikcwVkRbTun5/gzvzyDazLnj2Bbb5dsmJXEmeRkBvAQbpxy5T56VqCH0evhe9zDhjQ1MPxZ8ghH1ecHxhlkNvpJQTjfjLM/iKvFjrdzvHQpK7QQhUTR97oYMFb;fOB+xaDgVWg5rTpiKVA5Xg=="
 ---
 

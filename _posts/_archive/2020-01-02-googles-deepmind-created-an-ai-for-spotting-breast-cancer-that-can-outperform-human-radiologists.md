@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Google's DeepMind created an AI for spotting breast cancer that can outperform human radiologists"
-excerpt: "The AI was trained on two datasets of mammogram scans from the US and the UK, then pitted against six radiologists."
-publishedDateTime: 2020-01-02T10:45:00Z
+excerpt: "It indicates a way to close an interaction, or dismiss a notification. Google Health and DeepMind have created an AI tool capable of spotting breast cancer with as much accuracy as a human ..."
+publishedDateTime: 2020-01-02T10:52:00Z
 sourceUrl: https://www.businessinsider.com/deepmind-develops-ai-for-spotting-breast-cancer-2020-1
 type: article
 quality: 71
@@ -27,6 +27,6 @@ images:
     height: 600
     title: "Google's DeepMind created an AI for spotting breast cancer that can outperform human radiologists"
 
-secured: "mshl3pMg+ENNvtA1wwAXfkRVRzk6QVauVtFLEpg421FRKwKuXkLsL9Aa5ewlWZeHo1jqSTvPsySdYqHm52dmxfGIJJnSUYizhFNvm8fYrKMHNUrCdlsk+LEEjgGSJY8fB76qij1gIH8xWfPcoRryqUEtAPam++BrQgoiT5bbxhCtcf+v4XerT4i+hW+7RwZ7B1aayn97w/VI5qWTWb2pY5toBhdo1kHtA64D7qIJ1Zdmx7honpb8z7CVmsyQd/3LL5FwlEsd/QQjyJRE24EijENCs/b+wkKn6JebizXPCZQt1ekYYyL60Vb1xGB7rgN+;qHZhp3DX6XHKJ9jG2fRVCg=="
+secured: "u5kn1qaKGOemoTyhqq3aEIWbtyr74BLnyaZ98VoHGcDLR1/e935I0zSuZYbGVTwRaS0qFqnQoaeqpGyXY8ub5wlKo7n7QWUWmVhdAEQmnX93jsKkRBA25vA245h9lhzwM1vL/zw9vsR0WfXk2g/KfVEvlkKEE+bjMkgpfly1B9QBUlnSR0cRQuumBcNjCfVdFQ5UxnzaJU3WImxozBNWzSr6eHjWHWxSAERwrm6itCfOKeg2fpQZ/g8EWRqYfHPHf4FBnEcalhuhFosM/yr8bJS4tnL/LpgAWUk6al0iZUh56fvFNNlXHJBnogrXUXGP;81xYjlyi39SyHl+t/1bOFw=="
 ---
 

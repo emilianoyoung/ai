@@ -4,10 +4,12 @@ title: "Top minds in machine learning predict where AI is going in 2020"
 excerpt: "If you’re interested in taking a look back, last year we spoke with people like Facebook AI Research chief scientist Yann LeCun, Landing.ai founder Andrew Ng, and Accenture global responsible AI ..."
 publishedDateTime: 2020-01-02T14:16:00Z
 sourceUrl: https://venturebeat.com/2020/01/02/top-minds-in-machine-learning-predict-where-ai-is-going-in-2020/
+ampUrl: https://venturebeat.com/2020/01/02/top-minds-in-machine-learning-predict-where-ai-is-going-in-2020/amp/
+cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/top-minds-in-machine-learning-predict-where-ai-is-going-in-2020/amp/
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: VentureBeat
@@ -21,6 +23,12 @@ topics:
   - AI
   - Facebook AI
 
-secured: "cY94efkSaT9DRlObNc9SW4Clg8a+PZpeSbLHxgUWvnCowBlIhnD4ZthZdTyNcSk/fQVHhdzl/o9FyC+eoMpuprmvUp35VIxhGSfgJxfo4yY2b8D8qGcqjFOmVlDkgA0qTAfQM3I6TITnJS1Ezu8M/zQFkbUYOKlVrNJ9YxeThOAYk5RvFVX2zF4neArBvaJy5NheiWaf1MUzuvfbj7xsRitFX1QbIpkAUVg47uQaMi8FR/w5TDFr/4y+9iTECzEzoAIj8IQT0hbU/CygbTnFno7zolIw0/wqIifp4yM7lSI1OWBWKtEuEsrWV8FGhq14;H06IKCI5pczLxvuGHQDb1w=="
+images:
+  - url: https://venturebeat.com/wp-content/uploads/2019/12/jeff-dean-anima-anandkumar-celeste-kidd-dario-gil-soumith-chintata.png?fit=1200%2C629&strip=all
+    width: 1200
+    height: 629
+    title: "Top minds in machine learning predict where AI is going in 2020"
+
+secured: "qQWE+zE5lS6SkQmiNwnBnbCr5dg+gzjxNpKIO7/53q14Q8q2lND7vxn8kgWO+WBGjOIgq34A9Wl1eyidAblOM3dcYLZT750G1MxpJF0N2JNoX1d7qmr4/Sz43m+gbO2Sp3xIPfoC+HfPvSSUG5NN2ToOihMdMG1QF7MmOz6KLd0XOHBAA+/NdqnlEXM2izk59PerzAYyjXZDC35Mkylq9SNGr8v/k4UeqEMuZh/RVrN6jWSpTJUNusvB+TOD0qqSqp1+6syRJbnNYF1lqEc2TlG+5cTUyegZVlawQVyjn57T7Atu1Cobr6Zu2Me+wsYQ;PJsgRHd61B4MAVnM4vOQLA=="
 ---
 

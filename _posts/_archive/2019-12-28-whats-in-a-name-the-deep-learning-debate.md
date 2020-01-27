@@ -4,10 +4,12 @@ title: "What’s in a name? The ‘deep learning’ debate"
 excerpt: "The history of the term deep learning shows that the use of it has been opportunistic at times but has had little to do in the way of advancing the science of artificial intelligence. Hence ..."
 publishedDateTime: 2019-12-28T18:55:00Z
 sourceUrl: https://www.zdnet.com/article/whats-in-a-name-the-deep-learning-debate/
+ampUrl: https://www.zdnet.com/google-amp/article/whats-in-a-name-the-deep-learning-debate/
+cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/whats-in-a-name-the-deep-learning-debate/
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: ZDNet
@@ -21,6 +23,12 @@ topics:
   - AI
   - Machine Learning
 
-secured: "LY8D1wPxS6VTtMNqhO0LIzQdw07E5z7F/6DR6+MzZ6VsfkzYwCAdyOS1x6SV+H8rYRG/CUcl9LAYgeLHP8SqpfozUBL0n1x6DWYYIbp9/EmnDH+d+dZDqEXTSz4y2KZnT5dEc8d+roNRCnPu0eERXUjyPQ6X3dz7Ozs8WXZNp4k0CH/A25ZVROpn8kNO5E8poai7eFTUNQKLqZHnIGDtRWPAyHUhxuvMWzV7u8uoNN0Y1vg6/UsQ2s8+PuQK4dQ8Z6CEV5ikNOuVjicMJ+aC8t4C4Z7+n5rsHqOv51stVMbuyrKyE8NVwNLHm3h16QXa;RMUG6F4iX2aml6tGBLVebw=="
+images:
+  - url: https://zdnet3.cbsistatic.com/hub/i/2019/12/28/50dde239-b04b-4b84-91b3-b811dff91a53/bengio-and-marcus.png
+    width: 1177
+    height: 621
+    title: "What’s in a name? The ‘deep learning’ debate"
+
+secured: "ktxyhBFhD/XhJMC/PV9qPP5yle0WolGsNDKHEFgON4PPENK1/dK4ERgQsHCCxeCQb7GCjlC1+dxoLRRyTWHJLmI5IhUun3fDYqEjup0pHR06uLrO0ukIQsilyv4RT99u7lfcc99pDKyQbvdPW3CH9g8fy3khaSgz4N9ZRHvyBlfTnr+CPXYkyITSZcl/UCAwDdBkXqw5qKwu27Wer1x0ivZJ7JzWzcETGT5x+5uRwHlrDHR/Rp5BAkBZoz2YequFombcLIAO7/RW7QftMLI+EdL8zWuq9O5pVlGx23lgOeoda8XMyRX3InFC6gLivkS4;NUVcCwgXUT8QEZhMwornzA=="
 ---
 
