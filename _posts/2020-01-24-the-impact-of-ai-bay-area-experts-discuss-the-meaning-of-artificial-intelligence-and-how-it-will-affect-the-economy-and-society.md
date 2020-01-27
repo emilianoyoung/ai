@@ -5,9 +5,9 @@ excerpt: "At a Dec. 9 forum hosted by the San Francisco Business Times, three pa
 publishedDateTime: 2020-01-24T15:04:00Z
 sourceUrl: https://www.bizjournals.com/sanfrancisco/news/2020/01/24/the-impact-of-ai-bay-area-experts-discuss-the.html
 type: article
-quality: 27
-heat: 27
-published: false
+quality: 127
+heat: 127
+published: true
 
 provider:
   name: The Business Journals
@@ -24,6 +24,6 @@ images:
     height: 667
     title: "The impact of AI: Bay Area experts discuss the meaning of Artificial Intelligence and how it will affect the economy and society"
 
-secured: "j/hEZ7MkaR5flHSjWo9v4HHycQ8+SO96/f5KwD1ZsZLkJvrTpY3sVqL6y9ch0tACfUClAtiAHHbWi+tK76300zsA0MYEKW+0fLRh6ku9PSy8HHZq9VvkG1mMcwhKl0xXUIy67EzyTuBEhj9tmZLd0pu+WYr1A9kA6VBU5bWQCcbmY3nd4pwjNqWcxS+nNirefklhpXJrj1UT9QvCWPkQDIrfW61fn6AyjhOPt6Sp20rMfVN2BwE7w/sF9epBaPCY2gFyKwJ7MHVh0IJcnmfJ98E7KNN6TEhVqIG9inn3rTvQvW7MQeEAFDykbXexHpRkQ+Nq26aZoXDvj3Ercy7WP7ncf+kLXC+Lbk1S1N3lH2iVWZhU5kCrRADC8fpn2wYm5aCaK6pXMAbiQPmk4BV0nlVhVCHRYeVXjkv/H76RdNuaC/rlNQF+PhISKsuPstZvGadJBx2vVUTasY/bxk++Hk3Yb5v4mw3s9qWWsmgeP6s=;RTn1P8TfBMbGrnG09ChuPQ=="
+secured: "uJYX08vClXSIZw33HBpjEgdO0cFA2nqSJT3fMbk0x5f5CREbevgxNAjPbX7vBP7ua3MD6Fj1LSD1FZNAgTCSngLHJOKkmmjzas25FO3eS3eNFYnHpWgKMb+G2zffySgNfcxSRPGD11E0HKdGraHmgrpdSdVFBBbIYO5WS/9IG0AFLEQfNcYav5xR6XKt4B/D1HmCExDkervKewv8JXeIX/LzVBE6zasqGm1AVQQ3kff5Gf7DsDDcSB6tgGyrV4TWx3jy9e6KPhBNqdnoWRNsUS+u1O3gHbOBKHieGqeM8u2qCup2DzVv/QJ4SJHQB71jFuC+rbEcf7BOc1kqOAhze8C8KS9mADJlspscCuDFXkW24YA+t6mO1l76J73gBAKVm/QcjjPHdDrByGKFI7ln4gJFQ2sRFaFYcWNWHxGsgdH37asrA1T4VrmLWmMiVawuM1wqaP5H4/We3IA+g6bCYLgx47j1rVZznqCxadIGxubOHQay89XTXwv3bEFqjkcb;bJ4VfAB4vQen5gXWRC+hCw=="
 ---
 

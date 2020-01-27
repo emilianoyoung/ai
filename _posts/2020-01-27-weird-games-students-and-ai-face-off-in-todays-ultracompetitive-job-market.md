@@ -23,6 +23,6 @@ images:
     height: 628
     title: "“Weird games”: students and AI face off in today’s ultracompetitive job market"
 
-secured: "dz/1vKbdz7c/1QNtemoONuP5QXENtmPC2T+asxQkyFkGeWn8NqMhkXEpP8Z/Yq8NgtHOs7cYWR6U6a6hvoejBxokYDtX2LWrPcCxrexd4gejvRgGpXCgf+pmVCXDn9arLS1dGB0VCgy3d7xN8SgaXbhE0oRES7kYs2L0evP5L5TvlPDCZRwr05VLsJx7wWAv9BmeerzNAzc1Q5ie5RmqPE1Apz+8s+tXD1qPaMW+DWgnBo9IOI4/OGdVMHmmnWRBn3asx9Y3Q4Ulp/+/QcObSOkDm6JSJg/39CVvYg94EYouIP3QvILRIzUqyfV16pJb;rX+lXZZMrQ3ec5GQzxFsaA=="
+secured: "uxbePvaKVhoOEvfzJUfoJ/68gI77T30BGZUIpGJTRy8OAiDXjuVUhwjMvJltmKm4GQPDWS6NbbnJdKz+f7JdNJKz6VOzi5SLb15Rqhi/42LtDPSj1r9zn2E0XCaBQ0wiQ8Bt0lHdomV5lmf55RdYqAa+hOjgF6AFeMc2/FnLIt0Q5aY1CDeTCvssAMTBjwz6G4Y9v6gCq05YKQJsbBrAzxpKDhQVmq8B3OOc06CITy+ZGzsTwwWEHcNC7DXJnyIQjpmuIO2AD3+EzMvoqipL7DTM2sg0cMOuQDG0SUdDDXlo+bEfPo/EVIhGzmW+W55CmCttEes6kD5z+Cs8k6/IPu2zscQ/FdmxCiY5aeeU4ZviemhYE83FsR1M2IPyn9Y1DIPvNUUwObVGJdA3EdinFua50UyWoIlCv4NrI4Tnza7udtFKhLaTLCadsLtVT6Vq0vkK4NVPdQB/EXQmhMW/SDImRSgQPSyEoTuflBr0Jr8=;MIyH7/5evDFxrT9JnVSC+A=="
 ---
 

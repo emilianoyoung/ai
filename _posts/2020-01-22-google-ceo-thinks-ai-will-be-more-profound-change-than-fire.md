@@ -228,18 +228,18 @@ related:
         width: 1200
         height: 628
   - title: "Google CEO calls for regulation of artificial intelligence"
-    excerpt: "FILE – In this Nov. 29, 2019, file photo, a metal head made of motor parts symbolizes artificial intelligence, or AI ... investigations into the dominance of companies like Google, Facebook and Amazon. “Sensible regulation must also take a ..."
-    publishedDateTime: 2020-01-20T10:58:00Z
-    sourceUrl: https://www.news10.com/news/technology/google-ceo-calls-for-regulation-of-artificial-intelligence/
-    ampUrl: https://www.news10.com/news/technology/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
-    cdnAmpUrl: https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/news/technology/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
+    excerpt: "Google’s chief executive Sundar Pichai addresses the audience during an event on artificial intelligence at the Square in Brussels ... SAN FRANCISCO (AP) — General Motors’ self-driving car company will attempt to deliver on its long-running promise to provide a more environmentally friendly ride-hailing service in an unorthodox vehicle ..."
+    publishedDateTime: 2020-01-20T20:24:00Z
+    sourceUrl: https://www.wrbl.com/news/technology-news/google-ceo-calls-for-regulation-of-artificial-intelligence/
+    ampUrl: https://www.wrbl.com/news/technology-news/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
+    cdnAmpUrl: https://www-wrbl-com.cdn.ampproject.org/c/s/www.wrbl.com/news/technology-news/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
     type: article
     provider:
-      name: WTEN
-      domain: news10.com
+      name: WRBL
+      domain: wrbl.com
     quality: 59
     images:
-      - url: https://www.news10.com/wp-content/uploads/sites/64/2020/01/fc07cd2242434798a1da9bc08ef49dc5-1.jpg?w=1280&h=720&crop=1
+      - url: https://www.wrbl.com/wp-content/uploads/sites/24/2020/01/Google-CEO-Sundar-Pichai-Jan-20-2020-in-Brussels-AP-Photo-Virginia-Mayo.jpeg?w=1000&h=666&crop=1&resize=1280,720
         width: 1280
         height: 720
   - title: "AI Is Promising but Needs Regulation, Says Alphabet CEO"

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-04T22:40:00Z
 sourceUrl: https://medium.com/swlh/breast-cancer-risk-artificial-intelligence-offers-promise-7c9a8e4a379
 type: article
 quality: 69
-heat: 69
+heat: 79
 published: true
 
 provider:
@@ -27,6 +27,23 @@ images:
     height: 1599
     title: "Breast Cancer Risk: Artificial Intelligence Offers Promise"
 
-secured: "OlwQnClXvVmyk3CS0FkOkegcZ9fr6JqmvhRn5KteEWSEzlGAsObOzuVQkVSYs80Z+P9kFBwZ+dsy3vF0MSsSz0pHpuzcYqgcZbWMOpk+MyfEoItmQOHhfr6IQMzDp1L8ib5B8mXepUuzR/YXLNe13ifGG4Bgi8/v7YiM94kVJIR+lmiV32kGmYuLW6Lkxi4zdOmYP4l/dldnKBF6H7ooQk/HPBfa3Hj481CSHx4+qJIIzjqcU3pZM/fUgGFfxdC8Hj7r13AvH4ctKFWchfZSqPREzWM83M+WbO6EdbYzHNQCxkczpfyH8bnDyQbaavtY;YGwb/uUFq/zLJyhJfXOjZg=="
+related:
+  - title: "AI could monitor breast cancer"
+    excerpt: "The application of Artificial Intelligence (AI ... and improve the management decisions on whether or not to administer therapy, perform a surgical intervention, etc. Overall, then, this ..."
+    publishedDateTime: 2020-01-01T00:42:00Z
+    sourceUrl: https://www.newindianexpress.com/cities/chennai/2020/jan/01/ai-could-monitor-breast-cancer-2083318.html
+    ampUrl: https://www.newindianexpress.com/cities/chennai/2020/jan/01/ai-could-monitor-breast-cancer-2083318.amp
+    cdnAmpUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/chennai/2020/jan/01/ai-could-monitor-breast-cancer-2083318.amp
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
+    images:
+      - url: https://images.newindianexpress.com/uploads/user/imagelibrary/2019/12/31/w600X390/AI_could_monitor.jpg
+        width: 600
+        height: 390
+
+secured: "kN3nGAsz4bNhFh2R4/MYchOWtd0aqD10xq6PsSmCVULB1vlquJsRzrqY6+JwiJWLh4rlMUfbv/urZMw8vmhUL0OMHcF0HCIpI+ZYElqzdUbMlr7WYe8uUpkRwz5tuEjk48KOAKi5fsoS36zDG0egysQXkxckg8J40Ms6iuLbgchIpbzrvR1ObkwmztCQ5j1tQAYT+8dog0hmJCB+nuaqJvCm76rb2t7hvegiddCCkJIf9xSBO2x1bARNM+/pRmXVeBKdMmeKpneP6uIPVxPU1u9sBje8PIxTVNzS9Mf7RUDvZfQCZc6hKOwpjPoat8aV;kQMbZ7LfdDBpuraGLoVd1A=="
 ---
 

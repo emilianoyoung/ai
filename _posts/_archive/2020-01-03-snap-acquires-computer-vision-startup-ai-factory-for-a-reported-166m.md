@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-03T21:23:00Z
 sourceUrl: https://siliconangle.com/2020/01/03/snap-acquires-computer-vision-startup-ai-factory-reported-166m/
 type: article
 quality: 54
-heat: 64
-published: true
+heat: 54
+published: false
 
 provider:
   name: SiliconANGLE
@@ -23,19 +23,6 @@ images:
     height: 400
     title: "Snap acquires computer vision startup AI Factory for a reported $166M"
 
-related:
-  - title: "Snap Acquires AI Factory Computer Vision Startup for $166M"
-    excerpt: "Snap, the parent company of Snapchat, has acquired a Ukraine-based company called AI Factory, to help the social media app provide a new type of video service that uses a person’s face to play ..."
-    publishedDateTime: 2020-01-06T01:22:00Z
-    sourceUrl: https://www.pymnts.com/news/partnerships-acquisitions/2020/snap-acquires-ai-factory-computer-vision-startup/
-    ampUrl: https://www.pymnts.com/news/partnerships-acquisitions/2020/snap-acquires-ai-factory-computer-vision-startup/amp/
-    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2020/snap-acquires-ai-factory-computer-vision-startup/amp/
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 54
-
-secured: "ox/ZrDAOq6odQc8yJUktTTVDxe3aN+h+uKAfuzks9E4DEYaS0trJQQ1PKWQteu/HWS51bDe264HZ46UakW11Miq4Su89zOPZ+mv6ON7pssTnsWyOyClmUCD8Twq/276NDcU2tU9V3IRD9wMAW2MKyabE19JOcdGSA6TJ3mUq+lJ6Dt1Vqqx/dbKMflYEUlHlWu6Rfj/xTrLkPIrd7gSjld31plhECDwOgzQHeEm+e8MXr6StRP2vY310kJF/V8O1ER0vS19ySXaKqCa+EErxiZPBP6wl77HFc87zcl8ZdJBlXdjdxew81E8po/s5wh/Z;qh80+ulF6hx4+gMbVTxlMQ=="
+secured: "TPJlBfVbokJXk5pS7Xc/Rpv5S4/jJ5lZNTUJXxfvUcmqV2l0nsLC1dqazLmL95/uRjpdMdqFQPo6ufLwsWcc7xgf7Age0yKkJcNTBQE/QxV7JaZZnygNmWENQ45+h7GmM1Q6Nzp7hqcIkItem5XERdwfq7tSSsr37ZaKSy47YLh/qpQHgpk9nL9KOs6IDT4kGKVi+s9EelZKvwOWgTPyxOKT6e1IfjoMBulFxXm5n2UsJM1AbRv4u24FZusa/3lae24ldJGmyOJo5Me5C3q1bsIASQ1Cdc3hPN0pIjuvMyD4bMQn5XKCtH05FMfwC/VB;oc2P3UJcFMitjhjlvDn5xA=="
 ---
 

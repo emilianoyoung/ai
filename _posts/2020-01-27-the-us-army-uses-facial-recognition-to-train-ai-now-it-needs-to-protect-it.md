@@ -7,7 +7,7 @@ sourceUrl: https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-
 ampUrl: https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/
 type: article
-quality: 101
+quality: 201
 heat: -1
 published: false
 
@@ -984,6 +984,6 @@ related:
       domain: sfchronicle.com
     quality: 4
 
-secured: "RGaTpUm2ooBAnARuNcII0DCLJ0WdxqfXuUa4MkCnAqlPFhIyx6irKyZGw8fr/KdOUg6SydcpWY7J4vH8eOwZjnDdZpxQRBJehS1BoFn9k4Qu/JUBHpQYTOsfpd5hrhAS9PreiPivIt37T/1OqeUpsbnHbnjCZMDtHr+XSFfQNGgPHW03ISWC2nYLP7lmrf5H+FyvHPhkse97bskCTyKmZLkeriOp3cOaIbhTYoZ51Q+ZgQJVgkVCaz94/EWkPQkLj3jHCkVQ/T4B3q3oE3MneW6wfWWUeXqjy/TW7hXu+lgxaDuAQzAiVL9WcB+pdwRq9Heg97gpWucYIoikYOkIp8c/YFcmIO17JmM/lWLtcLHo0Bia0M1tcbim4qeCVlvahS9lOpzlpzOh53G3pY0DGKyLr0yjNb9K2LbUACUiino0XvlZJhVGW3caBvY/EZkWqyEYPXfH1rsjRPCbaBK9J3X/wEm/m5hssoD3tGe+Kco=;4VNdVZBvwbJ7gnJVhtwK+g=="
+secured: "cdAt9+OZ9eNb8N/9265hjqLjFfmZeRNAObeT78Nwh5qD7YbCAjrMJEVjvJlTNqeBN3HTPUPXhBuHVI5U4EhavPN9GJvvDfgxzQ0iCxOlqwceZRoajN/EHMJKYD2fvztE/lg+iwIhBj3JgYQbXpe5y+z+N1DQ4Mnb6+hxETkiwvTvbwBeEmYtWTo/FUmOGKMFGXDDZXkgz+fB+tlsZ0SMmlx5n+iYVzEyFud7J1ZYba99zx3jMKbhuqxi6c1kPR48Uqos7akq6IEZGR07UDOGAUsAChk+J5R7J4ufBiDRDLMjFugoeHmPOTiOIOnGqZztQ8UEsJaKQgtu4xxeHFH6D6NMsFPqQfXV13nlw1euViwpzFRny8U9vHEWUzZj7pXlmQbT25tnk0ZxN0fTk8poa01gFwy3A50YrK4rZ88Q3T8oBBjJgkE9/JjKoGgPS57asdO09oPOEWzWCxlXrSws9Z2+tM/TFDSBPAPg5DTyBhAJP+L8zL/rMEkvrh9Xtu8k;uQCsakiNG4Oy8bUX6ttVDA=="
 ---
 

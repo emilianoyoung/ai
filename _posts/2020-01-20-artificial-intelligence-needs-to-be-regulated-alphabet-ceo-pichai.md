@@ -42,6 +42,21 @@ related:
       - url: https://images.wsj.net/im-145573/social
         width: 1280
         height: 640
+  - title: "Washington state wants to regulate artificial intelligence, as Microsoft lobbies for new rules"
+    excerpt: "Washington state could become a pioneer in regulating artificial intelligence if lawmakers, and homegrown tech giant Microsoft, get their way. A series of bills introduced this legislative session seek to blaze a trail for this new frontier of technological innovation. The legislation focuses on biometric screening and digital profiling."
+    publishedDateTime: 2020-01-24T18:23:00Z
+    sourceUrl: https://www.geekwire.com/2020/washington-state-wants-regulate-artificial-intelligence-microsoft-lobbies-new-rules/
+    ampUrl: https://www.geekwire.com/2020/washington-state-wants-regulate-artificial-intelligence-microsoft-lobbies-new-rules/amp/
+    cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/washington-state-wants-regulate-artificial-intelligence-microsoft-lobbies-new-rules/amp/
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 175
+    images:
+      - url: https://cdn.geekwire.com/wp-content/uploads/2017/03/statecapitol-630x417.jpg
+        width: 630
+        height: 417
   - title: "Google CEO Sundar Pichai calls for 'sensible regulation' of AI"
     excerpt: "It is too important not to.\" After laying out his relationship with technology and offering a few examples where innovation has had unintended negative consequences, Pichai makes the case that while AI is powerful and useful, we must balance its \"potential harms... with social opportunities.\" Of course, this call for \"balance\" leaves some ..."
     publishedDateTime: 2020-01-20T12:25:00Z
@@ -72,21 +87,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all
         width: 1200
         height: 600
-  - title: "Washington state wants to regulate artificial intelligence, as Microsoft lobbies for new rules"
-    excerpt: "Washington state could become a pioneer in regulating artificial intelligence if lawmakers, and homegrown tech giant Microsoft, get their way. A series of bills introduced this legislative session seek to blaze a trail for this new frontier of technological innovation. The legislation focuses on biometric screening and digital profiling."
-    publishedDateTime: 2020-01-24T18:23:00Z
-    sourceUrl: https://www.geekwire.com/2020/washington-state-wants-regulate-artificial-intelligence-microsoft-lobbies-new-rules/
-    ampUrl: https://www.geekwire.com/2020/washington-state-wants-regulate-artificial-intelligence-microsoft-lobbies-new-rules/amp/
-    cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/washington-state-wants-regulate-artificial-intelligence-microsoft-lobbies-new-rules/amp/
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 75
-    images:
-      - url: https://cdn.geekwire.com/wp-content/uploads/2017/03/statecapitol-630x417.jpg
-        width: 630
-        height: 417
   - title: "No question artificial intelligence needs to be regulated: Sundar Pichai"
     excerpt: "Pichai urged regulators to take a 'proportionate approach' when drafting rules on artificial intelligence. The chief executive of Google parent ... Regulators should tailor rules according to different sectors, Pichai said, citing medical devices and self-driving cars as examples that require different rules. He urged governments to align ..."
     publishedDateTime: 2020-01-20T14:56:00Z

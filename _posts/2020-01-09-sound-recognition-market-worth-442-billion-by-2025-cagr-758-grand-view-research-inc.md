@@ -23,6 +23,17 @@ images:
     height: 335
     title: "Sound Recognition Market Worth $4.42 Billion By 2025 | CAGR: 75.8%: Grand View Research, Inc."
 
+related:
+  - title: "Voice Recognition Used by Law Enforcement"
+    excerpt: "Voice recognition technology has revolutionized the commercial market along with the growing use of home devices. However, it has applications in various law enforcement and security fields. The technology works mainly by analyzing sounds linked to Natural ..."
+    publishedDateTime: 2020-01-12T08:00:00Z
+    sourceUrl: https://i-hls.com/archives/98105
+    type: article
+    provider:
+      name: AUS&R
+      domain: i-hls.com
+    quality: 4
+
 secured: "pT9B3FrbwkDIM+Hi5vYoGt6IzkaoyvSHUjU5no6A9gzYFjbgql6RyA8nzBazYEl3M+/C0icPVcMZzSPydEOSpqVvoFQDjZ3vzUWLN9VOJfMMMRUSNJrQQZmH+gSwvVRdbrr7gSL7nd7CyGGGeDFwgsTFnm7vBThZmrskgcU0KVS6+/cMfN/bP7ZJlyGBwg+aDIL6Km9+x4ESha73xe7UVqYd7YVGyYza1b0KryfqRqCHNql5KNWkeccvXWkNB5qMGGXam0PSp5T3YL85roNhMAAy0IgyYjUsz+3Vv2G4l/0=;ARAsQpVWVc15/JPGNjr79A=="
 ---
 

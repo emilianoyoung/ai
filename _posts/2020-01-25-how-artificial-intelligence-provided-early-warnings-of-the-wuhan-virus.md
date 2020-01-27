@@ -7,9 +7,9 @@ sourceUrl: https://qz.com/1791222/how-artificial-intelligence-provided-early-war
 ampUrl: https://qz.com/1791222/how-artificial-intelligence-provided-early-warning-of-wuhan-virus/amp/
 cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/1791222/how-artificial-intelligence-provided-early-warning-of-wuhan-virus/amp/
 type: article
-quality: 87
-heat: -1
-published: false
+quality: 187
+heat: 197
+published: true
 
 provider:
   name: Quartz
@@ -44,33 +44,7 @@ related:
       - url: https://media.wired.com/photos/5e2b6969fd15600008556818/master/pass/Science_wuhanvirustracking_1195733907.jpg
         width: 2300
         height: 1533
-  - title: "An AI epidemiologist was among the first to break news of the coronavirus outbreak in China"
-    excerpt: "Eventually, a report is generated and is sent to BlueDot's clients. The founder and CEO of BlueDot, Kamran Khan, explained his motivations for using an AI-based system at BlueDot for the purpose: “We know that governments may not be relied upon to provide information in a timely fashion. We can pick up news of possible outbreaks, little ..."
-    publishedDateTime: 2020-01-27T04:32:00Z
-    sourceUrl: https://www.neowin.net/news/an-ai-epidemiologist-first-broke-news-of-the-impending-coronavirus-outbreak-in-china
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 57
-    images:
-      - url: https://cdn.neow.in/news/images/uploaded/2020/01/1580095544_wuhan-coronavirus-china-safety-1196130121_story.jpg
-        width: 760
-        height: 506
-  - title: "AI Notified Outbreak of Wuhan Virus in December Even Before WHO"
-    excerpt: "However, with the advancement of technology, the world now has better information tools at its disposal than it did 17 years ago. A Toronto-based startup, Bluedot provides an AI-driven health monitoring platform that analyzes billions of data points. Launched in 2014, the venture alerted its clients to the outbreak of the Wuhan virus on ..."
-    publishedDateTime: 2020-01-27T06:51:00Z
-    sourceUrl: https://www.analyticsinsight.net/ai-notified-outbreak-wuhan-virus-december-even/
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: https://www.analyticsinsight.net/wp-content/uploads/2020/01/wuhan.jpg
-        width: 2300
-        height: 1533
 
-secured: "LvhkkuVTx4qoPzoSoLJY3ZzITXFVtTZ5hJMFw6n5zkDOnhrog+vAhurUksvZgAXxp923Pm0GzHWuaz0oX2PS1jCammjcUqFOJSxBBsEEZVCpknV3YgM+xVd1nM5/e3+xdgTo7cMEhvi8rA5aOmqB6Gv9q4AzJ8RTAdrC/EnRQpDYUoD24eJkf9GFz8r3yLuN66edlTm4aoOYXyRWmBjuiZZiHV8U7667+IWExvDxm9DkGdfk1G1NyT5nvmTNg8FT8wbXYCtNnqLB0fHMZriKxhfEO8dZEg2QAccmayiV92qtqxrtawxthA9bxPpHXdvjfRVzn4/XCpFQnBFaSdOLXm9vTYIh6QH2933vtupByoGd8MAf/WdfypUP5ucPBfQ5kbqd01Sw1uuP/0VAfEdgFgVfyrbh6DfMsoyptqD1wOs7EvdjtdcCQuXCEvXytoKrg8AAfMpF7IQE26Qf0ANDANzUOwaWQFuAa3PTrJ5TYF4=;jiu/8hqwwbmF/MrEbj3QRA=="
+secured: "Ced1gmsUrRVS/7etxFkx2UwFGVIVGOEr4/i8XAapkbrXmS1fs0DmZfoF/crz0bkMR+uP/fcEbPRnx1OKwxk1qHYppcVOxTNqoT5BE/d41tePKCc2BNJb1gKiI8F+95BsHEywNIJScT+krTMIK7kJsAxwK1EazTzyw2OZqmkvhrk/Cv2H+2Xo49Qdx7T7qSkfwkT8Bz3Wu00B3TgMI9WB4PBqAiumFi+VoHsHfbEpner9EJgdU5UnriN2jA4Jj5cKGrtinwNhYOogh7lOak75GjfmzF/EeDbhpyWhNzhOLRPk1uoxF1kS4N/Bt8+EjBAPLz64IOBONB5hb8nBX9BQbNbDDVGSoK6MNDpamFyn3a4BzkeK4hy9wVgX8xgfKnU25zr/opdIXSEF7nn4E9bCrDmHDQim+NiYZBHt36fXsxmWmzcd0fwUXp9epMOU6Z+A7nju06pMvbEFnkoHLBzVsZ/mJfgc0tDwSeqzYPv51FTRHemYXh41QYaf90grsUDw;xe1/qNHjbYpRE+So2lPh4w=="
 ---
 

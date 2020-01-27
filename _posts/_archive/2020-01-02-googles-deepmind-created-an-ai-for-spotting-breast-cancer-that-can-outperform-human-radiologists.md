@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-02T10:52:00Z
 sourceUrl: https://www.businessinsider.com/deepmind-develops-ai-for-spotting-breast-cancer-2020-1
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: Business Insider
@@ -28,22 +28,16 @@ images:
     title: "Google's DeepMind created an AI for spotting breast cancer that can outperform human radiologists"
 
 related:
-  - title: "Will DeepMind’s Breast Cancer Diagnosis AI Replace Specialists?"
-    excerpt: "Google’s DeepMind team has just published a paper “International evaluation of an AI system for breast cancer screening” showing that their research on artificial intelligence applied to ..."
-    publishedDateTime: 2020-01-02T19:42:00Z
-    sourceUrl: https://www.forbes.com/sites/danielshapiro1/2020/01/02/deepminds-ai-diagnoses-breast-cancer-using-medical-images/
-    ampUrl: https://www.forbes.com/sites/danielshapiro1/2020/01/02/deepminds-ai-diagnoses-breast-cancer-using-medical-images/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielshapiro1/2020/01/02/deepminds-ai-diagnoses-breast-cancer-using-medical-images/amp/
+  - title: "New Google AI tool detects breast cancer better than radiologists, study suggests"
+    excerpt: "(FOX NEWS) -- A new Google artificial intelligence model appears capable ... enabling earlier therapy for [a] more treatable disease.\" \"Despite the existence of screening programs worldwide ..."
+    publishedDateTime: 2020-01-03T13:46:00Z
+    sourceUrl: https://www.wdrb.com/news/national/new-google-ai-tool-detects-breast-cancer-better-than-radiologists/article_dd3d5f70-2e23-11ea-aa90-9f781f6eedd6.html
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e0e41a50bf81b00072e5ca7%2F0x0.jpg
-        width: 1200
-        height: 800
+      name: WDRB
+      domain: wdrb.com
+    quality: 14
 
-secured: "P11Dah6KHa1+2cKzwsfZ6JFQkXRDv9IgoHheuS+HVjsVxbTaCM5eoV+MI+G3/cOh+5eeEQK12bM29hthvjHlIuGHte6Nsu7JN0v3YRMfhlnRKSC3rXLhyfOj8ufu6z3bENfzB5EDT2jfwSnNftql0Umt/29a/m8wH01kGCawqarqc5PPo/dVxrvwQg1JSWx7bROolDqF9/MH+To/3BlxiYsCnjLfAL8VsqnNT7UdoJ3QVFz1jZzFNPyZC2leJ0SelHtW6FDKKvwM5Z4oq1WGge+YXTK3CbESb8ez3yiOLTBgtXqC03V6jbPQscYvSGXP;85oHHVXdsbAeJCS7FuIMxg=="
+secured: "CensohaX4mFQeAEVlKL8n1u/ayMTmTs1syAqVE98Jp9O2yVuovfBAIZvzbxsLd8m6/fg8Ed8oFGsF9c73TCXeL6Olg5H3fWcA5yNsx6H5sk+OwLHSXpXjIMxuEDUCxNHR1BspELcR6CtaR/+E2mnHzzC+kgyaNkC4FSTTXIoSfghKb85M1v+2//YXm9+PBzOvvFysrDkup8jdXiw+w1Dmci0wSWOUaB4Ygi7+wn2Q1kdXHpHZQpvW5Ve5vPZFDnq4TLQmt4lI6YFeIOCtZF6o8mWowmPLk+H1M5tiAq30iZH6o8Tikbn3FLmm0NL2mOC;a3K9ifodpsKQ6QJ7CdXUWg=="
 ---
 

@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-d
 ampUrl: https://venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-development-and-management-tools/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-development-and-management-tools/amp/
 type: article
-quality: 89
-heat: 159
+quality: 189
+heat: 259
 published: true
 
 provider:
@@ -120,6 +120,6 @@ related:
       domain: newbusinessethiopia.com
     quality: 19
 
-secured: "F5ilcWrE8gZHK8M6yQNasJDBsaz9CK0sw6vxU75RkcpuhE9r5eBaQPB+ym1YI2qPCJPVZTeussutvgzQF/1v+9QiEzbvJvUsY3Aoxxub1CyIvbM0aGi4T/JaAg4k541uVdFYE03HNafBJn0Q5UuSOHxqhlXImc5T0/6f8f6XQtOdxNx+l6KqxXiQutJC4c2G9+/jIYcapCU9K7ps8Jw4tNvLRmaDmyRm724Ko+3drKpAsayE7CRsYqOZtpS1ibqmaSX4H3N++2DkFkMQIZtiEfYkNM+BOXkMa+TvtnRZAZWkO9CgG7mGLH7L7cnm2h6kpiyji0oGZnWynyM78nCsHgosF7yK9p7SuD5B8ot8Um1BFubTP7RqjTWggTJeycmBQP4gQyd/RruatuQJvGLEWbGLpz3WSn5IYe8ktMI2P+NwEzvp1x48IbZcRKkAXoqcBNQ6j/xsL3tzxele1OZCKEM2SLDFuT/+CzUjxu6SEgo=;FlM6EeqeGY+YFbkV4YDSuA=="
+secured: "VqekUkDAuD7rdD+Gt0DM2kpsiRTeK0a5NPc/wj2Yt/1SJT/eb8B+6VfELwgefJArTVsrRIYt7YsUWzGiX2YYuUd5rU85aY1z202DFYk6wQzinCFHuUmA3Txi3UeuAUWFZ+hPKiEV7XISRdPcbuFzY1U+3dZQBRpsrR2NHjCdK0jw6eU+IkA3rVDkhDT9oKNNsIqZ9k4ivBmWQBT2SlUf+ZI3TNLel1qepNYKUblfri4ugQXny3W1jzycSEyTQy6Sv2m5KTG4wMHEXv8G+rQUZ/STbvoI2EFb2h2B87sf6ox+kU+d9h+lU7dAOBLM9p7gGN0TfXVKHVqFk3arAzB0E6YLLrCpniWcVzjqTavbkOXcN3oat4TTidt/VkXeyH5jurAEn3+MCEGs9prDEGegIJXMQoLF84VTV5yMGNztBbNWaFNk8cu40G07/40YxTVyBXchCUBgj47EDDyZJ8S0UkeaHrcjBziUqDR5VtlixVfiyp7Kvtzn39JnOrhUeANt;JRTKU9o2+Er+ROyIGNGYdg=="
 ---
 

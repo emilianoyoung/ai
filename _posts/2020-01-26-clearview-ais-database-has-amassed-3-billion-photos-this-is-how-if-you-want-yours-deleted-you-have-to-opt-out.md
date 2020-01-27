@@ -7,8 +7,8 @@ sourceUrl: https://www.forbes.com/sites/kateoflahertyuk/2020/01/26/clearview-ais
 ampUrl: https://www.forbes.com/sites/kateoflahertyuk/2020/01/26/clearview-ais-database-has-amassed-3-billion-photos-this-is-how-if-you-want-yours-deleted-you-have-to-opt-out/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2020/01/26/clearview-ais-database-has-amassed-3-billion-photos-this-is-how-if-you-want-yours-deleted-you-have-to-opt-out/amp/
 type: article
-quality: 66
-heat: 66
+quality: 166
+heat: 166
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 498
     title: "Clearview AI’s Database Has Amassed 3 Billion Photos. This Is How If You Want Yours Deleted, You Have To Opt Out"
 
-secured: "+gxaHinG+JtPsbqqam2hXbalL997r0tmZz9YEvEBVmsAf0EvQTFMIU+tYBCiAN5aefN3ytHMv6H9Fx0Fot0eZuGW6IbL7za6U++QqD7bfi2P0VIhB1FAJWv98TBuaPnFpXJpMVu8tA2QIZzt41Odt59yS7gL+/XC9ICKREJFTIHWiJvuRWa896PrjuZka/xFLD87haEjeXxfb8XTN1vd4pEM7DZ2Wf25KfVb/YuGXZZqh2gMe0cy8SvliYZrNdYS5xCe2fa1NYiKywhjmuy4a1e18LCIJ8FH3/DQqoUVuReOZcXsfhBCSJM21avE5cNjGRXPIx1ul7wMaIeUGVkzexqiMgiShdK1+RVx/OkKz3fe3mqjsdo6INZcE3DD44PEdfgt7W7FEMV4PN3gDxc5OAT229ACQIV8lSX5eg5TAyIQXoVc9ba4NTvm3+gkrykUK7fYnXFurEvqN0aFw25ZI4aE8nHejg41QmzlnlYKenc=;YWeTGI54r7iv+75QHtmkag=="
+secured: "MEnv2FYAc3gqKy+PfsFWQsj+TBbG5hFlLg8235T/dR3ylccfu8xiqRXTqie5Ru1ZdvqpM7KbBucJ1OZLY6kDh40FWvA4EDSOI6FtUdikksOsjgv7QRR/BBGc/icLa7asBE49pUrMIvQswJ3kSMzKGj2iRBxKJH+9BPNAMLjhus+e/eahTOuk2mFDbwth/5C62Nljaldbc5OVFOCrNc5n06BcKAjqFVn0+TL7OqtNI922YLk5KoUQPFsjOiy+3IDFCMRw60rSHqRsxYfKQ0naq/2VBDrG6L61ZKLG1O6y4YbKCmobeHxKvzwo0/emhZpcu9tu46ye6LxcWE4+/oGWW0aQPD8pyLUZNWuwPknHjr78V/IC1yT/qfrzovdn5kI44x+GJoxxbo3mwlZo6qxlAaWyGALr7C2SBecaxXnoBpldO4aKM4B7sp1qZfYkUvfqVEivJ1OYINDM1I0pTdrmNHKZ2H27KZGi5kg4/UFM12TqM34FYXSO1kO276T4dyst;2Dz5C8kH/bIOC0ylSjvbJg=="
 ---
 

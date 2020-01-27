@@ -20,6 +20,21 @@ topics:
   - AI Ethics
 
 related:
+  - title: "University of Michigan Showcases New AI Ethics Center"
+    excerpt: "(TNS) — Researchers at the University of Michigan have been exploring the need to set ethics standards and policies when it comes to the use of artificial intelligence, and they now have their own place to do so. The university has created a new Center of Ethics, Society and Computing (ESC) that will focus on AI, data usage, augmented and ..."
+    publishedDateTime: 2020-01-27T20:17:00Z
+    sourceUrl: https://www.govtech.com/education/University-of-Michigan-Showcases-New-AI-Ethics-Center.html
+    ampUrl: https://www.govtech.com/education/University-of-Michigan-Showcases-New-AI-Ethics-Center.html?AMP
+    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/University-of-Michigan-Showcases-New-AI-Ethics-Center.html?AMP
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: https://media2.govtech.com/images/US-NEWS-ARTIFICIAL-INTELLIGENCE-RESEARCHERS-CREATE-ETHICS-MLI.JPG
+        width: 1114
+        height: 627
   - title: "Artificial intelligence researchers create ethics center at University of Michigan"
     excerpt: "ANN ARBOR, MI — Researchers at the University of Michigan have been exploring the need to set ethics standards and policies when it comes to the use of artificial intelligence, and they now have their own place to do so. The university has created a new Center of Ethics, Society and Computing (ESC) that will focus on AI, data usage ..."
     publishedDateTime: 2020-01-23T17:10:00Z

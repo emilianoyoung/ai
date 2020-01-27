@@ -7,7 +7,7 @@ sourceUrl: https://www.geekwire.com/2020/washington-state-wants-regulate-artific
 ampUrl: https://www.geekwire.com/2020/washington-state-wants-regulate-artificial-intelligence-microsoft-lobbies-new-rules/amp/
 cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/washington-state-wants-regulate-artificial-intelligence-microsoft-lobbies-new-rules/amp/
 type: article
-quality: 75
+quality: 175
 heat: -1
 published: false
 
@@ -207,6 +207,6 @@ related:
       domain: lewistownsentinel.com
     quality: 17
 
-secured: "ywSfS1zsMdSO8t6Mzvg4Bsn2Mpvg3EBK6UJ9cEt2AbYOH2znfwJ3/+Jc75SzSvaaE08skJ+ZZiYT+8wnDf9PSIx9GniE7eewrpyMrVO+5d8DXONlnA6LRcAkjNQa1AR1XJNGkL9nDcew5XyqK1bZc/Yp3PPRJ1qZpfhINF2NVOi6KVL2Jw7u6wwGLZEaa4AQ/74IIajL8VSA06IyuUSJwCkJjmICftchXrcf1Xh+ImOTIOyn0BnyIudptyvu62WAocRG3CGOKyzNOtCwBwxN+I0IUXN7tezEFK329VaiBaWKVMQtMzSKJzSAkgUPt1XBrMHyeP3kcbRmoxOVAc5bJoGZR8UUpZ7zvV8ub6iHVtLpcWWyJ7wvE0MK0xv6oqelKqxVcm47Hj78db+FhczvQn1b5dwdhyVUlAsmKVGUxIyUKXVOsulWuFNzNOeSot62erAUm3VgE0u7NtvUMxw4nK3mnNJy7BLDV9fgiYMUZA0=;+CEYyFsjpqdlvPyZQhOOiQ=="
+secured: "YFbB48SGT4Pg0US/rkyALo0qGJ+sQDckhEgUKj8f6WdI38bUfcQG64sRBhou1Kjz7GsY4oV3q6C2f1iEaTtuOtK19/lP6dhrPbRw6M6gZxqMtUfmrD6xYJOskCwELUbe8U4JBcDve+WzoEqXfbL0EqRbGiXoe+zxpfWdtjjPPMCYi6haBzDXpRkYdEF9CbOGEk+jRTbVN600BWAoP10mrSmsTqqmyMVcr6BxbAagw7EIs6k8DXXq7IWp4AG8LIXlRjRooutVN7wW0sLHJ8V5WzoEEuzrZsngJF/fzGjFhBxf5HVtAyXicnEkrvnXPlvwEW+BiDcbzckNg1nYqfPtdV96rDd172kyDWjqxmw/lKgORjpQAALR6zhuQ+IT6gH+uwIb2uHVJbreBKFHU/uVQ+BCQLwe9oZiTiBK+OlMdeWPlxrnBWxGk92BlN172B/2FOoJSiWJG/r9lQ+f6e0T9tHxksQQJNSQiCeVpy68K8vTVa/AcR/WCF1sv7/m/tpA;i03cTk2mehFKW3AfoNd34w=="
 ---
 
