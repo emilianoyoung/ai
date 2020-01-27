@@ -20,15 +20,6 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Docomo invests in Otter.ai, to develop AI-based translation services"
-    excerpt: "Using Docomo's natural language processing technology, Mirai Translate is expected to offer precise machine translation between Japanese and English. Docomo plans to support the launch of Otter.ai within Japanese companies during the fiscal year 2020. In addition, Docomo seeks to develop advanced translation services capable of conveying the ..."
-    publishedDateTime: 2020-01-22T06:46:00Z
-    sourceUrl: https://www.telecompaper.com/news/docomo-invests-in-otterai-to-develop-ai-based-translation-services--1323596
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
   - title: "Neurala Partners with AviSight to Deliver AI-Powered Drone Inspections"
     excerpt: "AI-powered visual inspections pioneer Neurala today announced ... By allowing clients to immediately start shifting reactive maintenance to preventive maintenance, AviSight's solution delivers significant cost savings and most importantly, exponentially ..."
     publishedDateTime: 2020-01-23T13:37:00Z

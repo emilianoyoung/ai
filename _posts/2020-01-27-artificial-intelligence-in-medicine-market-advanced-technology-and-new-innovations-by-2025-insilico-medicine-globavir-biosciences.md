@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Top Players in AI Technology Market (2020-23) IBM, Amazon, Google, Intel and Facebook"

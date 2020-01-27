@@ -37,15 +37,6 @@ related:
       - url: https://www.embedded.com/wp-content/uploads/2020/01/img20200113094030NXP-unveils-first-i-MX-applicati_0.jpg
         width: 700
         height: 393
-  - title: "i.MX 8M Plus Features Dedicated Neural-Net Processing Unit"
-    excerpt: "Real-time support is courtesy of an 800-MHz Cortex-M7 and a a high-performance 800-MHz Tensilica audio HiFi 4 DSP. The latter can handle voice and natural language processing chores and supports Immersiv3D audio with Dolby Atmos and DTS:X. The chip also manages streaming video—a dual-camera image signal pocessor (ISP) and 3D GPU handle ..."
-    publishedDateTime: 2020-01-07T14:30:00Z
-    sourceUrl: https://www.electronicdesign.com/technologies/iot/article/21119867/imx-8m-plus-features-dedicated-neuralnet-processing-unit
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 4
 
 secured: "v/YtOqgE7c5B+Nq1Fqz02DebRh6JeMAecreuwKgMFrwSliZlCVqwMwYcJXT8UQGFXWZJ162CX76rSoK55cfc/XZAKMV288iZFajiIYcskflMS7YKFfi9aw9C8WwSGPUCNv9euiKuRdXbtVAC4SKQ7krMoOg1jFapW6M+dylutFm8bM8BV1YRN0vQ7P6nGeQOf5a+WGIEoscTHFYntiiHMxxEAgzbwP24mw8R6PTNs5DeUgWblaVogjG8FjcuL8gM7jykNMwOmKD7SgEeHtnA6Why8hvx+Lh5C98rI37Uoz8giJ87Re7u687c4NgOHHKtYnT3uQn/n0DzivuxCdzK6LgLlj9ecDOvdDEwgY+rsSLvn+t0g6c0APU388JKTLUxIEm0Kgv9Hhltetpj8TBDo8XH5TKb03Bl9AZo6kIgXLkaG7JNNbC/n+y7BqDleLm9l+AqIftI5KM7qlYX05znrw==;8Cs5f9eNizyjjnZ3loNZGQ=="
 ---

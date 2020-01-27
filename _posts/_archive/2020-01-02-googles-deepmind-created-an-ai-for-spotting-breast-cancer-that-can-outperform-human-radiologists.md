@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-02T10:52:00Z
 sourceUrl: https://www.businessinsider.com/deepmind-develops-ai-for-spotting-breast-cancer-2020-1
 type: article
 quality: 71
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -27,6 +27,23 @@ images:
     height: 600
     title: "Google's DeepMind created an AI for spotting breast cancer that can outperform human radiologists"
 
-secured: "CbHCUO2aucVrwlEuyMPGHN25hp2Z8jNncPq4+roujhSevjk6aFjF+OqPAG1BQzStbuZqriuIeIbPE+52lDodP2UOQIWuN/WZFQv2SKMwWDXWLB5gAase1QSacxYmpCogDTcsFvCtmXFSJhuU+ZURHpbn56VUQq3XkO3HlJFo3SVfOs/V2Q7Y5vcJp0QirgKvREQRXMNGHV2apfLaUxp9E0Zx4RQb8QudiWAEMq5nMaAVh8oKOtoBohEuwymIJxemBw/Gx2aSxbEbMqZIQPLgXRpvEs8YbLZ5ldZou5angJ8JDLTbnfSAeK1h0nLg9yee;K6fLsfKB3kwgLPolE5NDCw=="
+related:
+  - title: "Google's DeepMind A.I. beats doctors in breast cancer screening trial"
+    excerpt: "Google-owned DeepMind has already used AI to read eye scans and spot neck cancer. Artificial Intelligence (AI) powered by Google's DeepMind algorithm may be more accurate at spotting breast cancer ..."
+    publishedDateTime: 2020-01-02T13:14:00Z
+    sourceUrl: https://www.cnbc.com/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html
+    ampUrl: https://www.cnbc.com/amp/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html
+    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
+    images:
+      - url: https://image.cnbcfm.com/api/v1/image/105309601-1530639231576gettyimages-906007030.jpeg?v=1531154587
+        width: 5121
+        height: 3416
+
+secured: "Yp69va2yScFwTbaPhFEc/oap0Ph9cC9j8E+XoFAYNxmZssEk2qrtzCwviKu8MVqE2DFw3+SwlVCp+mJBkc4lppl6GCW802lIGsYGhRVbtwdKMPji1KtlZNIE3KLafIKHH0i476emHZ2zOjkK5mw4qMyEtN4CJG1Ca8SKvxd4xVK+VF7hbHEcAWRyBkuPNw+ARRbm4xCKmSK1eFYblTquIv9Qb+TBKIdtfd2+RSRr10CIcXdHXtjBHN00nunh0XqZKUhayJy8PTaW57fXwzQWzXL0sDTCWcJiXXn/8wEmv0D4vYtRG2Cp7R1oZEuAZ/GI;R51zimN3BqlqTRsuwP+JTw=="
 ---
 

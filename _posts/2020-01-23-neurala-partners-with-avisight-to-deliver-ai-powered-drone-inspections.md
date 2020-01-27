@@ -29,15 +29,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 32
-  - title: "Docomo invests in Otter.ai, to develop AI-based translation services"
-    excerpt: "Using Docomo's natural language processing technology, Mirai Translate is expected to offer precise machine translation between Japanese and English. Docomo plans to support the launch of Otter.ai within Japanese companies during the fiscal year 2020. In addition, Docomo seeks to develop advanced translation services capable of conveying the ..."
-    publishedDateTime: 2020-01-22T06:46:00Z
-    sourceUrl: https://www.telecompaper.com/news/docomo-invests-in-otterai-to-develop-ai-based-translation-services--1323596
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "jZSnRVR2nzSWSDZfikW3J0WKl/IJpvR9VIjIjNx0E/3xUPeAXor5KrSjd7HoZHvQiiRqJSXHTbf8Q9UnnRwNtYJjszIM/3ykDBZAANCci3L2RcqAwoxly+caEUFViUMfiR2CnEFn9/5Gzg1oRuFAsXxWLtnaGxI2xBsNJMKkbUiHTXET4SGQfpqUlxp+B9fXsk0mILI4wptq9RRjUhGhJOtl2tdWct5Q2U6lEu1UMKR1ekpD66VuUOUMfREmmNlYT4I9/snficu5I3x++ntPVZKur9m8XmkYiAKY12GQ6lxLyZOZoPI9GimAPOSpWDg8;R3Zey40ODMrSVETOTgvHqA=="
 ---

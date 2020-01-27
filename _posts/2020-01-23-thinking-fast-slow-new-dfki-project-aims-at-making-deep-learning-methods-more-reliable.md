@@ -65,6 +65,15 @@ related:
       - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-58053-z/MediaObjects/41598_2020_58053_Fig1_HTML.png
         width: 330
         height: 685
+  - title: "5G is fueling Manufacturing “Intelligence of Things” – Choice IoT Says Controlling Data Costs will be Essential"
+    excerpt: "The coming decade will feature a revolution in technology that will change everything. Ubiquitous 5G wireless capabilities are right around the corner and with them the “Intelligence of Things” – wireless connectivity combined with Artificial Intelligence. Industries that don’t prepare properly for the new technology are in danger of ..."
+    publishedDateTime: 2020-01-27T14:00:00Z
+    sourceUrl: https://www.manufacturingtomorrow.com/news/2020/01/27/5g-is-fueling-manufacturing-intelligence-of-things-–-choice-iot-says-controlling-data-costs-will-be-essential/14687/
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturingtomorrow.com
+    quality: 0
 
 secured: "JH5gc6UK09/M9VzxtRfdd6dE6tSnvpaIaK7W5cNxSAuyUy6XRnKjIXYh4ldfDaZ5pjo7bFFeUHMEi+FQyuGNwp/t2btPzK8fiRxqm3qGw5nOykSPQ/OTOK1++rUInZ/f5zNt2JtN8fgN0yrWh3Pts0jo2mbfq8H8xDSoTyrikiehH9qq5vf3I4YcOcaNIol/ueVmok1OY38ocTO6fMlb0EsPb4loOkFIIeHSAtGl5aOF92KCFtjzG2DM3GIzshyRM6lYD0+brHCQ+7RorofsDkf2mUCG4O/rmXP+Ij3CiaZEUnrF4CB7lbEXcKlWNlS8EMkn72EE+fUGj9rj+XDmIjM5lbVO3i5XrhjAelIHWy0eri1zvPjKLXKhlUgpDtt1Kc4uj2EJeTR88eJcEkOg0ei/VJsb3LkYhOKMFoD4cAi6KLZKatZeYnV+EeRCK5CHnZkYogE/TCKgn4ooW//x0vG2DZXyYm82A4F3YXNBh+U=;02uDor9EI69KF8J4cl1g7w=="
 ---

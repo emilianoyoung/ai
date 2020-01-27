@@ -101,6 +101,21 @@ related:
       - url: https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-an17lvrcpdqb5p53tj9j3rpdq2-20181017073142.Medi.jpeg
         width: 800
         height: 448
+  - title: "GM to invest $2.2B in Detroit to build electric and self-driving vehicles"
+    excerpt: "DETROIT—General Motors is spending $2.2 billion (U.S.) to refurbish an underused Detroit factory so it can build a series of electric and self-driving vehicles, eventually employing 2,000 people. GM said in a statement Monday that the factory will start ..."
+    publishedDateTime: 2020-01-27T15:52:00Z
+    sourceUrl: https://www.thestar.com/business/2020/01/27/gm-to-invest-22b-in-detroit-to-build-electric-and-self-driving-vehicles.html
+    ampUrl: https://www.thestar.com/amp/business/2020/01/27/gm-to-invest-22b-in-detroit-to-build-electric-and-self-driving-vehicles.html
+    cdnAmpUrl: https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/2020/01/27/gm-to-invest-22b-in-detroit-to-build-electric-and-self-driving-vehicles.html
+    type: article
+    provider:
+      name: Toronto Star
+      domain: thestar.com
+    quality: 43
+    images:
+      - url: https://images.thestar.com/ubGicgxAN7XcYMEtjqYlMEzp11w=/1200x800/smart/filters:cb(1580139692061)/https://www.thestar.com/content/dam/thestar/business/2020/01/27/gm-to-invest-22b-in-detroit-to-build-electric-and-self-driving-vehicles/gm.jpg
+        width: 1200
+        height: 800
   - title: "Report: Cruise Origin electric self-driving shuttle will be made in Detroit"
     excerpt: "General Motors is reportedly planning to build the Cruise Origin electric driverless shuttle at its Detroit-Hamtramck plant—the former assembly plant for the Chevrolet Volt, as well as the plant expected to make GM’s electric pickup and some of the 20 electric nameplates due by 2023. An employee letter sent by GM’s VP of global ..."
     publishedDateTime: 2020-01-24T19:45:00Z

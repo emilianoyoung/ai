@@ -39,34 +39,6 @@ related:
       - url: https://tr3.cbsistatic.com/hub/i/r/2020/01/10/b282fdc1-3853-444c-9942-fc7594b8e3a4/resize/1200x/5c975a45581745a7fdeb8be198c4c7db/20200110-ibm-dave-teena.jpg
         width: 1200
         height: 800
-  - title: "IBM launches Advertising Accelerator with Watson to automatically optimize campaigns with AI"
-    excerpt: "IBM hopes to ride the adoption wave with an offering powered by its Watson platform. IBM Advertising Accelerator, which launched today at the 2020 Consumer Electronics Show, leverages AI to predict the element combinations that drives the highest audience engagement and conversion. Watson automatically creates campaigns for customer segments ..."
-    publishedDateTime: 2020-01-07T15:00:00Z
-    sourceUrl: https://venturebeat.com/2020/01/07/ibm-launches-advertising-accelerator-with-watson-to-automatically-optimize-campaigns-with-ai/
-    ampUrl: https://venturebeat.com/2020/01/07/ibm-launches-advertising-accelerator-with-watson-to-automatically-optimize-campaigns-with-ai/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/07/ibm-launches-advertising-accelerator-with-watson-to-automatically-optimize-campaigns-with-ai/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 93
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all
-        width: 1200
-        height: 600
-  - title: "IBM Advertising Accelerator leverages artificial intelligence for optimum viewer engagement"
-    excerpt: "Powered by IBM Watson, the accelerator will use artificial intelligence to predict the best choice of creative elements to be used in advertising that will, in turn, translate into high engagement and conversion from the audience. Specifically, by leveraging artificial intelligence, three important factors while advertising will be enabled:"
-    publishedDateTime: 2020-01-07T14:18:00Z
-    sourceUrl: https://www.neowin.net/news/ibm-advertising-accelerator-leverages-artificial-intelligence-for-optimum-viewer-engagement
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 59
-    images:
-      - url: https://cdn.neow.in/news/images/uploaded/2017/03/1488544544_img_2239_story.jpg
-        width: 760
-        height: 428
   - title: "The AI Eye: VSBLTY Partners with News America Marketing, IBM Announces Advertising Accelerator with Watson and CEVA Partners with SiFive"
     excerpt: "Point Roberts, WA and Vancouver, BC - January 7, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,"
     publishedDateTime: 2020-01-07T16:57:00Z

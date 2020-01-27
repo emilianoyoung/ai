@@ -8,7 +8,7 @@ ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZG151
 cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZG151
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -45,19 +45,6 @@ related:
       - url: https://i.dailymail.co.uk/1s/2020/01/17/15/23526948-0-image-a-121_1579274069115.jpg
         width: 636
         height: 382
-  - title: "‘Rise of the killer robots: the future of war’"
-    excerpt: "Sir , – Laura Nolan deserves great credit for protesting Google’s role in the development of the US military’s artificial intelligence project Maven and for lobbying for a United Nations treaty to ban autonomous weapons (Joe Humphreys, “Rise of the killer robots: The future of war”, January 16th). Ms Nolan says she thinks that with ..."
-    publishedDateTime: 2020-01-20T00:30:00Z
-    sourceUrl: https://www.irishtimes.com/opinion/letters/rise-of-the-killer-robots-the-future-of-war-1.4144365
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 39
-    images:
-      - url: https://www.irishtimes.com/polopoly_fs/1.3619339.1536160376!/image/image.jpg
-        width: 1080
-        height: 564
   - title: "Nations dawdle on agreeing rules to control ‘killer robots’ in future wars"
     excerpt: "NAIROBI: Countries are rapidly developing \"killer robots\" – machines with artificial intelligence (AI) that independently kill – but are moving at a snail's pace on agreeing global rules over their use in future wars, warn technology and human rights experts. From drones and missiles to tanks and submarines, semi-autonomous weapons systems ..."
     publishedDateTime: 2020-01-19T22:35:00Z

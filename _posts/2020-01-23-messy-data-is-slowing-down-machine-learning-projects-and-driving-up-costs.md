@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/messy-data-is-slowing-do
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/messy-data-is-slowing-down-machine-learning-projects-and-driving-up-costs/
 type: article
 quality: 88
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -69,6 +69,15 @@ related:
       - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-58053-z/MediaObjects/41598_2020_58053_Fig1_HTML.png
         width: 330
         height: 685
+  - title: "5G is fueling Manufacturing “Intelligence of Things” – Choice IoT Says Controlling Data Costs will be Essential"
+    excerpt: "The coming decade will feature a revolution in technology that will change everything. Ubiquitous 5G wireless capabilities are right around the corner and with them the “Intelligence of Things” – wireless connectivity combined with Artificial Intelligence. Industries that don’t prepare properly for the new technology are in danger of ..."
+    publishedDateTime: 2020-01-27T14:00:00Z
+    sourceUrl: https://www.manufacturingtomorrow.com/news/2020/01/27/5g-is-fueling-manufacturing-intelligence-of-things-–-choice-iot-says-controlling-data-costs-will-be-essential/14687/
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturingtomorrow.com
+    quality: 0
 
 secured: "2NMxczxFwf87a+lb1BSQFooA2HTlkfF/xvv4TBTJDdhvEwZAY//Ww6JqqW+yAOnBfV8iPYusfZtCiINrD+q4C6m8DtYLF8VwoBaNdeDBltr2NeoBR86UYgNR/n2zyjPUKXmKlVnkXUmFhVzTyb790ZG3ME6hyBzTEWRiloA4vdrWCg1fimIm2Qq3j5oJhLg9uYBaYiAli4Udwo/fECcKLGDqvbzhhRsWZprT+qYMgWXRFluVlFiamrT8lXOyS/kf/V8it3FIIE/bQu9CeXLTuBUyIs4Tj62Gy/IaLzgNFzu1a2tGdGvijwd10gvJAjQN;+8OnYCB6QngoTPgQlYMfDw=="
 ---
