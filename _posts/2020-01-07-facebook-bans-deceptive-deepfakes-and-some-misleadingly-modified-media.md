@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2020/01/07/facebook-bans-deceptive-deepfakes-and-
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/07/facebook-bans-deceptive-deepfakes-and-some-misleadingly-modified-media/amp/
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -45,19 +45,6 @@ related:
       - url: https://www.gannett-cdn.com/presto/2019/04/26/USAT/32128b1f-352f-49ed-9d3d-83a48600d31f-RectThumb.png
         width: 1920
         height: 1080
-  - title: "Facebook to ban deepfakes, sources say"
-    excerpt: "\"These misleading videos were created using low-tech methods and did not rely on AI-based techniques ... according to the research firm Deeptrace Labs. Facebook and other tech firms last year ..."
-    publishedDateTime: 2020-01-07T05:08:00Z
-    sourceUrl: https://www.stripes.com/news/us/facebook-to-ban-deepfakes-sources-say-1.613757
-    type: article
-    provider:
-      name: Stars and Stripes
-      domain: stripes.com
-    quality: 24
-    images:
-      - url: https://www.stripes.com/polopoly_fs/1.613758.1578373332!/image/image.jpg_gen/derivatives/landscape_490/image.jpg
-        width: 490
-        height: 490
 
 secured: "RuyOm/d5um0f116VTUxLgtkONu5KIfeYY4YSd1r4C1kZ8Kw291uoGElgubg3GkSbX8ub+f1yTWsDV12R8+10mMgK595BzNzubVsY6FGLg8edYA67FI+I5SiRR4ln1zcrtAyjtOu/JNNa23rph4NU01fIQM9jccP8HP/yKt8AfvZs0a3lBFrTS6KgV6SqV8NCXvaVYkia/zxoVFK9axyS4CmtR7ZZ6gr8eCg9V5nKJlnB2fG71yKA2TWbAoPERdQ78UXW1pFrHcoaC23HI2V2MwctE7oq+7mDaHhmkTUYrQMi3XD09U90GYYlwIcUZCPr;v4iJZGF1LeHCAbhnK/GSKw=="
 ---

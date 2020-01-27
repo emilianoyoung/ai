@@ -41,19 +41,6 @@ related:
       - url: https://techcrunch.com/wp-content/uploads/2019/09/gettyimages-487867268.jpg?w=1024
         width: 1024
         height: 663
-  - title: "Facebook to ban deepfakes, sources say"
-    excerpt: "\"These misleading videos were created using low-tech methods and did not rely on AI-based techniques ... according to the research firm Deeptrace Labs. Facebook and other tech firms last year ..."
-    publishedDateTime: 2020-01-07T05:08:00Z
-    sourceUrl: https://www.stripes.com/news/us/facebook-to-ban-deepfakes-sources-say-1.613757
-    type: article
-    provider:
-      name: Stars and Stripes
-      domain: stripes.com
-    quality: 24
-    images:
-      - url: https://www.stripes.com/polopoly_fs/1.613758.1578373332!/image/image.jpg_gen/derivatives/landscape_490/image.jpg
-        width: 490
-        height: 490
 
 secured: "mJSlo4WIuF1bD9PnILiXQTFz/5ENHVawwyniYtjiJNzqG+gSqZ3VKG1GZkVMciDr+cIJxRqGOJxE7RmRx4elPLktcwiiias8C1RGwz8bCTVJN+iIabvsVL2c5CKJATXTg7rHhXRfy5ar/cuuN+u+2iVvJ25qHQ5ACcK9Jis41BGfbkJzs6byKck11WbKFuKGOSsrdzcaaA2F+/vEK4dY3ysEKN1hTz00cclev34rK42EMrNE2ey6E1cNDQiFK4dkehWrRsTnO926BOGPRFq0loFyJ3+hTY4EabcDcUwoGL237SLmjo8CRg2z474v4HHzeUxdJKS4YSHOt5oHNwa7T7aaK8PfT7PL4+9rPi7oZeRUMN5U6JQ9it4e8fhZezThENWn8U5iQBDm3gkhF2NwnCGRaBXAzhoKbGyQsQqQum8S2q9K81vs+QTwXBK0KkZTtfuw4/OLucYF9NS2I3K4fg==;AAoVRTgXgtespEi//Mmicw=="
 ---

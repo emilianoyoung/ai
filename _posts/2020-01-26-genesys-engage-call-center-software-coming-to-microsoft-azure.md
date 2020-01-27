@@ -1,31 +1,27 @@
 ---
 category: news
-title: "How Genesys is personalizing the customer experience with Engage, Azure and AI"
-excerpt: "on Microsoft Azure. According to the two companies, this combination will provide a secure cloud environment to help companies more easily leverage AI to address customer needs on any channel. Headquartered in Daly City, California, Genesys has more than 5,000 employees in nearly 60 offices worldwide. Every year, the company supports more than ..."
-publishedDateTime: 2020-01-23T15:21:00Z
-sourceUrl: https://news.microsoft.com/transform/how-genesys-is-personalizing-the-customer-experience-with-engage-azure-and-ai/
+title: "Genesys Engage call center software coming to Microsoft Azure"
+excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services ![|320x210](upload://l8VPxe2KNadH6qDHIMwvoo2OX3S.png)Genesys is a leading provider of call center solutions. The company delivers more than 70 billion customer interactions per year for ..."
+publishedDateTime: 2020-01-26T21:00:00Z
+sourceUrl: https://businesscomputingworld.co.uk/t/genesys-engage-call-center-software-coming-to-microsoft-azure/245116
 type: article
-quality: 50
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: /assets/images/organizations/microsoft.com-50x50.jpg
-      width: 50
-      height: 50
+  name: BCW
+  domain: businesscomputingworld.co.uk
 
 topics:
   - AI
   - Microsoft AI
 
 images:
-  - url: https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/382/2020/01/12-Body-Barry1-1024x461.jpg
-    width: 1024
-    height: 461
-    title: "How Genesys is personalizing the customer experience with Engage, Azure and AI"
+  - url: https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png
+    width: 320
+    height: 210
+    title: "Genesys Engage call center software coming to Microsoft Azure"
 
 related:
   - title: "Microsoft unveils new Azure Service, Genesys Engage"
@@ -69,19 +65,19 @@ related:
       - url: https://winbuzzer.com/wp-content/uploads/2020/01/MS-Nadella-SatyaGenesys-CEO-Bates-Tony-Microsoft.jpg
         width: 1024
         height: 803
-  - title: "Genesys Engage call center software coming to Microsoft Azure"
-    excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services ![|320x210](upload://l8VPxe2KNadH6qDHIMwvoo2OX3S.png)Genesys is a leading provider of call center solutions. The company delivers more than 70 billion customer interactions per year for ..."
-    publishedDateTime: 2020-01-26T21:00:00Z
-    sourceUrl: https://businesscomputingworld.co.uk/t/genesys-engage-call-center-software-coming-to-microsoft-azure/245116
+  - title: "How Genesys is personalizing the customer experience with Engage, Azure and AI"
+    excerpt: "on Microsoft Azure. According to the two companies, this combination will provide a secure cloud environment to help companies more easily leverage AI to address customer needs on any channel. Headquartered in Daly City, California, Genesys has more than 5,000 employees in nearly 60 offices worldwide. Every year, the company supports more than ..."
+    publishedDateTime: 2020-01-23T15:21:00Z
+    sourceUrl: https://news.microsoft.com/transform/how-genesys-is-personalizing-the-customer-experience-with-engage-azure-and-ai/
     type: article
     provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 54
+      name: Microsoft
+      domain: microsoft.com
+    quality: 50
     images:
-      - url: https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png
-        width: 320
-        height: 210
+      - url: https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/382/2020/01/12-Body-Barry1-1024x461.jpg
+        width: 1024
+        height: 461
   - title: "Microsoft Announces New Commitment to Renewable Energy—Greenpeace Response"
     excerpt: "Until today, Microsoft has largely relied on renewable energy credits to offset its use of dirty energy throughout its operations, including the massive data centers that power its Azure cloud. Microsoft’s commitment ... help fossil fuel companies drill more oil and gas with machine-learning and other AI technologies. Teaming up with Exxon ..."
     publishedDateTime: 2020-01-16T20:14:00Z
@@ -94,6 +90,6 @@ related:
       domain: commondreams.org
     quality: 37
 
-secured: "zzUDmfyX0CR/Tc4Jr05WVD9s8fd9mh/AWTa+kQQI06E/MjkYFVhhWBsOBtWTCSHP8uJX3RbpVDolX/OgEjUvJZDEZnIvRBS/CeZnMTq0iYcN2tygjtT3H9iPyxU/JWA5QROp2N31CUAjINM+Qr6rSmvn4cKoYxlQq5vV0letRn4rLTL9uEUhAyBaEGxmY+rX2eGR1YSNxww9sJLUmAyAX7leH1CUU3pSxSU9bR08NLsZaBJqVoojLVjOJ6we2cbm4ZbFkaQd5ylcL4qnXpLCc45mepObYyczaGrf2vy904/6R3SZIjQ9jJN2v6h7mgM1yuNcmuBx1DjuGARpLlqegSzjN/Hk6cIWFsPVgw7mbfYnv5zqz4LDQNd0rDABHf4hoSUOx33P1Vt1yvhs7UY1biSgmXgVmxI1158PsXO+UUptgznNH3IPQh3+I13k3Q8+IPFcgia5G9QIHxTbp5C1K6X1A45Vn0TThuc75wBcDeI=;3gC8S3YhUvp91NSyT3ud+g=="
+secured: "jOYo2a+ia3Z27a6uKlPwWcGae5wizTL90i1yfhuDXNlwZJ5m2P+C7C83omZjMRCXURhx1itEyJiAQ/xUIW4cTmNxtb7/bB3tgPnN5/D8nwZwj3isv6X/fJzaviMLyVAF4vSpgkxxEW9x0ip0X50v3Fec98XYzo4XptPseTjhPTwCYn1z2WOIfbPimpTtaDkqSRZS1DEKZRLQ0V/UTEZdvsJ9aPA7YN/bCZTL0GFx942oQYtwmTJEVfQ8hSE2L10VgjCDmoXiOVg9Gu+poh0BxdLPvsfWB7FgvFhqjG9zmb+SkhEYCGxEbO5wHT73gPkB;W4R4zlyz018rZE8LO/d95g=="
 ---
 

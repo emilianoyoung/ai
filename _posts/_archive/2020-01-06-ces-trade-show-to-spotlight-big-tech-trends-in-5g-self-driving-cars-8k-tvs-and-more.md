@@ -41,6 +41,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/11/1573720765750856_upscaled_image_x4-e1573743944240.jpg?fit=1200%2C600&strip=all
         width: 1200
         height: 600
+  - title: "3 Things That Sent Baidu Stock Soaring to Start 2020"
+    excerpt: "Baidu's Apollo self-driving car program is gearing up. Image source: Baidu. Word emerged on Tuesday that Baidu had been granted a license to test its Apollo driverless cars in Beijing, one of the ..."
+    publishedDateTime: 2020-01-02T20:42:00Z
+    sourceUrl: https://www.fool.com/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx
+    ampUrl: https://www.fool.com/amp/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx
+    cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 89
+    images:
+      - url: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F552284%2Fbaidu-self-driving-car-fleet.jpg&w=700&op=resize
+        width: 700
+        height: 393
   - title: "Baidu testing self-driving cars in Beijing"
     excerpt: "Baidu (BIDU-0.1%) has secured licenses to test self-driving vehicles carrying passengers on designated roads in Beijing, according to Venture Beat. The company's self-driving cars have traveled ..."
     publishedDateTime: 2019-12-31T18:38:00Z
@@ -51,6 +66,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "Z/0VKU2swMO91/z9i5lFXJZVEENiKrD5gVUHbfGalm29M94zGHJX2e6p408VoqiGT+1cCF41e8/7YwUWCiD4D1vOptN6Y0zfkvfJ9A19YdTJ+SKgKqDpOSKUwVGljoGW+e+AHNpKi0oI14/XkMJhrMTD7w3eiU6qc0o/h7r3lUE40ZGSGqvqHSXGlc1kMPqfD3Yfrvq93rhjgfZnL4kzuUsZ0mYovelSMpkSsMzoP/GM0cBjjVuiFnKCXWTtYd/PxY4grFl8JeSzp8gA7s8zvVt+8eXuDzzVV8Od9PDW8fYox04dMSxcESwy6Mdhw+3r;dv366NlgA6Lw0oum9hdj5A=="
+secured: "vB/x6SLE9pbRcCnXl/FnuDNqW+taGSb4/hoSXymOl/jyk6inv/8Lf4ounlmYPJbtNEZzAngGCLGKniVK2B25GOXKjoM1bGIBvDp139mNF9tgjVb+QWKQCuoR0H1Sx4oWR127wasSwaS2Nw+mZqTrX3EYAiq9VMAtWWBlBD+yVOW2GnZrOLN2/UFwFaAiOsATJgP1bHwGfk6LONPVZE09BXRWevi/yIhbw+6Blfp/7mlGpuUVqPyMcHXnhNaNmT60bj0Ke97CFk3AewTNKmkAYMtDeRMEMcwkSA/91DNfmQUsojOLnK2Dd7ia9ZwI6tVo;uQTdcaaFrj7+abV2le3kgQ=="
 ---
 

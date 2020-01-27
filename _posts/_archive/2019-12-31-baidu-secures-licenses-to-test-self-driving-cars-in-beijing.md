@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-d
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Baidu secures licenses to test self-driving cars in Beijing"
 
 related:
+  - title: "3 Things That Sent Baidu Stock Soaring to Start 2020"
+    excerpt: "Baidu's Apollo self-driving car program is gearing up. Image source: Baidu. Word emerged on Tuesday that Baidu had been granted a license to test its Apollo driverless cars in Beijing, one of the ..."
+    publishedDateTime: 2020-01-02T20:42:00Z
+    sourceUrl: https://www.fool.com/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx
+    ampUrl: https://www.fool.com/amp/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx
+    cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 89
+    images:
+      - url: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F552284%2Fbaidu-self-driving-car-fleet.jpg&w=700&op=resize
+        width: 700
+        height: 393
   - title: "CES trade show to spotlight big tech trends in 5G, self-driving cars, 8K TVs and more"
     excerpt: "Gigantic consumer electronics show in Las Vegas features about 40 San Diego companies showing off their latest technologies."
     publishedDateTime: 2020-01-06T14:06:00Z
@@ -55,6 +70,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "73lgXw8bdIf/NUpe9Mtqfny17flwEAURD4eoUxnWKQW5+hmm6yNftw4rlmF9q8K3wT3w2XTHyTcFWTBR+n78ossfWoFjxoHX+Pncn7soCYeH6LYuyzoKn3QiNW4sTky4XRisDgDdwUGX2SccSaPkSwzfB0ah+VaziAWMuiaMsrI4rd/bt0LCorxAIAn2oyKOAzFN4Q/grgSuslP2RWQzXiVwYwrzj+TcuLUu/f27PCchFAWHU6rUH5Ctaih/04GFkJLUeSVPdm+c0xBy72eFItOKNUn+9ipDa4J6MD3P2py5PG3+K8KFwgbECZptLWie;HwXGxNQL5XvKH9Hs5EHCOA=="
+secured: "kuOZGcEF9iMn85ykXxo8Aqpo8hbxqcQeFmvny5DmmqbL55rMDyfgj8UFc+9vW9qB5RTPR1bLfONdBo2SLulru8wrq2I5WgpK1+3WW5gEj+BCs5jKuDLa2jqcAHMXhip1vhByYKfiyJllsOLXBBWKjVxYilyjAKYkP7/GcssEloA1xGB8Kr4VB69Rdt5TBS23CvzEPfKWrdbi4NNnKdpH4gIfv79OrEgs3GG3vF5dMMmijjfh+0cbFVus6Ip/j6kHsRicfVcx448oJQmZ4rFjU6YgMLCIbxAVslLFi7rfFZhRYBx+oqqWWD+G0jN1omLk;pubycmr/u/8JP9kTbSqdeQ=="
 ---
 

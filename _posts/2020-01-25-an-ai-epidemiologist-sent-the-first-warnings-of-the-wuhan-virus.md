@@ -8,7 +8,7 @@ ampUrl: https://www.wired.com/story/ai-epidemiologist-wuhan-public-health-warnin
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-epidemiologist-wuhan-public-health-warnings/amp
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,19 @@ related:
       - url: https://cms.qz.com/wp-content/uploads/2020/01/wuhan-virus-outbreak-e1579994767750.jpg?quality=75&strip=all&w=1400
         width: 1400
         height: 799
+  - title: "AI Notified Outbreak of Wuhan Virus in December Even Before WHO"
+    excerpt: "However, with the advancement of technology, the world now has better information tools at its disposal than it did 17 years ago. A Toronto-based startup, Bluedot provides an AI-driven health monitoring platform that analyzes billions of data points. Launched in 2014, the venture alerted its clients to the outbreak of the Wuhan virus on ..."
+    publishedDateTime: 2020-01-27T06:51:00Z
+    sourceUrl: https://www.analyticsinsight.net/ai-notified-outbreak-wuhan-virus-december-even/
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
+    images:
+      - url: https://www.analyticsinsight.net/wp-content/uploads/2020/01/wuhan.jpg
+        width: 2300
+        height: 1533
 
 secured: "Ocr6vWcXp+wJd/fTeO/KP7PFgtnMTC2mje4Y7S039IUMVxoVrMNIOnRBVDw/sHc8Ie04VZ9QHcIOA+ovrMB3/oT0uJdDbO4gIKwCaBjN8AcENllWvdlVXKKQd0yqO26Akyrxx4HSVhrTxh8unMsmIchRvZ52DtRZHEHyKcrYK3TiOUpFFO2/RatkUWoB79lw57Dm2i4Rt86Q6COQhZgJflxadgGG4dpsWNWhjHrd9CvbLMLpCqgUxvD8vhCjCPyAiuizDyY2bt19SxaIl49DFtWlRybHDVlRLdNFK85OPHbUkQwVBPpZczF0o/LLIk1Cjp/BOd8Y9eJlWwywML6wtTWMrWfzfocr9KxODsqHQ68pUrpDvOOuxAVc5fhwGKYYJDxIPUoBUPFW+1c4m2pLsHtPRyN+TtxxyOjd/aPgiIBS4rEsf0s/cBL12sQElLN9AFrQpZ0QmI60gcIYhCs8Q+y8LIB/paS1FEdsT+lZ53k=;CRE8hA+E/BTlgyaDCVTbiQ=="
 ---

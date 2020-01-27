@@ -8,7 +8,7 @@ ampUrl: https://www.cnbc.com/amp/2020/01/02/googles-deepmind-ai-beats-doctors-in
 cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     height: 3416
     title: "Google's DeepMind A.I. beats doctors in breast cancer screening trial"
 
-secured: "Dvw9g0o9xkeiKOp022CaJMlB2Rri9MGFW8d69LC42dFYmIry2+8pTCkzbZaY8JyS3JXXI2rlG5TxwU4rFsX8RCnm0NeTbuBaSambmUTy3kmduC2adrZilwqFtgFYBo6ldnrJ0Q94CIXh3SUP6QAzv902QHPScArkhsMhmIGJewokIKQXtNhEGUTOdehT2OhlU+8iuUphN2Rf5bcuQvMETl9MchbHB9KxP/tcNiuO7wIUv5vty+TwcJlbooTXl1MBjpqRW3I2avJtadabv/+KrUwzS422zY++towNt4ZLONQsQDX2iBKL7mWtwuKy7xGp;B5Z+zK1XD3klY46ReWNmdA=="
+related:
+  - title: "Google's DeepMind created an AI for spotting breast cancer that can outperform human radiologists"
+    excerpt: "It indicates a way to close an interaction, or dismiss a notification. Google Health and DeepMind have created an AI tool capable of spotting breast cancer with as much accuracy as a human ..."
+    publishedDateTime: 2020-01-02T10:52:00Z
+    sourceUrl: https://www.businessinsider.com/deepmind-develops-ai-for-spotting-breast-cancer-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: https://i.insider.com/5e0dc2ff855cc233a169d124?width=1200&format=jpeg
+        width: 1200
+        height: 600
+
+secured: "3BVbJVMyzcTzCvHWg+XTdgHUhxNMCBbVVQcmOagjjbe1cOuBDstsp+pYLUIgeD8gGgArzF9aTp/nAFnQ/HKKl2UBI/vT3hmqyWVNgDgoiamnSBvQENrOMsAC2n3jo7juGFuN4LLoQKYcTyoRjkmMGdOynjiUIu53sQ8jW+C2sUKhJGBTkdafwIvujeMX4pLcnIeV+4gPwdNWsKFFjgXC096D7JRa9e+cL7qSy0XH2a77ika//XqsErAD8iOEFwTwJJ/L8gEK7UForJt90aYHuQzRKgkFP92Nyf4IjrkesxwS41bsXjJ6tZTG7AiIdZ89;kWYX5WoXT77MKFL92G1MPQ=="
 ---
 
