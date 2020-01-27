@@ -170,6 +170,19 @@ related:
       - url: https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/01/23/self-driving-waymo-chrysler-pacifica-minivans-and-long.jpg
         width: 1024
         height: 640
+  - title: "GM is revitalizing a factory that was on the brink of closing to build a new generation of electric and self-driving vehicles"
+    excerpt: "GM will invest $3 billion in Detroit-Hamtramck, a plant previously categorized as \"unallocated,\" to build electric and self-driving vehicles."
+    publishedDateTime: 2020-01-27T14:13:00Z
+    sourceUrl: https://www.businessinsider.com/gm-is-revitalizing-a-near-death-factory-to-build-electric-and-self-driving-cars-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 27
+    images:
+      - url: https://i.insider.com/5e27cca5b6d52d4b53130ed2?width=1200&format=jpeg
+        width: 1200
+        height: 600
   - title: "Self-Driving Vehicles Need a Reality Check"
     excerpt: "(TNS) — By all rights, Bryan Salesky might be the last guy you’d expect to hear managing expectations about fully self-driving vehicles becoming reality, and doing so in volume. As CEO of Argo AI, he helps lead the autonomous-vehicle programs for partners Ford Motor Co. and Volkswagen AG. He’s an early alum of Google’s self-driving ..."
     publishedDateTime: 2020-01-16T21:45:00Z

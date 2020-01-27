@@ -39,6 +39,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2020/01/Logo_-_updated.jpg?fit=1200%2C627&strip=all
         width: 1200
         height: 627
+  - title: "Gravyty raises $21 million for AI fundraising platform"
+    excerpt: "To help bolster their efforts, Adam Martel and Rich Palmer founded Gravyty in 2016, a Newton, Massachusetts-based startup leveraging AI and machine learning to help nonprofits reach their fundraising goals. In a vote of confidence this week in the startup’s efforts, investment firm K1 Investment Management announced a $21 million investment ..."
+    publishedDateTime: 2020-01-27T14:38:00Z
+    sourceUrl: https://venturebeat.com/2020/01/27/gravyty-raises-21-million-for-ai-fundraising-platform/
+    ampUrl: https://venturebeat.com/2020/01/27/gravyty-raises-21-million-for-ai-fundraising-platform/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/27/gravyty-raises-21-million-for-ai-fundraising-platform/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2020/01/stewardship-mac2.png?fit=1200%2C697&strip=all
+        width: 1200
+        height: 697
   - title: "Digital wealth manager Kristal.AI raises 6 million in Series A funding"
     excerpt: "The company started its business in Hong Kong since 2016 and now it is planning to use its Series A funding, to bring its AI-driven personalized wealth platform to more countries in APAC regions. Artificial Intelligence has long been hailed as the future of fintech, and Singapore-based digital wealth management platform Kristal.AI is proving ..."
     publishedDateTime: 2020-01-23T08:14:00Z

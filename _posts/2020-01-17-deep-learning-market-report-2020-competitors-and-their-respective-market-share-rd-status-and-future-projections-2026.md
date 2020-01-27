@@ -71,15 +71,6 @@ related:
       - url: https://www.abnewswire.com/uploads/1579605621.jpeg
         width: 800
         height: 435
-  - title: "Artificial Intelligence (AI) is the future in information and technology sectors - Analysis, size, business growth, trends and projections by 2025"
-    excerpt: "On the contrary, rise in the adoption of AI in emerging markets and the rapid development of smarter robots are expected to create lucrative opportunities in the near future. Access full summary report @ https://www.alliedmarketresearch.com/artificial-intelligence-market The global artificial intelligence (AI) market was pegged at $4.06 billion ..."
-    publishedDateTime: 2020-01-20T19:04:00Z
-    sourceUrl: https://www.openpr.com/news/1901705/artificial-intelligence-ai-is-the-future-in-information
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "3/c0lu74/tECsipJfXudAhnnpe1ba+d/9LGSwAdpVSXNding55Kg/GucHObQLATa5wISrjsDlWpBzz0OhcZuMcwufhmo98FUlZCT0qMaT0uNJXMqhpEppnLCRpDk3hxZqxWJzV8pN2+W+hGUrucLx4aPsd72kT2EiBNhF+pgWf/1OyBhdE0r9e7FPajIZdrnMk+dg2tH81s9a5K9t8bWhJYaHL7FZm+QfURr+TX2V4Ir5v0srGYevtBxpBbuwHNGacFT8L7k8NIBbNpNeKfdRCjatKlubKI8jopp9hzsmD4=;1cT+1vr1Y7DZdSPeSj4uxw=="
 ---

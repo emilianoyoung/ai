@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-27T03:34:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-telecommunication-market-advance-technology-research-and-innovation-in-technology-2020-01-26
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -27,29 +27,42 @@ images:
     title: "Artificial Intelligence in Telecommunication Market : Advance Technology Research and Innovation in Technology"
 
 related:
-  - title: "7 new ways golf instruction is embracing artificial intelligence and innovative technology"
-    excerpt: "ORLANDO -- Though golf has a tendency to move slower than most industries, the technology innovations we've seen this week beg to differ. Artificial intelligence and robotics have been terms perhaps thrown around in the past, implemented by only the biggest companies, but now we're actually seeing the results of intense research and development."
-    publishedDateTime: 2020-01-24T01:02:00Z
-    sourceUrl: https://www.golfdigest.com/story/7-new-ways-golf-instruction-is-embracing-artificial-intelligence-and-innovative-technology
-    ampUrl: https://www.golfdigest.com/story/7-new-ways-golf-instruction-is-embracing-artificial-intelligence-and-innovative-technology/amp
-    cdnAmpUrl: https://www-golfdigest-com.cdn.ampproject.org/c/s/www.golfdigest.com/story/7-new-ways-golf-instruction-is-embracing-artificial-intelligence-and-innovative-technology/amp
+  - title: "Artificial Intelligence in Medical Imaging 2020 Global Market – Innovation, Technologies, Applications, Verticals, Strategies & Forecasts"
+    excerpt: "“Artificial Intelligence in Medical Imaging Market” WiseGuyReports.Com Publish a New Market Research Report On –\" Artificial Intelligence in Medical Imaging"
+    publishedDateTime: 2020-01-27T08:50:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15186686/artificial-intelligence-in-medical-imaging-2020-global-market-innovation-technologies-application
+    ampUrl: https://amp.benzinga.com/amp/content/15186686
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15186686
     type: article
     provider:
-      name: Golf Digest
-      domain: golfdigest.com
-    quality: 49
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
     images:
-      - url: https://media.golfdigest.com/photos/5e2a231ec1210f000ae31815/master/pass/TrackMan%20Tracy.JPG
-        width: 6048
-        height: 4024
-  - title: "Artificial Intelligence in Medicine Market Advanced Technology and New Innovations by 2025 – InSilico Medicine, Globavir Biosciences"
-    excerpt: "Shortage of skilled healthcare professionals and increase in the processing power of AI systems that is projected to help improve the efficiency of drug discovery and management of clinical trials majorly drive the growth of the global artificial intelligence in medicine market. Furthermore, the growth in importance of precision medicine and ..."
-    publishedDateTime: 2020-01-27T13:02:00Z
-    sourceUrl: https://www.techworld.com.au/mediareleases/37938/artificial-intelligence-in-medicine-market/
+      - url: https://www.abnewswire.com/uploads/1580118163.jpeg
+        width: 466
+        height: 310
+  - title: "LSU computer science, biology researchers finalists in IBM technology competition"
+    excerpt: "The LSU team is a semifinalist for the IBM Watson AI XPRIZE, a $3 million cash prize to be used in research funding. In their research, they are using computer learning, or artificial intelligence, techniques and datasets of known chemical compounds to teach their program to pinpoint compounds that could be effective against specific bacteria."
+    publishedDateTime: 2020-01-24T19:48:00Z
+    sourceUrl: https://www.businessreport.com/article/lsu-computer-science-biology-researchers-finalists-in-ibm-technology-competition
     type: article
     provider:
-      name: Australian Techworld
-      domain: techworld.com.au
+      name: Baton Rouge Business Report
+      domain: businessreport.com
+    quality: 19
+    images:
+      - url: https://d46w5x9vt7qfg.cloudfront.net/businessreport/2014/11/Business-Report-Default-Social-Image.jpg
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) is the future in information and technology sectors - Analysis, size, business growth, trends and projections by 2025"
+    excerpt: "On the contrary, rise in the adoption of AI in emerging markets and the rapid development of smarter robots are expected to create lucrative opportunities in the near future. Access full summary report @ https://www.alliedmarketresearch.com/artificial-intelligence-market The global artificial intelligence (AI) market was pegged at $4.06 billion ..."
+    publishedDateTime: 2020-01-20T19:04:00Z
+    sourceUrl: https://www.openpr.com/news/1901705/artificial-intelligence-ai-is-the-future-in-information
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
     quality: 0
 
 secured: "BJzU2tyCKltnj9qtdbjaroRHvqkvLNnRi+T5HRnYUKiGiUPStEgYR7vTizadz4bBKp2SlSHaUYK7y/AoLydTGpwDhHIP7Q3WoQJB5eptLX+bCgk2rNQvvcJBS9ZMl/HvuPInvp4wOPHnXwuP9FnW2KE0/v5NsAfpnSZg5Os1Y1QhSL+v+2hq33aE4vpe1/F5aUf4YOvmHLf511w2Jd782OU5djEjUo2OeUEH5A868Ob59OX80W+iEW/Y8N6CDT0NdMIzSa2lLQW76y1E/Of2t1TwyhAzOZG76IJwAo4wfHqHkDhyHRdtvbKEnBuOs8Ps;6qBAKqrkbdjN4URecaYfNQ=="

@@ -39,6 +39,15 @@ related:
       - url: https://www.rapidtvnews.com/images/2020/Jan_2020/bundesliga_AWS_14Jan2020.jpg
         width: 788
         height: 337
+  - title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
+    excerpt: "Using other AWS ML services, including Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific ..."
+    publishedDateTime: 2020-01-13T13:28:00Z
+    sourceUrl: https://www.oaoa.com/news/business/article_bff64e43-c5a2-5acc-8ac2-6ada0e8d7d11.html
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 17
 
 secured: "5B+LQGlBmeCpMvzIes1poroJepaMDYBnBXe40ulDzH+EJGkObA4/CLfegpLe7SnLQ3VbrUmQXXu2PTgwl6MJqGz72TSfnlcq9MoQBWZhNXHQKByN3oR70MIg0YEqHhM8AD+9JQMthf9ReG+1MFkVEYkyqf+ZWd38dtkpflFBUgi05wrDBaeCLzgLg+K5RebvlerMqA0fubbrU0R/zn6L/Ir565GlM5UfEcOCxMr5hakfdNrBHOIhXnMcPlFsJ4BsNxE5zicujTWLoge75NtXU/zxDu0tdyP5TJ+5jzuy66PKFUONIuorN6XavItNz18nqgtkGGtHh40ZL/pC7Jp1oUhRn8OrWC8pkY57ng8bVAT7jGpE8c7X1sxaduN7kI3onVnDfltFF2sXyIb+Epqs5i+mjjvYm7bp5FDFFVzX3E0nLafjYTVUv5fDwPy1IjJu1w/wCft8ZnmWoTu9BcIFuw==;l5bqU3YfD7pmhy2iuJ5/gQ=="
 ---

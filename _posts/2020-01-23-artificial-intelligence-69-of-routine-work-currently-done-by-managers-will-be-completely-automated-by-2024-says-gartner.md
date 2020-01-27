@@ -49,6 +49,21 @@ related:
       - url: https://media.newstracklive.com/uploads/technology-news/science-and-technology-news/Jan/24/big_thumb/dftsfsdfsd_5e2aed4318f2e.JPG
         width: 771
         height: 675
+  - title: "AI Will Remove Managers? 69% Of Manager’s Work Will Be Done By AI; Chat Bots, Virtual Assistants Will Replace Managers?"
+    excerpt: "Organizations should start employing people who are disabled ... Poitevin said, “Restaurants are piloting AI robotics technology that enables paralyzed employees to control robotic waiters remotely. With technologies like braille-readers and virtual reality, organizations are more open to opportunities to employ a diverse workforce.”"
+    publishedDateTime: 2020-01-27T12:54:00Z
+    sourceUrl: https://trak.in/tags/business/2020/01/27/ai-will-remove-managers-69-of-managers-work-will-be-done-by-ai-chat-bots-virtual-assistants-will-replace-managers/
+    ampUrl: https://trak.in/tags/business/2020/01/27/ai-will-remove-managers-69-of-managers-work-will-be-done-by-ai-chat-bots-virtual-assistants-will-replace-managers/amp/
+    cdnAmpUrl: https://trak-in.cdn.ampproject.org/c/s/trak.in/tags/business/2020/01/27/ai-will-remove-managers-69-of-managers-work-will-be-done-by-ai-chat-bots-virtual-assistants-will-replace-managers/amp/
+    type: article
+    provider:
+      name: Trak.in - India Business Blog
+      domain: trak.in
+    quality: 35
+    images:
+      - url: https://trak.in/wp-content/uploads/2020/01/Untitled-design-20-1.jpg
+        width: 1000
+        height: 465
 
 secured: "f3/feWIS5MNxXsxfB45GBJ1wIes4QBKO+GkHtEkfM0aZtec0vNBGpUR/axuT1DVHF1KvQsVWrCzoTomTDoYJ0Hg6bICRCn4iPCq5A5uv+FgmXeX7Oky0NLbPexcuuiowqzYJxJAgz3WCdfX+usfC6e2kkBZAdKtmqnHfl1Y6xJdw1zLZmPbVsPyH1xl0YFuAVPJng86NWBndZOwKQvJBlYC5BXz7u+hUbRkSQ8ehdB9dvi3ZM0z2emsWC+2MVBdcfdIYkXjTRG5dT4rrrxoGOzDEdR/UxfABIDOEkGLkOIj5mxby736+7yDVQaVe7MMbpOz0ndk2i0KFneUjWCyKrBUKYFodGREjlJrKn5VdQvNWphs8oMsbC5QDtuo4THjisi5yo9q6G+auqNdkPwhvVU5q4YWnWoeRYOCHlrGI7xsaeERMK95BQRiNCY7nyIz0HMnJulY/7HPJv0NTSV3uiG8laI0mExiDOVWfxVNuFo4=;f7LWESl+R/6WzQkjIqGffw=="
 ---

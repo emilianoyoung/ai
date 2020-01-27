@@ -70,6 +70,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "lq0y5IYEk3RNhR3IM7RNinIwbSqWe8dgQuy3el63Lw1zPt4QHhND78TWZSbgdLn5Hlie4wNgr0gxqtbUimV4LTZ2dIH5oUbEUcC6DHQFQI4TDDHtDSuuik1laELdogdEwa7PjytN3hQQ75Ui1vklzTQKp3qk/4qV6lkdLq6vAKQZkEq/QjSIAwHvmEZbAslbclGsn8lPfvaGKecwqCtaYO3KIyuLyoELrd+gHECJdxcbnqmSVBd6RDGGUyC/iMVzVv6PCwevBPmJL4lu8iFfojdJh6APsMwiQSM1jL7QRpD7OG7ELgq7ie/SGe/17BCs;YlOewQtqpwd0+09yrQPwzA=="
+secured: "J05IdaQVQ3Ev/yYEfI72s/0+IkgDIMxn0elY8LA1DP7IZARySYyz5tM8TfOQh+BI7i225HtdfCX7Xv7B57CBajnF4XQnrItC/UTQyIC5WLJxmW8MEWvGnpvyb46gB1HYEUznzUV/1OIiZZTBxlPymi/N7C++PySTZN9doo4W27HHJXi47oj1yAa4YdOljIhDD1m8DT3GZ7esnsxXGt914NblUei1nxt9uijhrBbah/apPl+d3ZlFRIYHBLDp8sL+4oBBeUumPfb9ZEHZIlgZ6G/AjxZsNfZSVZ3n/Ts5A3V1N0y10l25BEgeyXvQ1Dtn;7vwYWRAJQWX1xcwgeXmKWQ=="
 ---
 

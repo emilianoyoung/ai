@@ -63,6 +63,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 1
+  - title: "Artificial Intelligence in Medicine Market Advanced Technology and New Innovations by 2025 – InSilico Medicine, Globavir Biosciences"
+    excerpt: "Market Growth Insight has announced the addition of the “Global Artificial Intelligence in Medicine Market Research Report 2018-2025” The report focuses on global major leading industry players with information such as company profiles, product picture and specification. The global artificial intelligence (AI) in medicine market was valued ..."
+    publishedDateTime: 2020-01-27T13:02:00Z
+    sourceUrl: https://www.techworld.com.au/mediareleases/37938/artificial-intelligence-in-medicine-market/
+    type: article
+    provider:
+      name: Australian Techworld
+      domain: techworld.com.au
+    quality: 0
 
 secured: "VP5wO2KJZP3ZyGSu2GdvJ0AlkgyEsIs5aSHWEH4rl4pRQJd+J9X4znawZ/2kpsIodFDHzbUAP16F/PoFtdzECLhnUEf00eQlIY5QJMvWG0P4A/T6T2bMHpMiq0CrM/lfUITNVqh6GBqa7aRdDw4CNppwU4bpEGG/USETAdXL0dSRMHQ2925mJmVS4WFcoEv1EPL8gZdGyEQz97Klq+KI2IAThQAx2jA7LuAhcA3bx8VQtWxkU2r6jQjk8/ZGEtV4kmK11R7Kh1sBw/4gxm+drI2fxiIwr9iWH2tDh8cuPZYL5dR5nX0ME8OjI0OwbZ3S;m5n9FoXyN12WQzEfoJmY7A=="
 ---

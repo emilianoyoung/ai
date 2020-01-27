@@ -42,6 +42,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2020/01/Logo_-_updated.jpg?fit=1200%2C627&strip=all
         width: 1200
         height: 627
+  - title: "Gravyty raises $21 million for AI fundraising platform"
+    excerpt: "To help bolster their efforts, Adam Martel and Rich Palmer founded Gravyty in 2016, a Newton, Massachusetts-based startup leveraging AI and machine learning to help nonprofits reach their fundraising goals. In a vote of confidence this week in the startup’s efforts, investment firm K1 Investment Management announced a $21 million investment ..."
+    publishedDateTime: 2020-01-27T14:38:00Z
+    sourceUrl: https://venturebeat.com/2020/01/27/gravyty-raises-21-million-for-ai-fundraising-platform/
+    ampUrl: https://venturebeat.com/2020/01/27/gravyty-raises-21-million-for-ai-fundraising-platform/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/27/gravyty-raises-21-million-for-ai-fundraising-platform/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2020/01/stewardship-mac2.png?fit=1200%2C697&strip=all
+        width: 1200
+        height: 697
   - title: "PTT, Mitsui team up for robotics, AI development"
     excerpt: "PTT Plc and Mitsui & Co (Thailand) Ltd have signed a cooperation agreement on the development of robotics and artificial intelligence (AI). The joint venture focuses on creating a value-based economy that is driven by innovation, digital systems, and high-tech automation in the industrial sector. PTT chief technology and engineering officer ..."
     publishedDateTime: 2020-01-21T15:52:00Z

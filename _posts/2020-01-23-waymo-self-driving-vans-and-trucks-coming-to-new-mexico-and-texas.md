@@ -8,7 +8,7 @@ ampUrl: https://www.slashgear.com/waymo-self-driving-vans-and-trucks-coming-to-n
 cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/waymo-self-driving-vans-and-trucks-coming-to-new-mexico-and-texas-23607495/amp/
 type: article
 quality: 89
-heat: 219
+heat: 229
 published: true
 
 provider:
@@ -170,6 +170,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "GM is revitalizing a factory that was on the brink of closing to build a new generation of electric and self-driving vehicles"
+    excerpt: "GM will invest $3 billion in Detroit-Hamtramck, a plant previously categorized as \"unallocated,\" to build electric and self-driving vehicles."
+    publishedDateTime: 2020-01-27T14:13:00Z
+    sourceUrl: https://www.businessinsider.com/gm-is-revitalizing-a-near-death-factory-to-build-electric-and-self-driving-cars-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 27
+    images:
+      - url: https://i.insider.com/5e27cca5b6d52d4b53130ed2?width=1200&format=jpeg
+        width: 1200
+        height: 600
   - title: "Self-Driving Vehicles Need a Reality Check"
     excerpt: "(TNS) — By all rights, Bryan Salesky might be the last guy you’d expect to hear managing expectations about fully self-driving vehicles becoming reality, and doing so in volume. As CEO of Argo AI, he helps lead the autonomous-vehicle programs for partners Ford Motor Co. and Volkswagen AG. He’s an early alum of Google’s self-driving ..."
     publishedDateTime: 2020-01-16T21:45:00Z

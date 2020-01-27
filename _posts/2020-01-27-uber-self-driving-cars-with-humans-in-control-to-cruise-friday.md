@@ -26,21 +26,90 @@ images:
     title: "Uber self-driving cars, with humans in control, to cruise Friday"
 
 related:
-  - title: "Uber will begin data collection for self-driving vehicles on Friday in Washington"
-    excerpt: "Uber Technologies Inc said Thursday the company will begin data collection for self-driving vehicles on Washington roads Friday with manual drivers behind the wheel, the first step toward potential future deployment."
-    publishedDateTime: 2020-01-23T19:45:00Z
-    sourceUrl: https://www.reuters.com/article/us-uber-self-driving/uber-will-begin-data-collection-for-self-driving-vehicles-on-friday-in-washington-idUSKBN1ZM2PH
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZM2PH
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZM2PH
+  - title: "General Motors to build Cruise Origin electric self-driving shuttle in Detroit"
+    excerpt: "The facility has been earmarked to build several all-electric models, starting with a pickup in late 2021. The plant was previously the home of the discontinued Chevrolet Volt plug-in hybrid and currently produces the Cadillac CT6 and Chevrolet Impala, which will bill both end production in February. Batteries for all of the vehicles will be ..."
+    publishedDateTime: 2020-01-27T14:56:00Z
+    sourceUrl: https://www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit
+    ampUrl: https://www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit.amp
+    cdnAmpUrl: https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit.amp
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
+      name: Fox News
+      domain: foxnews.com
+    quality: 70
     images:
-      - url: https://s4.reutersmedia.net/resources/r/?m=02&d=20200123&t=2&i=1480447771&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0M1ZY
-        width: 818
-        height: 545
+      - url: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/origin-3.jpg?ve=1&tl=1
+        width: 640
+        height: 320
+  - title: "This is Cruise Origin – a self-driving EV to kill Uber, Lyft and car ownership altogether"
+    excerpt: "Cruise doesn’t want to sell you an autonomous car, just rent you a seat in one, and the Cruise Origin is the self-driving electric vehicle it believes will coax drivers out from behind the steering wheel. Handiwork of Cruise, General Motors, and Honda, the Origin is no hopeful concept, the trio insists, but an actual production vehicle that ..."
+    publishedDateTime: 2020-01-22T01:17:00Z
+    sourceUrl: https://www.slashgear.com/cruise-origin-electric-autononous-shared-transport-gm-honda-revealed-21607372/
+    ampUrl: https://www.slashgear.com/cruise-origin-electric-autononous-shared-transport-gm-honda-revealed-21607372/amp/
+    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/cruise-origin-electric-autononous-shared-transport-gm-honda-revealed-21607372/amp/
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 65
+    images:
+      - url: https://scdn.slashgear.com/wp-content/uploads/2020/01/cruise-origin-05.jpg
+        width: 1680
+        height: 946
+  - title: "Cruise’s Origin: GM-Backed Startup Debuts A Self-Driving Electric Van For Robotaxi Service"
+    excerpt: "The autonomous tech startup is upbeat that it’s on track to launch a robotaxi service in San Francisco with a spacious battery-powered van–but isn't saying when."
+    publishedDateTime: 2020-01-22T03:45:00Z
+    sourceUrl: https://www.forbes.com/sites/alanohnsman/2020/01/21/cruises-origin-story-gm-backed-startup-debuts-a-self-driving-electric-van-for-robotaxi-service/
+    ampUrl: https://www.forbes.com/sites/alanohnsman/2020/01/21/cruises-origin-story-gm-backed-startup-debuts-a-self-driving-electric-van-for-robotaxi-service/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/01/21/cruises-origin-story-gm-backed-startup-debuts-a-self-driving-electric-van-for-robotaxi-service/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+    images:
+      - url: https://thumbor.forbes.com/thumbor/711x544/https://specials-images.forbesimg.com/imageserve/5e27bb58a854780006af293b/960x0.jpg?fit=scale
+        width: 711
+        height: 544
+  - title: "Cruise’s Origin: GM-Backed Startup Debuts Self-Driving Electric Van For Its Robotaxi Service"
+    excerpt: "The autonomous tech startup is upbeat that it’s on track to launch a robotaxi service in San Francisco with a spacious battery-powered van–but isn't saying when."
+    publishedDateTime: 2020-01-22T03:45:00Z
+    sourceUrl: https://www.forbes.com/sites/alanohnsman/2020/01/21/cruises-origin-story-gm-backed-startup-debuts-a-self-driving-electric-van-for-robotaxi-service/
+    ampUrl: https://www.forbes.com/sites/alanohnsman/2020/01/21/cruises-origin-story-gm-backed-startup-debuts-a-self-driving-electric-van-for-robotaxi-service/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/01/21/cruises-origin-story-gm-backed-startup-debuts-a-self-driving-electric-van-for-robotaxi-service/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 63
+    images:
+      - url: https://thumbor.forbes.com/thumbor/711x544/https://specials-images.forbesimg.com/imageserve/5e27bb58a854780006af293b/960x0.jpg?fit=scale
+        width: 711
+        height: 544
+  - title: "GM's Detroit-Hamtramck plant will build Cruise Origin self-driving shuttle"
+    excerpt: "GM's Detroit-Hamtramck plant will build Cruise Origin self-driving shuttle The automaker will lay out plans Monday to build self-driving and electric vehicles at the plant that had been targeted for closure Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/autos/general-motors/2020/01/24/gms-detroit-hamtramck ..."
+    publishedDateTime: 2020-01-24T15:08:00Z
+    sourceUrl: https://www.detroitnews.com/story/business/autos/general-motors/2020/01/24/gms-detroit-hamtramck-plant-build-cruise-origin-self-driving-shuttle/4546684002/
+    ampUrl: https://amp.detroitnews.com/amp/4546684002
+    cdnAmpUrl: https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4546684002
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 42
+    images:
+      - url: https://www.gannett-cdn.com/presto/2020/01/22/PDTN/4265128e-540f-4307-a3be-f6e3b826e6a1-1_ppQPCa8VrWrYChCDsch4XA.jpeg?auto=webp&crop=1521,855,x162,y616&format=pjpg&width=1200
+        width: 1200
+        height: 675
+  - title: "Report: Cruise Origin electric self-driving shuttle will be made in Detroit"
+    excerpt: "General Motors is reportedly planning to build the Cruise Origin electric driverless shuttle at its Detroit-Hamtramck plant—the former assembly plant for the Chevrolet Volt, as well as the plant expected to make GM’s electric pickup and some of the 20 electric nameplates due by 2023. An employee letter sent by GM’s VP of global ..."
+    publishedDateTime: 2020-01-24T19:45:00Z
+    sourceUrl: https://www.greencarreports.com/news/1126870_report-cruise-origin-electric-self-driving-shuttle-will-be-made-in-detroit
+    type: article
+    provider:
+      name: Green Car Reports
+      domain: greencarreports.com
+    quality: 2
 
 secured: "WkmDXmBJC5ROp6ihyvy5GLfdwtO3tBmdTgJv+RnqhX8PaLVVbpZbw0tqs3mrIodsA+a0Cj2zc2N6YrhGtxfOHwVW0DixdSGGyVv4uU83cK08qvN7ZWk7nf4jEVLUgamictX2lPOtG2eB76aaqjSOsfNVx4TQ6R3kXv9yByu5ZbsRdScYKuQVexdlFmptI3nch8uet3JeEkhFKCWOlxZqcbycocpvwkeRG2M4tx9UgotPENC1mGry3SviiToAbrsHVwPngZlKvYReV0+UtF9UcE6G3/OGQ8t1YY/j3jNMBa7LwIZ2W3Bt45zw4l5X4VJsRRpk9uy9T2J/59n5IcGli3kzeGqQxAT4Ex/nIxR7n6dDUz9PU7IxbBIBEQIQbpA2pEGAuKGu/uWZC8x0B4TuqbSb51ktVnqY3TjPGyw0IXzqMc1aTYVtI/cur/0BG/UUQ0/K7xhjKxdny0C3LLJywn91ZnM7LQJs8DG/hnnDri4=;hP7x9rRxnem+XBmSafn94Q=="
 ---

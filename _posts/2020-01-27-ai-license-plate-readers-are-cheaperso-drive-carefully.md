@@ -30,6 +30,6 @@ images:
     height: 1594
     title: "AI License Plate Readers Are Cheaper—So Drive Carefully"
 
-secured: "MweLkOe7Xt7PYQp8hD+A7RT19F7o8KCxYPC065DrDja5uv+mYdA7MJ9NTnBBtzToV/M+QooOmHP/1Du7UXskzm3gwcPJVsVILzzwyoFvih1pcWrPGKbgWcsVcGTHkI3KZMxdfQOI76xyuc5boOmXxI0NfPMY0piWLKvWakMO5Ir/m5n4zGcnib5lOyPYiM+NFwxaczkUKgtLRbs+m4DiyXzYQPA8h8c/7srBb+K1X5pS3x/1yd+0MDzvuc0g+a1WlkNufV53KrUh/f2eha2OqAmm1101MFUxqPFfa4CYgLdFManH4xI4579OnOE8HpO1;WqZvjnoFR2dZGp5V8DMaIw=="
+secured: "HKA10r+dTKKo+vmHTRY5MiNka5yyqJXKbaCFfs+eDOy3rwWs13zFh6glQjdnZLkqlCYTAuecdqeavy6Twt2tILPVmnRq2wZktL7dBOo7ZkF585Sp8S11e5sjXwMt+7THr3L4dpW/rLl7u8DjX4LDntvXtLPU/N5vA5lPR1r3s4GVy3gmxzcaLAXF9VdOH/mziSXGkOBr6JMxlOOySW5GXNV4qQqbKSCJGrz/544x/Lx/FdpngNTk44cPjTKvxjMvb2shJ5x2unFvh7GQo2n96vj0W0VH8gam5Q6/fR3QCmntWyrs5lBBcJuE26vvWnW0FZGjb/wwN/h93/byjj6l/INsYGFltUd5r+yZhmV1/gD3fMOlMetJmQuvUiaJGPZDqzcOtebKbxvYlCnmQTo0JtMlrDD+n3MzfBwC+MbX2mGwHqi7eaFammc7LUEygmLzWOBOurxnF6Fe2BQh/kOzJp5tmrtAgI3Syu5RiRVEQWc=;t88pK/hjDarJFJkrTLAs2w=="
 ---
 

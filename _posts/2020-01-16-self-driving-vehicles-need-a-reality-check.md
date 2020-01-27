@@ -175,6 +175,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "GM is revitalizing a factory that was on the brink of closing to build a new generation of electric and self-driving vehicles"
+    excerpt: "GM will invest $3 billion in Detroit-Hamtramck, a plant previously categorized as \"unallocated,\" to build electric and self-driving vehicles."
+    publishedDateTime: 2020-01-27T14:13:00Z
+    sourceUrl: https://www.businessinsider.com/gm-is-revitalizing-a-near-death-factory-to-build-electric-and-self-driving-cars-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 27
+    images:
+      - url: https://i.insider.com/5e27cca5b6d52d4b53130ed2?width=1200&format=jpeg
+        width: 1200
+        height: 600
   - title: "Uber Gets on Road to Self-Driving with Data Collection in DC"
     excerpt: "Now its adding another city to that list 一Washington DC. Starting on January 24, Uber will bring its self-driving cars to District roads for data collection. Importantly, these cars will be in manual driving mode 一 meaning a Mission Specialist (a specially trained vehicle operator) will maintain control of the vehicle at all times."
     publishedDateTime: 2020-01-26T20:02:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-22T09:44:00Z
 sourceUrl: https://www.marketwatch.com/press-release/top-players-in-ai-technology-market-2020-23-ibm-amazon-google-intel-and-facebook-2020-01-22
 type: article
 quality: 62
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 1
+  - title: "Artificial Intelligence in Medicine Market Advanced Technology and New Innovations by 2025 – InSilico Medicine, Globavir Biosciences"
+    excerpt: "Market Growth Insight has announced the addition of the “Global Artificial Intelligence in Medicine Market Research Report 2018-2025” The report focuses on global major leading industry players with information such as company profiles, product picture and specification. The global artificial intelligence (AI) in medicine market was valued ..."
+    publishedDateTime: 2020-01-27T13:02:00Z
+    sourceUrl: https://www.techworld.com.au/mediareleases/37938/artificial-intelligence-in-medicine-market/
+    type: article
+    provider:
+      name: Australian Techworld
+      domain: techworld.com.au
+    quality: 0
 
 secured: "IADk6rtb/X8IfGpPbAQwWDeTVSQDuRSeOrOKJ9x4kM+nA3yUey+UeEnJpUyGHGeGUQAKqJrgJrpRefOqa2aj6k3iIxJwnnN8ercqA/7M2M0cxrUPHcE7nGYjUlXbzUps4mrALBOfovt6c00zJ2IgsBZMmvOhAj20H64k2xLGr9128I/DKbzFJ3aMx5Y8pPbWEFeqw4GWDJXnsf47Lzajq+g9NF1Y8dmsullvtEAbV9XF11/CjmN/jiBQdtZvOl8nZ/r9qxNgCyxB+jFJo/tF7VNtywH/zBkhSkiH7PqD3Io=;nfhN7D8SofqdrpuqCIUuug=="
 ---

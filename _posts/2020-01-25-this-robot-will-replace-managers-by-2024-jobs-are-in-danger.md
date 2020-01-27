@@ -41,6 +41,21 @@ related:
       - url: https://media.newstracklive.com/uploads/technology-news/gadgets-news-info/Jan/26/big_thumb/sdtyfstyfsf_5e2d2d0e90399.JPG
         width: 1122
         height: 675
+  - title: "AI Will Remove Managers? 69% Of Manager’s Work Will Be Done By AI; Chat Bots, Virtual Assistants Will Replace Managers?"
+    excerpt: "Organizations should start employing people who are disabled ... Poitevin said, “Restaurants are piloting AI robotics technology that enables paralyzed employees to control robotic waiters remotely. With technologies like braille-readers and virtual reality, organizations are more open to opportunities to employ a diverse workforce.”"
+    publishedDateTime: 2020-01-27T12:54:00Z
+    sourceUrl: https://trak.in/tags/business/2020/01/27/ai-will-remove-managers-69-of-managers-work-will-be-done-by-ai-chat-bots-virtual-assistants-will-replace-managers/
+    ampUrl: https://trak.in/tags/business/2020/01/27/ai-will-remove-managers-69-of-managers-work-will-be-done-by-ai-chat-bots-virtual-assistants-will-replace-managers/amp/
+    cdnAmpUrl: https://trak-in.cdn.ampproject.org/c/s/trak.in/tags/business/2020/01/27/ai-will-remove-managers-69-of-managers-work-will-be-done-by-ai-chat-bots-virtual-assistants-will-replace-managers/amp/
+    type: article
+    provider:
+      name: Trak.in - India Business Blog
+      domain: trak.in
+    quality: 35
+    images:
+      - url: https://trak.in/wp-content/uploads/2020/01/Untitled-design-20-1.jpg
+        width: 1000
+        height: 465
   - title: "Artificial Intelligence: 69% of routine work currently done by managers will be completely automated by 2024, says Gartner"
     excerpt: "By 2024, artificial intelligence (AI) and emerging technologies such as virtual personal assistants and chatbots will replace almost 69 per cent of the manager’s workload, predicts research and advisory firm Gartner, Inc. Such technologies are rapidly making headway into the workplace, Gartner said. “The role of manager will see a complete ..."
     publishedDateTime: 2020-01-23T08:39:00Z
