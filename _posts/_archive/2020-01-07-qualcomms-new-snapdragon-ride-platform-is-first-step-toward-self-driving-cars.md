@@ -25,6 +25,6 @@ images:
     height: 209
     title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
 
-secured: "KYu3I+KCuQduVhEE1e4rVDnXmPL2/SZJy/dZa/v48WYg536tyhWFl0lIblgEUpoBtPW5HV2pJBawBwOUdsxY91vdzg7nrMqh6CZt8wqF6hn3qCrl4y8KXrg7mlZxBG9Ew0nuaEtvy94jGojOgzApHf22Lp9WLArCVwxrhQv1nLm2qtFdBBtCWfpPIrudWBxyEq7RQfCSSh7kx8pjuG1DfaCtct4YSa6nZFsupgoZk/xeaXfiftG88rw/eta9+HUQaWkLNnNLvcXvaY+VMSZJE2jUb28zUgMcMutFef6OwBvzw5tmHxeeX0Kks5cmhsE6;4tNzsAAn563Xp6+jBi+dIA=="
+secured: "Dnc5AGbYCfA3xXfEwYkTXA/YBFrSEQP0DXcd4Q8SBxnxcZdT+p70AghTY8dQBG91pJhCkB8wTLPWlyVOKWig8PrQg8k1z+6rIl0og6W3INzxOw+bAH4xiyL7vMOWUYa7NcEJShimPW+ebhiozf6CJd/jIOjg2sex0roZ/vCW3QXRRvzGsJQH+IXkqy8I6/Rz2IC4RryK7uvGeie+3a/qXJYjhg3S4Zp2whz9yNCfrFjrN1viCerluxU/IlDP2XIyufCn0ensA/kRUFYM64o7EWIrLJav7P47Vu7ga8YJnk/kafeONA4h1cTtdZfdPRnk;0tKvav0AtjN8W+hfyvltnA=="
 ---
 

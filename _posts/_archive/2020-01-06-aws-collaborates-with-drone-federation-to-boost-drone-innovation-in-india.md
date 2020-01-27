@@ -1,14 +1,14 @@
 ---
 category: news
 title: "AWS collaborates with Drone Federation to boost drone innovation in India"
-excerpt: "Ltd. “With the breadth and depth of AWS Cloud services across industry-leading compute, storage, database, IoT, artificial intelligence, and machine learning, drone developers and operators can now test new ideas quickly, and accelerate innovation in the ..."
+excerpt: "Ltd. “With the breadth and depth of AWS Cloud services across industry-leading compute, storage, database, IoT, artificial intelligence, and machine learning, drone developers and operators can now test new ideas quickly, and accelerate innovation in the application development that better serve citizens and impact society positively.\""
 publishedDateTime: 2020-01-06T13:56:00Z
 sourceUrl: https://www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india-11578317708207.html
 ampUrl: https://www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india/amp-11578317708207.html
 cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india/amp-11578317708207.html
 type: article
 quality: 58
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -54,7 +54,20 @@ related:
       - url: https://www.cxotoday.com/wp-content/uploads/2020/01/drones-pic.jpg
         width: 599
         height: 450
+  - title: "New image sensor evaluation kits to spark innovation with miniature cameras in consumer applications"
+    excerpt: "Raspberry Pi and Arduino based NanEyeC evaluation kits support implementation of eye tracking, presence detection and object recognition in products such as virtual reality headsets, smart lighting and Home and Building Automation Premstaetten, Austria ..."
+    publishedDateTime: 2020-01-03T14:43:00Z
+    sourceUrl: https://www.eejournal.com/industry_news/new-image-sensor-evaluation-kits-to-spark-innovation-with-miniature-cameras-in-consumer-applications/
+    type: article
+    provider:
+      name: Electronic Engineering Journal
+      domain: eejournal.com
+    quality: 9
+    images:
+      - url: https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png
+        width: 512
+        height: 512
 
-secured: "7fy/wgflUWVB/PXwBv0CTLVlnmjOnww2a3GK2M/RMPpDTGXsg1iQPKHN+Yao07fIeKV47cLzLgIpNi1IJnZRotGM407kkZl7M4AQTaUXdkujgN88TRT3Ib8ztPtQqfacMF1Ue6xk6DlBKiB4tuPKreM0Qy7SbNVWwG1W9heQYQwAFW+RBmFcGr5CJvR7NgVPcs9AKy6XJoHjnU8IjKhiClza5anhCwT4KOGL1+Lw38PIEysgGEGrkeNwenKFDJLk61q3/SaCVtUVEQkMWlzH+DD0hr2h9ABQ06jPxHP4/fkjH+W9XcPkfX9leyezQdxb;0zWbT+eQSIiR6kN6GT549A=="
+secured: "h9d+SfEiTxaMSOmmKDZPZoOrxFF2fgTpWLuYYOuGsKKCkCGSeyGdYZsqtN/JknUFNH7sfCS3m4ztjKQj7XxyY71pUeZT3pdxGLxcfVVRYhP/1cfCTb19qxA9WHi6+NqCd25SUUT88YjOXEGKGQxX3uFehtIHu5bIo8F6+qX1vRuQD03LUUGzMQhn3shMwxYrcrPe2JPD0APvhdT4CXZHI22AcDHCY60tfqzkB4IvFYt77sAmRPEmllYu38hctqLokEVwptSaXMCqtbjSYnVGWsNxCkfqyuFTF3WYZnMTjCCdagukdO73bN+bq/4oAU72;0c7yDrp2WDyzsM/G3dSPyA=="
 ---
 

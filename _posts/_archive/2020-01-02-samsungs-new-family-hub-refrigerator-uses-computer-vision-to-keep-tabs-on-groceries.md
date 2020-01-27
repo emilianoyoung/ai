@@ -29,6 +29,6 @@ images:
     height: 600
     title: "Samsung’s new Family Hub refrigerator uses computer vision to keep tabs on groceries"
 
-secured: "TQrgFIxZ8O8qFmg5gEp5K1pNP0v6lXFFobyBhdo9cXeyOwdhOlsILWG9QPBTNY/XhVqPTexqP2BzSan4N+871KuHFkgMty1JhOEg2QqHyD7olJyuySSmtU4ThvOwpvr/E4IrarMrjrzRPfWmhh2ilTTsuaql/h7cv7aXqLOvZp5xKfrRvkRnLTLIXHcMM7A2tnViAcW54Bdl5wEEqWx2734bZEBPP6PhLDDC3Rgt+AjIqX/lGcKXbYiT//OR4/O3D5DltOrVGnWxlz0euJTyu0BJBenLl2HMJK+c8PDXcRfTWr59p2WcebUg0H3Cl3vI;LvKCBiADzVzaNFBhEpQDqA=="
+secured: "7JAMAH3inT4cisRlF+c/1g6eZi9qdbjN0eh901Q+VihR/3d6rVT5qCm+lYb0vrHSwr4oiCLhJ8TWdn1DdlumkSl7hVyS+oEfRexGnFsiyLmOOL3eB8sMlKg3eCJEiXiUn6Q9CmribrHiC+1hHsFsX8i1aVOzweTbg5aS+FCd15OJppVHfJUpLzqtcxAMI4AqdkCtucnS2/u/FeAAdUxtyLiOASR2ph/TVEroZmgdxqfci7Y0je54RyEGMJjgvhnzG7UK7RhRgh1LZXEiGO9LiZA07SpbO/M2AT4DraBjI4LRiSZ7iEpieH3sb3XuBNjp;9xA0CG2fZO0/kVNIi9Wj3g=="
 ---
 

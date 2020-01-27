@@ -18,6 +18,21 @@ topics:
   - AI in Robotics
 
 related:
+  - title: "Ole Miss students get meals delivered by robots"
+    excerpt: "“We are excited about the expansion of our mobile ordering operation and the new opportunities this partnership creates.” The robots use a combination of sophisticated machine learning, artificial intelligence and sensors to travel on sidewalks and navigate around obstacles. The computer vision-based navigation helps the robots to map their ..."
+    publishedDateTime: 2020-01-27T21:48:00Z
+    sourceUrl: https://www.gpsworld.com/ole-miss-students-get-meals-delivered-by-robots/
+    ampUrl: https://www.gpsworld.com/ole-miss-students-get-meals-delivered-by-robots/amp/
+    cdnAmpUrl: https://www-gpsworld-com.cdn.ampproject.org/c/s/www.gpsworld.com/ole-miss-students-get-meals-delivered-by-robots/amp/
+    type: article
+    provider:
+      name: GPS World
+      domain: gpsworld.com
+    quality: 59
+    images:
+      - url: https://www.gpsworld.com/wp-content/uploads/Ole-Miss-Starship-robot-W.jpg
+        width: 600
+        height: 337
   - title: "Food delivery robots take over Ole Miss campus"
     excerpt: "The robots can carry up to 20 pounds of food and drinks. Deliveries typically take just minutes. The robots use artificial intelligence and sensors to travel on sidewalks and navigate around any obstacles. They can even drive over curbs, across streets and through rain or snow. In case of any issues, a human can take control of the machine ..."
     publishedDateTime: 2020-01-22T23:31:00Z

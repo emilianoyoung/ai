@@ -453,6 +453,21 @@ related:
       - url: https://i2.wp.com/metro.co.uk/wp-content/uploads/2020/01/PRI_118868082.jpg?quality=90&strip=all&zoom=1&resize=600%2C400&ssl=1
         width: 600
         height: 400
+  - title: "Government privacy watchdog under pressure to recommend facial recognition ban"
+    excerpt: "The Privacy and Civil Liberties Oversight Board (PCLOB), an independent agency, is coming under increasing pressure to recommend the federal government stop using facial recognition."
+    publishedDateTime: 2020-01-27T21:31:00Z
+    sourceUrl: https://thehill.com/policy/technology/480152-government-privacy-watchdog-under-pressure-to-recommend-facial-recognition
+    ampUrl: https://thehill.com/policy/technology/480152-government-privacy-watchdog-under-pressure-to-recommend-facial-recognition?amp
+    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/480152-government-privacy-watchdog-under-pressure-to-recommend-facial-recognition?amp
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 55
+    images:
+      - url: https://thehill.com/sites/default/files/blogs/facescan_facialrecognition_020314thinkstock.jpg
+        width: 645
+        height: 363
   - title: "Hundreds of US police departments using 'dystopian' face recognition app: report"
     excerpt: "A new report in US media has people worried about their privacy as more police forces sign on to use the program. Clearview AI offers facial recognition software that can identify a person even in poor-quality images. An explosive new US media report published on Saturday revealed that a secretive company has been selling the world's most ..."
     publishedDateTime: 2020-01-18T18:42:00Z
