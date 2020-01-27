@@ -27,6 +27,6 @@ images:
     height: 600
     title: "Google's DeepMind created an AI for spotting breast cancer that can outperform human radiologists"
 
-secured: "xZeNY4L0e9MLgWnfmU6oE2QRorL8C4PyicwOV4J2VFFut1WCjcNL0saeLUU549/gy3K2URewJRdkHfyB4lojypjFtEh6BZmZbnFAXkK0m1pv62D0PLv7/MQxpfGombMx3gZdXFYrrWEJlGE9yqyE/VYReR6c3KT/PP4HOXpo0DbwhkxuZWBGLraxOfQfhKzIYgDgnr9spTRq/EF2Lk8xrfSeGXgoidhTljGc26wVcOpgFhRUaWQbInf38m25SZytNYNQvrD71Z8fi+/jrcE/UadtncNezWdCIylbAdGy7VPjGVq5NharPbJbzO4tfH5A;0B1FlqXSknbK5mliTk+AYA=="
+secured: "Ou158sZp+EpVCxWCI2GsX3CdD3IZ/xE6ssKJaNFsEVjBkFT1ke9VZFUh3ws9/R3cOvw9HnCU4ALfmPjX7Tcnmtjr645pa/3SqOB/E8cbz/w/33gmCKfr6a7xFwux9KtvrbFajc/6GjDO3PijihBfhFyRDiB4XgPoOEBtbqcqycbfohWpjoFA+/Nb9xrgjnSmQsP7sHOB0uAcxfdk1lvXA9JO6vIaVnmlneo2AKp7NABc5u5HMmE552f0/dJmHDhNXlxp8KlGPYa8kEvjGxI84X6qL169lQqJBVrQup1PFqYAFEeO7whwUY9y9T9gQAwu;rwwjYBlyvZgNvW9gvZ/MUw=="
 ---
 

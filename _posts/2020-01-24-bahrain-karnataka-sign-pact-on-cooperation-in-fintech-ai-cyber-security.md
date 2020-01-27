@@ -8,7 +8,7 @@ ampUrl: https://www.moneycontrol.com/news/business/bahrain-karnataka-sign-pact-o
 cdnAmpUrl: https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/bahrain-karnataka-sign-pact-on-cooperation-in-fintech-ai-cyber-security-4853121.html/amp
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,19 @@ images:
     title: "Bahrain, Karnataka sign pact on cooperation in fintech, AI, cyber security"
 
 related:
+  - title: "Bahrain and Karnataka sign MoU for FinTech, AI, IoT and Cyber-Security"
+    excerpt: "The Bahrain Economic Development Board (EDB) and the Government of Karnataka’s Department of Information Technology, Biotechnology, and Science & Technology have signed a Memorandum of Understanding (MoU) to promote cooperation in AI, FinTech and other areas of emerging technologies while fostering innovation and startup growth. The agreement ..."
+    publishedDateTime: 2020-01-27T11:22:00Z
+    sourceUrl: https://ibsintelligence.com/ibs-journal/ibs-news/bahrain-and-karnataka-sign-mou-for-fintech-ai-iot-and-cyber-security/
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: https://32thcv3s4g2f4bru3o3jkumf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/Bahrain-EBD2.jpg
+        width: 264
+        height: 264
   - title: "Pseudonymisation high on the agenda on day two of the International CPDP Data Protection and Artificial Intelligence Conference"
     excerpt: "/PRNewswire/ -- An industry led discussion on the implementation of pseudonymisation as a technological safeguard alongside data protection legislation was"
     publishedDateTime: 2020-01-24T06:00:00Z

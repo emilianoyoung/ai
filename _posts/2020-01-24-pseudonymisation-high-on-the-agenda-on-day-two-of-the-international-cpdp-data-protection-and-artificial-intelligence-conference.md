@@ -38,6 +38,19 @@ related:
       - url: https://static-news.moneycontrol.com/static-mcnews/2018/10/tax-assessment-378x213.jpg
         width: 378
         height: 213
+  - title: "Bahrain and Karnataka sign MoU for FinTech, AI, IoT and Cyber-Security"
+    excerpt: "The Bahrain Economic Development Board (EDB) and the Government of Karnataka’s Department of Information Technology, Biotechnology, and Science & Technology have signed a Memorandum of Understanding (MoU) to promote cooperation in AI, FinTech and other areas of emerging technologies while fostering innovation and startup growth. The agreement ..."
+    publishedDateTime: 2020-01-27T11:22:00Z
+    sourceUrl: https://ibsintelligence.com/ibs-journal/ibs-news/bahrain-and-karnataka-sign-mou-for-fintech-ai-iot-and-cyber-security/
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: https://32thcv3s4g2f4bru3o3jkumf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/Bahrain-EBD2.jpg
+        width: 264
+        height: 264
   - title: "Bahrain and Karnataka sign Memorandum of Understanding promoting cooperation in Fintech, AI, IoT and cyber-security"
     excerpt: "Build robust FinTech, Artificial Intelligence (AI), Internet of Things (IoT) and Cybersecurity ecosystems where startups and technology firms engage in external partnerships with corporates ..."
     publishedDateTime: 2020-01-24T11:26:00Z

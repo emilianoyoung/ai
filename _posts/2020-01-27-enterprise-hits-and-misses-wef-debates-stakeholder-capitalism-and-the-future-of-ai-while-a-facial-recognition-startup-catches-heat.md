@@ -25,6 +25,6 @@ images:
     height: 283
     title: "Enterprise hits and misses - WEF debates stakeholder capitalism and the future of AI, while a facial recognition startup catches heat"
 
-secured: "Oebq0tx5x8DYKf0upB3hzC54kJUp6i3CvvVu81pwIidlwbx/2Kp2zfqrA4ZRgxD+9oiYEUPv6HYERb89aYbdPmhIvmsPho+ywdA0xI9c37rAIiBZpRO+W7QLt3ZluTGyZ0V1Q60ZcGg3jVCr/gNrwFpUmcLxItb0DDdSMcNItwoqETUtNeIa8hNicW8zbuXivp4fVdef4aUX6Ic6IOiF3T/nZjdcc231HIbf8Qx5E07/2p3qIP/RUFIVmBHIrkzi9EWhPdgjZ8hEiEHym/rnK196oLorXOs4S9wz4aOrFraGKaYE275SljXPJoKpoIbb;U3fIEfwr9KCETD+/zurydQ=="
+secured: "BPFz2DWwJS7Y9xGpj83P1BB6/z2UtJ/28RBSURuJ7TBdcj8mzO5YnbJPXM4LMrNmGGqBrhL9kJQIVA67tCLA6Xw5Z2vQnGfgTjiru+1Jiz+V+ni1jkErgZoQnqkH/ZsevXXHr8i5R3OfcxxChSaZXaKr+6f9zHvc8m579RnqhujbgcRYMyotnF/hQyS90x2u5eZIvIGA3nAnAxyzYLKLxUFJLvdIkVJVOJmWc4eZE29OUn8fz69pPuiVLQHevTuEul3raj4a4yz3QIxffTpU4VZS3Rv+xXF/fKVN3YEXKI1je1HLR6m2fwKL2+fQ/E+iNOxrkrHotdHGPSHR1uZS0Y319M0ojfihDjj9j5zZv4QVOcES12kWXRtr8Cxh/lg42M2nGQwl5FTS3NgobGN0XhM4h6E4daKdcm8T5HtAc4nCnjA8pipMOhSOl/IHQi+WqKDNzaVSaLl0o6q14MmQwqJu87ehvQfdcFfmyHxhyt0=;j/3BmgWy22BofWFfnZKcdw=="
 ---
 

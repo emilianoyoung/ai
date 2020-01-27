@@ -165,9 +165,9 @@ related:
         width: 1200
         height: 630
   - title: "Global Artificial Intelligence in Healthcare Market"
-    excerpt: "Due to the potential of SWOT analysis and Porter's Five Forces analysis in generating market research report, they are preferred by the businesses and hence also used while making this Global Artificial Intelligence in Healthcare Market report. To structure such a world-class report, the combination of best industry insight, practical ..."
+    excerpt: "Due to the potential of SWOT analysis and Porter's Five Forces analysis in generating market research reports, they are preferred by the businesses and hence also used while making this Global Artificial Intelligence in Healthcare Market report. To structure such a world-class report, the combination of best industry insight, practical ..."
     publishedDateTime: 2020-01-16T03:41:00Z
-    sourceUrl: https://www.openpr.com/news/1896627/global-artificial-intelligence-in-healthcare-market-2020
+    sourceUrl: https://www.openpr.com/news/1909058/global-artificial-intelligence-in-healthcare-market-2020
     type: article
     provider:
       name: openpr.com

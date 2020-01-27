@@ -23,6 +23,6 @@ images:
     height: 512
     title: "New image sensor evaluation kits to spark innovation with miniature cameras in consumer applications"
 
-secured: "fLcaGquu2fvIt63PNmV/VRf/9OisYVElLNqRiKKpzIl+SWRNXVTbhSOmCtXqs9J6p19rkoeDIEKYQ9BB8HVZL1JuX1UHK6mODx3VYDSNCXn65sP3XfaTLNu7oNlqRtD3cBgUkn+UYrMGb010+bqccBiJ6IhnWdPb+8suOUqhF6KyDloW+kEj9q8ihe3qnAsFGyqTALHnFGb3g4CFBWknAbXoCMffbgHpWXwnOdy508IsxEhHry65+QdfMo+GtyZBtepR0WxLXoPBySp3VzPdRfTc5qGFcYKm1Y6Th8V1FIzP8UX9zrETXPx2JlTEOdmB;rauSvVSqwol+D7Xc4C5Usg=="
+secured: "jQoNTK6qgYTEQvkHZdw9w+23kuQMA/rzFkNodd1M1DIwdEOLo7twiPK5R0Zcd/kEIO5cFlNMr1eOH+jkl7A+j72f/7jCFIOeYNYaWuyTCU4+hfGbLP12QD9+IvcgJkHEnSq+aPvfTDqWItbMWFwGy6IJcH2itAgJrMrQUQ1h6eedYb8qdg3gkCoxIuQpMOtiTdD71ycyjexSXrmryI4HIL39c/Du6qigp+yEr1cx1CaeZHr2rYDWB63PA9iKk5hBtFSlZFQDSyV/AMApW66rWtn8JUM6kTq1oZNDHhhZusTXoYX9Wox03Bz0sxMVT3zD;be2C3+WGHOF2s+GNhqxdTg=="
 ---
 

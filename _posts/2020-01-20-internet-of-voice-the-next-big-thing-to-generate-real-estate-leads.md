@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-20T23:06:00Z
 sourceUrl: https://realtybiznews.com/internet-of-voice-the-next-big-thing-to-generate-real-estate-leads/98757308/
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -22,19 +22,6 @@ images:
     width: 1024
     height: 683
     title: "Internet of Voice: The Next Big Thing to Generate Real Estate Leads"
-
-related:
-  - title: "Artificial Intelligence, The Real Estate Industry And The Realtor"
-    excerpt: "FALLS CHURCH, Va., Jan. 20, 2020 /PRNewswire-PRWeb/ -- The Artificial Intelligence revolution has begun. Although it is still in its infancy, AI is already facilitating self-driving cars and voice-activated home systems that set alarms and thermostats on their own. The technology may come off as intimidating to many in the real estate industry ..."
-    publishedDateTime: 2020-01-20T13:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/artificial-intelligence-the-real-estate-industry-and-the-realtor-1028829259
-    ampUrl: https://markets.businessinsider.com/amp/news/artificial-intelligence-the-real-estate-industry-and-the-realtor-1028829259
-    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-the-real-estate-industry-and-the-realtor-1028829259
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
 
 secured: "c/zNopnHHuezlIZtnmq6QOvmyyiTbB/Q1jQy/kiOccrHMm2SzW6AmKJ4nrWsd5qYCaeRa8U1tOZdmPb6bDl5lZSxoCH/9os0swTrDMp82i4ftZQhsmNA1S3I6PgJKVFVTgAm4OqlemCVQFdjR2a0o8/Kt89uZv7zaKWmfoFitlQHbjD7lMZ8aqMuNE/H+RMsAU33JK3UWeaNaBgVT8GaDNluFd0wofRoGemQOu6q7jCvUjAsApbnX8IXAJuUBQbYaustFVnqQhff/EUp/jqWThhC/1bWPmJGLqsXJJBTGAAHLywPgH5TuByax6FQ2eMPgYLts4POnIwIAmEe9HpqUYKEzlP2hq5rr9TQM8yIaR4yE1mRDyNIIEwiIWoqWLsq024M1g9GZM/ORRzNT7cpPPPoAtssBzlR665u4+8JRZiK3WUcPfzuKZ4mUSngOGpIFADMlHIxRpVJ5OES8cu6DQ==;Vl5fJg7cqoYm2ATBBalrWw=="
 ---

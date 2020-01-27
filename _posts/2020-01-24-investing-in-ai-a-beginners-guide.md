@@ -8,7 +8,7 @@ ampUrl: https://www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginner
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -43,7 +43,22 @@ related:
       - url: https://cdn.geekwire.com/wp-content/uploads/2020/01/630px-wide.jpg
         width: 630
         height: 500
+  - title: "How to invest in artificial intelligence"
+    excerpt: "The next big thing is artificial intelligence, or AI, professional stock pickers say ... “AI applications can be found in virtually every industry today, from marketing to health care to finance,” Xiaomin Mou, IFC’s senior investment officer, wrote in a report. It's paving the road to driverless cars, making decisions such as what ..."
+    publishedDateTime: 2020-01-27T11:11:00Z
+    sourceUrl: https://www.usatoday.com/story/money/2020/01/27/artificial-intelligence-how-invest/4542467002/
+    ampUrl: https://amp.usatoday.com/amp/4542467002
+    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4542467002
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 59
+    images:
+      - url: https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2019/12/12/USATODAY/usatsports/gettyimages-864462110.jpg?auto=webp&format=pjpg&width=1200
+        width: 1200
+        height: 675
 
-secured: "S5jOOhXE9kgXeIuZldwYdV4DgpxEZPQRgm+l7S6RpVDn2tSDaqcbS4CFRZaExYxQ4/78MwjBQdfuS031+LgpHVI3GTcTueNtd4nFDXgkJif93mONoH7ErluDB2fBgWKi+9+MTgSVSrOy7dp4EoBZml8asT3g8dBUhKtlr3eZxT6yIobyapB507vsY5g05JcqT/shcWNM4KBSbMDIgaSp28OOzNUlOZykII9cSerd/RM+8NuVONNoKXjlOn6V7c17c58lNd0M0+859xXdBq3Q4FFgwHERpXuL2HPOtz1Y/4+uVlhzvSWVxtCJ6F+fFZdF;Ii9ZhS2ktfgt8g5LayRX/g=="
+secured: "Es0Hw58mUF/8uf0K1MtEWdGO+O80kA2/ioBgguA+kHpep1xZjpVa9ylCNUHspwQn93Un4rmr9GF8qPzAg2ag0Iuo70ksMzDa3A24egznRc7CuN6JtuwGlqY77OnKpWFHWT5geTuaa8hvXn9buZHqfKs8URF5Ak3aUNjlPFNL8DnAO+KAYEjuqBYwKCKLclCFDaGBbFH3DxAmVA6st90opfCyjj+Hx2brysO33rxNyTQAJuczzvJoKOlvfhz73PxmKlEksEkwPSD7bP+PR+sVVXax9exvLn411VNTuotmGaAZ1C89HAYYg7Pv/E8H4P0j;7X447n0PqQZ/fEPKFfjxbw=="
 ---
 

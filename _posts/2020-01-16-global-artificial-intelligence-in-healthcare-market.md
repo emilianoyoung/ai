@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Global Artificial Intelligence in Healthcare Market"
-excerpt: "Due to the potential of SWOT analysis and Porter's Five Forces analysis in generating market research report, they are preferred by the businesses and hence also used while making this Global Artificial Intelligence in Healthcare Market report. To structure such a world-class report, the combination of best industry insight, practical ..."
+excerpt: "Due to the potential of SWOT analysis and Porter's Five Forces analysis in generating market research reports, they are preferred by the businesses and hence also used while making this Global Artificial Intelligence in Healthcare Market report. To structure such a world-class report, the combination of best industry insight, practical ..."
 publishedDateTime: 2020-01-16T03:41:00Z
-sourceUrl: https://www.openpr.com/news/1896627/global-artificial-intelligence-in-healthcare-market-2020
+sourceUrl: https://www.openpr.com/news/1909058/global-artificial-intelligence-in-healthcare-market-2020
 type: article
 quality: 34
 heat: -1
@@ -180,6 +180,6 @@ related:
       domain: marketwatch.com
     quality: 15
 
-secured: "9COhlJ8poh063H+0hZbQW9lKMkWKgGVTUGP5gHPYPxTYTcXr7TN2k8CbLcnSIcp/fi/utsn6vbvS1+jmdOcfflh2F7qEYQXjw8l7ZPtIaPzxxQ96wa6vLMBsdn0RJRgjeOONSOWBCHu48mrF2qzj/FHJpuea1c+PE57ihtGARa/ADFjaEoKTDrhrKrfGfzTjHlvXD+iEr32E3Ey+Ew0owg6TnEI3vQGkI1VAzgDpjnCJCbMX9VTCG7gzNmewPjNKKSzEUrO4JEZtnSyfMf2SF2lL5TmuWHev2wWbJDALgko=;ilQYwqs/cGp8spW12HnsfQ=="
+secured: "Jh27TWou06BPFxoRa63HrpWzAp4M8mDXRIXLI/Mh7CQbMDuSbegyoJJPTwYlyE1D5oguEflRXse8pHwygqjNZuKVtbdHbvZR0bBUqlfaoBk5XtR4cjkVC4AxHPjzwcgDIB6C5iRqhSXg2SUAkyPIkq/mn+xB7iZ8s4NqdEqxIU6/UGxTa8Ph1lAi91ZL4zhO08Kg2HA1zXN9R6++9mfpzB/8JDh+azSRcwEbynwMLHwIh5KVSHctDWTizNlczGexi7HjBVnvExZjR8IvStMyBIDutOktvhmAk9kzzgPZkBwRXRcosRaDOU894U80uaIT;xMk/Q3z54Wa5omc44LQHyw=="
 ---
 

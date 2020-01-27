@@ -91,15 +91,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "IBM Launches Advertising Accelerator with Watson"
-    excerpt: "LAS VEGAS, Jan. 7, 2020 /PRNewswire/ -- At the 2020 Consumer Electronics Show (CES), IBM (NYSE: IBM) today announced the launch of Advertising Accelerator with Watson, a first-to-market offering that leverages artificial  intelligence (AI) to predict the optimal combination of creative elements to help drive  high engagement and conversion for a given audience."
-    publishedDateTime: 2020-01-07T11:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ibm-launches-advertising-accelerator-with-watson-2020-01-07
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
   - title: "CES 2020: IBM Launches Advertising Accelerator with Watson"
     excerpt: "At the 2020 Consumer Electronics Show (CES), IBM (NYSE: IBM) today announced the launch of Advertising Accelerator with Watson, a first-to-market offering that leverages artificial intelligence (AI) to predict the optimal combination of creative elements to help drive high engagement and conversion for a given audience. The predictive solution ..."
     publishedDateTime: 2020-01-08T21:28:00Z
