@@ -8,7 +8,7 @@ ampUrl: https://yourstory.com/2020/01/technologies-future-ai-ml-startups-machine
 cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/technologies-future-ai-ml-startups-machine-intelligence/amp
 type: article
 quality: 61
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -27,6 +27,21 @@ images:
     title: "Technologies of the future, but where are AI and ML headed to?"
 
 related:
+  - title: "How experts are using artificial intelligence to shape the future of fashion"
+    excerpt: "Digital supermodels, virtual trial rooms and analytics could possibly change the way we shop in the future. In the age of artificial intelligence, analytics and big data—which collectively translate unstructured data to meaningful solutions, trends and patterns—how does the fashion industry keep up? For instance, excess stock arises from ..."
+    publishedDateTime: 2020-01-27T13:05:00Z
+    sourceUrl: https://www.vogue.in/fashion/content/how-artificial-intelligence-ai-can-shape-future-of-fashion
+    ampUrl: https://www.vogue.in/fashion/content/how-artificial-intelligence-ai-can-shape-future-of-fashion?amp
+    cdnAmpUrl: https://www-vogue-in.cdn.ampproject.org/c/s/www.vogue.in/fashion/content/how-artificial-intelligence-ai-can-shape-future-of-fashion?amp
+    type: article
+    provider:
+      name: Vogue India
+      domain: vogue.in
+    quality: 54
+    images:
+      - url: https://assets.vogue.in/photos/5e2ed96a3af48200081e835e/16:9/w_1920,c_limit/f.jpg
+        width: 656
+        height: 369
   - title: "Neural Architecture and AutoML Technology"
     excerpt: "However, the conventional ML process is human-dependent, and not all companies have the assets to put resources into an experienced data science team. AutoML might be the answer to such circumstances. AutoML focuses on automating each part of the machine learning (ML) work process to increase effectiveness and democratize machine learning so ..."
     publishedDateTime: 2020-01-24T18:37:00Z
@@ -41,6 +56,6 @@ related:
         width: 700
         height: 394
 
-secured: "pDIWJo2FYHOYbU46P2SQiNec5kciDolZd1l6xcpnGr8mkAPhXmr5Y1tojW1lF6QHVUZo9r8ZzlxmHBKrFcV6mAnNG0Xvxxh4QZmSJT1Cb7XBzH08Xtgx+Cpt2oW4x2BloAVeiC5cwGa8mkH9Yhri1Mk6CJpAqG4DQcVQjjmXS7huoVy50iE6XtB81vFkowGmp++Tn+LSp01IbEbHgP6gvE7ynEm5R9jg65xkvEqjbj9Gf8f/3LDMGbf2Znxw/VUKdHnF1HfcRGUv1fQQTmPJixyu8M1YY3Idum5D1GOawSUVBrLJJXso+OPr1l0aObcJDSSezChQN67tln2ej0jC8Fpi31rYFvd2UvJQPn4e6Im04TaW4p8pohpQnTFRPbxMVYCT9fbNdcMyHTXbIRzyrDb6Gdb7XadS/FoIxZoeQ+ESUVN7F3AMciuKVJg9M1JQOgfKz/MhdW4tcf6JmRqnMxA108VKl3muilyCy3gKaV4=;iB6H39WsMk4HCshlneHjCA=="
+secured: "44IjkCxd1IrnZ1bJJ15ODQ0Tn57NdaDZxXIz6jmfT22rWV3/vd7gvNXbPfEsN6GWgvorAsp6cazAb1w5FdJkHEjBLvQp3BaFzCMG295uktoPhkbG3d5fnMC3yYL4lJk53WtS2mv+jrKZHxYopxhlxxiWInx6+8hsgWWkFEo1Ixo4zNkCUHSIEDwwp9CQF6AcOwQ2ZswauHnE29qT25jVUyQKqgejtKBDfPyvLj6WM/lCHR1m6o9VdYLRsrtgCz93OhX4550Jtv4DG37bqjsZ+gaFJ5kdaitOLbdd3LhEgNyywFj6jKJS157xYiv8nbYkgeTl+eonCO4tZWLTom1eOyh6+zqAL3avkI/cRzh2Npn82Yjcq+8EViXHHlZsc3yVH4TXGbKzxSb4Q1MH3sAKAcgtvRSlVkZw7XU1BgKLiY3rDlFAONhlwu4PlWRcnzUCTa+vbov4057d/8KISVP5bN29IL942ooQ0cTVaqf9kXM=;+RLWlBxjz+CfTqoDkyvisg=="
 ---
 

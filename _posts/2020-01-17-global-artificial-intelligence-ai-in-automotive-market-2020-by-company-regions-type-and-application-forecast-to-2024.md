@@ -79,6 +79,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Computer Vision in Healthcare Market 2020 Analysis Research and Development Forecast by 2025"
+    excerpt: "New York, January 27, 2020: Market Research Engine has published a new report titled as \"Computer Vision in Healthcare Market Size by Product & Service (Software, Hardware, Networks), By Application (Medical Imaging & Diagnostics,"
+    publishedDateTime: 2020-01-27T12:25:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-2020-analysis-research-and-development-forecast-by-2025-2020-01-27
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence In Manufacturing Market Size, Growth, Opportunity and Forecast to 2025"
     excerpt: "Artificial intelligence (AI) is an area of computer science that emphasizes the creation ... of manufacturing plants 1.2 Adoption of industrial IoT and big data technology in manufacturing 1.3 Rising usage of robotics and computer vision technology in manufacturing 1.4 Growing opportunities for AI based technology in developing countries ..."
     publishedDateTime: 2020-01-21T12:52:00Z

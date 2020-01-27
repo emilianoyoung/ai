@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-21T06:56:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-hiting-with-497-cagr-in-forecast-2019-to-2027-2020-01-21
 type: article
 quality: 83
-heat: 213
+heat: 223
 published: true
 
 provider:
@@ -63,6 +63,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 63
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Computer Vision in Healthcare Market 2020 Analysis Research and Development Forecast by 2025"
+    excerpt: "New York, January 27, 2020: Market Research Engine has published a new report titled as \"Computer Vision in Healthcare Market Size by Product & Service (Software, Hardware, Networks), By Application (Medical Imaging & Diagnostics,"
+    publishedDateTime: 2020-01-27T12:25:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-2020-analysis-research-and-development-forecast-by-2025-2020-01-27
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

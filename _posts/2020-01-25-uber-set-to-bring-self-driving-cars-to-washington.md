@@ -99,6 +99,21 @@ related:
       - url: https://media.bizj.us/view/img/11587279/uber-self-driving*600xx1500-1000-0-0.jpg
         width: 600
         height: 400
+  - title: "Uber prepares to test its self-driving cars in Washington, DC"
+    excerpt: "Uber is laying the groundwork to bring its self-driving cars to the nation's capital. The ridesharing company said Thursday that it will begin mapping the streets of Washington DC. Three mapping vehicles equipped with cameras and sensors will spend a few weeks driving around the city and collecting data. High-definition maps are considered ..."
+    publishedDateTime: 2020-01-25T14:34:00Z
+    sourceUrl: https://www.wktv.com/content/news/567294012.html
+    ampUrl: http://www.wktv.com/templates/AMP?contentID=567294012
+    cdnAmpUrl: https://www-wktv-com.cdn.ampproject.org/c/www.wktv.com/templates/AMP?contentID=567294012
+    type: article
+    provider:
+      name: WKTV
+      domain: wktv.com
+    quality: 44
+    images:
+      - url: http://media.heartlandtv.com/designimages/WKTV-StoryDefault-640x380.jpg
+        width: 640
+        height: 380
   - title: "The Hype of Self-Driving Cars Gives Way to Reality"
     excerpt: "However, achieving that last goal has proved to be more of a challenge than engineers originally thought. On the congested streets of Las Vegas, I sat (helplessly) in the back seat of a self-driving Prius, watching as the wheel sawed back and forth in front of the empty driver's seat. It steered us through multiple left turns — inches from ..."
     publishedDateTime: 2020-01-23T21:32:00Z

@@ -42,6 +42,15 @@ related:
       - url: https://media.golfdigest.com/photos/5e2a231ec1210f000ae31815/master/pass/TrackMan%20Tracy.JPG
         width: 6048
         height: 4024
+  - title: "Artificial Intelligence in Medicine Market Advanced Technology and New Innovations by 2025 – InSilico Medicine, Globavir Biosciences"
+    excerpt: "Shortage of skilled healthcare professionals and increase in the processing power of AI systems that is projected to help improve the efficiency of drug discovery and management of clinical trials majorly drive the growth of the global artificial intelligence in medicine market. Furthermore, the growth in importance of precision medicine and ..."
+    publishedDateTime: 2020-01-27T13:02:00Z
+    sourceUrl: https://www.techworld.com.au/mediareleases/37938/artificial-intelligence-in-medicine-market/
+    type: article
+    provider:
+      name: Australian Techworld
+      domain: techworld.com.au
+    quality: 0
 
 secured: "BJzU2tyCKltnj9qtdbjaroRHvqkvLNnRi+T5HRnYUKiGiUPStEgYR7vTizadz4bBKp2SlSHaUYK7y/AoLydTGpwDhHIP7Q3WoQJB5eptLX+bCgk2rNQvvcJBS9ZMl/HvuPInvp4wOPHnXwuP9FnW2KE0/v5NsAfpnSZg5Os1Y1QhSL+v+2hq33aE4vpe1/F5aUf4YOvmHLf511w2Jd782OU5djEjUo2OeUEH5A868Ob59OX80W+iEW/Y8N6CDT0NdMIzSa2lLQW76y1E/Of2t1TwyhAzOZG76IJwAo4wfHqHkDhyHRdtvbKEnBuOs8Ps;6qBAKqrkbdjN4URecaYfNQ=="
 ---

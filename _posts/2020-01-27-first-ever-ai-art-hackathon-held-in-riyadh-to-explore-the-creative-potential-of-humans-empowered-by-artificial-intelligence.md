@@ -1,27 +1,27 @@
 ---
 category: news
 title: "First Ever AI Art Hackathon Held in Riyadh to Explore the Creative Potential of Humans Empowered by Artificial Intelligence"
-excerpt: "The AI Artathon, an initiative of the Global AI Summit, challenged local and international teams of artists, designers, data scientists and AI experts to create new artistic work using artificial intelligence tools and techniques. The competition is organized by the Saudi Data and Artificial Intelligence Authority, as part of the Global AI Summit."
-publishedDateTime: 2020-01-27T08:17:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-first-ever-ai-art-hackathon-held-riyadh-explore-/2020/01/27/9086934.htm
+excerpt: "/PRNewswire/ -- The first ever AI Art Hackathon reached the finale of its first round in Riyadh on Saturday 25th January, after a weekend of"
+publishedDateTime: 2020-01-27T12:00:00Z
+sourceUrl: https://www.prnewswire.com/news-releases/first-ever-ai-art-hackathon-held-in-riyadh-to-explore-the-creative-potential-of-humans-empowered-by-artificial-intelligence-300993241.html
 type: article
 quality: 26
 heat: 26
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
 
 images:
-  - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
-    width: 252
-    height: 335
+  - url: https://mma.prnewswire.com/media/1082107/Winners_of_the_first_round_of_the_AI_Artathon.jpg?p=facebook
+    width: 2700
+    height: 1413
     title: "First Ever AI Art Hackathon Held in Riyadh to Explore the Creative Potential of Humans Empowered by Artificial Intelligence"
 
-secured: "LiyK4xC3vKHDajSLsdu2akEyrxIKIAwb8+n/7UYblFeLjFrRBIGL+oj4wjYnYGPOQsdJ6DCHVagw65glHaaeqBDFQz1Pq/zdqVi+rVwhNQqch1JrteLkBiVlflLWxF5bT8oJvJAYHAE53sRMZniM+B/K7afuQOg8ImoCy3KMMfZFN27tUlxljr73jwsJyY+hTBz8WhuteiorPR3ECNlKIp5H9+/BmXaGRvUJ0jjTS+B1K+9iFJhInD7I1Ho0YJ8FPAxOyP5Eyf0SNWccM1yzdlL+IBV18LZM4JZaAr1d5ETUxoCix2dHMiW3YTzURRn7;nsnPQIRMYjDAOyWCuRbAuw=="
+secured: "FcBHF5s6hB1BSR0xw6WIkOsndmfDHAwn+PXqITQMIkG1EBBBgeNh245i6bFp4cCjOo79HbYqSMxxC7HokJUfrmTfqUN6m+gWES4rUoY9k01F0uznRKn0BShVlwC6ehoDj16fwo4m92pDoVeFJ8wURBYR8vydanyf+jW+eqND5u6U5FrO8CasB3toi/JVs4efBvFV0dCnPKyy2zm80MgE6l1JvnOYW4sjGnY/qJE1luVegl6XRlBMAXpYmT+8ia1RvSe2Zkl0yuWpAtUC3ku1yh9qUO6udlG4xS5OjTwJJqSAKGKEqgrYa724MF6iW0va;LZ4mafPuA8M8/tAGsnyoJA=="
 ---
 

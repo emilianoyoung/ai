@@ -8,8 +8,8 @@ ampUrl: https://www.pymnts.com/news/partnerships-acquisitions/2020/snap-acquires
 cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2020/snap-acquires-ai-factory-computer-vision-startup/amp/
 type: article
 quality: 54
-heat: 64
-published: true
+heat: -1
+published: false
 
 provider:
   name: pymnts.com
@@ -28,8 +28,12 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 34
+    quality: 54
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/snapchat.png
+        width: 718
+        height: 400
 
-secured: "gMcoA1Lj8UO9ijX6K2+FJPzTgt4oxKH0RblBcKskGZ9jrll01OTHo/qhW3Rg9WTwuO7A3TcnHBqHqfuYXIdPSDkyI3G4m0XySEIiIeqamg/48EKyRBknSus88utJFCniP6kQSEvtE9yCfqa6YWH8y7KmFIp99AJWTYLPVg4LpUgVlPpdB+BqTf9w8F4QaRjU4GUuF00OEjbSXwxnmZsYWnixK7oI27gEovz3J7Tkt6uf7pwMk2i7OxFiZkqjFSBasw09PUfN4R7j34LELTod823YYFRnHlcH1n8QW/Oo98IGlUlCGaKVLoufgy0CpTaQ;XWn8wMIsIPbk549CsL1ciw=="
+secured: "9/2UGR9za/p3LP7iqfqAHvrH+WAuQnVoKgSCWxMNWt9IrFZY22kzFiyBdbNtkkw4e+qaWAQYGu6jENzGsKYh8SfEEpmSUrVZ+K4/fJeYcPHKapThgemGmt/rCxMyxiry4wxNMHrDB3LXuF3NH4H4WLH2nGoKpochYHuvdpvbeTkUuMQAW5tOLMIgi77UM9DVXdxS/50LZzXAVlwSzvMC4Ecn11ffPmw1qDtrxd47wgDQK2fU2WnIUW9RzGPXtL6W+GnyAa1nlqWUTJgbB+G+1lNe12XgxqnQSQarOx8RphcK9LVobv0pt2QaqoPdN+SK;IzfS5sKd3AvRKjCCypC0yA=="
 ---
 

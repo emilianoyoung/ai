@@ -25,6 +25,6 @@ images:
     height: 675
     title: "For people who stutter, the convenience of voice assistant technology remains out of reach"
 
-secured: "NBP8EWAHpGPx9MrLbjmn66Dv9wpmvQGtzmxBgw6g2btTaQ5pFwwYsbrwCmCPAmQOpW4CSTSHNOV2oD9S+25/tBLwM/ET9Fu18TbsONN1h5rRPJdgm46R2mzC88Em0nFWo7/mPSvfPBuKyG9Bd+b/5r2lnfn/42UvHQhw8gPETbv4K9LbWWfT745lXWMROvj2KAGE5ajjYhsUlqdDwf7RCHadK1s0A+DurWGRwuIfbo29v/4VGtIFDK/4okCxsBPRPd0u6zgB/AZMS0TjcEjDFClafnylU1tkcx028kRA85efrVvtnSbcr4+/3XanxbWy;0vSs+3xnUmd274PKHA+QyQ=="
+secured: "g/m8nNYfOSAbttR11cb6s9ebHhTpBnWMTFRlJ0Jq4ZSq3yJKwuFTAEeBxolX3qGNus6aUnKz4GIECOXKSM/7N5cj/8rCZ/pw0qaQZdLZkekFB1W6UYMvg499HBJeipraYDx+V9yF8vytEDTSS+e8oeU8XjvPsMwkQtE1AGFH/pOk8EsLiC4DOV05HBSuuCCk581o+vR0V02UqRppuwqLgGTzlCu3UXpsiXh2uztngowKmiNIJND8GJX86jSw0ad4s7HVGcP2sScsXBMmHr8jzLW8e/EVTqGJF1kc3USxNjw7q2m5g6M/0J5FaKFKBQ/F;XzN+PWB1Ep4TOnUdR8dOdw=="
 ---
 

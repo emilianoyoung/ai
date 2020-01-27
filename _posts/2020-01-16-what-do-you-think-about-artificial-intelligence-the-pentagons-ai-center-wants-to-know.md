@@ -53,6 +53,21 @@ related:
       - url: https://www.timeoutabudhabi.com/sites/default/files/tod/images/2020/01/13/the-delivery-robot2.jpg
         width: 1500
         height: 1000
+  - title: "What You Need to Know About Google BERT and the Top Stories Carousel"
+    excerpt: "Google BERT — the latest algorithm update from the search engine — has raised numerous questions for marketers. Marketing teams have been left wondering how the algorithm’s natural language processing (NLP) would affect their SEO ranking, and which content marketing strategies will still work in the future. Along with SEO changes ..."
+    publishedDateTime: 2020-01-27T13:00:00Z
+    sourceUrl: https://www.cmswire.com/digital-marketing/what-you-need-to-know-about-google-bert-and-the-top-stories-carousel/
+    ampUrl: https://www.cmswire.com/digital-marketing/what-you-need-to-know-about-google-bert-and-the-top-stories-carousel/amp/
+    cdnAmpUrl: https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/what-you-need-to-know-about-google-bert-and-the-top-stories-carousel/amp/
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 44
+    images:
+      - url: https://www.cmswire.com/~/media/8710cea8187d4f16809de5776e09b466.png?mw=1024&hash=5873E3FDDB29B363CA4AD1301AB2BD49B6252965
+        width: 640
+        height: 480
   - title: "This is exactly what you need to know about AI and the future of your job"
     excerpt: "Even today, when we hear the words “Artificial Intelligence”, our minds immediately conjure up visions of Hollywood ... It’s here in automated messages randomly calling our phones with offers. Driverless cars, drones delivering our packages, interactive advertising ………, the list is growing. So, we are not dealing with science ..."
     publishedDateTime: 2020-01-16T13:32:00Z

@@ -48,6 +48,21 @@ related:
       - url: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/origin.jpg?ve=1&tl=1
         width: 640
         height: 320
+  - title: "RIDOT aims to extend program that offers free self-driving shuttle rides in Providence"
+    excerpt: "But even if they don't eliminate the need for human workers, Alviti said the potential advantage of self-driving vehicles is they could become safer and use less energy than human-driven vehicles. And that, in his view, can potentially make small, self-driving vehicles \"better, faster and cheaper\" than traditional buses. Since its May launch ..."
+    publishedDateTime: 2020-01-26T23:33:00Z
+    sourceUrl: https://www.providencejournal.com/news/20200126/ridot-aims-to-extend-program-that-offers-free-self-driving-shuttle-rides-in-providence
+    ampUrl: https://www.providencejournal.com/news/20200126/ridot-aims-to-extend-program-that-offers-free-self-driving-shuttle-rides-in-providence?template=ampart
+    cdnAmpUrl: https://www-providencejournal-com.cdn.ampproject.org/c/s/www.providencejournal.com/news/20200126/ridot-aims-to-extend-program-that-offers-free-self-driving-shuttle-rides-in-providence?template=ampart
+    type: article
+    provider:
+      name: Providence Journal
+      domain: providencejournal.com
+    quality: 51
+    images:
+      - url: https://www.providencejournal.com/apps/pbcsi.dll/bilde?Site=PJ&Date=20200126&Category=NEWS&ArtNo=200129544&Ref=AR
+        width: 1750
+        height: 1166
 
 secured: "w/LBGw+PVdDS/S1rmo5GZ9ua9NepLcNv/kIQ/yN1JbCRgs2R/3NJofcCIs/ad0+uRE3RfVLz5RQx/d2Jrx50OWhZoSZSjCl0zBUnkfJoOTThJeNEXeYDPFd8MIFR1+ePc6ryfyn+CNQgtyo80Ik9nHPrqTV0iq5443/Sw/xGNqg9FC7/vo/70iitmYLDu7qV9Wu6oz/YE2GfWIU3zhEOczCsa46EPWc1Etrjo9NJSSDStKGn9AUBUP/0xZ8DOlZnDvCBNSzrV0CX2NYf0nnn12bNwd26uTp4VKqCq4EgJ63nVVDR/paVqidDVSPsso0NqJLio6Oaz9FNKsbn8B9v9m5UHIfq44TIF1kKlyobtYEthttaQbY+BPVGfqgdDijgwcQR2OoQs2RWHK4RBjBm0bnTCWbpXyCzl+2Gcb7prr9HuKlJUK97NIrgm7rekBDi0fdOvz63B8XryFy1/4WtcNyouq6JqwHtT40CxMu9H7k=;zDiV4guA1PUmZc+L7+RdgA=="
 ---

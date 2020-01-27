@@ -8,7 +8,7 @@ ampUrl: https://www.statesman.com/opinion/20200119/commentary-ai-cant-resolve-am
 cdnAmpUrl: https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/opinion/20200119/commentary-ai-cant-resolve-ambiguities-of-early-cancer-diagnosis?template=ampart
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -40,19 +40,6 @@ related:
       - url: https://www.twincities.com/wp-content/themes/twincities/static/images/twincities.jpg
         width: 1280
         height: 720
-  - title: "Artificial Intelligence Diagnosing cancer with accuracy"
-    excerpt: "The new year is opening with some intriguing news: The journal Nature reports that artificial intelligence is better at identifying breast cancers on mammograms than radiologists. Researchers at Google Health teamed up with academic medical centers in the United States and Britain to train an AI system using tens of thousands of mammograms."
-    publishedDateTime: 2020-01-26T06:53:00Z
-    sourceUrl: https://www.arkansasonline.com/news/2020/jan/26/artificial-intelligence-diagnosing-canc/?news-columnists
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 37
-    images:
-      - url: https://media.arkansasonline.com/static/ao_redesign/graphics/adgog.jpg
-        width: 340
-        height: 246
   - title: "Using artificial intelligence to diagnose cancer could mean unnecessary treatment | Opinion"
     excerpt: "The new decade opened with some intriguing news: The journal Nature reported that artificial intelligence was better at identifying breast cancers on mammograms than radiologists. Researchers at Google Health teamed up with academic medical centers in the United States and Britain to train an AI system using tens of thousands of mammograms."
     publishedDateTime: 2020-01-16T20:16:00Z

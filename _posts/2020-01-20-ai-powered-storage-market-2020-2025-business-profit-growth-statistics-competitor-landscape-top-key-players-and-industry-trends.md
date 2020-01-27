@@ -8,7 +8,7 @@ ampUrl: https://amp.benzinga.com/amp/content/15148714
 cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15148714
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,19 @@ images:
     width: 489
     height: 288
     title: "AI-Powered Storage Market 2020 – 2025: Business Profit Growth, Statistics, Competitor Landscape, Top Key Players and Industry Trends"
+
+related:
+  - title: "Edge Artificial intelligence (AI) Software Market 2020: Key factors behind market's rapid growth by 2030"
+    excerpt: "The Objective of the \"Global Edge AI Software Market Market\" report is to depict the trends and upcoming for the Edge AI Software Market industry over the forecast years. Edge AI Software Market Market report data has been gathered from industry specialists/experts."
+    publishedDateTime: 2020-01-24T02:56:00Z
+    sourceUrl: https://www.benzinga.com/press-releases/20/01/wr15178205/edge-artificial-intelligence-ai-software-market-2020-key-factors-behind-markets-rapid-growth-by-
+    ampUrl: https://amp.benzinga.com/amp/content/15178205
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15178205
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
 
 secured: "eMjm1ANajLBZsxMBQ3zgZOqf42O3YbXuvd+zX/C5msozjxuUjsRLpCeAeRdukjLotjk1NvPYoEbApKHIMb9p3T3PfrOxN4ug8zmsSg7b++L/0QxuR94NHVBt20ooyBaQjSGOuyP/JujFGRpYlDXmBan0znXsEU0hurbg9odtf4rZlW3uwtt6n20j26D1chKNeHlcbuKyaZXcVYQUDSbfv4wcpliVVBMt23bszx/zD8YwqJp/8Qh8wIBaJNH6BmtvlV1QguW2b2GheuHy5hiGOHhD6DOHIoYe3usS3C0zzAUTKDMUccSLVSpzElW1mPQv1c8uoaAQr5O31soV8pjMH4IHGr5U6aM7PIvsXoiru1akOUidPbSQAgzbDrVkgFwuWwqZMaA7ngtpNoipbyUBbEqARgM3hF5NZQnMkExXWIQ6bR+KDAwEGNg1THnrW/Mhk5H9bmcZs+BFxnZAIPgSOQ==;0yF4zPaerQ+VIOX9cQKSZw=="
 ---

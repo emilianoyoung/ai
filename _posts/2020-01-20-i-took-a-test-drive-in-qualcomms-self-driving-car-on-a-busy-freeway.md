@@ -86,6 +86,21 @@ related:
       - url: https://media.bizj.us/view/img/11587279/uber-self-driving*600xx1500-1000-0-0.jpg
         width: 600
         height: 400
+  - title: "Uber prepares to test its self-driving cars in Washington, DC"
+    excerpt: "Uber is laying the groundwork to bring its self-driving cars to the nation's capital. The ridesharing company said Thursday that it will begin mapping the streets of Washington DC. Three mapping vehicles equipped with cameras and sensors will spend a few weeks driving around the city and collecting data. High-definition maps are considered ..."
+    publishedDateTime: 2020-01-25T14:34:00Z
+    sourceUrl: https://www.wktv.com/content/news/567294012.html
+    ampUrl: http://www.wktv.com/templates/AMP?contentID=567294012
+    cdnAmpUrl: https://www-wktv-com.cdn.ampproject.org/c/www.wktv.com/templates/AMP?contentID=567294012
+    type: article
+    provider:
+      name: WKTV
+      domain: wktv.com
+    quality: 44
+    images:
+      - url: http://media.heartlandtv.com/designimages/WKTV-StoryDefault-640x380.jpg
+        width: 640
+        height: 380
   - title: "Uber set to bring self driving cars to Washington"
     excerpt: "(ABC News) —Uber is bringing a fleet of self-driving cars to the nation’s capital to begin mapping out prospective routes — aided by human drivers at first — starting on Friday. The new self-driving cars that are expected to hit the roads in Washington, D.C., will have the initial goal of data collection, and will have a human vehicle ..."
     publishedDateTime: 2020-01-25T00:47:00Z

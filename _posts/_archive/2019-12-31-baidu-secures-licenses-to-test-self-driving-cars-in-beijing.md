@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-d
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -45,6 +45,21 @@ related:
       - url: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F552284%2Fbaidu-self-driving-car-fleet.jpg&w=700&op=resize
         width: 700
         height: 393
+  - title: "CES trade show to spotlight big tech trends in 5G, self-driving cars, 8K TVs and more"
+    excerpt: "Gigantic consumer electronics show in Las Vegas features about 40 San Diego companies showing off their latest technologies."
+    publishedDateTime: 2020-01-06T14:06:00Z
+    sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more
+    ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
+    cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 37
+    images:
+      - url: https://ca-times.brightspotcdn.com/dims4/default/3de7005/2147483647/strip/true/crop/3024x1975+0+146/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb6%2F73%2Fcfca9b914994bd002b870005233e%2Fwd.jpg
+        width: 320
+        height: 209
   - title: "Baidu testing self-driving cars in Beijing"
     excerpt: "Baidu (BIDU-0.1%) has secured licenses to test self-driving vehicles carrying passengers on designated roads in Beijing, according to Venture Beat. The company's self-driving cars have traveled ..."
     publishedDateTime: 2019-12-31T18:38:00Z
@@ -55,6 +70,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "BocNM2H7ge+uK1JpDNaDed28JRYquhqM3zCGflMR7eZnKzdO+NhoW7SyXjkQUODUGAy0WTAvJFPWOaLwTvHmkwIazGP3DufMJzMI3HP4ali1AJ2/+jf3ApXP0lyV1xB709bwurYTY1vE/Bqid1Mnd1HhH86dyliACclnngawJGjdpzOdHwSmTlrbqwAgGSgd0hHF3xHyvaoGDnXy0wagDjqx7yUOHkD6qRJhiq41vrmwg/j1a4ZcakhtWEBDCnla+HCGbL+JY2jHMTweVAY0L6yC+bOTn+9SQBLdJIZUGa/Yad1BYq73nb1x3Hj4GPZh;wwDBi0d6EyDd7h353LCu7w=="
+secured: "Ojx7D6RwKDmSjNvVuoWcPsvkObqbeb+vqgM8XyIFCRbiQAHYkwS2I2960l+JFGEJ7rtsGTHxVzJ+C9Pbk2hycsp+TRYjYpXYhbB6MuO2FTvwCNB2t+DYROfMl0qFJh/klaAvOWkabv8cNW0duFbfrVEBrDgzdL4iP45TL5oxczF4SdmRmSC3VwcrgdWo/xpHPEhS/H2ufz7698XeLllhVTCKKnWUEUc2h1GfL/kp7WpKjv0cx070bxjsN/yzXs8qJBLFJeK2uRzxLDWs/7NGcHSvVaLTkAB4ad9uLvxmJefzHD3hJPEKs9+LQFr2CA6c;wqFnS1Xfja9O+hK3whFbHA=="
 ---
 

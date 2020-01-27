@@ -76,6 +76,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Computer Vision in Healthcare Market 2020 Analysis Research and Development Forecast by 2025"
+    excerpt: "New York, January 27, 2020: Market Research Engine has published a new report titled as \"Computer Vision in Healthcare Market Size by Product & Service (Software, Hardware, Networks), By Application (Medical Imaging & Diagnostics,"
+    publishedDateTime: 2020-01-27T12:25:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-2020-analysis-research-and-development-forecast-by-2025-2020-01-27
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Global Artificial Intelligence (AI) in Automotive Market 2020 by Company, Regions, Type and Application, Forecast to 2024"
     excerpt: "Global Artificial Intelligence (AI) in Automotive Market This report helps to analyze competitive developments such as joint ventures, strategic alliances, mergers and acquisitions, new product developments,"
     publishedDateTime: 2020-01-17T11:04:00Z

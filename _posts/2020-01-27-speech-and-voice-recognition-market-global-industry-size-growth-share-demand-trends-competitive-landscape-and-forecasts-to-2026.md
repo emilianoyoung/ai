@@ -75,18 +75,18 @@ related:
         width: 1200
         height: 630
   - title: "Artificial Intelligence Chip Market to 2027 - Global Analysis and Forecasts by Segment ; Type ; and Industry Vertical"
-    excerpt: "/PRNewswire/ -- The global artificial intelligence chip market was valued at US$ 5,658.1 Mn in 2018 and is expected to reach US$ 83,252.7 Mn by 2027 with"
-    publishedDateTime: 2020-01-21T14:05:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-chip-market-to-2027---global-analysis-and-forecasts-by-segment--type--and-industry-vertical-300990150.html
+    excerpt: "The global artificial intelligence chip market is bifurcated on the basis of the segment into the Data Centre and Edge.Based on type, the AI chip market is segmented into CPU, GPU, ASIC, FPGA, and others. The others section include SoC Accelerators and other application specific custom & hybrid chips.Based on industry vertical, the artificial ..."
+    publishedDateTime: 2020-01-21T15:19:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-artificial-intelligence-chip-market-2027-global-analysis-forecasts-/2020/01/21/9084575.htm
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 31
     images:
-      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-        width: 600
-        height: 315
+      - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
+        width: 252
+        height: 335
   - title: "Smart Robot Market: 2018 Industry Analysis, Size, Trends, Growth and Forecast 2025 | ABB, iRobot Corporation, Grey orange"
     excerpt: "A smart robot uses an artificial intelligence (AI) system that can learn from its environment and its experience. Smart robots can collaborate while working together as well as learning from the behavior of humans. Flexibility &amp; scalability in operation along with the high performance fuels the growth of the smart robot market. With the ..."
     publishedDateTime: 2020-01-24T12:31:00Z

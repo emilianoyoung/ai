@@ -45,6 +45,21 @@ related:
       - url: https://cnet3.cbsistatic.com/img/cxTt3rulZLzCQQHX2q_jjKRRsyk=/756x567/2020/01/23/5c1b2d6c-ded7-4d52-ac38-f406e31d69a6/optimusrideweb.jpg
         width: 756
         height: 567
+  - title: "RIDOT aims to extend program that offers free self-driving shuttle rides in Providence"
+    excerpt: "But even if they don't eliminate the need for human workers, Alviti said the potential advantage of self-driving vehicles is they could become safer and use less energy than human-driven vehicles. And that, in his view, can potentially make small, self-driving vehicles \"better, faster and cheaper\" than traditional buses. Since its May launch ..."
+    publishedDateTime: 2020-01-26T23:33:00Z
+    sourceUrl: https://www.providencejournal.com/news/20200126/ridot-aims-to-extend-program-that-offers-free-self-driving-shuttle-rides-in-providence
+    ampUrl: https://www.providencejournal.com/news/20200126/ridot-aims-to-extend-program-that-offers-free-self-driving-shuttle-rides-in-providence?template=ampart
+    cdnAmpUrl: https://www-providencejournal-com.cdn.ampproject.org/c/s/www.providencejournal.com/news/20200126/ridot-aims-to-extend-program-that-offers-free-self-driving-shuttle-rides-in-providence?template=ampart
+    type: article
+    provider:
+      name: Providence Journal
+      domain: providencejournal.com
+    quality: 51
+    images:
+      - url: https://www.providencejournal.com/apps/pbcsi.dll/bilde?Site=PJ&Date=20200126&Category=NEWS&ArtNo=200129544&Ref=AR
+        width: 1750
+        height: 1166
   - title: "Graze’s solar-powered, self-driving mower is a view of Elon Musk’s fully-autonomous future"
     excerpt: "The event featured the company’s strategies for the future as it prepares for a full embrace into its plans for a Full Self-Driving suite that will take the need for human control out of driving a vehicle. While Tesla is focused on navigating vehicles toward control that does not require a human’s input, other industries are diving into the ..."
     publishedDateTime: 2020-01-24T20:07:00Z

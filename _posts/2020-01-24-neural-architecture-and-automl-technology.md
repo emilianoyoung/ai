@@ -39,6 +39,21 @@ related:
       - url: https://images.yourstory.com/cs/2/730b50702d6c11e9aa979329348d4c3e/Data-Science-TrendsBanner-1579782961252.png?fm=png&auto=format
         width: 800
         height: 400
+  - title: "How experts are using artificial intelligence to shape the future of fashion"
+    excerpt: "Digital supermodels, virtual trial rooms and analytics could possibly change the way we shop in the future. In the age of artificial intelligence, analytics and big data—which collectively translate unstructured data to meaningful solutions, trends and patterns—how does the fashion industry keep up? For instance, excess stock arises from ..."
+    publishedDateTime: 2020-01-27T13:05:00Z
+    sourceUrl: https://www.vogue.in/fashion/content/how-artificial-intelligence-ai-can-shape-future-of-fashion
+    ampUrl: https://www.vogue.in/fashion/content/how-artificial-intelligence-ai-can-shape-future-of-fashion?amp
+    cdnAmpUrl: https://www-vogue-in.cdn.ampproject.org/c/s/www.vogue.in/fashion/content/how-artificial-intelligence-ai-can-shape-future-of-fashion?amp
+    type: article
+    provider:
+      name: Vogue India
+      domain: vogue.in
+    quality: 54
+    images:
+      - url: https://assets.vogue.in/photos/5e2ed96a3af48200081e835e/16:9/w_1920,c_limit/f.jpg
+        width: 656
+        height: 369
 
 secured: "/CgVBbIyASOAiflZ4MGOk3pmqbhLosHtlSY6mboK8UV00MFmDzI6sH/oW8VpBJYXmti+Wf2HmccBXABfNO3snxBr7zv/Mw6RIIdorlFy2pG82sNk4Z2FAbXW5YFmTX+WfpAlyfFpICODAn7vDIz1tCBsHCbCNF1W7fymQhhwxZmbXPrt0GrpBDGsLRAYrGuFBkwRIO1dpbfc4eeBzU/8zP8MduDODd/pOo0qS8Y2ZFXzAKAUh5eBHCMOnclbhwvSMfOp4cKaarfKJ6ajeyx48gbzA5Fu83gpTZTROY1JV9ivvx1HeBsyaiuYX7kEyRko2c8ZQleb4V9+MWMTfFsb6Z0ypKsdJIjSI0ptvur5lzTWpRgjZZlH7NSs2LhtsVydJHeuZzyHEdWUwi0+lZa6W5SKRkchmYfbNjKCrd1YKMf7RxFeA9Ho/4I8/niJ0LwmNdBCwmxSbYVD1btVz22685MY/BE/Bm15TNnXs3Ht6ac=;jGiVLT/8FJA9X0taiW9iBg=="
 ---
