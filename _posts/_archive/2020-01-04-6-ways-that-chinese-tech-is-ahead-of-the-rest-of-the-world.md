@@ -1,11 +1,11 @@
 ---
 category: news
 title: "6 ways that Chinese tech is ahead of the rest of the world"
-excerpt: "Your smartphone comes from China, a country where ‘phone commerce’ via a messaging app is commonplace. It’s the home of Huawei, Alibaba, Baidu, Tencent and Xaomi, and it’s home to massive investments in AI, 5G, self-driving cars, robotics, electric vehicles and even missions to Mars. Here are just a few ways that an increasingly high ..."
+excerpt: "It’s the home of Huawei, Alibaba, Baidu, Tencent and Xaomi, and it’s home to massive investments in AI, 5G, self-driving cars, robotics, electric vehicles and even missions to Mars. Here are just a few ways that an increasingly high-tech China is ..."
 publishedDateTime: 2020-01-04T12:00:00Z
-sourceUrl: https://www.techradar.com/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
-ampUrl: https://www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
-cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+sourceUrl: https://www.techradar.com/sg/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+ampUrl: https://www.techradar.com/sg/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
 type: article
 quality: 74
 heat: 74
@@ -29,6 +29,6 @@ images:
     height: 506
     title: "6 ways that Chinese tech is ahead of the rest of the world"
 
-secured: "G5YKxwXh0DYH7xHCXuy+sgJOUk6NAEJpZux4tTBoGNu2D1XlixNmQZ+lwkiaFzvWSRAmqNJTqePqdEkR8E5Z6ZwUE7pHokNiAgz3CQTrhOuD4Hkl5b5OdM2dRs5sioWwd/vAvp0QyAZ2pNh5ddI0uJShwqe+nEYVy5G/N53sjO9QUoZRuqT8Dlmi2ehU+VmTY8O8RuyPXAfrMBKxkFc2EVTGaWAb3NrzvPRQQpReM5i0etH0U6lwBniDkWwjCPgtm56yjRR5F01z+KLEPlrqO+0JNH/1NSz5CaXMDn+RU18XQflNelIkaMuAJnxFNdnRoPO5IaHTRfLkRoVtkfq3ZUH4VPC26yG3GsslQDJFAvAwvp91zE6FPLTtgo5A35k31SJtwN6B8LQ350WFEMpUKu3P06VVpBDE/YNwrPH5Dkoe/pVC1L5lXF1cUC7vrLOpoBS8UoHfbdLDoF3HjkSKOA==;/x54pSv8qfHbCkoyKedefg=="
+secured: "BeF4237x42n+B20AETSgQuNcaTCPLLqoPkv8bl+KtnuBhffQ/acB2rAZFkQPJWqHQHEFnNFFflpoH9XojmcID3+MTNdji/F8qYRrpSmC4PHmtu6YhEwi4EdVBRBum7YzBrgPK/cGtOpKD1Rnrlz/TNk4BnTid8ZeLygbQiidzWZpD/ArkyoRo6F6bK22BL60uAqAHhkq9sDWHlZsMsJFqQhMMKrfkocOU8RUa3bsKx+FwzUax+Ky6zLbYC6+ZPyihuB6W2Nd0BiZ3r/6kSrUj8nAtQvE7hBFSWoJ+QE/8lkHh3H8Z/jAr4cqHIHP9kga;V2RlPHkHEjaxw2o7JcHC2Q=="
 ---
 

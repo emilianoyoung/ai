@@ -1,30 +1,29 @@
 ---
 category: news
-title: "Google CEO calls for regulation of AI to protect against deepfakes and facial recognition"
-excerpt: "The chief executive of Google has called for international cooperation on regulating artificial intelligence technology to ensure it ... who is now a member of the International Committee for Robot Arms Control. 'There could be large-scale accidents because these things will start to behave in unexpected ways,’ she explained to the Guardian."
-publishedDateTime: 2020-01-20T12:00:00Z
-sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7907373/Google-CEO-calls-regulation-AI-protect-against-deepfakes-facial-recognition.html
-ampUrl: https://www.dailymail.co.uk/sciencetech/article-7907373/amp/Google-CEO-calls-regulation-AI-protect-against-deepfakes-facial-recognition.html
-cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7907373/amp/Google-CEO-calls-regulation-AI-protect-against-deepfakes-facial-recognition.html
+title: "Government privacy watchdog under pressure to recommend facial recognition ban"
+excerpt: "The Privacy and Civil Liberties Oversight Board (PCLOB), an independent agency, is coming under increasing pressure to recommend the federal government stop using facial recognition."
+publishedDateTime: 2020-01-27T21:31:00Z
+sourceUrl: https://thehill.com/policy/technology/480152-government-privacy-watchdog-under-pressure-to-recommend-facial-recognition
+ampUrl: https://thehill.com/policy/technology/480152-government-privacy-watchdog-under-pressure-to-recommend-facial-recognition?amp
+cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/480152-government-privacy-watchdog-under-pressure-to-recommend-facial-recognition?amp
 type: article
-quality: 67
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Mail Online
-  domain: dailymail.co.uk
+  name: The Hill
+  domain: thehill.com
 
 topics:
   - AI
-  - AI in Robotics
   - Computer Vision
 
 images:
-  - url: https://i.dailymail.co.uk/1s/2020/01/20/10/14896920-0-image-a-3_1579514657623.jpg
-    width: 636
-    height: 382
-    title: "Google CEO calls for regulation of AI to protect against deepfakes and facial recognition"
+  - url: https://thehill.com/sites/default/files/blogs/facescan_facialrecognition_020314thinkstock.jpg
+    width: 645
+    height: 363
+    title: "Government privacy watchdog under pressure to recommend facial recognition ban"
 
 related:
   - title: "London police deploy real-time facial recognition cameras"
@@ -248,6 +247,21 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/branded_news/121F9/production/_110633247_2b368a7b-bf13-4f8e-8f8d-e0ac7312d185.jpg
         width: 1024
         height: 576
+  - title: "Google CEO calls for regulation of AI to protect against deepfakes and facial recognition"
+    excerpt: "The chief executive of Google has called for international cooperation on regulating artificial intelligence technology to ensure it ... who is now a member of the International Committee for Robot Arms Control. 'There could be large-scale accidents because these things will start to behave in unexpected ways,’ she explained to the Guardian."
+    publishedDateTime: 2020-01-20T12:00:00Z
+    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7907373/Google-CEO-calls-regulation-AI-protect-against-deepfakes-facial-recognition.html
+    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7907373/amp/Google-CEO-calls-regulation-AI-protect-against-deepfakes-facial-recognition.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7907373/amp/Google-CEO-calls-regulation-AI-protect-against-deepfakes-facial-recognition.html
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 67
+    images:
+      - url: https://i.dailymail.co.uk/1s/2020/01/20/10/14896920-0-image-a-3_1579514657623.jpg
+        width: 636
+        height: 382
   - title: "EU considers five-year ban on facial recognition technology"
     excerpt: "The European Union is considering a ban on the use of facial recognition software in public areas as it considers how to regulate the technology. The ban would last between three and five years, although exceptions could be made for security and research projects, according to the proposals seen by the Reuters news agency. The plans have been ..."
     publishedDateTime: 2020-01-17T14:57:00Z
@@ -443,21 +457,6 @@ related:
       - url: https://i2.wp.com/metro.co.uk/wp-content/uploads/2020/01/PRI_118868082.jpg?quality=90&strip=all&zoom=1&resize=600%2C400&ssl=1
         width: 600
         height: 400
-  - title: "Government privacy watchdog under pressure to recommend facial recognition ban"
-    excerpt: "The Privacy and Civil Liberties Oversight Board (PCLOB), an independent agency, is coming under increasing pressure to recommend the federal government stop using facial recognition."
-    publishedDateTime: 2020-01-27T21:31:00Z
-    sourceUrl: https://thehill.com/policy/technology/480152-government-privacy-watchdog-under-pressure-to-recommend-facial-recognition
-    ampUrl: https://thehill.com/policy/technology/480152-government-privacy-watchdog-under-pressure-to-recommend-facial-recognition?amp
-    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/480152-government-privacy-watchdog-under-pressure-to-recommend-facial-recognition?amp
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 55
-    images:
-      - url: https://thehill.com/sites/default/files/blogs/facescan_facialrecognition_020314thinkstock.jpg
-        width: 645
-        height: 363
   - title: "Hundreds of US police departments using 'dystopian' face recognition app: report"
     excerpt: "A new report in US media has people worried about their privacy as more police forces sign on to use the program. Clearview AI offers facial recognition software that can identify a person even in poor-quality images. An explosive new US media report published on Saturday revealed that a secretive company has been selling the world's most ..."
     publishedDateTime: 2020-01-18T18:42:00Z
@@ -826,6 +825,6 @@ related:
       domain: pymnts.com
     quality: 19
 
-secured: "tesIlSUiGkIOOCArfMf+6BJ3GIwrzsw6n6VJoOAgq5RiAdY6uHzQIApS6qapySbLrUOUfi2sIUafoobl9rbvImEqKlGmVvYsg6u+5q8rm2jLPbQ8aH63/Pbd3g8PZw/J+pBQzppAqDQebFXZmUrtLRtCwAHtDkja2dOQfrEQCMoYmVlL+u7Un7PNklhAgaSp19jLKeiwPxz0Ld5WLMLeUqEe2jCMX6I0fCWx66/LEfOCmMSGjTdNiL7s0KDZPvyrDYA5yAzPH1DSsUNCpQfNo1tTVjPniM625LjxoIMffKa7CDg4W8bK4sXxtbiLBoXtT8oQ/hkjS6+r4GnKpPSePvOsACOJYUKWme2SY9+EWG+e344OziXaGTDQRhoknJ4nZoXlTfDoipwkrN7/qTKET4WUkWtcP7LGvJP36ca6REs0EvfjHgAvIbc2guPVbTb/3j0stJ46x+hMN4oDU1QemA==;nN12jhOWdD+F+L690ayHKQ=="
+secured: "irsPitbkLQWCRgdb+mpT6B/2XgaiD5ZMt3FvC1s3AZK02qOrCWH7qV8AKZxzV41DkD8nzkJAUQv9mvjtQj8oWcc24934QK0fKuAPebAZntAgRWsxMrBJz0IaXhcaIWnK1453NwB+w3lkhUi8Pv/Xb3RUf5ZZ2c7qxMTwyuS0TB6BxaGgPGUajWANxpkF158TvGwTsc22O1Jo5h17MODwf0WWk3CEBaYVAh6c95MuVOSat0YUl9cbabvtoOUoxB4JY10ZiU+gbGBYDsA7CdBV/fEFoONzuRjeYfOdvaSF1rMZo2bJwdNATN2focs1r9c9;UImrbLLahMh2ITxsPM/yVw=="
 ---
 

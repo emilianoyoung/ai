@@ -8,7 +8,7 @@ ampUrl: https://gizmodo.com/googles-ai-proves-better-at-detecting-breast-cancer-
 cdnAmpUrl: https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/googles-ai-proves-better-at-detecting-breast-cancer-tha-1840773871/amp
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:
@@ -46,6 +46,6 @@ related:
         width: 1400
         height: 933
 
-secured: "AntbcGtLmOFtnhyPuYCu3yMJPV393FCxOKMguCFQGePE7/4PUo2UNTQmfSUNGGh/OS5HU8W0rJe6kJQyN55nFU1XGuzmsK9SpusvlPIx2E4idIxuA+OFNYS37K6s/EG6Q9wrTh5wRUKQWF9kPbN8cVSCOxvHrcRzaFFe2UQcYiZfB1vMyroYbz/Rl8vUu9bzcX7mbBbAdJLMEE9hWUJD/kmkSPDrDuuHpKvdJvMNqSEadiXI/rjEQcCseumMKQwrwiM+0+abiJzegRm//LZNdRKyapZUzaXnQBXBtWQOX3hfFby07rwbQxaMQAvNccxI8J+9pmd/zpB+dO8KLqIzcmb7XG9Rc67+ixYCaJHMA74MhVyoDYmTtZrUfjP7b0aLsYWJBpZwkm8+nBVvwr1Ekxdka3jvoXB1VLCsIZAkqOlV/b9OkBD6U0C7niwbG6B0DkMsa4Pt0yfIOht1Vf/k8ivhu36bIYj2jagYX2jHHEg=;XRDiHYuGCIoDZit011wDog=="
+secured: "wjPM++o5BMp2kHXz1B7CCM1NY9uC6kcesrMCLdu74xiz6sWxC6bQKMMbuATpGWhIF+1+uiJQO/MoTWxUp+FYBYaPUMi9YhewrvYvkINO6Ar6PU8Qq/ts8c2yB78sERsoGhpRu4s9ni8R9EdA1CeoH24UGdQAYpwyTSAc0mM1JhLxu3xqwplvSkjZOkQqeYffLA9jDrEa0EIEyuF4QrGKRSaiBjxmKqVFXRNaisDbyqKjKDnikuk1dyRxmeS7XAtEn+MKnrAo84xXb1ujWRikhwWafwSn2Yd6Zrejua/1WKCXazwRq/n9YO19OYLkPCT3sUIAvq6BEOdc7wPb+wrSQtN/wBqQFpWyYSmRJEMK55FGWg7RCpWNn4ifwkFTkYoZ0N5EPlCyckbUYdq+JKc22gVEWboDKuRPw6cKGYwYVuK2Kb8nbeiQ8IOFpL1B6ihAdROLkPUy71kCMJYpdK2EzA2NCs1QlgaWh0lakApcA7A=;LKQ57JWiYSudMMvdmkSGzA=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-22T23:31:00Z
 sourceUrl: https://www.wlox.com/2020/01/22/food-delivery-robots-take-over-ole-miss-campus/
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,21 @@ images:
     title: "Food delivery robots take over Ole Miss campus"
 
 related:
+  - title: "Ole Miss students get meals delivered by robots"
+    excerpt: "“We are excited about the expansion of our mobile ordering operation and the new opportunities this partnership creates.” The robots use a combination of sophisticated machine learning, artificial intelligence and sensors to travel on sidewalks and navigate around obstacles. The computer vision-based navigation helps the robots to map their ..."
+    publishedDateTime: 2020-01-27T21:48:00Z
+    sourceUrl: https://www.gpsworld.com/ole-miss-students-get-meals-delivered-by-robots/
+    ampUrl: https://www.gpsworld.com/ole-miss-students-get-meals-delivered-by-robots/amp/
+    cdnAmpUrl: https://www-gpsworld-com.cdn.ampproject.org/c/s/www.gpsworld.com/ole-miss-students-get-meals-delivered-by-robots/amp/
+    type: article
+    provider:
+      name: GPS World
+      domain: gpsworld.com
+    quality: 59
+    images:
+      - url: https://www.gpsworld.com/wp-content/uploads/Ole-Miss-Starship-robot-W.jpg
+        width: 600
+        height: 337
   - title: "Starship delivery robots arrive at Ole Miss"
     excerpt: "The robots leverage machine learning, artificial intelligence and a series of on-board sensors to navigate on sidewalks and avoid obstacles. Each robot can carry up to 20 pounds, as well as cross streets, climb curbs, travel at night and operate in both rain and snow."
     publishedDateTime: 2020-01-24T15:21:00Z

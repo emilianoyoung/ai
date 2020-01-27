@@ -27,7 +27,7 @@ images:
 
 related:
   - title: "AWS collaborates with Drone Federation to boost drone innovation in India"
-    excerpt: "Ltd. “With the breadth and depth of AWS Cloud services across industry-leading compute, storage, database, IoT, artificial intelligence, and machine learning, drone developers and operators can now test new ideas quickly, and accelerate innovation in the ..."
+    excerpt: "Ltd. “With the breadth and depth of AWS Cloud services across industry-leading compute, storage, database, IoT, artificial intelligence, and machine learning, drone developers and operators can now test new ideas quickly, and accelerate innovation in the application development that better serve citizens and impact society positively.\""
     publishedDateTime: 2020-01-06T13:56:00Z
     sourceUrl: https://www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india-11578317708207.html
     ampUrl: https://www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india/amp-11578317708207.html
@@ -54,7 +54,20 @@ related:
       - url: https://www.cxotoday.com/wp-content/uploads/2020/01/drones-pic.jpg
         width: 599
         height: 450
+  - title: "New image sensor evaluation kits to spark innovation with miniature cameras in consumer applications"
+    excerpt: "Raspberry Pi and Arduino based NanEyeC evaluation kits support implementation of eye tracking, presence detection and object recognition in products such as virtual reality headsets, smart lighting and Home and Building Automation Premstaetten, Austria ..."
+    publishedDateTime: 2020-01-03T14:43:00Z
+    sourceUrl: https://www.eejournal.com/industry_news/new-image-sensor-evaluation-kits-to-spark-innovation-with-miniature-cameras-in-consumer-applications/
+    type: article
+    provider:
+      name: Electronic Engineering Journal
+      domain: eejournal.com
+    quality: 9
+    images:
+      - url: https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png
+        width: 512
+        height: 512
 
-secured: "/HsMCeP5EXsum+jVjK86zRdYnVtzohZQisjy6CleXdsGrzbhDZ13o0nGJCe9HjNQ+sgE7GEBsVuobJ94l3c3gOGPPUr6q1X+FaUhhaGKVNAcsGtD7KfvJRxSxsTAm0Ly+34/uTmKFGTAw5FQ6fncAi7uaFB/PflnEeoVCAwe/BIjFpRXVPx0+sCnS/EgiBdudtbzbUKSwuFIT5Lih0THSA4BEG6OCfuFs7MB3NVmRpiKCzW1Zs5Z1h55M0aSe7IIH37bjHcqdBN5E4Vr8b4yEEN+GTgBerqzcMfmhDKLREjrIVkcytf+iMHVX0coBm6Q;p4pEN2Oz11kR5pUIS8QnhA=="
+secured: "Gs7enBB/ah4l15yR4ewxG+jyaM8VySbvR/dYUPWJ2miNRiKjjU601qCOgMZK4VZyhkXCsu6asLgyhhAuOtoAA4AhTvU9gI9hgc8WULX9AFaVGd4vjpni7njiNQC2/k9c3R5X/npght8TLByPfAz637fPlMifcsR+VrKU0reWPPn3Ez1/D5W/JCJmvxkisDkb/Ymif3NCN9Vmxx9y+iG2c0NV2lNbnkQSJjBr2jp1WYAhwlm4AXZbHL7D5v1NSLL5OaGDeWS8AZbnrSmcvQUniT1qYyEqtbLVWWKhrMLlJERruvimhoL3Qp2I4T/fsPog;ur32nzlEsj9oSzSHh7DGfA=="
 ---
 

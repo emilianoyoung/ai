@@ -457,6 +457,21 @@ related:
       - url: https://i2.wp.com/metro.co.uk/wp-content/uploads/2020/01/PRI_118868082.jpg?quality=90&strip=all&zoom=1&resize=600%2C400&ssl=1
         width: 600
         height: 400
+  - title: "Government privacy watchdog under pressure to recommend facial recognition ban"
+    excerpt: "The Privacy and Civil Liberties Oversight Board (PCLOB), an independent agency, is coming under increasing pressure to recommend the federal government stop using facial recognition."
+    publishedDateTime: 2020-01-27T21:31:00Z
+    sourceUrl: https://thehill.com/policy/technology/480152-government-privacy-watchdog-under-pressure-to-recommend-facial-recognition
+    ampUrl: https://thehill.com/policy/technology/480152-government-privacy-watchdog-under-pressure-to-recommend-facial-recognition?amp
+    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/480152-government-privacy-watchdog-under-pressure-to-recommend-facial-recognition?amp
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 55
+    images:
+      - url: https://thehill.com/sites/default/files/blogs/facescan_facialrecognition_020314thinkstock.jpg
+        width: 645
+        height: 363
   - title: "Metropolitan Police to make '81% inaccurate' live facial recognition operational"
     excerpt: "The Metropolitan Police is to begin using its controversial live facial recognition (LFR) technology on a standard basis, despite concerns about the impact of the surveillance software and its legality. In a statement on Friday the force's assistant commissioner, Nick Ephgrave, said the Met was making the technology \"operational\" following 10 ..."
     publishedDateTime: 2020-01-24T12:54:00Z
