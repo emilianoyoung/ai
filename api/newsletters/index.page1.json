@@ -1,5 +1,5 @@
 ---
-api: newsletter
+api: newsletters
 page: 1
 permalink: /:path/page1/
 ---
