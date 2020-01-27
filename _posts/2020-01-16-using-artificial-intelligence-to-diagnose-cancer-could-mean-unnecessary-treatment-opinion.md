@@ -49,6 +49,19 @@ related:
       - url: https://www.twincities.com/wp-content/themes/twincities/static/images/twincities.jpg
         width: 1280
         height: 720
+  - title: "Artificial Intelligence Diagnosing cancer with accuracy"
+    excerpt: "The new year is opening with some intriguing news: The journal Nature reports that artificial intelligence is better at identifying breast cancers on mammograms than radiologists. Researchers at Google Health teamed up with academic medical centers in the United States and Britain to train an AI system using tens of thousands of mammograms."
+    publishedDateTime: 2020-01-26T06:53:00Z
+    sourceUrl: https://www.arkansasonline.com/news/2020/jan/26/artificial-intelligence-diagnosing-canc/?news-columnists
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 37
+    images:
+      - url: https://media.arkansasonline.com/static/ao_redesign/graphics/adgog.jpg
+        width: 340
+        height: 246
 
 secured: "BHO5MhwehMNsYbEhAiPS+4nbOYONrgh26aQC2Dp+YAAxa5FGPfmRSZ+bT0wgu73kWQogIODhpzxXr1iV7NkUkTM/M4q/pSmOpPm7olCpzov6zSkTZJFspR5rDWhiwsfun/l7GfP9Do45Pe+EIEiSgA1YhC8ovOaGdgrYY8Hn7rBOLE4AjIHJkVYy2/TKlx3qE5kKwMuJ/+laxfU+BVkBn8dezvd6dl4EaXXicf6N+t/VjUuw6Ox+8DbPpx+L6iuuB6PNNa1e5E0C2ZMWKrmH9qYm8POClKZp3hPXiuwnQQ0OvgDtFB8ASWU6Orsc+gOqz9C95X1amhFvLY2jST/3d4iwcqycYI3toBvKvX2rPn/YTeWHSWYd8q9SGIWlNiGioDskM6h4N/qGBpPG9QSUAt+GeDuSXvi94d2PdU/aBE8In9/uMlTsueuqToag+hG1VgfCNNXYFKlNScuHFNlBaQ==;BtI8bpTQwunx/VcPqlJ25w=="
 ---

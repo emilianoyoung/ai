@@ -39,6 +39,19 @@ related:
       - url: https://mondrian.mashable.com/2020%252F01%252F09%252F05%252F398230a2d9e84a0986a7acd0a7ac7861.8483c.jpg%252F1200x630.jpg?signature=FM7sSz88mzg3SnzEEsgj0xxogC8=
         width: 1200
         height: 630
+  - title: "Speech recognition and voice commands for your site"
+    excerpt: "Many of the smart devices we use every day support speech recognition technology. We use the voice to search for information, buy goods, even manage other devices. The tech giants use voice search ..."
+    publishedDateTime: 2020-01-04T10:34:00Z
+    sourceUrl: https://medium.com/voice-tech-podcast/speech-recognition-and-voice-commands-for-your-site-e1931d60ba03
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 69
+    images:
+      - url: https://miro.medium.com/max/1200/1*jglFlhzYhpqGCyHcZU516g.jpeg
+        width: 1200
+        height: 564
   - title: "What is Voice Recognition"
     excerpt: "Natural Language Processing derives meaning from human languages by relying on machine learning techniques. Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills this void but also unite all faster means of ..."
     publishedDateTime: 2020-01-11T11:43:00Z

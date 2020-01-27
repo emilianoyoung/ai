@@ -23,21 +23,47 @@ images:
     title: "Artificial Intelligence Diagnosing cancer with accuracy"
 
 related:
-  - title: "Why cancer-spotting AI needs to be handled with care"
-    excerpt: "Just this month, Google generated a wave of headlines with a study showing that its AI systems can spot breast cancer in mammograms more accurately than doctors. But for many in health care, what studies like these demonstrate is not just the promise of AI, but also its potential threat. They say that for all of the obvious abilities of ..."
-    publishedDateTime: 2020-01-27T13:00:00Z
-    sourceUrl: https://www.theverge.com/2020/1/27/21080253/ai-cancer-diagnosis-dangers-mammography-google-paper-accuracy
-    ampUrl: https://www.theverge.com/platform/amp/2020/1/27/21080253/ai-cancer-diagnosis-dangers-mammography-google-paper-accuracy
-    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/27/21080253/ai-cancer-diagnosis-dangers-mammography-google-paper-accuracy
+  - title: "Commentary: AI can’t resolve the ambiguities of early cancer diagnosis"
+    excerpt: "Researchers at Google Health teamed up with academic medical centers in the United States and Britain to train an AI system using tens of thousands of mammograms. But even the best artificial intelligence system can’t fix the uncertainties surrounding early cancer diagnosis. To understand why, it helps to have a sense of how AI systems learn."
+    publishedDateTime: 2020-01-20T19:03:00Z
+    sourceUrl: https://www.statesman.com/opinion/20200119/commentary-ai-cant-resolve-ambiguities-of-early-cancer-diagnosis
+    ampUrl: https://www.statesman.com/opinion/20200119/commentary-ai-cant-resolve-ambiguities-of-early-cancer-diagnosis?template=ampart
+    cdnAmpUrl: https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/opinion/20200119/commentary-ai-cant-resolve-ambiguities-of-early-cancer-diagnosis?template=ampart
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 87
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 57
     images:
-      - url: https://cdn.vox-cdn.com/thumbor/ynzt70uqNk6tTG6At7L2FpNJQYE=/0x0:2130x1420/1400x933/filters:focal(895x540:1235x880):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66172649/VRG_ILLO_1777_AK_body_data.0.0.jpg
-        width: 1400
-        height: 933
+      - url: https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20200119&Category=OPINION&ArtNo=200118773&Ref=AR
+        width: 2000
+        height: 1124
+  - title: "Adamson, Welch: Using artificial intelligence to diagnose cancer could mean unnecessary treatments"
+    excerpt: "The new decade opened with some intriguing news: The journal Nature reported that artificial intelligence was better at identifying breast cancers on mammograms than radiologists. Researchers at Google Health teamed up with academic medical centers in the United States and Britain to train an AI system using tens of thousands of mammograms."
+    publishedDateTime: 2020-01-17T07:29:00Z
+    sourceUrl: https://www.twincities.com/2020/01/17/adamson-welch-using-artificial-intelligence-to-diagnose-cancer-could-mean-unnecessary-treatments/
+    ampUrl: https://www.twincities.com/2020/01/17/adamson-welch-using-artificial-intelligence-to-diagnose-cancer-could-mean-unnecessary-treatments/amp/
+    cdnAmpUrl: https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2020/01/17/adamson-welch-using-artificial-intelligence-to-diagnose-cancer-could-mean-unnecessary-treatments/amp/
+    type: article
+    provider:
+      name: TwinCities.com
+      domain: twincities.com
+    quality: 43
+    images:
+      - url: https://www.twincities.com/wp-content/themes/twincities/static/images/twincities.jpg
+        width: 1280
+        height: 720
+  - title: "Using artificial intelligence to diagnose cancer could mean unnecessary treatment | Opinion"
+    excerpt: "The new decade opened with some intriguing news: The journal Nature reported that artificial intelligence was better at identifying breast cancers on mammograms than radiologists. Researchers at Google Health teamed up with academic medical centers in the United States and Britain to train an AI system using tens of thousands of mammograms."
+    publishedDateTime: 2020-01-16T20:16:00Z
+    sourceUrl: https://www.miamiherald.com/opinion/op-ed/article239364303.html
+    ampUrl: https://amp.miamiherald.com/opinion/op-ed/article239364303.html
+    cdnAmpUrl: https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/opinion/op-ed/article239364303.html
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 27
 
 secured: "yprwHpD6DWPUFKYIrEkBOCzkd47b8KbZP8dJWy8MlYj3gqrF8/cd55e39LjdqbgE3T8I3AJSguj/aCU3G6pQCTma0Bwwmg+qsIkx89orK7lmXA4BPHTn3Dfz1KrN0TbX1oX+VfSkZ81kNzHF0Gmnj1MQUZ5L5ttw+B3ZWd3OQjf85xjINo2NVp97rf2k3+mfrf9VNjp9sF30JN1XFYx9DAFzywUI1wP3KIyyslQJP5VpAweGZjEG+2hXrNViESUqW6rkfQ+7DlNQipSmIVZp2U5hbpQGSYK2AI2rQB49Oyb+1M9/jxcMwgCIE1ANTKcI;fhSlz3oX9b5Kwk/Us7XUkg=="
 ---

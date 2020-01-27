@@ -1,17 +1,23 @@
 ---
 category: news
 title: "Proprio Appoints Robotics and Computer Vision Pioneer Dr. Takeo Kanade to Advisory Board"
-excerpt: "One of the world's foremost researchers in computer vision and robotics, Dr. Kanade is the U.A. and Helen Whitaker Professor of Computer Science and Robotics at Carnegie Mellon University, and a member of the National Academy of Engineering and the American Academy of Arts and Sciences. He joins Proprio's growing technical advisory board which ..."
-publishedDateTime: 2020-01-09T16:00:00Z
-sourceUrl: https://www.nbcrightnow.com/news/state/proprio-appoints-robotics-and-computer-vision-pioneer-dr-takeo-kanade/article_6554eeb4-1d29-5e6a-9af9-bd2d55d2930e.html
+excerpt: "One of the world's foremost researchers in computer vision and robotics, Dr. Kanade is the U.A. and Helen Whitaker Professor of Computer Science and Robotics at Carnegie Mellon University ..."
+publishedDateTime: 2020-01-09T17:08:00Z
+sourceUrl: https://markets.businessinsider.com/news/stocks/proprio-appoints-robotics-and-computer-vision-pioneer-dr-takeo-kanade-to-advisory-board-1028807109
+ampUrl: https://markets.businessinsider.com/amp/news/proprio-appoints-robotics-and-computer-vision-pioneer-dr-takeo-kanade-to-advisory-board-1028807109
+cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/proprio-appoints-robotics-and-computer-vision-pioneer-dr-takeo-kanade-to-advisory-board-1028807109
 type: article
-quality: 10
-heat: -1
-published: false
+quality: 60
+heat: 70
+published: true
 
 provider:
-  name: NBC Right Now
-  domain: nbcrightnow.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -32,6 +38,6 @@ related:
         width: 800
         height: 400
 
-secured: "WvAOiu9MtIWxEqvH9XEP3PWLt5YYnbLGzjTRb2RqmgY3CHOpXPXOBxyAVVELZuq8WZaf3HBoGyqxoxeBehjuJFJuxul8d3ZBRBA355DTyKrTfs3owy9/7u8RyljhbkLpeH49YuwrZBLRc68f2m9xr1nJ0G5tfENYTiYI+5ZbcCNrSozaXv1tk5IF10W55XXXHbQVYyAZS6yL7xepqrSBnHhT9TOngY0DnrAH1bIvryezCqc9FWbm5Lhj0Mu41oJ/5F7I7kpqFt2l41Ov3aAJIws/ShWA2LCDZW0Pq8MPkvEg7CZ1eAbazezOLN1fFcINhWllTI+I8OYrER6x13jrULEdmqhyxuYXlUGlFJKdenxlhYp+4Ud1/kO6THxu8AE1mlQBmlGmPMq2LRctdmyLos+wECZBCadrSJD1aIMogYpwrTzG7CP4O4hX41sJeQVTcUiDjQdlMBA3XdmXJ7oF+hhBTmWiYZVHd7trp0hB2lY=;/syVfozEkkScPcuyvhn2Jw=="
+secured: "crEE+BHHFwAdi6mGsUmUqgfU+vhRgNOTrlhYJH709gM3lIjgyZojwBQhKI9ufaK7hnAIrz7R/8GKgIgHMs1mfwvcSRUdK9KXBBDqTP//ooEb2KCI1elXy9FvPsa+mqecNtAK4dtH9MzUnFHTZYyWdzRZOBzY6bVRQlX9H93sjldfARXgYwis3JDRT8whIHVBzXQ0e/g9aYZrEnm4XwVn7LdVQj4vjuoPF8nuokiYNwHNO0P6dMXJIJ3p+OQI97MiR3x9FbuLpql7N6H9/sgtTFS1xoPFMUvjTGvnNxqEb0JpBnflwB7VDqRRHRcdy+o8;Qmdnr90rOn6H2S/B4gA0rQ=="
 ---
 

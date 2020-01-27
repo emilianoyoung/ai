@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Machine Learning with Amazon SageMaker"
-excerpt: "By now you must be wondering is there a better way? Luckily — there is! And that is why start talking about AWS SageMaker. This Amazon cloud service was created with only one idea in mind: to put machine learning into the hands of every developer ..."
+excerpt: "Luckily — there is! And that is why start talking about AWS SageMaker. This Amazon cloud service was created with only one idea in mind: to put machine learning into the hands of every developer ..."
 publishedDateTime: 2020-01-07T11:53:00Z
 sourceUrl: https://medium.com/webstep/machine-learning-with-aws-sagemaker-e846c2070e02
 type: article
@@ -42,6 +42,6 @@ related:
         width: 1440
         height: 810
 
-secured: "I7VvPld/WR98gcQMr4p7f9WXlYrHETgiblQf/vmhG8Mme7RngE5X0J6qWHjaZ5P0K6TyO86ImnmX645f0Rjls1e+Uv2yMjFjQjNqQCAdQgm2SZvvTGDj/JmBkexwiMlvs20I5PD8wUOfeJUW9KSIREerKq67Wm2nL1zqSW3fxvI9utalnXw1gTuTtnmtwpYtMUwTqQORZcvGgxQwQvqUZcfOgU5Um/4DSKiG1yZd64PNjnu8eGHnCaQCu3GufU6iJZ5vbW6so7T961rXpVp+5gCUC+Rj370EJfAYR8B6uJ0=;DDv1kgGPWdljyV3nG0kryw=="
+secured: "DeVM5XafKd98S2eqFGzfJywc3gkFJyutvmN258Wh6+igKe/Vv0HBC3lPYpFi4WnPhMWVod6GIezqvJMXXeEMg7bk9SVdwLMpVrLq6EgXYa88KdLMSeY2GzSzTEjZRdkSokkFgolcTH4fd5Bl+DN/hpnOnX1/O63lVdKAcVPtz4h+UE/QOmasw2rih0IpJBVsMXNbjGNt4w2c7NiY9Z8qPOie/1smMpDkfeMeHEed1OSBerLceYQb/NabQYeSfJvP44o7bu8eDJw5nVareIgSzjF9HPHUQL9rnlX1IllUgaRCtUTJ2/2OT8luT0CgmYNz;4o6a/Hg/2uzYu62r0JTKzg=="
 ---
 

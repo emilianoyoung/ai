@@ -2,25 +2,25 @@
 category: news
 title: "London police are taking surveillance to a whole new level, to start using facial recognition to spot criminal suspects"
 excerpt: "London’s police department said Friday that it would begin using facial recognition to spot criminal suspects with video cameras as they walk the streets, adopting a level of surveillance that is rare outside China. The decision is a major development in the use of a technology that has set off a worldwide debate about the balance between ..."
-publishedDateTime: 2020-01-24T22:12:00Z
-sourceUrl: https://www.sun-sentinel.com/news/nationworld/ct-nw-nyt-london-facial-recognition-surveillance-20200124-dbgm2lc2ezcx5i5vssh35jkvam-story.html
-ampUrl: https://www.sun-sentinel.com/news/nationworld/ct-nw-nyt-london-facial-recognition-surveillance-20200124-dbgm2lc2ezcx5i5vssh35jkvam-story.html?outputType=amp
-cdnAmpUrl: https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/nationworld/ct-nw-nyt-london-facial-recognition-surveillance-20200124-dbgm2lc2ezcx5i5vssh35jkvam-story.html?outputType=amp
+publishedDateTime: 2020-01-24T22:03:00Z
+sourceUrl: https://www.chicagotribune.com/nation-world/ct-nw-nyt-london-facial-recognition-surveillance-20200124-dbgm2lc2ezcx5i5vssh35jkvam-story.html
+ampUrl: https://www.chicagotribune.com/nation-world/ct-nw-nyt-london-facial-recognition-surveillance-20200124-dbgm2lc2ezcx5i5vssh35jkvam-story.html?outputType=amp
+cdnAmpUrl: https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-london-facial-recognition-surveillance-20200124-dbgm2lc2ezcx5i5vssh35jkvam-story.html?outputType=amp
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Sun Sentinel
-  domain: sun-sentinel.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.sun-sentinel.com/resizer/JWw4oWSSzU1KnkDFxSfTwAIh7XI=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/5K7NL5R2ENFQFBCYE7MGEEKD2Y.jpg
+  - url: https://www.chicagotribune.com/resizer/JWw4oWSSzU1KnkDFxSfTwAIh7XI=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/5K7NL5R2ENFQFBCYE7MGEEKD2Y.jpg
     width: 1200
     height: 800
     title: "London police are taking surveillance to a whole new level, to start using facial recognition to spot criminal suspects"
@@ -784,6 +784,6 @@ related:
       domain: pymnts.com
     quality: 19
 
-secured: "Z/V3aKzG8jm0WjmYaUKoceFDvvLhrTOCq18QKLvlto+G/5LlzP/hhfi0yDHNBlLdEx1tvYA8yvyH7x0d0widK9L3XMd0m13aTHzYGvINz9fnnX/2GtCRkMs1jPoj0xq++ibt+dERbX4olcAYWlOwM0iON7kHxymHjOgWV6lmTgNO5gUwlXDctjA8kXI4joT+T3S0eFVO8Y7ggahhUW5BPfFdfDq9k+noEkx/sfh79KyXgZBcyrLO5s6RoJWb+m4g96FKnOpgPle9aHzQHgYXM9BR83HyIvhMrk6EE++MdhfOzi/YUQB0b1umGzwMy1nFnL3YeZ68M5A27BPb66kYjVg9Mrp7tyYYMyqhZKNrk2a4IoXQe2YIi0ieXMRmhLQdNGfwNGsm1LPNzoPi+5YjBiyf2lIA/hLM5hZfm84uaycRY333ZOZS2pqyjnPLhD8Stux0Y8VSSbL8sSZ5JUwaz3FBV2+wXnGkiOKtapVJdew=;rA2M44aS/DclVv5kMRq4WA=="
+secured: "QeQaJDX61Pcqt+58jUiSFxp+3ds0mzFrdX+unrFHEHpuv5L9jwtNIrcrmmMDQ01Lox8g+bnVcCGXKEQpgVhbU6dY8pzfJHn8YSIRNBqZAWE0FA/TfZfVPT+zPffG7S6lKivw6saNonPitRBi53tp2R7rlvtI/tfkTbPqPJ4y1C5e9/uHBb1wsA9DkxW6zpyTQLRcso/lnN/fffgsNABVpPdRCmMhiK9BZgdgeJkbYKoVufUxRYlLGFFdQli6ZSWcr5Q0pXDDZ3AbOMSrKnmCLja3aZhPefhXbJBIcHR9Tr16HP12hAeOdb5EtS2DLoyn;gQH/OJ5LRL/kcOVFjXG3HA=="
 ---
 

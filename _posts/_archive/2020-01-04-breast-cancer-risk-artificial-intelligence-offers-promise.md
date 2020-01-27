@@ -27,6 +27,6 @@ images:
     height: 1599
     title: "Breast Cancer Risk: Artificial Intelligence Offers Promise"
 
-secured: "d++OYx2Hw5e4yJ/aEV0/q7QioAbmUv0zfBqpsMZMbQPFIQCZO+NdmBJRLyVn6VV0LfJuP6IgHN3QsTw43562cSbp0qWlz2FiVovSLGvfw7VDQnGu+o8NM/aQly5i1Id+AoPwPUHq06xEjgqxcLweDnoLzmmt3KvWcRD+QAiSkQmf4Xm8ckTMZh2p45rdsxKTulu1CSSWj8X38bWX7Z+OxmQiDPWZsp+F3MwTGCObrtMFvdiiwAIjmHT4Wctgrk469AiYrUCBWkM8NM8SD5yCeHsNJFbOOj/5mcIPnM2oyg3GWmA3YALDdLsv9ncO2zSs;7dQjrMgoh4Qwum9e+lEVHg=="
+secured: "tv/2f/uid4PC8OQeg06XsTfwnu5BeKEEee9Lsygi6nvn14pQu6uVSiJhns46eg/2Ggn3RVDct26FGdgDq9+371Rrz7HD/5hKBRRhsgQqpuxvnMid9IodURRnzTAwmIihpvDbT8oYmHCakVFH3dQt/oq1Rbs1NR7c8YKHL5x5AY6azOCqcXgXII+6CXKZRgOvEkTlq891zLlYG0sA03R+ZYRpH3Sd69Kux9A/Xwpko0byluh/25Jl4BIkzlyOg7HVpA7aPuQJt2FUy7ddqtYQqB8/0BXfynpmvVmyx3eF5kWx8OIG488mbytGXIF/xL9/;/7bKR9Zwcd2JDd0RU7rv5Q=="
 ---
 

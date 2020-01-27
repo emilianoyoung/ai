@@ -3,28 +3,28 @@ category: news
 title: "Datacultr reduces frauds in consumer lending with its Machine Learning platform"
 excerpt: "Datacultr, a leading Platform-as-a-Service(PaaS) player has helped reduce the risk of fraud ... the total amount in bank frauds rose 74% to Rs 71,543 cr in FY19. However, the rise of machine learning can prove to be a game-changer for these banks, Non-banking financial companies (NBFCs), and fintechs. With ML capabilities, Datacultr has been ..."
 publishedDateTime: 2020-01-23T04:10:00Z
-sourceUrl: https://www.asianage.com/technology/in-other-news/230120/datacultr-reduces-frauds-in-consumer-lending-with-its-machine-learning-platform.html
-ampUrl: https://www.asianage.com/amp/technology/in-other-news/230120/datacultr-reduces-frauds-in-consumer-lending-with-its-machine-learning-platform.html
-cdnAmpUrl: https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/technology/in-other-news/230120/datacultr-reduces-frauds-in-consumer-lending-with-its-machine-learning-platform.html
+sourceUrl: https://www.deccanchronicle.com/technology/in-other-news/230120/datacultr-reduces-frauds-in-consumer-lending-with-its-machine-learning.html
+ampUrl: https://www.deccanchronicle.com/amp/technology/in-other-news/230120/datacultr-reduces-frauds-in-consumer-lending-with-its-machine-learning.html
+cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/230120/datacultr-reduces-frauds-in-consumer-lending-with-its-machine-learning.html
 type: article
 quality: 40
 heat: 40
 published: false
 
 provider:
-  name: The Asian Age
-  domain: asianage.com
+  name: Deccan Chronicle
+  domain: deccanchronicle.com
 
 topics:
   - AI
   - AI in Finance
 
 images:
-  - url: https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-c6vcqtlfu5qn38at3rp993fd81-20200123093746.Medi.jpeg
+  - url: https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-c6vcqtlfu5qn38at3rp993fd81-20200123093804.Medi.jpeg
     width: 800
     height: 448
     title: "Datacultr reduces frauds in consumer lending with its Machine Learning platform"
 
-secured: "/9QfYQaRQDmcDBppEY7QeTqOFeSjHNtMfWjEGCb63F19RX7iilmoN9fPgX1pzP/Yw9c/ndel5QrslwJ9hz3yvdb/hH3yMMuGXFJirqYMOxwIVHOHWwtYZx4QB85iwzFVz1/OB57Pe3GSwxCsGC6TdKw9ity9nTJDS7yzBqucVd2hsrHUKtyfT0ekBWkzy8dxyO7KxTnmjnGyz64vWUKr2IfAHPiH4atms+Tjw4mCLpDCvxRy6c/ROShpmU5QXf2oPGZWvPj5em2QhjZn6R6OHGWK73Q3mcwBrI3UPJ4IP8Wkms7j8aWAB115F1+mJPdy;+bok6rmzGAZtaZsmung74Q=="
+secured: "LS6ShdOHawTNO8A34YvzZF0pTKYHT6eli0Po2ObTSnN9O9j4yFmfzD/FQk1nlgqao9j2So2TgJMlpjFL33LhHurLab+o72miGQPLdI5iF0LV+IYzrf78JbcI4k1enGnqfF0ezPuOB+c8KLaJfmyghKoRI/t72sUc97aYXBFCCPsihEEt59H90X7aTJgfIKiHswckFwCJbQ8vaG5MsM4CXesGHDBxDobqT/07oFq0wYOd5TfnFP6lfjUPOxYMteVYAusJdOs11/u5KHy9I/hK/QvZOWPkh8h5Zort1g6E1m1PSTraNlXNuGES1wv9FEhq;hFIJbDvnNKzOl7Hau4SjjQ=="
 ---
 

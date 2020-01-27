@@ -26,6 +26,21 @@ images:
     title: "AWS collaborates with Drone Federation to boost drone innovation in India"
 
 related:
+  - title: "Drone Federation of India, AWS sign MoU to help entrepreneurs build services for drones in India"
+    excerpt: "and Amazon Rekognition services. “The collaboration will help us bring open data sets to the drone community in India. We run a lot of startup programmes in India, and this technology and ..."
+    publishedDateTime: 2020-01-06T12:34:00Z
+    sourceUrl: https://yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-services
+    ampUrl: https://yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-services/amp
+    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-services/amp
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 46
+    images:
+      - url: https://images.yourstory.com/cs/2/211ccaf0-0e6d-11e9-97fe-8f165dce9bb1/yourstory-EasyPilot15597911680441563520988677.png?fm=png&auto=format
+        width: 800
+        height: 400
   - title: "AWS, DFI Powering India’s Commercial Drone Innovation"
     excerpt: "With map-based analytics becoming the next frontier in artificial intelligence (AI) and machine learning (ML) based decision-making, reliable data warehousing capabilities for on-demand access to decision-making data is pivotal. DFI and its partners will leverage AWS’s compute instances, storage services, and database services including ..."
     publishedDateTime: 2020-01-08T05:29:00Z
@@ -52,16 +67,7 @@ related:
       - url: https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png
         width: 512
         height: 512
-  - title: "zGlue Launches ChipBuilder Pro to Quickly and Easily Enable the Next Generation of Consumer Experiences on IoT and AI-Powered Devices"
-    excerpt: "Because ChipBuilder uses Microsoft Azure cloud, products developed with ChipBuilder benefit from industry-leading ... zGlue will showcase its ChipBuilder Pro Package at CES 2020 in Las Vegas, NV: zGlue, an as-a-service company for designing and manufacturing AI and IoT-powered chips on-demand, speeds the time to market for wearable, medical ..."
-    publishedDateTime: 2020-01-06T13:46:00Z
-    sourceUrl: https://www.design-reuse.com/news/47338/zglue-chipbuilder-pro-iot-ai.html
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 0
 
-secured: "iCo2ahXvumH5PfSsgQN7H8wfb8vvx2p5GqOWMKhzJjWfi8oyGabAO3f0jYeemG24AtpBxm7Y2YSJ/o1VTB4LQ1+kFU+KptwrBOWfevrEsugGV9ygtUN0j+Ulx2ebvvjEqcJiJUSf3kN7R/6a54LpqXv4rNKeqtMiStPDTimeNbdPDytsGCwDGfwp17JNehTukGEk4MwlFpZyshuzNK8SjzGDXHy2cKYHdgBg1dHg9LVImnVSVv/sCP1BAFKH3hic5axlTFIP/5AqxKbh2jNj4rwrwzZUiJKICSVwq3iT20wudte5JnnVD6z8Ol0OZAtVXkhTqfHXk4Pw+fLJsAMiIXLIuz5BJiwEYfGsHcARstbyx14276xBhYihjALWZAJV6paP7SWvs39OIuzyljO92OLxgCpAgGrzAHa7vza4HFC7ULK57p91ahtY3gxuXqUUPLkl/4hNNMU4LjUifcBHbw==;yed2R7PbfqjT+kuEkuKFJA=="
+secured: "p9N7hS5VYGL1WLZfhkjse+r8x8TeTdJV2RH/32J64ggqsv5vl/Y/ncSl2ssqP9rRaPhDzKkLFjLKeIuHs+OJ7IwM3GqlmPTDm0KDNeaeR4qMFT1JuUCAxeSUISuLZJvBvcF0SYU+DWZJ4gaiAyNEV/URyYEm3c0vZU4q5QF+Wap3C90r0a4kcs0bmo+aeQmpRUJHvf67i9xhzQVolG9XxwqqiwbVjTN7G4p6B3kRYfVo/DIr6XvjtE4wdaDC90Co52xKE3cn4gWszK423QN/H+vr4uFL8nKlnnRxEr740Cu1bXZS4VSgpJqdvdAxJVjS;utX/L8Ghlnsje8SExNt6YA=="
 ---
 

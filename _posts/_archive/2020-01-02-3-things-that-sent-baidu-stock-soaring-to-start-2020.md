@@ -70,6 +70,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "q3+oEefvUjMOf8Bv3JLtZ1AKPDuO3scaBl3frBTgLELs8WlLgxlWv2gvYAdCDoFiIKWhaVMRHbe3FKWwm2B0YjU7tXaPG54LfPvSzvuDb4Y8OcMFeCDbLHcc6I0mT/ArYxouvzsYdK7ti+OKdhKcFKD0dlHZcCsVAnfPyJtwCM+ePbXsSW6/g+QXTX23efb36kYklJXpWYbAfCu8nmc6+oVPdLTqalZEoLMm7j7K+5q+z+sMtpeONPcsS/sg1fMnaKbkVhpFxkx83Yt8Kkd1sXAOCN+HbVTBhFzLScSS/9EiI2jW+DwC4wvo/6OzRrSr;vzYxe+InB/wXiOgbbwc+CA=="
+secured: "zP5DFv5ibcKcKLbsHPVQrf9dtM58stkapkQIrgBTl7E1QVC4KO0z9jAEhzxxtlvnKpqjrpiELGiHGCJvJs7QcB5AUV2Dg6D+B806ybmEs0qplkMhBBY8x93ReOJsUz5OgxIEKGGNU16tzX1jA8hHxX52n9tBv5j1VooAQJ/D6v7eXLByFWRi2GIQkdO0oSKgHrWRCX/4aRCJ3OZkeQnkBwp5ooc73Wlp7QvUdSp2Eoh++66WX4qlY4YcPBSWuN1X1wTO4J4CdeEIFnX0kPQJyTBP8x72+kxAog57B/HP8rcjZhs6VLUrhGMiI1m7nD9U;KbjvEG7Nun5TpsTImpatcQ=="
 ---
 

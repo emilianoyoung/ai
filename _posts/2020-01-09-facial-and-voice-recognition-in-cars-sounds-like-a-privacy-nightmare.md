@@ -8,7 +8,7 @@ ampUrl: https://mashable.com/article/facial-voice-recognition-biometric-data-ai-
 cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -26,6 +26,19 @@ images:
     title: "Facial and voice recognition in cars sounds like a privacy nightmare"
 
 related:
+  - title: "Speech recognition and voice commands for your site"
+    excerpt: "Many of the smart devices we use every day support speech recognition technology. We use the voice to search for information, buy goods, even manage other devices. The tech giants use voice search ..."
+    publishedDateTime: 2020-01-04T10:34:00Z
+    sourceUrl: https://medium.com/voice-tech-podcast/speech-recognition-and-voice-commands-for-your-site-e1931d60ba03
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 69
+    images:
+      - url: https://miro.medium.com/max/1200/1*jglFlhzYhpqGCyHcZU516g.jpeg
+        width: 1200
+        height: 564
   - title: "What is Voice Recognition"
     excerpt: "Natural Language Processing derives meaning from human languages by relying on machine learning techniques. Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills this void but also unite all faster means of ..."
     publishedDateTime: 2020-01-11T11:43:00Z

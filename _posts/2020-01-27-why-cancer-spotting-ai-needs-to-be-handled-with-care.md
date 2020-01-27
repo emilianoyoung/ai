@@ -8,8 +8,8 @@ ampUrl: https://www.theverge.com/platform/amp/2020/1/27/21080253/ai-cancer-diagn
 cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/27/21080253/ai-cancer-diagnosis-dangers-mammography-google-paper-accuracy
 type: article
 quality: 87
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Verge
@@ -29,19 +29,21 @@ images:
     title: "Why cancer-spotting AI needs to be handled with care"
 
 related:
-  - title: "Artificial Intelligence Diagnosing cancer with accuracy"
-    excerpt: "The new year is opening with some intriguing news: The journal Nature reports that artificial intelligence is better at identifying breast cancers on mammograms than radiologists. Researchers at Google Health teamed up with academic medical centers in the United States and Britain to train an AI system using tens of thousands of mammograms."
-    publishedDateTime: 2020-01-26T06:53:00Z
-    sourceUrl: https://www.arkansasonline.com/news/2020/jan/26/artificial-intelligence-diagnosing-canc/?news-columnists
+  - title: "Google's AI Proves Better at Detecting Breast Cancer Than Doctors"
+    excerpt: "In a Google-funded study, a team of independent researchers from various hospitals and universities, researchers from Google Health, and engineers from DeepMind (a Google-owned UK-based AI company) compared analyses of nearly 29,000 mammograms from UK and U.S.-sourced datasets. The study reports that they found 9.7% and 2.7% reductions in false ..."
+    publishedDateTime: 2020-01-27T18:11:00Z
+    sourceUrl: https://gizmodo.com/googles-ai-proves-better-at-detecting-breast-cancer-tha-1840773871
+    ampUrl: https://gizmodo.com/googles-ai-proves-better-at-detecting-breast-cancer-tha-1840773871/amp
+    cdnAmpUrl: https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/googles-ai-proves-better-at-detecting-breast-cancer-tha-1840773871/amp
     type: article
     provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 37
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 89
     images:
-      - url: https://media.arkansasonline.com/static/ao_redesign/graphics/adgog.jpg
-        width: 340
-        height: 246
+      - url: https://i.kinja-img.com/gawker-media/image/upload/s--_hVs12nR--/c_scale,f_auto,fl_progressive,q_80,w_800/qekkgajclhpxym2z6td1.png
+        width: 800
+        height: 448
 
 secured: "2BiSjKFtn6uOKZB8NQqnYqvgQ8s0TW8UVJFnGf2Hv/gP3WOH96M7lnJtO8AuEcTNphIq3N8zcwoKhCu24erAT0oTbs3IeODRk1l02cVhHJd1cya4Ejh15Bf+luxMksoAif/NfcGAWDuj7kGuhiwZFE9nprKEUH7CaxXaU4NIkSQ+PCtP5qBLT17mbdLL4aGLJ2mWpzAJKpamRgKSevHlhX+yQh97qNfo98Npr+8WcuPps00V74g4F2Pz6RCvuwWiiz+WGbFcuFG166RTN+TzSP4zQgBmjxij0NIDT1SUAKqGgBXD4WhJZupl+Yi08AFZty5/zXIcL9eUS2hCcmXqtaMJj4xMclZSSCsTSTxcAAkiwwkBC/DUm8tGEayi3eKEAHba2qPhEtpS291xAwAf8R8X8tvlOgyUjcJ/sszHLXeuzEciaLK9JsjRcmpwtPR8Cn2m3A0Z1xAxbmamcGF6iTCNRBfOJNVcK8VZqWyygfE=;ASj/7ndSYyqknHAjTbZpZg=="
 ---

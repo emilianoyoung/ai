@@ -28,6 +28,6 @@ images:
     height: 675
     title: "Apple's $200M acquisition of Xnor.ai: A snapshot into our AI-on-the-edge future via your iPhone"
 
-secured: "lUu+zV5e7sG3s9cehVIQ5z2jq5HNmYuntCNzshJ71bgN1SwUqg2feFsMrGj9EKwKMreV4mUvSpQwvWk0p6NQJOnF+3YlkDvXm34Q5PnjT9pqLHrEJ9eY3NlfYWHSJvqQNzcLAjiR1ZxPruS5M+JJuAG/KOTjY7/Oeb+qvmmN88/srVwPOt4f602Wts6VF8In1eUrPTnppk1EAa7+Tv49NGY5mqHZyEYPHVHOZ/eo65ZmyFx1MYbdDSy853NrxVsmivigIki/t5gED+7Q0A5QkjSESHb+jlgkf7/N9FIiaMkw6I5338lbEPhPbgzr4UB2;jfmpFFqRXOVw+IXmcs1Zyg=="
+secured: "q0eB7Yoifq7Z18swLVdMXX5imGDgoLrsrW6fkudN8JWVU2YsD17En9pGwwKza61+IGyBdj/ULcy0xlkbFK8wCfAcsPj6c2ASNw+vKIs9HyLDm6pOufCj2WIbqwYAOjleANQ6oKTHU5b6mT1CdHocNxgCGsadBA+lovR4Jh7hvjQzoIzakgFhYOniGZ1dCDCt6x9al4LeoMCtwmsxTpc6qF/+2FZzB+O9tZXvMbul1/vpaN9Jfx/9EPP++Hkf3dPTfUZEwU2dK/Y/7gldnFjht0qMMKD1DHJihsxNmU3x/KgGMx48ZzNQrHkPIgeEuOKaPqMoGJ0tqxY3ifi/TG4fKAh+XdsU36lyU5i02A4F98g0KqiNCjaFTggHwpaol+7y0+q2N1JZ5SVwvHhV9Hezlrkm3R70not0xvVQu+jshYZKd0kOnPQ/7VHe2uxVrrfR9ZYtwYiXtaoeZemywU0p94C4B0BnRXk9IHXwLmwwvas=;nGpLCh1/oNCrP2Pfv4yNQg=="
 ---
 

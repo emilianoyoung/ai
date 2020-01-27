@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-03T14:43:00Z
 sourceUrl: https://www.eejournal.com/industry_news/new-image-sensor-evaluation-kits-to-spark-innovation-with-miniature-cameras-in-consumer-applications/
 type: article
 quality: 9
-heat: 9
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,51 @@ images:
     height: 512
     title: "New image sensor evaluation kits to spark innovation with miniature cameras in consumer applications"
 
-secured: "peRZs68mwGkva5fgANKGJqHzWRNKWd1zC4Cq4+xb+AAufbV2ObCharHsFsAiQlQdiEq7YSiBBnGB9/WO6e86nAAaS+qScHpQWQ6NEx1sWyjgay1YWhrVWTEd1g9S8p8rez0py9B+S6TNI0cEVTghRKFFPR0gz7dZy74UkDmJHq8FEzRJHnHAnu1et9JRmFySwVOiXdfWUh0W0MAOjtB9dyk17iFCCj35Kjsa/gs9Wa0bYUKVf3mPT3sLkG80JjvYr7UB2FrWGFct+GnTFTGWP8iUQeyO7cu9cEOIUNJVjmAe4IuqIskys4/2O5pXx1uf;dR+mnbCQEwMRMHWR79MP/w=="
+related:
+  - title: "AWS collaborates with Drone Federation to boost drone innovation in India"
+    excerpt: "Ltd. “With the breadth and depth of AWS Cloud services across industry-leading compute, storage, database, IoT, artificial intelligence, and machine learning, drone developers and operators can now test new ideas quickly, and accelerate innovation in the application development that better serve citizens and impact society positively.\""
+    publishedDateTime: 2020-01-06T13:56:00Z
+    sourceUrl: https://www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india-11578317708207.html
+    ampUrl: https://www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india/amp-11578317708207.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india/amp-11578317708207.html
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 58
+    images:
+      - url: https://images.livemint.com/img/2020/01/06/600x338/drone2-kSGF--621x414@LiveMint_1578318181512.jpg
+        width: 600
+        height: 338
+  - title: "Drone Federation of India, AWS sign MoU to help entrepreneurs build services for drones in India"
+    excerpt: "and Amazon Rekognition services. “The collaboration will help us bring open data sets to the drone community in India. We run a lot of startup programmes in India, and this technology and ..."
+    publishedDateTime: 2020-01-06T12:34:00Z
+    sourceUrl: https://yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-services
+    ampUrl: https://yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-services/amp
+    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-services/amp
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 46
+    images:
+      - url: https://images.yourstory.com/cs/2/211ccaf0-0e6d-11e9-97fe-8f165dce9bb1/yourstory-EasyPilot15597911680441563520988677.png?fm=png&auto=format
+        width: 800
+        height: 400
+  - title: "AWS, DFI Powering India’s Commercial Drone Innovation"
+    excerpt: "With map-based analytics becoming the next frontier in artificial intelligence (AI) and machine learning (ML) based decision-making, reliable data warehousing capabilities for on-demand access to decision-making data is pivotal. DFI and its partners will leverage AWS’s compute instances, storage services, and database services including ..."
+    publishedDateTime: 2020-01-08T05:29:00Z
+    sourceUrl: https://www.cxotoday.com/news-analysis/aws-dfi-powering-indias-commercial-drone-innovation/
+    type: article
+    provider:
+      name: CXO Today
+      domain: cxotoday.com
+    quality: 39
+    images:
+      - url: https://www.cxotoday.com/wp-content/uploads/2020/01/drones-pic.jpg
+        width: 599
+        height: 450
+
+secured: "R6m3eHrSqiU0giIeEZheWxQVgZFGgG717NzdNLB4l2eMcsjEPCO6wvnF5BG1OUoP87PGnQe0MsJWLVPXgsdCD7FeJ8DtK+CsorKvpR5kHDwUEGMTK6+9HeItPaSgJ1j10QjpcjucZr2PTWxcScpCWtGjfrOgGTc2SWQgmBcOdBPMZDFpx/YLHoPlpeDRNdf1IW3EMoJyuU5JwCTyPkMw32iSZ7KfHlIvFDiXZXOeyF/oxCRhQ6Iy/7+g3K0AhuqS02Po4hMJtPRi6qTcHzubmfRRk2DREQef7KuXoG4ij2oVHcZ+9MEs1qxZZYPXO+PT;NhyRXZyOC6K7fhhQscrrBw=="
 ---
 

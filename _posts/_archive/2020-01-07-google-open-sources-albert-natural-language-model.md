@@ -23,6 +23,6 @@ images:
     height: 2160
     title: "Google Open-Sources ALBERT Natural Language Model"
 
-secured: "OmHBxRGcj6pBuQTWhWVkr3VVaM9VbYIPbm6oIY2/VXu/8c41lGUusyBALvs4LvdpJg/IJObf3y9BayXKKCQKtgFRN1BeH3kV+sma+lTCyjxit7pNo8Rclk85znSfutnvHLFJHBPgBa5UWTKrys4pP3NvgDw+39HBRmDuDwVFFkNMxMgdmteAvFUxGJ0ghr6y+soxy1mOKrnO4wC0/pvd/Ymc4mGiQOxz/7zK4UIw+DgkkDSIIA5kXggO4/pW6MvuWvzCxZmhkMxIbZyCxILLXPYsFfPrdaR6i8zVzkNP4hGr0hOHeIw312x/MDQ9jRXe;YCxpfHYBiOWYRdLmvpW4gg=="
+secured: "oSdHsRHZEJ9nQ+yUBDiF5/6Z0vlQG9/vbcq451tuYomVHQLPA+NODseLs4y/RSVOA6AafZ1/wOd6DKsktQvz1WfmfsNaTfDz3k6ZiSSqNaf/Sa9Qpt2mnID/6MhOZnI/wQW44FNyYghoqVj1XS98kF/nOuv7NLJy6c+E3YylpNE0Sw2MfTrPNpC7m/SnxRcKGZKDFlNTpuVernpuJ/7YcT2f7GL3Vn4vFg90gbvq45lF10xMnVMnZZRDKZA4CTEkoP1Rh/Taph50VPb3QdN2KWMFIbHuiDeteYKfh4xT8lhawfZ/EV9ExWvPm2QEsB5R;CQMPXoZHMQUJhhXFrYE55A=="
 ---
 
