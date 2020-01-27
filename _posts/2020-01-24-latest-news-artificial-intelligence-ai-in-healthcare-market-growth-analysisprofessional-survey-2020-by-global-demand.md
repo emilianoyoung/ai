@@ -5,8 +5,8 @@ excerpt: "The development of ARTIFICIAL INTELLIGENCE technology is helping the h
 publishedDateTime: 2020-01-24T07:44:00Z
 sourceUrl: https://www.marketwatch.com/press-release/latest-news-artificial-intelligence-ai-in-healthcare-market-growth-analysisprofessional-survey-2020-by-global-demand-2020-01-24
 type: article
-quality: 74
-heat: 144
+quality: 76
+heat: 146
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png

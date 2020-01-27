@@ -5,8 +5,8 @@ excerpt: "Microsoft first developed its cloud computing ... new capabilities for
 publishedDateTime: 2020-01-04T00:00:00Z
 sourceUrl: https://sdtimes.com/msft/microsoft-takes-azure-to-the-next-level/
 type: article
-quality: 84
-heat: 84
+quality: 64
+heat: 64
 published: true
 
 provider:
@@ -21,12 +21,6 @@ topics:
   - AI
   - Microsoft AI
 
-images:
-  - url: https://sdtimes.com/wp-content/uploads/2019/01/MicrosoftAzure.jpg
-    width: 660
-    height: 371
-    title: "Microsoft takes Azure to the next level"
-
-secured: "kAxBeaL63aNlhX7v5FUgJ+do2NUJ+BRB04AK5CJ7DeN6vDQluikGQXEv8WS9Uk/entOgzTAWyZHzvoEgvFDXGN24csTLv8W7zpFqOt4hcIlxMQOG515Ll/7ehKONqqRUYp+sRASgGoQfVrmTW9nRb6n8dSu7bUhpb/YnqkqMvRaAhwz4LkIxx0rbF1Jt4VJy9wSXUKNqmbgv9Tv8gJA40eofaGvNF6qoJ8I93OUAhOGM9dEIlCuM1F5uhBqhAhd4FVFzUj8XUHpwMDd1Nj9ne8hTiac8rBISHJD9061x1m2WpSw66EDWKSnj9Z2yD9lN;nUSzqkhFFSN3ddNvB/NxNA=="
+secured: "95p5iuNbxOWN2T4YTVb1IPyLNokltQ6zbfpTAjD+TCCkRGw8gGa/uAZkYDRGQgL+g7REnwSDCRlSnqLh7GTl1aK7sVQQyPrG/NWoSA7GOQ/49ZESD/H76lgGUkwDSmKWGVcHPl+JJrjq20Lmuu1aaG10+USTcvyEP2WYU1hl16UURtTA8EJOLiVs2FROqIcgzH6sPnRZF+fYzOVYJJKZmC22iVaM85ZpMoosm0pqZRXI1oUI5Ef9Ara+a7hHy1CLuDaGEsUmX74lHeGsS/tN0X2amVDyT89nweHCs/Ea/PpXXcLYygbZ/Iwa2XllirBH;kThKovImTlfUo1sf+pNI8A=="
 ---
 

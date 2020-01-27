@@ -5,7 +5,7 @@ excerpt: "Artificial Intelligence (AI) in Healthcare Market - Global Drivers, Op
 publishedDateTime: 2020-01-17T08:30:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-study-reveals-growth-factors-and-competitive-outlook-for-future-2020-01-17
 type: article
-quality: 78
+quality: 80
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png

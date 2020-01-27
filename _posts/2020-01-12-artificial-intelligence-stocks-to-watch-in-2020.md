@@ -39,6 +39,21 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "20 Tech Metatrends to Look out for in the 2020s"
+    excerpt: "This metatrend is driven by the convergence of various biotechnologies (CRISPR, gene therapy), genome sequencing, and artificial intelligence. (1) A360 Executive Mastermind: If you’re an exponentially and abundance-minded entrepreneur who would like ..."
+    publishedDateTime: 2020-01-10T15:03:00Z
+    sourceUrl: https://singularityhub.com/2020/01/10/20-tech-metatrends-to-look-out-for-in-the-2020s/
+    ampUrl: https://singularityhub.com/2020/01/10/20-tech-metatrends-to-look-out-for-in-the-2020s/amp/
+    cdnAmpUrl: https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/01/10/20-tech-metatrends-to-look-out-for-in-the-2020s/amp/
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 44
+    images:
+      - url: https://singularityhub.com/wp-content/uploads/2020/01/rocket-1245696_1280-metatrends-for-the-2020s.jpg
+        width: 1068
+        height: 601
 
 secured: "3/ezjWidEjLKvu6jG32q3E1m9sZRhgtB1Ki12xkkeeQh+90mBvalbIOn13uSy0+D3sapuGGmNITl6HSNdLMyQtk0QrTk/xBp8uPbSqZbDPqN0w2aaUKvrNtEYC3mbdtsLu5jDAaFMqN1D7Dl6UeOeFn8SR6OPIUhx4rBmGafFwZmBrVKFouFRIwajQiiosGyC0rDBkLhkp0LmO8K0BhfRhjHtj6pZFfAsdQoeEx5hHCQJl4uvWUJyRBPFW0JcpoHDMjE9PRktC2t6gtm9NZmPZYKfvEiRyJZuAgudNwSv6r0o8CU+nOTTaBe/62HjBUOQzAf8R5ULlYrZSLwvv42gZw6Jjj/Dw93X8sU9qlWMWhetKxKCVMhGPQWbW7SSKEcQxXWpNvXDoJ2Qs144bnpjZOoDophcArpEFZgNdkynnCdY2kjKsqdLwzIQ+x0CTYkDWdqTSwJ36n1jiAGSyB5vg==;/IE+SjRQwaS9rTGKj3a89w=="
 ---

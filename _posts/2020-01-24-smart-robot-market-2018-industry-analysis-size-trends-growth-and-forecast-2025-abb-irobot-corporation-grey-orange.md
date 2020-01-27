@@ -50,17 +50,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Chip Market to 2027 - Global Analysis and Forecasts by Segment ; Type ; and Industry Vertical"
-    excerpt: "The others section include SoC Accelerators and other application specific custom & hybrid chips.Based on industry vertical, the artificial intelligence chip market is further segmented into BFSI, Retail, IT & Telecom, Automotive & Transportation, Healthcare, Media & Entertainment, and others. The others section in industry vertical includes ..."
-    publishedDateTime: 2020-01-21T14:05:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/artificial-intelligence-chip-market-to-2027-global-analysis-and-forecasts-by-segment-type-and-industry-vertical-1028832723
-    ampUrl: https://markets.businessinsider.com/amp/news/artificial-intelligence-chip-market-to-2027-global-analysis-and-forecasts-by-segment-type-and-industry-vertical-1028832723
-    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-chip-market-to-2027-global-analysis-and-forecasts-by-segment-type-and-industry-vertical-1028832723
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
   - title: "Artificial Intelligence in Life Sciences Market Trends, Research, Anlysis & Forecast 2025 | IBM Corporation, NuMedii Inc., Atomwise Inc"
     excerpt: "Global Artificial Intelligence in Life Sciences Market Insights, Forecast to 2025 The report discusses many vital industry facets that influence \"Global Artificial Intelligence in Life Sciences Market\" industry acutely which includes extensive study of competitive edge,"
     publishedDateTime: 2020-01-25T05:03:00Z
@@ -74,6 +63,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence Chip Market to 2027 - Global Analysis and Forecasts by Segment ; Type ; and Industry Vertical"
+    excerpt: "/PRNewswire/ -- The global artificial intelligence chip market was valued at US$ 5,658.1 Mn in 2018 and is expected to reach US$ 83,252.7 Mn by 2027 with"
+    publishedDateTime: 2020-01-21T14:05:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-chip-market-to-2027---global-analysis-and-forecasts-by-segment--type--and-industry-vertical-300990150.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+        width: 600
+        height: 315
   - title: "Self-Driving Truck Market: 2019 Industry Analysis, Size, Trends, Growth and Forecast 2025 | BMW AG, Isuzu Motors Limited, General Motors"
     excerpt: "Global Self-Driving Truck Market Report covers analysis of Manufacturers, Type, Application, Marketing Strategy, Distributors/Traders, Effect Factors, Trends 2019 & Forecasts 2025 Self-driving truck is also known as autonomous truck and robotic truck. Self-driving trucks feature all the major competencies of traditional trucks. Further ..."
     publishedDateTime: 2020-01-21T12:39:00Z

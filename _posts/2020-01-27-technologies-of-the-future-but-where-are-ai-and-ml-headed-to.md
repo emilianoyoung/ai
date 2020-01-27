@@ -8,7 +8,7 @@ ampUrl: https://yourstory.com/2020/01/technologies-future-ai-ml-startups-machine
 cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/technologies-future-ai-ml-startups-machine-intelligence/amp
 type: article
 quality: 61
-heat: 71
+heat: 72
 published: true
 
 provider:
@@ -41,6 +41,6 @@ related:
         width: 700
         height: 394
 
-secured: "hkRBFBqwejwI0jLYLF2p5JGCgCapoWE5+7zCovbXLWET9ixXaz1SCdeVU4J4/SpvB7I0AjTh6nAhDh4dOCyRiszoXNbOfhlU+nWvErfXyCdEqc1RULDEGzLkADqn/fpQTVmRO1kliCCiN4ITEemyTLowvz+lrItq8bZEimTT/deUNaquw83MTMBYBV9kJXUvKysRJF2ZcUECoX/LHJfXDzlVlrF5MHwp9U95RfogL7vXHK+HOotG7oArAxP6uDKnLmQdBY4k4Mj5fqxVszjJFrIvgnlTQyj6XJt6KAc4CNHK+i6dJ/Ta9ipnXd9O3kJE76gmjmXsTX5UFwzgsPFrC4ajHfo9B+c0WCmGJtcfoSnAdyiVgaWDIu2KKUsn6Cw6j7lLV2bM3o4SlV5wQdbus3fPBqIvU0ddFR+WiDHOr64WUNlq9jfkzrW51SsRq1p18x0sFkhQktOIlNQ6Rbn66UeWWUcW3PTct53OH2MpjyA=;Ve5XgMwYURrCfO5DRPeiVQ=="
+secured: "gMw48yhOctrnx1+dhSu9WOsVgRVVm4/1J+glJPhIhavFlw+93pAB/eSUdmPbabAbKvaGopyXvF3jzTAXpMZxIIIUT1fwh/5ibZ6WnZu1vmmw/yt+EIGrhJheborEUhdwrdTJbQXEnXQjVKzc0JeQWNdSd36/lrww6JVu805PlIDEpMjmchCwknvObaSEco/itW/D7NJPrfx+Z0DouB7DCyV3TrD/2eY5Vyu2Tojq5JfViItwC0E0XgkLttHD6NqZH1jmLkQif0C4GnW9SRc9gFf+Fz18/EsevzTfujpXdVdyDB//x3xjqZJAB7Vw31/MhIE5kE63VxoxfBitUl9DW5zj5DuQS+u0GW9ymOpXJbbpq1aGx/20DYG40066xJ0oXcuLnqkhMkOHEIDulBU1pm6knpykBB0CG/6g8RYWJHo0LlLaYLwQdBGDs7SBuZQKRY3bA0hYHylRqOXc5FEG/XV9nm04+8vVumI51Lxif8M=;uSYnxGkaXyBQqZ4ed1h7/g=="
 ---
 

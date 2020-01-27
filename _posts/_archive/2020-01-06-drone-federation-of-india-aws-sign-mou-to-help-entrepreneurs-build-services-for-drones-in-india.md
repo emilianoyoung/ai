@@ -12,7 +12,7 @@ heat: 46
 published: false
 
 provider:
-  name: YourStory
+  name: Your Story
   domain: yourstory.com
 
 topics:
@@ -25,6 +25,6 @@ images:
     height: 400
     title: "Drone Federation of India, AWS sign MoU to help entrepreneurs build services for drones in India"
 
-secured: "MlseFfpLEuC8DwzVngQtmlhB5CJayyWxcHc+80TCCAiGXq+gkm3BcxtMNchhKHL9vBXIZLtIu/16ZVxjykasvRwG3/H0YretXf47RcBPhefAPRbAIitCZWTkQnw1pb7cYDLJnjepvpiD43kxlrWZXanZNlu/XAMV3FkYheanAhjF97eQPsZNUAbnDhVyvq4GFIYLnlIgW27Yy4e5Vy93gSs0vK8XlqqlCm6Y0IOdZ8nnd3DM/wSffC0nv9AcOTM/YogFzHAPQydNeqWhzyvWhT2lMawpH7Ozcs0ohRdSNn9/tfpB/qB/ZYY9talxasaH;tUobnPowYXWTaic1/O3GXg=="
+secured: "k4ICWnfJDA3JaZB7ExTDFlJkDyFmH8mx0K+E2OdKTnaw/C+9HkRlmPs+ja/3Q0jl3KpyNWLsHSVWh/0sA+n8bGlbq8rG8M4XMcvhx/yFh6dOxq8bLXJdvxkcW8g6zmImClOktPger9XlbUWHd5jvi0d8p2LOlp2o82C98gUanMprI8MWHqABDdTxrTjwmvpF3uJt1BK/+f+jJtWn+BevfBxYTr3AnK4gfUirD8+SrOCZuZG+GacvMR8uEXKKh6nZ3Kk1irhOGmlZlNvMOrMHth7iNQPDu+SuPc7L1hRE4Evz0n8XY+qEqIPXfgx1C0Oi;0NdLODvTbfoV80Md4NKyqA=="
 ---
 
