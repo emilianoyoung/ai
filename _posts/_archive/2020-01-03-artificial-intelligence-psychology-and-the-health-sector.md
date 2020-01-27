@@ -4,9 +4,11 @@ title: "Artificial Intelligence, Psychology, and the Health Sector"
 excerpt: "One such software application, Artificial Intelligence (AI), has been suggested ... of chatbots which deliver Cognitive Behavioural Therapy (CBT) 10. In some areas in the world, these chatbots ..."
 publishedDateTime: 2020-01-03T12:27:00Z
 sourceUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
+ampUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
+cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +19,6 @@ topics:
   - AI
   - AI in Healthcare
 
-secured: "39D4aV7GiXX7DGlQ5B2jsIe9xc+3rPutCCxzuxDyEP86mql2FiURCYAycyUiVTZ2YkRrTBHnnfBveWUaegy22XLNMAbsLN7x3c8LHCNVHnO2e0j1SPfzOCIx1wzW7HkK2pZ/TazXmLvKpZKmHttgknScSQT6c+Pe5dGsKEfV/J6vTotEO+P+pSNf/Ayix7M3a6ETnbrZb0URQS26n52lxVUwGrvI/6PKbLuMctE7fq7+RArH/G+2jGRISw8814GC8CAhYXttHiBc7J6Y9tRoUkV2MR0MkgjxvDNmjH+2S+CyVTU10qBNMHCCizAka5Ee;I/YnwdMK1Pxe8QIVAMXJdA=="
+secured: "i7H6NQBr6PALdYToNBTHys0y0bZchhXUVTf682eOU7hCmPza721dZnf9/z8RcloYbtz0Cq2uX0TkTKxa4zNcjzy61ibSLApXWQKsFJ8pC6urTZz6+fr7S55fM11OpE1MgpgYwf1G/kgUnKeT69Ny408CsRLhDRFuqZXM4pWnQJpV2VteK+wBJ6AGq4Rr7NME7/Y+y0HuS05E+KZq93gte96hXhVgktdsxLbQ7uPA7D9va17pRPwH7sTfhSIkKkjzliRqQk11FFd9CyyD15ppk4U8S+1fniwMzVQr6S4ky78Pz0mfhcqGgA8VUeO+eLnk;99NojUNx60KNsJGk+Y5tgA=="
 ---
 

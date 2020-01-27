@@ -5,8 +5,8 @@ excerpt: "“As each patient’s cancer is unique, we have developed a therapy t
 publishedDateTime: 2020-01-07T00:12:00Z
 sourceUrl: https://www.businesswire.com/news/home/20200106006021/en/Transgene-NEC-Start-Clinical-Trials-TG4050-AI-Powered
 type: article
-quality: 0
-heat: 0
+quality: 14
+heat: 14
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - AI in Healthcare
 
-secured: "gdkpv7czV9hU29i2VnaSv3euKfbAKxlFa5KT4NUCtDz6IrqYGm8W8B9zgLyEkVGj4xiqGOo9KpM+CN9vEbeTWDfg8UfAriFUhoczE05+ABtlUWWNIf/wDkBeORWbEH+0izh0O8dKp6WWEKSEtAr3ea2KxCuUOdCIfQmQqxxOyg5b7Oedlcub7Hn8/XUx9H2Clh5zlwNMP5fKThwpqcR7B2SvU9lTBr8JBz/49i4macoisIoQc+5k9dILjZXCsCd52G6dLCYN28zVVCmhbOyNNva5Mjtjp8IWXxtwQgesC6rL5WkUOkQjL8VBKgLA65Jf;TDdcdEAGxkxZxhK6vm3qyw=="
+images:
+  - url: https://mms.businesswire.com/media/20200106006021/en/765262/23/NEC.jpg
+    width: 1200
+    height: 627
+    title: "Transgene and NEC Start Two Clinical Trials with TG4050, an AI-Powered Cancer Vaccine for Ovarian and Head & Neck Cancers"
+
+secured: "kXvoePygQ9ZrgpAZzW5UxtCj7NukQBjlZj8iRrkZ+D6fZVmaVPRm1TqAQRY3UFPJ/qdtJFAeopLnthFyw1kxhgLe/5v9ENR+Y+FJUsP/BnnX2LqXxRHR2cJrBd55qtK95I0/rq2FoKMcZurykx48jOoaxNX2uC9jNAxzDdnUK4JC7lXqhfE+yiQizS9wc2EccEfy6sknxD7XZakQT6F9OyOhOiFGhsYttQXoTVp9CVUBx3U/IJrSPoOMB/Kit+AcAfKkoHJ6AAAiy/rJZBG1lLcr3HI15CRgw9HiRo3hRTD57Pg7hf4YQKfyAcSqZ/V3;Rf2u/weI3i7XWphCae+zHg=="
 ---
 

@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Google CEO eyes major opportunity in health care, says it will protect privacy"
-excerpt: "Sundar Pichai said health care offers the biggest potential over the next five to 10 years for using artificial intelligence to improve outcomes."
-publishedDateTime: 2020-01-22T14:33:00Z
-sourceUrl: https://www.cnbc.com/2020/01/22/google-ceo-eyes-major-opportunity-in-health-care-says-it-will-protect-privacy.html
-ampUrl: https://www.cnbc.com/amp/2020/01/22/google-ceo-eyes-major-opportunity-in-health-care-says-it-will-protect-privacy.html
-cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/22/google-ceo-eyes-major-opportunity-in-health-care-says-it-will-protect-privacy.html
+title: "These 10 startups acquired by Alphabet reveal a health care play centered on surveillance"
+excerpt: "“Cancer [is] often missed and the difference in outcome is profound,” he said, adding, “We know we can use artificial intelligence to make it better ... early science breakthroughs and clinical trial results, and health care disruption in Silicon Valley and beyond. Containing new coronavirus may not be feasible, experts say ..."
+publishedDateTime: 2020-01-27T09:39:00Z
+sourceUrl: https://www.statnews.com/2020/01/27/alphabet-acquisitions-reveal-health-care-play-centered-on-surveillance/
 type: article
-quality: 70
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: /assets/images/organizations/cnbc.com-50x50.jpg
-      width: 50
-      height: 50
+  name: STAT
+  domain: statnews.com
 
 topics:
   - AI
   - AI in Healthcare
 
 images:
-  - url: https://image.cnbcfm.com/api/v1/image/106062638-1565093185244gettyimages-1071952250.jpeg?v=1565093218
-    width: 4054
-    height: 3150
-    title: "Google CEO eyes major opportunity in health care, says it will protect privacy"
+  - url: https://www.statnews.com/wp-content/uploads/2020/01/STAT_Sundar-Pichai_GettyImages-1056109512-1024x576.jpg
+    width: 1024
+    height: 576
+    title: "These 10 startups acquired by Alphabet reveal a health care play centered on surveillance"
 
 related:
   - title: "At Davos, Alphabet's CEO Calls Healthcare the Major AI Opportunity"
@@ -60,6 +54,21 @@ related:
       - url: https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804
         width: 1200
         height: 630
+  - title: "Google CEO eyes major opportunity in health care, says it will protect privacy"
+    excerpt: "Sundar Pichai said health care offers the biggest potential over the next five to 10 years for using artificial intelligence to improve outcomes."
+    publishedDateTime: 2020-01-22T14:33:00Z
+    sourceUrl: https://www.cnbc.com/2020/01/22/google-ceo-eyes-major-opportunity-in-health-care-says-it-will-protect-privacy.html
+    ampUrl: https://www.cnbc.com/amp/2020/01/22/google-ceo-eyes-major-opportunity-in-health-care-says-it-will-protect-privacy.html
+    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/22/google-ceo-eyes-major-opportunity-in-health-care-says-it-will-protect-privacy.html
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 70
+    images:
+      - url: https://image.cnbcfm.com/api/v1/image/106062638-1565093185244gettyimages-1071952250.jpeg?v=1565093218
+        width: 4054
+        height: 3150
   - title: "Google CEO eyes major opportunity in healthcare, says will protect privacy"
     excerpt: "Sundar Pichai, the CEO of Alphabet Inc and its Google subsidiary, said on Wednesday that healthcare offers the biggest potential over the next five to 10 years for using artificial intelligence to improve outcomes, and vowed that the technology giant will heed privacy concerns."
     publishedDateTime: 2020-01-22T19:20:00Z
@@ -73,20 +82,7 @@ related:
       - url: https://www.healthleadersmedia.com/sites/hlmp/themes/hlmp/release/hlm_redesign/images/footer-logo.png
         width: 500
         height: 211
-  - title: "These 10 startups acquired by Alphabet reveal a health care play centered on surveillance"
-    excerpt: "“Cancer [is] often missed and the difference in outcome is profound,” he said, adding, “We know we can use artificial intelligence to make it better ... early science breakthroughs and clinical trial results, and health care disruption in Silicon Valley and beyond. Containing new coronavirus may not be feasible, experts say ..."
-    publishedDateTime: 2020-01-27T09:39:00Z
-    sourceUrl: https://www.statnews.com/2020/01/27/alphabet-acquisitions-reveal-health-care-play-centered-on-surveillance/
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 15
-    images:
-      - url: https://www.statnews.com/wp-content/uploads/2020/01/STAT_Sundar-Pichai_GettyImages-1056109512-1024x576.jpg
-        width: 1024
-        height: 576
 
-secured: "IZ7wPw2t5pKZQ8WzwN/YG3bl0xt2qs9OEccRvJ1A4sQeOL4xP8pFd0CCNOX8deuXUOVGpa7Gun8EdP87gtl9T7dKzAe0jGcLKJ6eGN42MZ0hjUpXfv+/4HILuT6LLVe2aUgqhfqwyF0slL56Idj3UNuBYadU+8erIjoydkiUJ1XVcRIFmFYroDQHUx1Fn+n5w0YLkNBmyILdH0NqaWt3EDp2ufXBsHMhXjHOx/eMf+DOH2ndnYLRRvmVlgSCDfZ8Amlt15U5xuPSuv0F0KcPHbdg3bu+hkp1tv96nWcv/ts=;MkQfEi830KX+HPLR2Ok1Iw=="
+secured: "9DSPDDN5Y58zdYsDlkZ5KeXkRAi8NjUoPykn90rkngyEnNV2Q+4mSRrH2+GtFBzDN32AMBxlUyvbDmPBvY1+9P4PUCWy2WKEPgKxiEx3NNatO8uI2Y6KrO8aHILwYBUxiAlVs9gdfhXYp7/Be/Lp2z47maA8K1aYqJFcs9m7HjiG0rcekVSNRx0gBG6u/4qkSHSP31yi1kQ0mspUCa2Of1dWQGUZxPyn15u66Ogi4gA/1zbeZ6UvRWE8oqTxamyWJYqyegzEyXBfISMI7rD+H/taC490lFv9thji2DYi6KOGJAR6bViHLiWHeeIOTbFV;yUg4KmY7ejW2OpXon19C4w=="
 ---
 

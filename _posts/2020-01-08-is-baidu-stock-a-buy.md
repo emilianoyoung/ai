@@ -8,7 +8,7 @@ ampUrl: https://www.fool.com/amp/investing/2020/01/08/is-baidu-stock-a-buy.aspx
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/08/is-baidu-stock-a-buy.aspx
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 700
     height: 466
     title: "Is Baidu Stock a Buy?"
-
-related:
-  - title: "3 Things That Sent Baidu Stock Soaring to Start 2020"
-    excerpt: "Baidu's Apollo self-driving car program is gearing up. Image source: Baidu. Word emerged on Tuesday that Baidu had been granted a license to test its Apollo driverless cars in Beijing, one of the ..."
-    publishedDateTime: 2020-01-02T20:42:00Z
-    sourceUrl: https://www.fool.com/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 49
 
 secured: "pqFAKlsh9JhlULEgS5Y5mhbeUJWmONXHf5ygg9uSnJysGqT8NjlyCfG7neZLRNtMtTxdS8Z4BA9LEWfZQyE2IeB6t+Vp4G1QDsp6XlWTTv+gdqOR7r90gne/bPZLxXZ681PJOfa4ub8+eDlm9tmba56mNQginQsBy8S3ZGDtxt5tfEC6zYKlNWzdboG8kWUmfRXrAKiMO1t8VHmFuJqIdVEYSpbuH6yL9ZdY+h8WTb6qFe+OYhXTx8Jnx+j0wv5Tyb4kt5az8l8gUmQcTQeRMNB7uPEsGF2zjkdFNJzyAqAQCAI68kVVplKNIEqU59cxGYh9RcpIGuash2MN9xzlCudxccCJcBxhVMD+eUxMJDhQ0zDMhA8mT17/dJpC8yvrlmF9RmltOxqE8maWQ63+pA2VB+cg7iy88bAohRIThsaUjGqKRD+tHb6pCcAPsdMznjpb0Hh3niJ0c1lAFJSnsQ==;HcJ2Msn/xGOoyET8kffF7w=="
 ---

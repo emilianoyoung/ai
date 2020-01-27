@@ -5,9 +5,9 @@ excerpt: "Benefits of automotive artificial intelligence include - driverless ca
 publishedDateTime: 2020-01-03T02:40:00Z
 sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market--what-are-the-main-factors-that-contributing-towards-industry-growth-2020-01-03?mod=mw_quote_news
 type: article
-quality: 44
-heat: 44
-published: false
+quality: 64
+heat: 64
+published: true
 
 provider:
   name: MarketWatch
@@ -21,6 +21,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "G5figp6fpQMuqww+6EEASunm4CesHVfX3A6VNt+N/dk+Af8VVteNv0WbvYCyeLjBjYOlW5cZGr4CEaB+bt9aPWYnb4ftnohEVZ+Wuii1eICHke7Oi5kOgeLjpj6lZkeTPIy6K1KgL4tbw+QZHpblxZiSrzgsRAia+yr3o3TbGlpxQK1/0qIVQzf+amF10/XDKBRpsmhGQ8+8TuZDWvolvGtenj8nWQZgk/WeDNQ9hRElU+ToPthI2u7YOKSS3y2lHThyM3auoa4aTOJ8a/Yxbflo8feXg6yl8dflF88VYA9Rvjo2uGCd9NrMpx81hizc;+nH0rg118X7ms0ciGVK7wQ=="
+images:
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+    width: 1200
+    height: 630
+    title: "Automotive Artificial Intelligence Market- What Are The Main Factors That Contributing Towards Industry Growth?"
+
+secured: "TCsX0D3Y+ANj+49DOD7Lfmw+YGozKAuPOZvn73CmzODoX9XOefU5i0PQpZoqh3gGXnoIG888phsf0OjHsikirmXQMm7eN/e1XwMzoBYo/i68Ctpdd+mGzulBbgU1J/lhRwRn2feHujtB/yLK7NFYulE+hEQI4n3273vtqW1s2b8gPWGZhjMfOfzDqSUkaNiljF7KuetMs73Btq9tRnHTTljQF/l2JXxALshgPj8/xAPBapQpruQG6XPblYLuzxkox2GYaCidETELRIbIykCavTOWCfLOr2JYwrU1JST7waFR3Ak52Y+DBhX1kiXVXOgA;oPxRqEq0qzDpAtlP+Qum4Q=="
 ---
 

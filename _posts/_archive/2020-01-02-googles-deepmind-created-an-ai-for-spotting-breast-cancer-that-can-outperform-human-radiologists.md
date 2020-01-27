@@ -5,8 +5,8 @@ excerpt: "It indicates a way to close an interaction, or dismiss a notification.
 publishedDateTime: 2020-01-02T10:52:00Z
 sourceUrl: https://www.businessinsider.com/deepmind-develops-ai-for-spotting-breast-cancer-2020-1
 type: article
-quality: 51
-heat: 61
+quality: 71
+heat: 71
 published: true
 
 provider:
@@ -21,17 +21,12 @@ topics:
   - AI
   - Google AI
 
-related:
-  - title: "Google's DeepMind A.I. beats doctors in breast cancer screening trial"
-    excerpt: "Google-owned DeepMind has already used AI to read eye scans and spot neck cancer. Artificial Intelligence (AI) powered by Google's DeepMind algorithm may be more accurate at spotting breast cancer ..."
-    publishedDateTime: 2020-01-02T13:14:00Z
-    sourceUrl: https://www.cnbc.com/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 49
+images:
+  - url: https://i.insider.com/5e0dc2ff855cc233a169d124?width=1200&format=jpeg
+    width: 1200
+    height: 600
+    title: "Google's DeepMind created an AI for spotting breast cancer that can outperform human radiologists"
 
-secured: "Y7TLMUcxos/0rm9+gUNTma7OU4n/ZKGXzUg8N5/7ABpuXZ8nSLMxZ4NHA1vsdJ7SKm46VwU5KSAxcp00xSQGUkrorWGa4Z01F6iuCqt8/drnkaThXmFbbgITT6IsTbToindD23OleMn+NPVLycapTNjG+aMQSDT5awI8q7t+LeOjWj4AFYkv1F2Y38jv71+6/h6eJHTOapl+BWkit+i6xJ1VBGpjH0YjD7iyRPO7yu2FOaKTElK3OYECeGJYY0B1LRJTFcnV2/mLreYSql9O1sWqJr5YXdjc7+n8D45ZTBECEqrHWobACEABMwrNpP+v;Vy5s1rENu5+RdU2QUG65ug=="
+secured: "y3gEx+hnFwXBDMF2TLjUlVfTf8UctZkBpBZ8E4F/znMW4NmZYnh6FBEMRjpZDveJ6aIsT7R2Z0oDTfYmtCAwfvwndqwzNE+yREcjB1i2ZXToZKkfFKlIPrj+/kqQuYhdfOIYJFdZWXVkLOAnpxWpv81IV4xHvh9BXHwuT3zjjAhLaHyUgb+SZnHG7IsqqAFdNUc6bNLS/dzCU9Vbi3MgjKzqhVzunyf9JTjQ/8TR56WfUZtL5CrqKKyOoskcAbZdiN0UkJDMOM88eoDdnU/ynfjewuz1o8ltMjPk0AQwLJvPeAJnAnoOpyGHdzZbSH+w;gmn9Dk1tJ4/W3sgFAjHeUQ=="
 ---
 

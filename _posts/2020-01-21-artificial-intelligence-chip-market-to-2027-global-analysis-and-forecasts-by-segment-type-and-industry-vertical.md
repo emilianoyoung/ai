@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Artificial Intelligence Chip Market to 2027 - Global Analysis and Forecasts by Segment ; Type ; and Industry Vertical"
-excerpt: "The others section include SoC Accelerators and other application specific custom & hybrid chips.Based on industry vertical, the artificial intelligence chip market is further segmented into BFSI, Retail, IT & Telecom, Automotive & Transportation, Healthcare, Media & Entertainment, and others. The overall artificial intelligence chip market ..."
-publishedDateTime: 2020-01-21T15:19:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-artificial-intelligence-chip-market-2027-global-analysis-forecasts-/2020/01/21/9084575.htm
+excerpt: "/PRNewswire/ -- The global artificial intelligence chip market was valued at US$ 5,658.1 Mn in 2018 and is expected to reach US$ 83,252.7 Mn by 2027 with"
+publishedDateTime: 2020-01-21T14:05:00Z
+sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-chip-market-to-2027---global-analysis-and-forecasts-by-segment--type--and-industry-vertical-300990150.html
 type: article
-quality: 16
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
-  - AI in Healthcare
+  - AI Hardware
 
 images:
-  - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
-    width: 252
-    height: 335
+  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+    width: 600
+    height: 315
     title: "Artificial Intelligence Chip Market to 2027 - Global Analysis and Forecasts by Segment ; Type ; and Industry Vertical"
 
 related:
@@ -46,6 +46,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Market Analysis By Industry Size, Share, Key Drivers, Growth Factors, Demands, Manufacturers and 2026 Forecast"
+    excerpt: "Artificial Intelligence Market top players include Alphabet (Google Inc.), Apple Inc., Baidu, IBM Corporation, IPsoft, Microsoft Corporation, MicroStrategy, Inc, NVIDIA Qlik Technologies Inc, Verint Systems Inc (Next IT Corp) With the emergence of 5G technology,"
+    publishedDateTime: 2020-01-27T08:32:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-analysis-by-industry-size-share-key-drivers-growth-factors-demands-manufacturers-and-2026-forecast-2020-01-27
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -95,6 +108,6 @@ related:
       domain: techworld.com.au
     quality: 0
 
-secured: "+X8GP2UMvDtWbTL2ifmSh/5BvJtETqivAuNkDgJn/JQta83Smc7/jRlYD8OkXCkN/TiSmdI08b1pnTCV9m0fQ/k4YLzau/lLFw5bDikkil3xJrmJTHSQlxXmAcaiKsC/95s9rTmsnvilbBayG5nngv6Wg4EIQcFrGUvZKZe8EaBFB5GDFktb1XrsoVjR+IpR/ClDDdiGfB0A+57SVNv9lpPmkFJFb6CKmmnUZpjxhX0KGD2kpsOp4xcfQB1CAGG+tbW+wMz0fCMgCEG2Gp5dHuh/YvMZa8vIua0bEk3hg0mOJcQ9fAEkzA4iezY18doq;20yn9EKqDlmwAf09MTEQBQ=="
+secured: "LB/l3QaldvYJwffI6DSj2mpo7hQEQoofuWirwtTlzcY4RRkWdp9Sh7WleazNfPURJu3xc1EtvQ1Nf+t/YZahIv4mZ4gI6vdG6XxtI1bvACWVqASdqBJ+q+bkErafl/jFt89J9yMpdSe3DwHG0qXb45aTgc0eVwULU4sln9JkOz5TTsgok7n8h9YskNsmPo9RPmTMRo5pdtRGO2v+18/HFXfzs0bqGHPr0300u/ygYoOukoBq8hNggT+a47OTKWWjeQjEp3sPoyGMn+Vle2TbY7t1ri/oV2gh1wE3NuLJOBqixO0U9yri2jfQF76EFEAm;I7CtFuB72E3gboT5sgoMuw=="
 ---
 

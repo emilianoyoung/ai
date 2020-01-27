@@ -73,6 +73,19 @@ related:
       - url: https://www.healthleadersmedia.com/sites/hlmp/themes/hlmp/release/hlm_redesign/images/footer-logo.png
         width: 500
         height: 211
+  - title: "These 10 startups acquired by Alphabet reveal a health care play centered on surveillance"
+    excerpt: "“Cancer [is] often missed and the difference in outcome is profound,” he said, adding, “We know we can use artificial intelligence to make it better ... early science breakthroughs and clinical trial results, and health care disruption in Silicon Valley and beyond. Containing new coronavirus may not be feasible, experts say ..."
+    publishedDateTime: 2020-01-27T09:39:00Z
+    sourceUrl: https://www.statnews.com/2020/01/27/alphabet-acquisitions-reveal-health-care-play-centered-on-surveillance/
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 15
+    images:
+      - url: https://www.statnews.com/wp-content/uploads/2020/01/STAT_Sundar-Pichai_GettyImages-1056109512-1024x576.jpg
+        width: 1024
+        height: 576
 
 secured: "LHip9XLGNv2h78P+S4qbhdv5PSC48H5Kudpyqe5vNrCrjv3TxCLikYWTGyUGxTrz7pGAdEv5cTHv9f+1fv/b6jieOCLVyEuT190s94mnzHZUTza0MiUAqkauHZriGNpFT4VorHCU0dY3iam75W/O/nPj/PqYgkm8kIvm89KXcDA7UaS07Eipn3G8kUpcVXhryhg0Wu5iKtndxWnzenYLYUrpy12sK9cMEpH56DCJpXrElN7GmdFkOfkcF1S7I4uzKm3PViV3QNldaZjQChrXp5oS80WNTTiw1PeZ+9T6m0A=;nrMhtUq8hXZC9p5K/6Fx0w=="
 ---

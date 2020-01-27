@@ -2,25 +2,25 @@
 category: news
 title: "Meet Clearview AI, the secretive company that might end privacy as we know it"
 excerpt: "The system — whose backbone is a database of more than 3 billion images that Clearview claims to have scraped from Facebook ... research,” according to a document provided to Nehlen and later posted online. Ton-That said the company never actually offered such services. The company soon changed its name to Clearview AI and began marketing ..."
-publishedDateTime: 2020-01-19T03:23:00Z
-sourceUrl: https://www.sun-sentinel.com/news/nationworld/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html
-ampUrl: https://www.sun-sentinel.com/news/nationworld/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
-cdnAmpUrl: https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/nationworld/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
+publishedDateTime: 2020-01-19T20:50:00Z
+sourceUrl: https://www.mcall.com/news/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html
+ampUrl: https://www.mcall.com/news/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
+cdnAmpUrl: https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/news/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
 type: article
 quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Sun Sentinel
-  domain: sun-sentinel.com
+  name: Morning Call PA
+  domain: mcall.com
 
 topics:
   - AI
   - Facebook AI
 
 images:
-  - url: https://www.sun-sentinel.com/resizer/oZrdNHcxpttOUshyFpRzZViOTZc=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/6ZYRERIGSNBEVEWMOA6S7BMDIU.jpg
+  - url: https://www.mcall.com/resizer/oZrdNHcxpttOUshyFpRzZViOTZc=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/6ZYRERIGSNBEVEWMOA6S7BMDIU.jpg
     width: 1200
     height: 800
     title: "Meet Clearview AI, the secretive company that might end privacy as we know it"
@@ -88,6 +88,6 @@ related:
       domain: indiatimes.com
     quality: 37
 
-secured: "X/qjZ30lhXFu//gKVqMtlywJXhVJodAfdMMPMx5j0+HkBl5qeq1AWAYN5B0Y58jZdA0m8us85NL8w/MbDtr04LCsfy21CXiTvYwGOVNtZrkpH7zjM6Iuci4Iq7TBge6hS0TT0sYB0B9BqihqnWzVjJUF/pdYTRDGiJmsJu7bc7Ap05+Mihntq7RNRTOksEnOcBInJbWKcXge0+0guDhTCkdTXMnmmaqJOf3mS6kqt2Urzxph7G3rDYG7zVhiLClscVcaSV7uHeFiqUmopps5+DONEF+hgQb/iP3ktK3g1lDe6BsBIS7wY7YTU0Cwvtzj;jqGKZfiPQX6B8NXX4poMmA=="
+secured: "xXB/1YIdcK9kyyaz81xhmPRX7izwHoj1N06gJYNHdbpkKhG5Gfh2WvHQbsClF8fM+2oYocC3/FfWU6wQVgJouf3AYkq1yQCT3Lcfr5ul/ySOMOX86iBztd+OWVIJbO/fnVrcMhwBuwOBH3bC96Ve5x/Vh7Ckf4qcdFBmghJSPn0PvN6an5uT0q+NAO20x0bT5rZVBjjkzYuGEWWAA/qfcO6z68+yd8kJtz/KKGQUC2splvTAOtaA+/JbWNLd6RQ+hf2/zMGhyoMoKyUeZyQvLgHeDSg+1L/3rBareP5/X8zmocEnQLnshDDOuJRzXVc1;nuunVoTPFszJN1WYW7ENvw=="
 ---
 

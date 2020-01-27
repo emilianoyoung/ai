@@ -8,7 +8,7 @@ ampUrl: https://www.fool.com/amp/investing/2020/01/22/at-davos-alphabets-ceo-cal
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/22/at-davos-alphabets-ceo-calls-healthcare-the-major.aspx
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -73,6 +73,19 @@ related:
       - url: https://www.healthleadersmedia.com/sites/hlmp/themes/hlmp/release/hlm_redesign/images/footer-logo.png
         width: 500
         height: 211
+  - title: "These 10 startups acquired by Alphabet reveal a health care play centered on surveillance"
+    excerpt: "“Cancer [is] often missed and the difference in outcome is profound,” he said, adding, “We know we can use artificial intelligence to make it better ... early science breakthroughs and clinical trial results, and health care disruption in Silicon Valley and beyond. Containing new coronavirus may not be feasible, experts say ..."
+    publishedDateTime: 2020-01-27T09:39:00Z
+    sourceUrl: https://www.statnews.com/2020/01/27/alphabet-acquisitions-reveal-health-care-play-centered-on-surveillance/
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 15
+    images:
+      - url: https://www.statnews.com/wp-content/uploads/2020/01/STAT_Sundar-Pichai_GettyImages-1056109512-1024x576.jpg
+        width: 1024
+        height: 576
 
 secured: "7+JPsas9+moN4YPEqQ0cWpMoplk3w9CeFcVz6sycDo8at02J1zsf8tRyGsEZuNsZgD6auVBq4S/Yyx3feyEgNJeGMlKX7+FBg8k88s3EXtGengfsT9eWBifWCICqODapSB/jV9CQ66LOqWCr0zHtoyobt+fW4rD8TgA3J2RjjpOgx1XwrYkAAZ+k1QLyMeZdHBE8ho1CwsZdZSfzwnvp7MIcEIog3L3A6h1mbgSOoA2MV3hWjbWl0dQn+qyJJylnR+ZwiNFzIU/5XTazNIFJH8slEZDNXSjvqhz4zHOyB5lh7JR6F2X6HI0lKOJmgGtqkaeM2mXplm2lwPJkrX64hrBcHvXmLXnmWqupG9dpqrPS484L2PIN2GiYU3tRtV1suGN0eERG4eHoB+uLGmtaCWkxGUtIPij/Gv69cv3t1oEbd2gny2x6dbd+rois3NI7hixrAep1fOH/R5w7J9e/zA==;c/o+COatY6KEqg1CX7tx0w=="
 ---

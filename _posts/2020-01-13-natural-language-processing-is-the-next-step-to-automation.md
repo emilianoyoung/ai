@@ -3,7 +3,7 @@ category: news
 title: "Natural language processing is the next step to automation"
 excerpt: "This is where machine learning and more specifically, natural language processing (NLP), are having a real impact. However, voice NLP is not as mainstream within FIs as it is in daily life. Butterworth explains that this can be put down to “legacy telephony infrastructure and very low-quality audio which means that the accuracy rate is quite ..."
 publishedDateTime: 2020-01-13T15:10:00Z
-sourceUrl: https://www.finextra.com/newsarticle/35053/natural-language-processing-is-the-next-step-to-automation/cloud
+sourceUrl: https://www.finextra.com/newsarticle/35053/natural-language-processing-is-the-next-step-to-automation
 type: article
 quality: 39
 heat: -1
@@ -49,6 +49,6 @@ related:
       domain: industryweek.com
     quality: 4
 
-secured: "58brbaawA8QTHI9r02wmnowAgkd0vQ8GpqbeQeTC+9YDDelfixmzIh3PAccahFtzspDL5/e+XF4hMR5MGSQJT7/7zQF91Lpd/oeETKGgEL7h5pS8Z7QMi6n423vteJoiBYndXvm21+1J/csUMBFBToBZ5gaWZj7b4fi70rbQwBJfpGQW5verTFLU3KJhT66mAdIxbxU/GXe5dG0O0kHf9lJ8CL4RqrDLsoTXPM1Y9p9u5V5eXKEx2Ru9Yqhqlb4C6lQK6LlX8Ft6FKN/Jci8IA+QGfzNZyzkwYwf/3pFTiyhDlUaEIz8SG9X5KONu6q1;fUQs/VqtW9r9S4EibbXNXA=="
+secured: "vI5GRt40nwCf3pLM3Uy3ow9lmFfX29dBx6UdpSbP0MRZVuAqVt/noO1PIMAmWdIGNOerpmvFB1DWsHkorVr0fSBBofx8qm0fDYcOQrd54eA2RBGMp1DC13pLxJjf0rY8W1FH+A4vmXlUXvCCf84aogj/BfseAHgyAvnJGmspUD8sjIgJk95K2R+8vc/OmuE9wt2aKfUvRgpCK3tHaRziYXMQjUHhoxu6cuhXQe26WyFlLN7nryScfzH8MieE7LYpMg2KM8bWqFEZaRs9mlpY8yjAb8QZQ0Kt49v9Al5FMQx6s1/U7vvvmsUG4pn2eeLS;KlsVXtykhR5o7BSI82aiwQ=="
 ---
 

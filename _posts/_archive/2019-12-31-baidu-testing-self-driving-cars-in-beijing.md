@@ -18,57 +18,37 @@ topics:
   - AI in Autos
 
 related:
-  - title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than Autonomous Driving"
-    excerpt: "Damon Motorcycles unveiled its new electric motorcycle today at CES in Las Vegas, calling it “the world’s smartest, safest, and most powerful electric motorcycle.” My first thought: it can’t be both the most powerful and the safest."
-    publishedDateTime: 2020-01-07T17:42:00Z
-    sourceUrl: https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/
-    ampUrl: https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/
+  - title: "Baidu secures licenses to test self-driving cars in Beijing"
+    excerpt: "Tech giant Baidu is slowly but surely progressing toward the launch of a commercial robot-taxi fleet in mainland China. This week, the company announced that it has secured licenses to test ..."
+    publishedDateTime: 2019-12-31T16:58:00Z
+    sourceUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/
+    ampUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 79
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1489b24e291700061a9d51%2F0x0.jpg
+      - url: https://venturebeat.com/wp-content/uploads/2019/11/1573720765750856_upscaled_image_x4-e1573743944240.jpg?fit=1200%2C600&strip=all
         width: 1200
-        height: 729
-  - title: "VW's all-electric ID Buzz van is a platform for self-driving efforts - Electrek"
-    excerpt: "The ID Buzz still seems almost too cool (and far away) to be true. But at CES 2020, the new chief of VW self-driving told Electrek that the Buzz is also the basis of VW’s first self-driving vehicles for limited commercial use by 2022. That’s a good sign that the ultimate electric hipster van is on track. “The ID Buzz will be our first L4 ..."
-    publishedDateTime: 2020-01-12T16:28:00Z
-    sourceUrl: https://electrek.co/2020/01/10/interview-vws-hip-all-electric-id-buzz-van-is-a-platform-for-its-self-driving-efforts/
-    ampUrl: https://electrek.co/2020/01/10/interview-vws-hip-all-electric-id-buzz-van-is-a-platform-for-its-self-driving-efforts/amp/
-    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/01/10/interview-vws-hip-all-electric-id-buzz-van-is-a-platform-for-its-self-driving-efforts/amp/
+        height: 600
+  - title: "3 Things That Sent Baidu Stock Soaring to Start 2020"
+    excerpt: "Baidu's Apollo self-driving car program is gearing up. Image source: Baidu. Word emerged on Tuesday that Baidu had been granted a license to test its Apollo driverless cars in Beijing, one of the ..."
+    publishedDateTime: 2020-01-02T20:42:00Z
+    sourceUrl: https://www.fool.com/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx
+    ampUrl: https://www.fool.com/amp/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx
+    cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 70
+      name: The Motley Fool
+      domain: fool.com
+    quality: 89
     images:
-      - url: https://electrek.co/wp-content/uploads/sites/3/2020/01/id-buzz-beach.jpg?quality=82&strip=all&w=1000
-        width: 1000
-        height: 501
-  - title: "Baidu partners with Wind River for autonomous driving technology"
-    excerpt: "This platform will come with an Autosar Adaptive-based software architecture clubbed with Baidu's Apollo autonomous driving open architecture.ETAuto | January 08, 2020, 16:36 IST As the company claims, this will cater to the next generation of self-driving vehicles. New Delhi: Chinese internet search engine Baidu has joined hands with Wind ..."
-    publishedDateTime: 2020-01-08T11:06:00Z
-    sourceUrl: https://auto.economictimes.indiatimes.com/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435
-    ampUrl: https://auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435
-    cdnAmpUrl: https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 39
-  - title: "CES trade show to spotlight big tech trends in 5G, self-driving cars, 8K TVs and more"
-    excerpt: "Gigantic consumer electronics show in Las Vegas features about 40 San Diego companies showing off their latest technologies."
-    publishedDateTime: 2020-01-06T14:06:00Z
-    sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 0
+      - url: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F552284%2Fbaidu-self-driving-car-fleet.jpg&w=700&op=resize
+        width: 700
+        height: 393
 
-secured: "YgBqi+CuRaHQso7dFPzb9p01qcscJ08LlzBNXGKHVSA8S4BT6rfaaR5DRZ4iNacZrs3kGiCH5Igijl6Ufsn4SKKhBm3Ck8rJF12U+C4D0jcnAOCs/V57ZfQMhFKfhFKe3qK8He9D11FPNANrNiXY1kCC3/9brupo7jhil0g/8cIxxHPjeDlPX/MIcBbG5MhNlp8IzTo8CeuKyu3DT3WU3y9ZkKUWzSqBh3LfC+N62jSTlQv3kTSeh8AAhI8cwW/Lcozf/gimel2mAyRp9j/Vx1P/mMSKHp+tXz2OZhE2ipvhr8twPi2CB+uHYctJpf8A;qR95iC87ou3jXr65Ebep3A=="
+secured: "vu4WG+ikqPKBVRmjiYVtFeuccm+lvjF+fOKJ8Zs8HsVSq0H0UFWzHL+ON/xQoVRXLe0H+2QS0YPN52ToM1UEayMP1wF0S08Sz8BseQVZC1Xhro6M3UfpNgu6m6KsuUveS8F0emuWb3qNIilX7XNapSbNK9C3eP7WZkro9zjDhVD5f8s26DA6fqI9xQeJviW0bcwAHJFp7VmZXIgGOxrWFu75H2GcyecSgULjAkey6G6itEKqg0+w0mi4ubGgHifDZfoK3QGlmFoxPSs0TbRFs9BLSiBGI0A4KFPLRyDojflyw1VDNIgDRROeS7hStxaT;Rb8ja9C1qx4TMS8Ay5mc1g=="
 ---
 
