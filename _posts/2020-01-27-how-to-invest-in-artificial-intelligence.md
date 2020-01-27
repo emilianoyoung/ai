@@ -36,7 +36,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 89
+    quality: 91
     images:
       - url: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F484858%2Fgettyimages-851955936.jpg&w=700&op=resize
         width: 700
@@ -55,6 +55,6 @@ related:
         width: 630
         height: 500
 
-secured: "KDF7/1NdZA3OtIHFjhCOIDIsF+EIAB1e9P8wQkCb7jEDrpRa3dRpG5MO7Gcst98rkyggg9Pz4hGPWqnpB01FSQBp8sgbUKpFcJZeZ4jjXKN4Q6voiMRgLk9lv9PgFjCG7D8DsUPHUcNsZQwQHBWYpjmV/Zhit2Nfd3+bI5TcyeN4o0MYyNJ4068GaEBNzYcRJsJro3rYDxBG1T0OUEhGVwIGRM3DsafY9zek/oKV+Iz8v5TeFyn5RIiEr1+PEO8aniWKUPksg/CVOxj0/2bcnSyikBONQGV0D+728fWgMMnLf+yEFZqmzN9hxb+UeLV7;Vg12COFMCxri0waHD4+q+A=="
+secured: "zVKcUcnUU2xHMQWiWGB9obxEeoaieOX/AWyfG+NPVFOgM0bnbg2Y4irYQXA8vauYhbYaJ/lpe8XItQr8TshDsQqpmFlMrKG/B5P5M+yvc33++RkYDGKPKqyYQNpNkdXDyRamGMgqdt2amS5WXnOlvhi6uekBEk2hByTLfKsvEKuN3LXDrVFj/YLTKNMqi7XnVRv//tZKSBg067YFlZ011EHyx7HTKM8g8pBY91Ieh27KG2GszhCF8hP17CBIkHoNsnlvXyi4euq7nC+U2saX95J4+3T/8C/PllsXOHT+Gi6SE5zgF+0SB4RiubYtqJNkemqeeJU7kI53r7R+1UAzh4Y6JEHq7nN6OcLUrH3aMbqUlR3dBAqJeg+/xLPlnV0YqZV4iPqZpsiGtkBcjw1lC2YJWJE89qVkuM3B9Ak9A/hv3NTHuPvlc2Jx4ecNRxbH8Rmx3DvIIY3Wn0jGTmTmpnyYkpuAi6Jqkvk7Ma+SsM4=;PVAik9Ih1yFE6ofkUn+iVw=="
 ---
 

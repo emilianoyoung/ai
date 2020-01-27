@@ -58,21 +58,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all
         width: 1200
         height: 600
-  - title: "IBM points Watson at the marketing world with Advertising Accelerator"
-    excerpt: "IBM's latest Watson-powered product is the Advertising Accelerator announced at CES 2020. The predictive audience tool uses artificial intelligence (AI) and machine learning to identify and recommend creative assets most likely to drive engagement in a target audience. The new tool helps media buyers and brands improve the effectiveness and ..."
-    publishedDateTime: 2020-01-07T11:28:00Z
-    sourceUrl: https://www.techrepublic.com/article/ibm-points-watson-at-the-marketing-world-with-advertising-accelerator/
-    ampUrl: https://www.techrepublic.com/google-amp/article/ibm-points-watson-at-the-marketing-world-with-advertising-accelerator/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-points-watson-at-the-marketing-world-with-advertising-accelerator/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 89
-    images:
-      - url: https://tr3.cbsistatic.com/hub/i/r/2019/02/12/3b55ae83-1c0a-461a-8ccf-3964205e96a9/resize/1200x/715741543e5422545dc09137e2673bd0/ibm-watson-940x705.jpg
-        width: 1200
-        height: 900
   - title: "IBM Advertising Accelerator leverages artificial intelligence for optimum viewer engagement"
     excerpt: "Powered by IBM Watson, the accelerator will use artificial intelligence to predict the best choice of creative elements to be used in advertising that will, in turn, translate into high engagement and conversion from the audience. Specifically, by leveraging artificial intelligence, three important factors while advertising will be enabled:"
     publishedDateTime: 2020-01-07T14:18:00Z

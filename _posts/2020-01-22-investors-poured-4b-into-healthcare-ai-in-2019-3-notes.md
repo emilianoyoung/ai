@@ -39,19 +39,6 @@ related:
       - url: https://i1.wp.com/www.mobileworldlive.com/wp-content/uploads/2017/05/Pichai-IO-e1572348398144.png?fit=648%2C399&ssl=1
         width: 648
         height: 399
-  - title: "Developments in Artificial Intelligence for Mental Health Care"
-    excerpt: "Advances in artificial intelligence have considered computers to help doctors in diagnosing disease ... Advances in big data analysis techniques will before soon grant the automation of literature research yielding high-quality information on a wide range of complementary and alternative medicine (CAM) modalities. Getting big data that is ..."
-    publishedDateTime: 2020-01-26T04:35:00Z
-    sourceUrl: https://www.analyticsinsight.net/developments-in-artificial-intelligence-for-mental-health-care/
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 41
-    images:
-      - url: https://www.analyticsinsight.net/wp-content/uploads/2020/01/Mental-Health.png
-        width: 1200
-        height: 675
 
 secured: "F/v7AM03AR5CM87f35EUZl5Ikwb4fDXnO/nn9a6z/xeTC/r1jDdNGxezkDtngoi9crr/453IkqVSVB4ZGmAk2mTW8n67dqesdQ7vcFQ/fEzpPqi6bivuD2/OaGxkqdWsTFR7mRqWJ6zIU8ar660zQe30i+L+e6G+fNEEV8mJlUClNe6ARzvsXwx3gilN1hp4Ipv1bJegxvUauexlfzoKElmeZwoQphri8betPIcjsyfBDTVWouN1OKV4rJrN94Gdrs16Ss477JohBedYwHyNVtQ45MVTv6e0I4MufZFfyWg=;wp8e5C029JgJGTkc1XsCOA=="
 ---

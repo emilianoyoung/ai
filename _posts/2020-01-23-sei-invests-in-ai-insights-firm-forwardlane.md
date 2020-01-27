@@ -52,6 +52,19 @@ related:
       - url: https://bdaily.co.uk/images/uploads/sEnCbXVe1i6mucg9Tr1kl5CHGvogkNMAx6N0AWOV.jpeg?w=940&h=430&fit=crop-50-50&s=33e72a848f890614183ea7b19622c751
         width: 940
         height: 430
+  - title: "Axel Maier joins welath investment AI startup MDOTM"
+    excerpt: "His knowledge of the asset management industry will be key in speeding up the international expansion of the Fintech company, which - after the 2018 series A funding - managed a rapid expansion in Europe thanks to its cutting-edge investment solutions that use AI to adapt to the financial markets’ complexity and to the customization needs of ..."
+    publishedDateTime: 2020-01-27T12:22:00Z
+    sourceUrl: https://www.finextra.com/pressarticle/81256/axel-maier-joins-welath-investment-ai-startup-mdotm
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: https://www.finextra.com/about/finextra-logo-alt-16-9.jpg
+        width: 480
+        height: 270
 
 secured: "e3WvezNeQE9tYW71GLoqF8hVkpChjQ+Icy7acI4SFFy12/CwOEbLGQmvAl2ebKF2Jxi8oc4xDXnowlWb2aB9ew3rnSeiB0IhIAdwdEQOPhmUS53jVFG/HFmRs92wZQMNBdaxGPj2F3/Ix3Tya+50z0o/kPl0JjAUQiMmxn5wK1usu1dtcVS+4h9YTIYT0i+kukA/2Y2ZJj3Z8cSlmtJJJmXqG2X0AsbBSv0+v1czub7cN0DUxsjc/mv0QN4tt2I+ciot/h9BEzB7yBS3s3IJMCRBXtDq74zOO8cyaJKyb/4/oVIZ//g3kje2m7maQeXB;/kmsqZ2r3BhNZyNhPb1CVg=="
 ---

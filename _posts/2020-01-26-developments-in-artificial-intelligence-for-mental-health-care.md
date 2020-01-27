@@ -25,34 +25,82 @@ images:
     title: "Developments in Artificial Intelligence for Mental Health Care"
 
 related:
-  - title: "Pichai hails AI potential in healthcare"
-    excerpt: "We know we can use artificial intelligence to make it better”, he stated ... In June 2018 Pichai highlighted the company’s aim to focus on areas beneficial to society, including healthcare, energy and transportation, and advised the tech giant will ..."
-    publishedDateTime: 2020-01-23T11:52:00Z
-    sourceUrl: https://www.mobileworldlive.com/featured-content/top-three/pichai-hails-ai-potential-in-healthcare/
-    ampUrl: https://www.mobileworldlive.com/featured-content/top-three/pichai-hails-ai-potential-in-healthcare/amp/
-    cdnAmpUrl: https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/pichai-hails-ai-potential-in-healthcare/amp/
+  - title: "Iguazio raises $24 million for AI development and management tools"
+    excerpt: "AI adoption levels are higher than they’ve ever been in the enterprise. According to a January survey conducted by Gartner, corporate use of AI grew 270% over the past four years. But developing, deploying, and managing AI applications at scale requires a platform that supports doing so, which is what startup company Iguazio provides."
+    publishedDateTime: 2020-01-27T12:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-development-and-management-tools/
+    ampUrl: https://venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-development-and-management-tools/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-development-and-management-tools/amp/
     type: article
     provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 74
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: https://i1.wp.com/www.mobileworldlive.com/wp-content/uploads/2017/05/Pichai-IO-e1572348398144.png?fit=648%2C399&ssl=1
-        width: 648
-        height: 399
-  - title: "Investors poured $4B into healthcare AI in 2019: 3 notes"
-    excerpt: "Artificial intelligence startups around the world raised a record-setting $26.6 billion in 2019, with healthcare receiving a larger share of that total than any other industry, according to a new CB Insights report. Three findings from the report: 1. Of the 2,235 investment deals across AI startups last year, 367 were in healthcare, for a total ..."
-    publishedDateTime: 2020-01-22T15:41:00Z
-    sourceUrl: https://www.beckershospitalreview.com/artificial-intelligence/investors-poured-4b-into-healthcare-ai-in-2019-3-notes.html
+      - url: https://venturebeat.com/wp-content/uploads/2020/01/Logo_-_updated.jpg?fit=1200%2C627&strip=all
+        width: 1200
+        height: 627
+  - title: "PTT, Mitsui team up for robotics, AI development"
+    excerpt: "PTT Plc and Mitsui & Co (Thailand) Ltd have signed a cooperation agreement on the development of robotics and artificial intelligence (AI). The joint venture focuses on creating a value-based economy that is driven by innovation, digital systems, and high-tech automation in the industrial sector. PTT chief technology and engineering officer ..."
+    publishedDateTime: 2020-01-21T15:52:00Z
+    sourceUrl: https://www.phnompenhpost.com/business/ptt-mitsui-team-robotics-ai-development
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
+      name: The Phnom Penh Post
+      domain: phnompenhpost.com
+    quality: 69
     images:
-      - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg
-        width: 400
-        height: 300
+      - url: https://www.phnompenhpost.com/sites/default/files/styles/thumb_380x215/public/field/image/topic-7.-ice-removes-37-cambodian-nationals-at-ice-air-operations-flight-from-dallas-texas-to-cambodia-on-july-2019-by-ice-1_0.jpg
+        width: 380
+        height: 215
+  - title: "Digital wealth manager Kristal.AI raises 6 million in Series A funding"
+    excerpt: "The company started its business in Hong Kong since 2016 and now it is planning to use its Series A funding, to bring its AI-driven personalized wealth platform to more countries in APAC regions. Artificial Intelligence has long been hailed as the future of fintech, and Singapore-based digital wealth management platform Kristal.AI is proving ..."
+    publishedDateTime: 2020-01-23T08:14:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/digital-wealth-manager-kristal-ai-raises-6-million-in-series-a-funding-1028838445
+    ampUrl: https://markets.businessinsider.com/amp/news/digital-wealth-manager-kristal-ai-raises-6-million-in-series-a-funding-1028838445
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/digital-wealth-manager-kristal-ai-raises-6-million-in-series-a-funding-1028838445
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+  - title: "Using cloud, AI for KYC and ID management for African enterprises"
+    excerpt: "To get more insight into the impact of cloud, AI and automation technologies in the Know Your Customer and ID verification ... With the advent of cloud technology providers such as Microsoft Azure and AWS coming to South Africa, it makes it easier for smaller businesses to provide services to companies. This has provided us with the ability ..."
+    publishedDateTime: 2020-01-23T08:33:00Z
+    sourceUrl: https://www.cio.com/article/3515001/using-cloud-and-ai-for-kyc-and-id-management-for-african-enterprises.html
+    ampUrl: https://www.cio.com/article/3515001/using-cloud-and-ai-for-kyc-and-id-management-for-african-enterprises.amp.html
+    cdnAmpUrl: https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3515001/using-cloud-and-ai-for-kyc-and-id-management-for-african-enterprises.amp.html
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 61
+    images:
+      - url: https://images.techhive.com/images/article/2014/10/artificial_intelligence_virtual_digital_identity_binary_stream_thinkstock-100528010-large.jpg
+        width: 1200
+        height: 900
+  - title: "Report: Speed up drug development with artificial intelligence"
+    excerpt: "More and improved use of artificial intelligence, and an overhaul of medical education to include advances in machine learning, could cut down significantly the time it takes to develop and bring new drugs to market, according to a new joint report by the National Academy of Medicine and the Government Accountability Office. Before that can ..."
+    publishedDateTime: 2020-01-23T01:50:00Z
+    sourceUrl: https://www.rollcall.com/news/policy/report-speed-drug-development-artificial-intelligence
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 39
+    images:
+      - url: https://cdn.images2.rollcall.com/image/27cf5635a9671932facf9eaaf28bb860456d2c0d8fa9d892971ca7752284a2a3f694222a45edf4131ed6bf50844a038a/author/2020/01/SENATE_VOTE_003_06182019.jpg
+        width: 1200
+        height: 627
+  - title: "Ethiopia to launch artificial intelligence development center"
+    excerpt: "The regulation is expected to provide quality services, products and solutions for beginner developers working on artificial intelligence. Though the country had no regulatory framework to govern and embrace such technologies, individuals efforts has been bearing fruits in applying AI and robotics in Ethiopia. In 2018 a robotics lab iCog ..."
+    publishedDateTime: 2020-01-27T12:35:00Z
+    sourceUrl: https://newbusinessethiopia.com/technology/ethiopia-to-launch-artificial-intelligence-development-center/
+    type: article
+    provider:
+      name: newbusinessethiopia.com
+      domain: newbusinessethiopia.com
+    quality: 19
 
 secured: "nUTxFrVdbhZGq98cLnsirxwzq1LHvt45sUwLlXdHuftogpwFpLki5pfn79f6GsZabNGU9VoRGZ6K+y4phL1PzKTuqehBDd/oq2FI5OR6IHv9W1RnqBm9CGLkL5Q+stUh6hHK30g692iPPGOBy9NntHK6r6kmXSO/uvHhVGWJ596SIb5kZiu86Z6EnJuufciw7Jye5OI1xFlb0QEa+Y5d/5Iqtmt3/0aHkd4EI4SfkkI5d22IjLyUG0B/I6qpY+JfzmyJxrsSkxHRyUL6btzHppj0WSrgF8+DQCXRKBRNS3M8xff89IKRRRLpOqSLOt5v24Wm4tBAQbGBNujisRAChLU+hrIUo1z1jppPCAeL2Xx7OacqahoR2YQ6t6af65o96qnEc6yYsUKr67ykJ81jbzjYQrC+7Uxf9E11ZCG5snPL3N6f0MvKtv6kv2yxWy30C7F4ne3Nv4tyUebqx267hPdkoqrbBRnoRLPwqXUbTVw=;CamAEJrOEvlgsrx21gCdPw=="
 ---

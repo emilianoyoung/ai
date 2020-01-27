@@ -8,8 +8,8 @@ ampUrl: https://www.cio.com/article/3515001/using-cloud-and-ai-for-kyc-and-id-ma
 cdnAmpUrl: https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3515001/using-cloud-and-ai-for-kyc-and-id-management-for-african-enterprises.amp.html
 type: article
 quality: 61
-heat: 61
-published: true
+heat: -1
+published: false
 
 provider:
   name: CIO
@@ -25,6 +25,82 @@ images:
     width: 1200
     height: 900
     title: "Using cloud, AI for KYC and ID management for African enterprises"
+
+related:
+  - title: "Iguazio raises $24 million for AI development and management tools"
+    excerpt: "AI adoption levels are higher than they’ve ever been in the enterprise. According to a January survey conducted by Gartner, corporate use of AI grew 270% over the past four years. But developing, deploying, and managing AI applications at scale requires a platform that supports doing so, which is what startup company Iguazio provides."
+    publishedDateTime: 2020-01-27T12:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-development-and-management-tools/
+    ampUrl: https://venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-development-and-management-tools/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-development-and-management-tools/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2020/01/Logo_-_updated.jpg?fit=1200%2C627&strip=all
+        width: 1200
+        height: 627
+  - title: "PTT, Mitsui team up for robotics, AI development"
+    excerpt: "PTT Plc and Mitsui & Co (Thailand) Ltd have signed a cooperation agreement on the development of robotics and artificial intelligence (AI). The joint venture focuses on creating a value-based economy that is driven by innovation, digital systems, and high-tech automation in the industrial sector. PTT chief technology and engineering officer ..."
+    publishedDateTime: 2020-01-21T15:52:00Z
+    sourceUrl: https://www.phnompenhpost.com/business/ptt-mitsui-team-robotics-ai-development
+    type: article
+    provider:
+      name: The Phnom Penh Post
+      domain: phnompenhpost.com
+    quality: 69
+    images:
+      - url: https://www.phnompenhpost.com/sites/default/files/styles/thumb_380x215/public/field/image/topic-7.-ice-removes-37-cambodian-nationals-at-ice-air-operations-flight-from-dallas-texas-to-cambodia-on-july-2019-by-ice-1_0.jpg
+        width: 380
+        height: 215
+  - title: "Digital wealth manager Kristal.AI raises 6 million in Series A funding"
+    excerpt: "The company started its business in Hong Kong since 2016 and now it is planning to use its Series A funding, to bring its AI-driven personalized wealth platform to more countries in APAC regions. Artificial Intelligence has long been hailed as the future of fintech, and Singapore-based digital wealth management platform Kristal.AI is proving ..."
+    publishedDateTime: 2020-01-23T08:14:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/digital-wealth-manager-kristal-ai-raises-6-million-in-series-a-funding-1028838445
+    ampUrl: https://markets.businessinsider.com/amp/news/digital-wealth-manager-kristal-ai-raises-6-million-in-series-a-funding-1028838445
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/digital-wealth-manager-kristal-ai-raises-6-million-in-series-a-funding-1028838445
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+  - title: "Developments in Artificial Intelligence for Mental Health Care"
+    excerpt: "Advances in artificial intelligence have considered computers to help doctors in diagnosing disease ... Advances in big data analysis techniques will before soon grant the automation of literature research yielding high-quality information on a wide range of complementary and alternative medicine (CAM) modalities. Getting big data that is ..."
+    publishedDateTime: 2020-01-26T04:35:00Z
+    sourceUrl: https://www.analyticsinsight.net/developments-in-artificial-intelligence-for-mental-health-care/
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 41
+    images:
+      - url: https://www.analyticsinsight.net/wp-content/uploads/2020/01/Mental-Health.png
+        width: 1200
+        height: 675
+  - title: "Report: Speed up drug development with artificial intelligence"
+    excerpt: "More and improved use of artificial intelligence, and an overhaul of medical education to include advances in machine learning, could cut down significantly the time it takes to develop and bring new drugs to market, according to a new joint report by the National Academy of Medicine and the Government Accountability Office. Before that can ..."
+    publishedDateTime: 2020-01-23T01:50:00Z
+    sourceUrl: https://www.rollcall.com/news/policy/report-speed-drug-development-artificial-intelligence
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 39
+    images:
+      - url: https://cdn.images2.rollcall.com/image/27cf5635a9671932facf9eaaf28bb860456d2c0d8fa9d892971ca7752284a2a3f694222a45edf4131ed6bf50844a038a/author/2020/01/SENATE_VOTE_003_06182019.jpg
+        width: 1200
+        height: 627
+  - title: "Ethiopia to launch artificial intelligence development center"
+    excerpt: "The regulation is expected to provide quality services, products and solutions for beginner developers working on artificial intelligence. Though the country had no regulatory framework to govern and embrace such technologies, individuals efforts has been bearing fruits in applying AI and robotics in Ethiopia. In 2018 a robotics lab iCog ..."
+    publishedDateTime: 2020-01-27T12:35:00Z
+    sourceUrl: https://newbusinessethiopia.com/technology/ethiopia-to-launch-artificial-intelligence-development-center/
+    type: article
+    provider:
+      name: newbusinessethiopia.com
+      domain: newbusinessethiopia.com
+    quality: 19
 
 secured: "TJtjeZnYMYj6hLVSfJ91pkISWqlyu/tCbwSZ3gXI9lmrA8w+X3R2KjnBn4Z0/rIOFA+FQ44h31LXS0t+zxEFyy161CuI0PGH/mjlpqpJBcroCz2MUdPlRZPJJH3cmjn0AZWDkKtNY3ZnzYHfY8SW4eZQnJUW7Tglg8V0nvdoUDHJnZgb3Ys7KL2T0OgWJelnz8pKXZbaUI0oqEHAJGmGNCpJ0wv6E4aJOm2A8h+gooLeV/kEe11i8VE3ZqVlCPuEyW5R8Gtcsq4J7U0IqvKtBYePXNUrSklOHIze3Zm5Y9lsPr+liWRqEYUa/eYMLd+ULYgDNvUw73phSfr6tet+s+dHvDH/QVfO68lVA76gDBGiQNNHknZp0nNg3FEy6E0cGGJpWa9Xby762yTw/qGRvnDIWEcwHWbqgn53NoczdKBY8XbvHXeWwJuGLL2JG1p1i39svZooSEr463J+/IzQXbi/oeHWdiPYfSDQxVe7gEo=;jNoSsa88F0Hf4ymHnkRotQ=="
 ---

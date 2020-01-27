@@ -26,6 +26,21 @@ images:
     title: "Facebook Is Banning Deepfake Videos Ahead of the 2020 Election"
 
 related:
+  - title: "Fake Trump video? How to spot deepfakes on Facebook and YouTube ahead of the presidential election"
+    excerpt: "Facebook and other tech companies are sponsoring a \"Deepfake Detection Challenge\" to encourage AI researchers to develop new ways to ... Nearly two-thirds of Americans recently surveyed by Pew Research said altered images and videos caused a great deal ..."
+    publishedDateTime: 2020-01-08T22:44:00Z
+    sourceUrl: https://www.usatoday.com/story/tech/2020/01/08/deepfakes-facebook-youtube-donald-trump-election/2836428001/
+    ampUrl: https://amp.usatoday.com/amp/2836428001
+    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2836428001
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 30
+    images:
+      - url: https://www.gannett-cdn.com/presto/2019/04/26/USAT/32128b1f-352f-49ed-9d3d-83a48600d31f-RectThumb.png
+        width: 1920
+        height: 1080
   - title: "Facebook tweaks ad policy but does not ban political lies ahead of 2020 US presidential election"
     excerpt: "Facebook announced limited changes on Thursday ... Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand ..."
     publishedDateTime: 2020-01-10T02:29:00Z

@@ -8,7 +8,7 @@ ampUrl: https://khn.org/news/a-reality-check-on-artificial-intelligence-are-heal
 cdnAmpUrl: https://khn-org.cdn.ampproject.org/c/s/khn.org/news/a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown/amp/
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -25,21 +25,6 @@ images:
     height: 900
     title: "A Reality Check On Artificial Intelligence: Are Health Care Claims Overblown?"
 
-related:
-  - title: "A reality check on Artificial Intelligence: Are healthcare claims overblown?"
-    excerpt: "That reality check could come in the form of disappointing results when AI products are ushered into the real world. Even Topol, the author of “Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again,” acknowledges that many AI products are little more than hot air. “It’s a mixed bag,” he said. Experts such as Dr ..."
-    publishedDateTime: 2020-01-06T06:37:00Z
-    sourceUrl: https://medcitynews.com/2020/01/a-reality-check-on-artificial-intelligence-are-healthcare-claims-overblown/?_hsenc=p2ANqtz-_ucienVNAlV7PYrc8Pz1SdpbQZM1e6fOgT2csx5o75U-OoWGIFoIWftsKvfLkMBOeR_vMULzw5v9Q-IemMihui_cvgvQ&_hsmi=81510974&rf=1
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 66
-    images:
-      - url: https://medcitynews.com/uploads/2019/11/GettyImages-1137784739.jpg
-        width: 703
-        height: 497
-
-secured: "3pSRYVsGOHWClI3cMjcw7LonJDhVYWIhAenjn8u18pKfauqRLrrP5z8i5KqmgoHk5SUogB4LPfJZSaGZXKw8dg0fLee7KsspoMqZIZEoA61CtYX3jOCx7uWxQkAGkSGKIVvdxtL3wLvDAvKwNBlw4KOfcUsTPp1Q4FTpykrICOfSakNWi91W6wDDXINegHBhsuJFT1WiQ3INwGhvh7wBWdtDLxDoi9JdeEAVGysoVAOk3WK/+wQITVA4E/O+Sp/p9BkSRIq+Lg+lsgZrKsaPlpFTIFD8wud7ReG2wAD8nPhUHlDCwen1BkGlC35KhDi5;SyXkmW/59Cm+JXjtCcvzzQ=="
+secured: "q467gomUEq/oqMTTwQ/xAIbHngKVtHq0xUClOy7IByfZVTyT/F2dG9/SFrpggnlmdfXvag09KczWqNKzlQAdIU+IbUq5DyqSzUWX6HEwjLeo+bLUYYYER8T6EB/FO0RoxMtVcWFWVA6qCvV1Gsfxv2Nj/H1AiNH3oSLAbQHodIfnml0FUJspfvFhTI7+ytve0tob9eS178LMpTPJCf014WcmUbE7VbZeqtwrDxq6vokSYkrVs7dCJNPhqgvN1NTw7B7fVrPflksikqaI/Ba5D8mNvQU3Ewm6IQ+co2yxlFJe6RDn/NI4OTENvnnYg4rF;FUZQJJziNu0OUxOVE/Lz3A=="
 ---
 
