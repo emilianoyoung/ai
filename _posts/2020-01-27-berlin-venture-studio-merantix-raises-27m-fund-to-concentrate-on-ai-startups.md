@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2020/01/27/berlin-venture-studio-merantix-raises-
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/27/berlin-venture-studio-merantix-raises-27m-fund-to-concentrate-on-ai-startups/amp/
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 340
     title: "Berlin venture studio Merantix raises $27M fund to concentrate on AI startups"
 
-secured: "VeGwoT7h36t18cnIt733ZXy6rNeR9QpZ0fsLKct+hpN/gFnPoPSWY0yqtV/9aEKRg5AGyistqBC2JdsFTdRHatN/VoFDouaOQ3hYudEEYy2ljMdatbgzNzlB5DzmsV5jz6+k8eu1oDGwQeaVTbS3CrEN5inJJF01oFW14++MUeQ8IqJUUvhI1qWy5MTfokwZt/QxKhENGoq85QRSbtR+5N4RgioW870jfqSWoHg65MSpfBq1YO5j/Nc/IK5Eyz4zJZzV390rxtwtFPswgQ5E80BMVyWSe2ibeO+yeJ/m5EI6XUyj0BQnzqMJcWek07ZK;L4NIEar82A02jKFRNu4GpQ=="
+secured: "NmsjFS5JHgYiv/OXvPjsDgG79CKrHoOCyabwxuzH2qxZRrRu8diQNqe3IdOvgaw5MfM3IxMtK3P3Hutk/3L2T1yOtNlcXEI5pfVT8KfMdxKENvwBHugc6C55hQ/NuX8ob+OwED0FbTJdZIzBAsRFPkA4x/b86PdGAhBvZWC30XQ4D5/oVKiS8uU/F67/pjJvqrk8/ldejKGbblFfufSWxj3R8yKjhFGiOxRFkenkV03cuwsi1Dy/O1TCIwS22EnzXWmxFojDvavd5+dUV3FH3OHkrDoQHTXNJ7p6iAxngunz+y8kvtfTPU08fCzfarikRCCDX+p2TNwloaibRXKDMoIf9+0jYtfPLpVET9R1OqqvxFORuC7xvPBWeu9Y2vlnvY2QbKh+B+SS2zw6vyESQbBrD1MdO8dxxAF7bFfBoP8ku32f5F/pvc13cPuVc39CqtfrVQPHbxZd18uKdf+9yvKC3k4SgKO7fehGQblQFk4=;8h+85AOMj3fMTndp4ceZ7Q=="
 ---
 

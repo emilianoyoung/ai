@@ -21,7 +21,7 @@ related:
   - title: "Capillary Technologies achieves AWS retail competency status"
     excerpt: "Boosting Innovation: Capillary has also used Amazon Rekognition to drive an effective customer engagement solution powered by smart IoT sensors deployed in the stores. The technology captures information about visitors such as how much time they spend in a ..."
     publishedDateTime: 2020-01-12T00:00:00Z
-    sourceUrl: https://www.zawya.com/mena/en/press-releases/story/Capillary_Technologies_achieves_AWS_retail_competency_status-ZAWYA20200112060923
+    sourceUrl: https://www.zawya.com/mena/en/press-releases/story/Capillary_Technologies_achieves_AWS_retail_competency_status-ZAWYA20200112060923/
     ampUrl: https://www.zawya.com/mena/en/story/amp/ZAWYA20200112060923/
     cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200112060923/
     type: article

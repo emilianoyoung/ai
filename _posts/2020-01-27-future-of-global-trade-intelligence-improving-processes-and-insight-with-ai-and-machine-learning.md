@@ -5,8 +5,8 @@ excerpt: "Artificial Intelligence has been called “the new oil” since it has
 publishedDateTime: 2020-01-27T15:38:00Z
 sourceUrl: https://www.logisticsmgmt.com/article/future_of_global_trade_intelligence_improving_processes_and_insight_with_ai
 type: article
-quality: 24
-heat: 24
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: https://www.logisticsmgmt.com/images/descartes_wp_global_trade_content_intelligence_121619-400px.jpg

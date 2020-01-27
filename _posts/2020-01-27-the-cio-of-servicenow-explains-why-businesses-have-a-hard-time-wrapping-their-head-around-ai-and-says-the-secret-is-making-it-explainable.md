@@ -26,6 +26,6 @@ images:
     height: 600
     title: "The CIO of ServiceNow explains why businesses have a hard time wrapping their head around AI, and says the secret is making it 'explainable'"
 
-secured: "MsmgeW+l0RTkjKicriRV+i71xQe76RPoa9fpQqHgesNqOry+GexMwtTLFkYACfKLA3WSxtCVm6l4Ux27PKmjMaQv1KTLKfxItNKfbY3nl2zte/UEmfDk5MfjyX/yoFBG36E/5ZqFy6WS0AGP3AFJ20eTBpOreLOP4uY6LS6eXtQYrgeRo1UfRh/XLS6zOMZBf6/gT3qJm8QHuFzoE0uspX8CEoCdYb3xJ6XNnF9vUGh+PGANLgiwUPT32QTe1F/ZM6ADrwHR1ZMZIyda7nijOzp+QDsGaDeLlVMjgywz3vcZpmnG0N1eb68OtpKj7vf8;Ddp5J7s4ZuDXo2WX5e/PLw=="
+secured: "FVJqRruLKSbHhyn+xLhN2WWkhUrr2VNCsm/9vAzzk4xVrz52IDXUTU0kjdDotQDEPL2HhduUt+TVToXKTIL0AfjwhqJKUssiqx18Uylo0NJvCI9P9eBtvaPh+ftpJ+1Ew2zxpMoKZt/Q4PeCBcEnP/wrLMOKtLhe3iIOSswM4qWd3xz7bWlEdRBGK9p2f3DmfIuAg7+gVcjJ+uALYFnTNscqrTI5h9lf98sav9IuaLL513eSI1NKknEaAlN+qf/8pHhA/A5YNzg69lTBHAiA1pnFDu/ta51SsxW6cjlumT/x4GgsrsyXOQlF5pf8oL12cu7uCAgzH3JfHQ8YIIdwMIjiEXUjC7nbcNHnzQUJA/8cDHOUI7gwnKbFc+YAPosTY+NMVQAvJftH6l0I0UO/nt6SbR6p+akfL20j4VseeJGqobEGN5Dmk6TI/iv49DaLdAkX84sJEs2Lcx7LDn/kMdwz8vqNCwc8QTOFB2uOdlw=;6byKf7JbAamUPmlZll8hsg=="
 ---
 

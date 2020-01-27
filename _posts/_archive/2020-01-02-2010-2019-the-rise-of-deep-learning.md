@@ -27,6 +27,6 @@ images:
     height: 417
     title: "2010 – 2019: The rise of deep learning"
 
-secured: "w9p9Pe0i0rOqARqoc/GJMfPdmaZStyMPhrMWW7Jr0beMIkLzT2VcCiH2PIrBL4nvudc4xFK1nfDmcJPDf7goBIxivO+KGTb+PNsLmzbyIwf83GhI34gDvQtPQArfZ3uciRLf88o+70dkUzGQcLtvzm61rCT17Dyib/j7EXA07Lgn3Tpr0zpIkvi6MY047Qzk/8AVUryP3W/A/uMqnjLSvzzhQTYASJ3M0yTUXFNnsz772Uy/mzQ8YWnToDXDEo9vtWy2dXG348U8fjtoAxy8RQLV4O8m3Ou3eNUsmgufN7VnD2i7MR7UioCOMRpSRHcj;Rjilasp7UYOTcuQiw4Ie3g=="
+secured: "4M46l9PaxF+5OfWVRp98JVqCnnUzlkJptyBjYBiDQrPbd9NRqfuY/m/RoV2Xtp2tR3vedosMSR4Rqa7vgvMglbRxJMeUYqdXrg96uSXNekLtVHhvvNU7+hmksJ0prZyKuA9rS21y4Opm3W/2jYEp51JPeCILwWW9DDTCym/ICm0bXYHbImkRDRq1pDqf/mq6qNoKr8JfLMCeb0NdJ99UHBrhJpSf3jVcmunIS3QlV0bkYSBacQqruze8UzCgVAh5zbWRCxB2kVq+ORtDPTclp0QcIvuBpKLomWk3mZDHjVm9FCUhjhMVHYiayrppvMEo;a5NotUpHZkOJCXI1PkgEQQ=="
 ---
 
