@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanabandoim/2020/01/24/mass-production-of-a
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanabandoim/2020/01/24/mass-production-of-a-self-driving-restaurant-robot-is-coming/amp/
 type: article
 quality: 74
-heat: 95
+heat: 94
 published: true
 
 provider:

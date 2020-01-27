@@ -8,7 +8,7 @@ ampUrl: https://www.wired.com/story/clearview-ai-scraping-web/amp
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/clearview-ai-scraping-web/amp
 type: article
 quality: 87
-heat: 139
+heat: 137
 published: true
 
 provider:

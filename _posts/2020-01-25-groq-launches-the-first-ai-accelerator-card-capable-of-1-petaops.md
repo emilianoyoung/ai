@@ -8,7 +8,7 @@ ampUrl: https://www.techspot.com/amp/news/83719-groq-launches-first-ai-accelerat
 cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83719-groq-launches-first-ai-accelerator-card-capable-1.html
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:
