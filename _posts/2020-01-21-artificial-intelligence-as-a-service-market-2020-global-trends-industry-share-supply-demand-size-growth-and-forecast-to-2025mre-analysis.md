@@ -206,6 +206,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 20
+  - title: "Deep Learning Market Size Worth US$ 56,427.2 Mn By 2026"
+    excerpt: "Acumen Research and Consulting, Recently Published Report titled “Deep Learning Market Size, Share, Growth, Sales, Trends and Forecast, 2019-2026”"
+    publishedDateTime: 2020-01-27T13:13:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2020/01/27/1975409/0/en/Deep-Learning-Market-Size-Worth-US-56-427-2-Mn-By-2026.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 19
 
 secured: "RfzLXSdPx+mh13fXGuWrbmjpujSzsW04bJJIO1Me+hkQfykEF5yw7U1R2a80JS9Efm/f1yRrJxVmRRpkMEWNJRWnCbgkSiWDjFvojH/UymwO2+YrJHmyPdrYNwj4+Rb0uqvGOK+I/6hPCbs18hXcdaO+pU4tfVDXXYKKCWTuqMVHo9dKdai9ZC61imBsIFTjbhGMfrwOgZG2gecHqHdfHrAd6vUQSh4wutD/VLr5TINj2nFNUPDmqth3h1UdF74HM6xEboM2XqfpVYDWffpFCoSlsz7NZ0nxN5ppAxCHFl0=;W+LCkO0j6U257St3iYZ7ew=="
 ---

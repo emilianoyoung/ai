@@ -57,6 +57,6 @@ related:
       domain: indiatimes.com
     quality: 39
 
-secured: "96/yujpPne4dBCfAdkSRYNiAAlugkwphTDnsU8Owlfm66CYobVFcASomvEnuwHBbVKHKwEkFim228aDaP8Vlz8/Je5DUD34LxliTMU2ifQJvHpUgzriD3C8wT2r6BeLuTrrfvbwmyvRdxmBb5n0v8tiK8vBKHHVw934fWsJln5fK9YoGI0elXkjn2xLSe35Z8ubqmRgG/fQeykUzPN7y20bvIUo858n1t2AVaSyBkrsZNqaig29XmdVi9k/8zT12CAma5GCcqI7gOXC3+LajCAZLKntVatxqdsb7x/UWsdOc7/1mSH7JFgIY/qo5Ad34;fj2/mXOwEzgqBYvGqtxlRw=="
+secured: "OacqPtxSSPChuawt2p4I4aIyOHQSUjs2LttQ3IaEJmdfNploWMZHxmd80voyEa2HxzIsF8T+PwueIj0AfbTZgCJz8kBz2eW34+11E00syZgDOAnPg6dqlkkLGFxqxO8MmqNK3Ou/NCsg+CSrfFXzmwtfl1/HPbkR31S9w04zhIv/PRPnKXJ3FPyqLQGNM7ogohcUurFZ17w6UvZFPGOHGsojCuGMQPXHoOUF+pEryhXkjSYPoIrD9+hCHvZ3KUb/q+oH9Qyvfr12URCI8sZ7VNlRYPPmS8GOdrZAaXBRG+KE0Bvo/45SGTZNA1y5JBUV;crN9gl7otzJbVE2Jr8NepA=="
 ---
 

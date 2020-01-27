@@ -27,7 +27,7 @@ images:
 
 related:
   - title: "AWS collaborates with Drone Federation to boost drone innovation in India"
-    excerpt: "Ltd. “With the breadth and depth of AWS Cloud services across industry-leading compute, storage, database, IoT, artificial intelligence, and machine learning, drone developers and operators can now test new ideas quickly, and accelerate innovation in the application development that better serve citizens and impact society positively.\""
+    excerpt: "Ltd. “With the breadth and depth of AWS Cloud services across industry-leading compute, storage, database, IoT, artificial intelligence, and machine learning, drone developers and operators can now test new ideas quickly, and accelerate innovation in the ..."
     publishedDateTime: 2020-01-06T13:56:00Z
     sourceUrl: https://www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india-11578317708207.html
     ampUrl: https://www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india/amp-11578317708207.html
@@ -55,6 +55,6 @@ related:
         width: 599
         height: 450
 
-secured: "gDA1Qfw9V6JNEFz99LHtdWURcd4k5zeKRQcQxs4nOPWW4XPHQ5dmbb+EVbIiue3a9/aLRwOJd/DffLRVIFoXWlTcNo9diviA7FdgksjuvFopPTy/UXgpBoAXKnSe01MfHODLaY6CvM2yD+9oLTcrW1zYDfdaZW13VIa73ISpdXAlkHLj3Lb4SoV8iRtZ6mI9u9g+cwd3uy8F7ra7h/uOgTvv3Kaiss54jLm7mut3n4S2RkB6J0I9gd1IB5lrVgQ+5raT0ujH+XjS45F/a8O2hLybkUQvmc1KKgrwrz1wYaV2eXdPrw4ZbDlHkld9S5jN;hfUuFeM0BhBtP7KChn9uhg=="
+secured: "/HsMCeP5EXsum+jVjK86zRdYnVtzohZQisjy6CleXdsGrzbhDZ13o0nGJCe9HjNQ+sgE7GEBsVuobJ94l3c3gOGPPUr6q1X+FaUhhaGKVNAcsGtD7KfvJRxSxsTAm0Ly+34/uTmKFGTAw5FQ6fncAi7uaFB/PflnEeoVCAwe/BIjFpRXVPx0+sCnS/EgiBdudtbzbUKSwuFIT5Lih0THSA4BEG6OCfuFs7MB3NVmRpiKCzW1Zs5Z1h55M0aSe7IIH37bjHcqdBN5E4Vr8b4yEEN+GTgBerqzcMfmhDKLREjrIVkcytf+iMHVX0coBm6Q;p4pEN2Oz11kR5pUIS8QnhA=="
 ---
 

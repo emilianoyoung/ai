@@ -194,6 +194,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 20
+  - title: "Deep Learning Market Size Worth US$ 56,427.2 Mn By 2026"
+    excerpt: "Acumen Research and Consulting, Recently Published Report titled “Deep Learning Market Size, Share, Growth, Sales, Trends and Forecast, 2019-2026”"
+    publishedDateTime: 2020-01-27T13:13:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2020/01/27/1975409/0/en/Deep-Learning-Market-Size-Worth-US-56-427-2-Mn-By-2026.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 19
   - title: "Artificial Intelligence as a Service Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
     excerpt: "New York, January 21, 2020: The global Artificial Intelligence as a Service market is segregated on the basis of Services as Cognitive Computing APIs, Custom Cognitive Computing APIs, and Conversational AI."
     publishedDateTime: 2020-01-21T04:15:00Z

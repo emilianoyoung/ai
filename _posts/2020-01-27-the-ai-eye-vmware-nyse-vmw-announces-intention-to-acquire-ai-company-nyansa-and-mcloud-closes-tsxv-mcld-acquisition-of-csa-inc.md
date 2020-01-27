@@ -1,33 +1,41 @@
 ---
 category: news
-title: "Varicent Software Acquires Augmented Intelligence Company Symon.AI"
-excerpt: "Varicent, the leading provider of next generation Sales Performance Management (SPM), today announced that it has acquired Symon.AI, a visionary technology platform built on sophisticated Natural Language and Machine Learning algorithms that provide easy to use,"
-publishedDateTime: 2020-01-21T16:05:00Z
-sourceUrl: https://www.marketwatch.com/press-release/varicent-software-acquires-augmented-intelligence-company-symonai-2020-01-21-12159517
+title: "The AI Eye: VMware (NYSE: VMW) Announces Intention to Acquire AI Company Nyansa and mCloud Closes (TSXV: MCLD) Acquisition of CSA, Inc."
+excerpt: "2019 Sees Record in AI Startup Funding with $26.6 Billion Research from CBInsights finds that 2019 was a record year for AI startups funding. According to the site, \"Over 4.3K AI startups in 80 countries have raised $83B since 2014\" and $26.6 billion went to startups in the space last year. An article on VentureBeat outlining the CBInsights ..."
+publishedDateTime: 2020-01-27T20:04:00Z
+sourceUrl: https://www.investorideas.com/news/2020/artificial-intelligence/01271AIEye-VMW-MCLD.asp
 type: article
-quality: 69
-heat: 109
-published: true
+quality: 5
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Investor ideas
+  domain: investorideas.com
 
 topics:
   - AI
-  - IBM AI
 
 images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
-    title: "Varicent Software Acquires Augmented Intelligence Company Symon.AI"
+  - url: https://www.investorideas.com/images/AI-Eye.jpg
+    width: 1280
+    height: 1206
+    title: "The AI Eye: VMware (NYSE: VMW) Announces Intention to Acquire AI Company Nyansa and mCloud Closes (TSXV: MCLD) Acquisition of CSA, Inc."
 
 related:
+  - title: "Varicent Software Acquires Augmented Intelligence Company Symon.AI"
+    excerpt: "Varicent, the leading provider of next generation Sales Performance Management (SPM), today announced that it has acquired Symon.AI, a visionary technology platform built on sophisticated Natural Language and Machine Learning algorithms that provide easy to use,"
+    publishedDateTime: 2020-01-21T16:05:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/varicent-software-acquires-augmented-intelligence-company-symonai-2020-01-21-12159517
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Open source web intelligence company opens office in U.S."
     excerpt: "Designed by intelligence experts with operational experience in the field, Cobwebs is a machine learning (ML) and artificial intelligence (AI) powered web intelligence and investigation platform with strong Natural Language Processing capabilities. It extracts targeted intelligence from Big Data and automatically generates intelligent insights."
     publishedDateTime: 2020-01-23T16:55:00Z
@@ -67,20 +75,7 @@ related:
       - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
         width: 252
         height: 335
-  - title: "The AI Eye: VMware (NYSE: VMW) Announces Intention to Acquire AI Company Nyansa and mCloud Closes (TSXV: MCLD) Acquisition of CSA, Inc."
-    excerpt: "2019 Sees Record in AI Startup Funding with $26.6 Billion Research from CBInsights finds that 2019 was a record year for AI startups funding. According to the site, \"Over 4.3K AI startups in 80 countries have raised $83B since 2014\" and $26.6 billion went to startups in the space last year. An article on VentureBeat outlining the CBInsights ..."
-    publishedDateTime: 2020-01-27T20:04:00Z
-    sourceUrl: https://www.investorideas.com/news/2020/artificial-intelligence/01271AIEye-VMW-MCLD.asp
-    type: article
-    provider:
-      name: Investor ideas
-      domain: investorideas.com
-    quality: 5
-    images:
-      - url: https://www.investorideas.com/images/AI-Eye.jpg
-        width: 1280
-        height: 1206
 
-secured: "wYZ/1IPpMA09BV8eabnZjuBEE0QD+LMXMb2O290+D6d2iqY2z4rvl3zloJh6QtAcCO8rkZ2j705GWqHsuf0zflx9dcozRdyqRaelqMnBcE1Dugk8xcglJkmsQijCsNOmqNL5d+RLOTNSbg4lD6f8rZ7Y18FxRD+3jXTuXKT9dWOIHX+ta4OdabDr+WGErTlTicGL9qaEXbuxwZcnJgOsGXLsbgYOeQFvV+1oxJ/kURkYaqHRccuEkp6QMcHvxybWxmLxy4R1SHma3M074kcjqqTjvHSH6ADSidUP5tbWfi4=;LZxzDssX+o4/x/E1dLxRMA=="
+secured: "k9igeVaZCDz6bnqfQhgZ4ZDxfcLf+qhv85mpBemJsxpQVVLBwDaZH2GB9cFZsU4SfewOoZIfFa1QJC2HMNrFuIoFGgveWTprGx4ITM+14PQQ95aOEMiHjF+jI+W2SbhdKwygHuzeAX6mUxm7T/90/jVHQQPtukkP6bTpn6FsaL1v4x/3/knuxYIQZ5hvXq2x0v3XgzaMYKFPRjYdtVQOxoZGFnmuwN0wGcKKl5Fgvxc3o161WIVSwvqQug2RRgoHDLKVVflF14BPjZtI2Im2XBu3yFWIJiL0rvScl2vLt7zmjdqRN+T7YO+Kc3y6LtX1;dwORI1pw1+vJRbtt65p57g=="
 ---
 

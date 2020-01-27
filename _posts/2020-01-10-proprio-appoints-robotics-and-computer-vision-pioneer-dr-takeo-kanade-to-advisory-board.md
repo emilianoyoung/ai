@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-10T04:09:00Z
 sourceUrl: https://www.goskagit.com/news/state/proprio-appoints-robotics-and-computer-vision-pioneer-dr-takeo-kanade/article_aa0397dd-0bf2-5c5a-848e-6e24fb198e88.html
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -25,16 +25,14 @@ images:
 
 related:
   - title: "Proprio Appoints Robotics and Computer Vision Pioneer Dr. Takeo Kanade to Advisory Board"
-    excerpt: "One of the world's foremost researchers in computer vision and robotics, Dr. Kanade is the U.A. and Helen Whitaker Professor of Computer Science and Robotics at Carnegie Mellon University ..."
-    publishedDateTime: 2020-01-09T17:08:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/proprio-appoints-robotics-and-computer-vision-pioneer-dr-takeo-kanade-to-advisory-board-1028807109
-    ampUrl: https://markets.businessinsider.com/amp/news/proprio-appoints-robotics-and-computer-vision-pioneer-dr-takeo-kanade-to-advisory-board-1028807109
-    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/proprio-appoints-robotics-and-computer-vision-pioneer-dr-takeo-kanade-to-advisory-board-1028807109
+    excerpt: "One of the world's foremost researchers in computer vision and robotics, Dr. Kanade is the U.A. and Helen Whitaker Professor of Computer Science and Robotics at Carnegie Mellon University, and a member of the National Academy of Engineering and the American Academy of Arts and Sciences. He joins Proprio's growing technical advisory board which ..."
+    publishedDateTime: 2020-01-09T16:00:00Z
+    sourceUrl: https://www.nbcrightnow.com/news/state/proprio-appoints-robotics-and-computer-vision-pioneer-dr-takeo-kanade/article_6554eeb4-1d29-5e6a-9af9-bd2d55d2930e.html
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
+      name: NBC Right Now
+      domain: nbcrightnow.com
+    quality: 10
 
 secured: "yEIHhgOnDj3jJhHOE3RrieYVqtfIAsl7/cMKJPoHfsvnzoVlKHMUyHPZSvp2Me1ndhr9MCwCIxXm1lBC3nbMOwP/MGVErUyEQ2CTYbZgLHKBpAwTQwuAvFCqDhzt3ZP1SAs+dHw2D/hHoijEtDLR7E5AFdQbfkGp2VsHamSW9tjkFxM4nO2vschDauqEjpXTAGPWjsOLUkRW/Etq8DHCTdTA24xPw4usZMS7P+6gly3dkVZI7ZRHpeq4NXJQZarxMSkPqjYSa86PFqO0txC8BtkG11wfHHte7fFzAyEDuvENx1rypB9WVk76oX0cSBdq;/FM2jSVG+4qyvpkE7U8iPA=="
 ---
