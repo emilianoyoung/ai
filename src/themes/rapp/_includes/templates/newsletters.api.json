@@ -18,7 +18,7 @@
             "excerpt": {{ newsletter.excerpt | strip_html | normalize_whitespace | strip | jsonify }},
             "publishedDateTime": {{ newsletter.publishedDateTime | jsonify }},
             "images": [
-                {% for image in issue.images -%}
+                {% for image in newsletter.images -%}
                 {
                     "width": {{ image.width | default: 0 }},
                     "height": {{ image.height | default: 0 }},
