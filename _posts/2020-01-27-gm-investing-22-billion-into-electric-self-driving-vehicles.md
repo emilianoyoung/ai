@@ -1,21 +1,29 @@
 ---
 category: news
-title: "Self-driving semi trucks may be coming to a highway near you"
-excerpt: "A self-driving vehicle company started testing autonomous long-haul trucks on Texas roads this week. Waymo, a subsidiary of Google’s parent company Alphabet Inc., will roll out the trucks on several highways,"
-publishedDateTime: 2020-01-25T01:38:00Z
-sourceUrl: https://www.kxan.com/traffic/self-driving-semi-trucks-may-be-coming-to-a-highway-near-you/
+title: "GM investing $2.2 billion into electric, self-driving vehicles"
+excerpt: "UNITED STATES (WSYR-TV) — General Motors is spending $2.2 billion to refurbish a Detroit factory so it can build electric and self-driving vehicles. The company hopes the new factory will bring in 2,000 jobs to the area. GM has said it plans to start building its first electric pickup truck late next year. The truck will be the first of ..."
+publishedDateTime: 2020-01-27T17:37:00Z
+sourceUrl: https://www.localsyr.com/news/national/gm-investing-2-2-billion-into-electric-self-driving-vehicles/
+ampUrl: https://www.localsyr.com/news/national/gm-investing-2-2-billion-into-electric-self-driving-vehicles/amp/
+cdnAmpUrl: https://www-localsyr-com.cdn.ampproject.org/c/s/www.localsyr.com/news/national/gm-investing-2-2-billion-into-electric-self-driving-vehicles/amp/
 type: article
-quality: 4
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: KXAN
-  domain: kxan.com
+  name: LocalSYR
+  domain: localsyr.com
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: https://www.localsyr.com/wp-content/uploads/sites/63/2020/01/generalmotors.jpg?w=1280&h=720&crop=1
+    width: 1280
+    height: 720
+    title: "GM investing $2.2 billion into electric, self-driving vehicles"
 
 related:
   - title: "Waymo self-driving vans and trucks coming to New Mexico and Texas"
@@ -147,21 +155,6 @@ related:
       - url: https://media.bizj.us/view/img/11586802/waymo-truck-3*600xx6000-4000-0-0.png
         width: 600
         height: 400
-  - title: "GM investing $2.2 billion into electric, self-driving vehicles"
-    excerpt: "UNITED STATES (WSYR-TV) — General Motors is spending $2.2 billion to refurbish a Detroit factory so it can build electric and self-driving vehicles. The company hopes the new factory will bring in 2,000 jobs to the area. GM has said it plans to start building its first electric pickup truck late next year. The truck will be the first of ..."
-    publishedDateTime: 2020-01-27T17:37:00Z
-    sourceUrl: https://www.localsyr.com/news/national/gm-investing-2-2-billion-into-electric-self-driving-vehicles/
-    ampUrl: https://www.localsyr.com/news/national/gm-investing-2-2-billion-into-electric-self-driving-vehicles/amp/
-    cdnAmpUrl: https://www-localsyr-com.cdn.ampproject.org/c/s/www.localsyr.com/news/national/gm-investing-2-2-billion-into-electric-self-driving-vehicles/amp/
-    type: article
-    provider:
-      name: LocalSYR
-      domain: localsyr.com
-    quality: 44
-    images:
-      - url: https://www.localsyr.com/wp-content/uploads/sites/63/2020/01/generalmotors.jpg?w=1280&h=720&crop=1
-        width: 1280
-        height: 720
   - title: "Waymo Self-driving Minivans Take To More US Roads"
     excerpt: "Alphabet's self-driving vehicle unit Waymo is expanding testing to more regions of the United States to explore \"new transportation solutions.\" Waymo Chrysler Pacifica minivans and long-haul trucks will take to roads in the US states of Texas and New Mexico this week,"
     publishedDateTime: 2020-01-23T18:35:00Z
@@ -225,6 +218,15 @@ related:
       - url: https://cdn.autoconnectedcar.com/wp-content/uploads/2019/06/volvo-uber_self-diriving800x534-c.jpg
         width: 700
         height: 467
+  - title: "Self-driving semi trucks may be coming to a highway near you"
+    excerpt: "A self-driving vehicle company started testing autonomous long-haul trucks on Texas roads this week. Waymo, a subsidiary of Google’s parent company Alphabet Inc., will roll out the trucks on several highways,"
+    publishedDateTime: 2020-01-25T01:38:00Z
+    sourceUrl: https://www.kxan.com/traffic/self-driving-semi-trucks-may-be-coming-to-a-highway-near-you/
+    type: article
+    provider:
+      name: KXAN
+      domain: kxan.com
+    quality: 4
   - title: "GM is revitalizing a factory that was on the brink of closing to build a new generation of electric and self-driving vehicles (GM)"
     excerpt: "GM will invest $3 billion into its Detroit-Hamtramck plant in order to build electric and self-driving vehicles. The factory had previously been \"unallocated\" as GM shifted from sedan production to pickups and SUVs. The company said that Detroit-Hamtramck could provide 2,200 \"good paying\" manufacturing jobs when running full speed. GM aims to ..."
     publishedDateTime: 2020-01-27T13:15:00Z
@@ -235,6 +237,6 @@ related:
       domain: businessinsider.com
     quality: 4
 
-secured: "s9STGBqwecducnCFKAF07l/KxVOspkIqW5xXbk5Tyz+xd2T5ocBjLbpXwtelCZGaKcCLkHnv8zgPpftLDHa6F4UWblCGPltXfcBwBzBagenAY+jNrWItHhOHsCxsL1523+G6rm0E3J7TKk8L+woZR2P6oH5HbxxBvvTatiXeT4wHiwTGcgOe8MnHGKFoy+nRCtrgP6oUkwS2nLkuhjSb7v/ltTeAXM9Msvadtm2Y7R5PlXeNmi7mh+iWd+POEHGQq7ezmOw0vHZfIJavrx/hk9hwMW4wyLWX8fu/IASc56aS5oenGGIqqpY7Zz0oHx5zSQzf6/1Bn/6KJ3aTVVdgHQFGYX1W3dqwfYWHBRVcKXXDhMBKH8DCOGqd0QyfgpFjx1PktH128JHv4g6gJAIgvy6Z1s43ELomBSUK3v5dDMJY13/RIVsBrS6/LFHlfiBmHw+5+g8pTI5kA4FKLc2EoMsHA6q2mNDtMnwAnLQ9cvM=;tlvu35ssXJQi9V7nOL1gMg=="
+secured: "nd9+TxgJQSWM1kwkPBgIovXAroAs5AIIFmvZ5aC5k/tsYJipU4pUihIlxQnfVSVNHtzDRAjebt8PHNuZqmJhoXada3yXLdaxOpIGBcWjiHZjk6UWzUGc5Yps8KN0qCOP6EQKUm8MLfu4lxwlFT9xitAef6nk4wKTFWXElut4UoOv6NkBs1tRYOK5HTpYRr4YR9RvK5BisdQ+i0Eossv92R+D6AKJRVRDcm9rdIrzSdDDTzkr7kO05Tk0NGnrIPsh1MdUtAU9t1ZSiQ7zPuSgESb1NvUVB3cX7HgleK7GlRdvtp+nHxKAS7Vy/2XHJ7zv;9akVI/zrOrLc587NjbtSeA=="
 ---
 

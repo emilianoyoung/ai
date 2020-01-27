@@ -153,6 +153,21 @@ related:
       - url: https://media.bizj.us/view/img/11586802/waymo-truck-3*600xx6000-4000-0-0.png
         width: 600
         height: 400
+  - title: "GM investing $2.2 billion into electric, self-driving vehicles"
+    excerpt: "UNITED STATES (WSYR-TV) — General Motors is spending $2.2 billion to refurbish a Detroit factory so it can build electric and self-driving vehicles. The company hopes the new factory will bring in 2,000 jobs to the area. GM has said it plans to start building its first electric pickup truck late next year. The truck will be the first of ..."
+    publishedDateTime: 2020-01-27T17:37:00Z
+    sourceUrl: https://www.localsyr.com/news/national/gm-investing-2-2-billion-into-electric-self-driving-vehicles/
+    ampUrl: https://www.localsyr.com/news/national/gm-investing-2-2-billion-into-electric-self-driving-vehicles/amp/
+    cdnAmpUrl: https://www-localsyr-com.cdn.ampproject.org/c/s/www.localsyr.com/news/national/gm-investing-2-2-billion-into-electric-self-driving-vehicles/amp/
+    type: article
+    provider:
+      name: LocalSYR
+      domain: localsyr.com
+    quality: 44
+    images:
+      - url: https://www.localsyr.com/wp-content/uploads/sites/63/2020/01/generalmotors.jpg?w=1280&h=720&crop=1
+        width: 1280
+        height: 720
   - title: "Self-Driving Cars and Trucks Market Analysis by Key Players, End Users, Application and CAGR Value Forecast to 2029"
     excerpt: "A recent market research analysis titled, Self-Driving Cars and Trucks Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Self-Driving Cars and Trucks market covering industry surroundings,"
     publishedDateTime: 2020-01-22T10:46:00Z

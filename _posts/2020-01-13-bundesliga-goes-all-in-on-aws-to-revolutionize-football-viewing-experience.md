@@ -1,17 +1,17 @@
 ---
 category: news
 title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
-excerpt: "Using other AWS ML services, including Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific frames, from its more than 150,000 hours of video ..."
-publishedDateTime: 2020-01-13T12:00:00Z
-sourceUrl: https://markets.ft.com/data/announce/detail?dockey=600-202001130700BIZWIRE_USPRX____BW5382-1
+excerpt: "Using other AWS ML services, including Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific ..."
+publishedDateTime: 2020-01-13T13:28:00Z
+sourceUrl: https://www.oaoa.com/news/business/article_bff64e43-c5a2-5acc-8ac2-6ada0e8d7d11.html
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: markets.ft.com
-  domain: ft.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - AI
@@ -47,6 +47,6 @@ related:
         width: 600
         height: 378
 
-secured: "Sfu5k6UPgO3cGDluei88fNPJcHyrRbwWyrnwoq0Yl2u2iSl3BYdlJLOpDboYNuwcXF+ep4dfJ5chcpRIzKdWq1cY1c0gHuYW+FefY0OktZLp/jhvldPu4boqaNRb+wYXuxy712ArrM7R2lCbPnPSxchXxxBvLEbbOzizRF5y/Lqu3vO3QxtYnAZaYJGMcVxpdYhkEduFrFhrAKaKcSw+GXqWFnaTTg6p4ycRj70dCOdjF9K8rkKkpoRlE2ltJAC+xQP8M3RB8B6qgEPJD+BoRPJ3GzbqPTpF8GicngTdzYYAsjigZ+3N+5RUJ9Yf8uI6;DIVObM3LW8HRglhGF+8k0A=="
+secured: "mAzgUS9eOXRHii8Qbz3MCV0xWPuC95K0v28zxwXLHXn3S+QJQOcaBsAuQV89FoYss2LhrjI7v8KGixm7Mc7GRMJrRNF/Cv2seaHDtbzcWiAoPt1Y2R3WkYo2tpcinIj1Jdm0+ndyHmeOTqJnwWzvtpRU9XXlsJT51ezE/ZBHo40gXsRm0mPxzHF+auUMko2/D0gmrgq41yhMVobG8WeHtv4J+OUG/UqVdypvDY47SV4lgKk+OoVRh915nJzHEPSSQu8lAiPCRtfDgSMWY7S8cWPg1+zx3zN8E1Imb3ykGP1vThULf8t4gnACvYw/I/PK;CzyWL9hCcCx5I+T5FDzDaQ=="
 ---
 

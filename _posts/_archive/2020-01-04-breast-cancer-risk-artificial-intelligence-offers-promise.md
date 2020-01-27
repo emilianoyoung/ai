@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-04T22:40:00Z
 sourceUrl: https://medium.com/swlh/breast-cancer-risk-artificial-intelligence-offers-promise-7c9a8e4a379
 type: article
 quality: 69
-heat: 79
+heat: 69
 published: true
 
 provider:
@@ -27,23 +27,6 @@ images:
     height: 1599
     title: "Breast Cancer Risk: Artificial Intelligence Offers Promise"
 
-related:
-  - title: "AI could monitor breast cancer"
-    excerpt: "The application of Artificial Intelligence (AI ... and improve the management decisions on whether or not to administer therapy, perform a surgical intervention, etc. Overall, then, this ..."
-    publishedDateTime: 2020-01-01T00:42:00Z
-    sourceUrl: https://www.newindianexpress.com/cities/chennai/2020/jan/01/ai-could-monitor-breast-cancer-2083318.html
-    ampUrl: https://www.newindianexpress.com/cities/chennai/2020/jan/01/ai-could-monitor-breast-cancer-2083318.amp
-    cdnAmpUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/chennai/2020/jan/01/ai-could-monitor-breast-cancer-2083318.amp
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 59
-    images:
-      - url: https://images.newindianexpress.com/uploads/user/imagelibrary/2019/12/31/w600X390/AI_could_monitor.jpg
-        width: 600
-        height: 390
-
-secured: "C02Tqif0k9pHz2JdbFy/O3DD/16eT+SCZNkznsWVsasiXskP3hlW1UiPF+GKgcMjVHsl+gNYtsMTyKrELK9nbs3OtacW6w18vT0rLyVOBnuf42rRAE/6JK9JywElfrTPDFa4QhDeCZtcKvBbKGBXe2SvenzttPYVZN5c+xspvtvtlyysMtcEjQKIk4wXuZ8ZTPFmmEALJwcWz5qiKehvNNREidNif2RwmlQeUFN1vS/VpV2aCSrA7/JnQndJkQc5Mc4BzpnNWuOVIgGWZVjPTXAOjNgo6u9O/bh0Xnkz8AjTr+wWDNw7htuozl6/GjmS;Xd9Zf5NoFCq2ZFBcuLDmOw=="
+secured: "WpNFvNe+3NfGCy6k1DmCMLbqZuVtJrBWYxsAYuo4cu12ZTahxebA3G3qqSmnx7uZ9ExNHKJF/u17TBL6IDJW1auquvspI43N3ZBLlq00klsur1ikVEs30zu1lUm//rAADcq4cPNdQjF8kjSVZyMuoiGD3TDjoaN3va/tI7O0+szZRWg0tDxYfapJWGGFFaS75RpjS1R5zIxe+RJJVgrv6TlcNypxgr1OqFZ5F9YG53jXroq0rsKNxff1j3GhHxsyzW1A1YrSnGnVMaMG9GQlXSY05Ucon9lNKo0g+AC2dqp678XEhjqqIYVFd2984eaE;28asccVHZzWoIrRASzHPQA=="
 ---
 

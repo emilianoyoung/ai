@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/24/amazons-ai-automatically-dubs-videos-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/24/amazons-ai-automatically-dubs-videos-into-other-languages/amp/
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

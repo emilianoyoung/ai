@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Investing in AI: A Beginner's Guide"
-excerpt: "Advances in AI features should help improve the value of Microsoft's Azure-based services. As such, it's already established itself as an important role in the self-driving car space. NVIDIA's chips are also playing a big role in current applications of AI within the healthcare space, with the company partnered with General Electric to provide ..."
+excerpt: "Machine learning revolves around accumulating data that can be fed into an algorithm in ... Amazon has a bright future in artificial intelligence. The Azure platform trails behind Amazon Web Services in terms of market share, but Microsoft still enjoys a favorable position in data centers and cloud computing. Additionally, its leadership ..."
 publishedDateTime: 2020-01-24T19:00:00Z
 sourceUrl: https://www.fool.com/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 ampUrl: https://www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 type: article
-quality: 89
-heat: 109
+quality: 91
+heat: 111
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
   - AI Hardware
 
 images:
@@ -59,6 +60,6 @@ related:
         width: 1200
         height: 675
 
-secured: "fMKRUa+eCvXuGbr1rb1csrDkb5Sm7zoQjzLTkZnDKUbyHdtVqtBRTAb0eYqLm/DPS3OUEjUpLK12d6vL+fi9GE+jf5gbX8daop4Fm6NiehsBouf4809mHEAWUUhIEOPheha5EFarmrytyVSKJhJXy9VUealQKv6zew+YqPtTLcDkbrQ82EkVZmpI2MPY6Y4G3xCUeWEPSZMxRsdhwDqFHFfEw/HAcx7tSxpGKCy+4bLeZUUd9f+pxDXRAgpq41q+tlBo136DZ/z9LG8OyJysHpY+DZ3fPpvH3qtwYdAB9vqJZ7CTE+K+tQYyYVVTVlew;/OxFAiOA1+RLdz3RjzIhZg=="
+secured: "OcrN1b1mUHFFLG1YXsWpAzfT/TIVcT3ox8vLe8QRoWMsnAy5CBpKkQ3i781xM3QqgVY9ZrIZSSPvpouKlfY30q0cLhFf7JMnLldbHm7umDL/2XZBykr+MvLrlQrku0wrRLlpwBj19/ZqoHvklSrZl1GGt883K46pzpvLfuCF2NwnuFGPeo6tuCyegp6YTSgT40wBWGDVH5xnUtvOp2jWHbxAM4QtUoNBGg0gRVQdqhC4w5mMdc4KGoDvhGKELvRoXyDIYC5eIR2/hk+jcMWpasMulQC++IpRdSbqRYAFtrcmfo/AuLZ0B3bejTKumEOk;CzAejHhsq5LwpXKE+QWglg=="
 ---
 

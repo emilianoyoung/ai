@@ -8,7 +8,7 @@ ampUrl: https://www.gpsworld.com/ole-miss-students-get-meals-delivered-by-robots
 cdnAmpUrl: https://www-gpsworld-com.cdn.ampproject.org/c/s/www.gpsworld.com/ole-miss-students-get-meals-delivered-by-robots/amp/
 type: article
 quality: 59
-heat: 89
+heat: 92
 published: true
 
 provider:
@@ -62,6 +62,6 @@ related:
       domain: djournal.com
     quality: 19
 
-secured: "dTgSaKtrLwJO+p6ZNJaZT+kLVVSFa2D3iQauWPpgYVuSxeBQcuzNR9N7iunl8cBKkha20dyS9pS42m9ec11hedoWxGCvvooZ2bvT8b3AKHh9q3OAB6muTd5D1HHyTDD6u5zwiJk/tvvNY6ghNGIPoknyblGZrRNfU/ZgvFQfOT+UX51TH3z52HaZrEanRW6FKLAbEBArCpu8JJCOxJ2O1yuPgORhFooNzOJ0mmpuUkBoLMUETkOfbpCtRG03fnw3sWwy62hrJCyzEfg/hM1fZyVEkeYpaJ7Vu3xKgnBznHPtkEuakCipDtjw6a4cJMB6;J1OVuW2FbGTvzpbYTqdXpQ=="
+secured: "d8cn39I49bDPkj1trRn9OwSuCBj4Yfphh4b6M7IcFaf2MuqaceFgreS5AZxmUZJo+YKd8TJ6PvGAqs2/KdpnSdkyJhAoV1d3gYcCJDvrk+sZbouxMtpiex34IjshlCBp+pAZWa4DKoT0CbAuPkdIocj+qfQpgMAQNUJRZoI4aso5hyzydGx2LBlsYJcYSPMnYa38U2ITtqOkYJs/VbpV9XOClkgMS7bA8thXmSdqJQYOGxUzbOXpmso6XhpMSKuAulBVxeYsSUbv/myzAbFiqnkw/UrRkdn78Jnlm7ndgKYoTN51MbTrcEKBPriRvAxAR5iBEya4zoGnfCk0hX31UcZwLmjeQ2CtVQfj+bkGeYGDkTAYN/i6eSZeTFPXujbwvtIPX/S9G26uwzo5FWxW5ura4gCJCh5bdz2YYs8/F5IeLGcx6fm22U/plgOiYldPlDLCHAw1aylQA5BCt165t4lr7lxHP+wYFsfp9WK4/X8=;O7q0KzZ1tRgz56eZXuLIxw=="
 ---
 

@@ -29,6 +29,6 @@ images:
     height: 640
     title: "Artificial Neural Networks For Blockchain: A Primer"
 
-secured: "w8dcTGqFkufbzXU504GL9gSDsoIkfpK/aXSnVOgV1Lqlr8HUsDTuYZv2ZnSR2UOAA2+ctYTmde62yXqROY6CnRaBLKOkWBY+TgdFDojDRM0es9tAvPj5noAyrWBx0A7B3PJ3PBeKvFhfOMW/4mFTVgIDNO3JtcbrZ7Aueo+BTjcfwwRL6C4H6cLJ81oOzj87xFFK8IyqTfhAlIJXuUKpsmZ0qBPGgAwxHm/F1L3ssf+X16AHEdrTvF9H4Hc5GufZpg+tl30MsP1vjnNi8EB1K9Q+hpr3sBw9V0M4sd57xCgipDLkKykypvaGeMigYm2A;fmbqdp3XsUUDqstdwJnRgA=="
+secured: "LDos8vn06VNWsyKbpkI3nWAm2PBMOVvenSTzykQmWlHMchOuBS1K79p1ypLFymgLqHW+7MQ8WFjg2eo4qzdXH/79lOf7WySoy6Yl5/rzqO6te+qFBS7ktoEuotrasMik3dUu40b19/sspr9jb/sihDl+H26KK/aZXMYywVZcPhzLpRDiswpjQqN/aiXn4zh0BonYFTaLUXnplRJZEViG+ppsVcKtt/JkNr+0grujo5f6QXgnNUlbYHs2GXS38nR5hfnIG9z672k84+uwbYeJrUvYlqIWEFfhzfkjhQpVRvhsZ/XbSQIkWh/Vm5bO5CEg;Swnj+VPTKSOMBloYgdVtkA=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/apple-self-driving-car-system-voice
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-self-driving-car-system-voice-gesture-guidance/
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:
@@ -46,6 +46,6 @@ related:
         width: 640
         height: 481
 
-secured: "E0jXwFWn07l37QkxHVRP8YGv1v3HxEkgsfPh4roEBbFP93p107On9TbvxHBfoxC//4PPmGqNbP2W5K1pNc/f9vsMwgFN9o9J+HNOtr1m3aS32TCITjyI8j6D0/zbKETZLltlf0DPyF4HJdhqEekuaToh/6ycUUvSVfbW1mmtjq1RtJ5sAMrJIZuUXWEoVRcbf+ZYKdm16x3f1wALPHQ1VT4b4YWyK3Ej7Poz0BpZlYQgExqgrdpc5KaQEzAAVVMApOQSsBUtG7LdGAZ46PhJ/84SQBAuplGZHseuHWzU6WS8xOrZd65o+G1slwykeJSAg7LcTcuRRhUZNleS6IqBQZeM2hxVkSgAW+bIP9ZlXh72FBGPfRCCKrrCbLtN3a4VIaEicMD+7BsIwy4OOGBe1OXH6QwEJDkwIadKkSFd+33vN4i6/ikU2tNmn5LfBI/mTNHujiBDz9dq3Q9SRpnOhTSTG1JDU6d8RkO44lx3aBk=;RfZ/zMXb529JZwopqDx3Ew=="
+secured: "8hikhjnrgDzae4Qz4DsmoqenQ8i6U8nbEpSewTcNJXIFqRrrYytulpN/H2ixz905vV/pwFYC2l2Sz65t9DtVo+hwtV8OMvObHf5jU9ap6pOewXXAGfwSX23N/JnzAmucFwrFLDhSul0U0/1m+D5Es2tBFaQK3pSztL6obi8yliudjKIo84LRl3UjIPVo6NUlG/HGRnMrDpSqCw1t7RrY9/WvsJsT5aW+v57ftZFhH+wEK01l0kXiyN5E7d8co4j3rXs4YTPE7UwazqX+19mEke3+5E1bxCwdtqqlz4zDPSN/g5UJjaVAx080e66qVUXlo3x5/+hhKcfGAAMIAwVzmewqnAtToGTr8bd9ZKwoPVeZ+iBbU8RG1FsIiWh/sfJ6WeY7dA3rccNG8b+nsNO0KlRmsSfvHcadkQ6eOy3IyG1ttWOOs+4th1rtl1d6bTGR0CsJjnAyl0M1+LXZ3uv+ytofuSY4czoSq4jv7E/irEM=;6E+FRSQzNs1rDpYEUCPK4Q=="
 ---
 
