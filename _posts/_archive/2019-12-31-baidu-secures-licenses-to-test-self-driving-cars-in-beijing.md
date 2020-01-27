@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-d
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Baidu secures licenses to test self-driving cars in Beijing"
 
 related:
-  - title: "CES trade show to spotlight big tech trends in 5G, self-driving cars, 8K TVs and more"
-    excerpt: "Gigantic consumer electronics show in Las Vegas features about 40 San Diego companies showing off their latest technologies."
-    publishedDateTime: 2020-01-06T14:06:00Z
-    sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more
-    ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
-    cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 37
-    images:
-      - url: https://ca-times.brightspotcdn.com/dims4/default/3de7005/2147483647/strip/true/crop/3024x1975+0+146/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb6%2F73%2Fcfca9b914994bd002b870005233e%2Fwd.jpg
-        width: 320
-        height: 209
   - title: "Qualcomm pushes into self-driving cars with Snapdragon Ride Platform"
     excerpt: "Semiconductor maker Qualcomm Inc. is making a play for the automotive sector with the launch of its first self-driving car ... including the artificial intelligence software needed to avoid ..."
     publishedDateTime: 2020-01-07T02:02:00Z
@@ -68,6 +53,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "wIo1bLxEpRpQUFeNe5Y6keNFkRkMtGSFGexQIJgSPKzw4tJTzMpCVdpW4MW8o578nM3LGs2IuDG/W7sFCbKgLZDqR85ikNduAA4kH/p5hzvShLXZ2ansDGAJ5VHaSnRqyyvCYcrHzJ+lLEsWpfgZHxNXHuyxEMgwHkMNIHHKkBU05VY14b9FmvjSyn+FCrqLp30FO+ioxE6Cvo2SV77M2TDZzj/5AAUmO6n4r3kJd3783qhGaEdy5MOOCWLH6rxJjlOdXWP9VFPZn/leVw4eHXUrg48prg9wgs0EDlRL3OT0rQkSZX3eOX9nV+CUq1/R;h7GOzDQrM2ydARldCu+ugQ=="
+secured: "yNtHDC6Q22qK+ZawdmO1paKl6awYjm91JDSCiyRwCHzK9CJXDEMdcYiQFT3IWKZO5+pxIOYX6ELJGupJ6E8mCA7xyrck4NepnDseLeIesGCCrbabOKYea4Lav2IwOC5mSwdicO2HM83NfgYk/Eew960vUkZBI9gNxkE/XDpN0qk1+pLFvRZlOlWJqKmITU3vuXDkhUFSAGaSPQ5+TyCNGOC20vFyV+G10Dwt4m6AR5To9cFAACd5TBxIVqcZiM0OW4nV75JmFwk1zIeUJTlouBSqWkX9ambcFqda+yHSWQNbzN3IhawivSwYNqC7V/JZ;qsisYlFo0sA4zYdQwGbg1w=="
 ---
 

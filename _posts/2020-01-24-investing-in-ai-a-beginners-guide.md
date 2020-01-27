@@ -21,7 +21,7 @@ provider:
 
 topics:
   - AI
-  - AI Hardware
+  - Microsoft AI
 
 images:
   - url: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F484858%2Fgettyimages-851955936.jpg&w=700&op=resize
@@ -44,6 +44,6 @@ related:
         width: 630
         height: 500
 
-secured: "CWo4V1S5e9gXzDSkLwPBnCW6Rnl8tqYLm1qQC4dRZ0539mtRMawgrHBiOmhFJInUhBAhRkQHxIlPcsuE/OG20vobhBVbQrcdV44IJyDMe59Hj32Vxm9P4ZlihEyjpjJGtXAacfkl+yADdxennYgCMjjGXB+E6nPYlAVbH/qcFKzsGgNzBn4GMSSBJMgnmkszUOSNOlpPUf5gqDuEPKwb2908JNUVkgq/MPx0jJEfWckidHEjAVwFfYju1RLXvBjZ7dA7JyP1WTlpbfGaxGUScZRA/WnRFud16cAqOxh+2zfPEq1JQhH4VcRI4H1aOtpJ;k44ehqCP7SBo5t1mocJuNQ=="
+secured: "mSTPRknmGQp/DsBBBqjWE2Akp3Pf54w2A08HKMZNcGDGZqz3CgvRFwNQru+1TlP4Y/ex0eJLxn05aQC/SNI4mw8SGyonxJtJCwQmeUmluNB2kb/ibVYHHq6pccHSWDF6WCw2JTv+j13HlO+WSMzmmcCdnbSgUCa1caBKKkvqzoCAbmffW/Z2849wBKkxT8ASG4/l0P0w+stTgTYDoj+I81OWADxr79LphHQOlVbCERfND8gm3iBVlsdpmoi0aCyr0MshWftKF1hL2IXCLtvZ8kgfeebuNNxfadVno0uSN8iXf0Rc8LlJjuv+Q+21H8Wg;ta1OuA+ax8gcW/LgeEGQrQ=="
 ---
 
