@@ -54,6 +54,19 @@ related:
       - url: https://s.hdnux.com/photos/01/10/11/73/18915015/7/375x250.jpg
         width: 375
         height: 249
+  - title: "GM will invest $3B to scale production of electric, self-driving vehicles"
+    excerpt: "General Motors Co. said today that it will spend $3 billion to retool one of its main Michigan auto plants for the production of electric and self-driving vehicles. The lion’s share of the planned investment, $2.2 billion, will go directly into facility upgrades. GM said that it will bring in new “machines, conveyors, controls and tooling ..."
+    publishedDateTime: 2020-01-27T17:55:00Z
+    sourceUrl: https://siliconangle.com/2020/01/27/gm-will-invest-3b-scale-production-electric-self-driving-vehicles/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 23
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/cruise-1.png
+        width: 718
+        height: 400
 
 secured: "iMLgumH6av33MrzW8y6bljTtuFIEky9AQizeFChYeDlJEOR82tdPtHnVJB5Lt/ROvFTsu04yw+LePk56Vi29KW+hRw5eIVsOyrZnTBrxEIVHR4RL1XKKzLTna0kcEo/OAHpfGKVFoDWD/YeZizcfpWj9BreXwHQoZ+fymfiZsKnDT5TTAqSnXe8jC1BxDXgfifHQ7gJLAbWimabufC1jO6g5S7J69RLgtx+S3InQN7sibRngmHL+J5UsCf0e+30qhuWymgc5vrw1t72zcohSuPGdf1SYUJBowJju3UrocNhE67cVd0DzmsttzWpKd54WRd8ZSMHn/VQrtmmJhGNCEkBtSYU8W0hRv2v6Qo0qeV4qrBXVZefj/CF1WAh7Gd9vbfyo5nCd1ZreBno+X5nBIxwUzjwA1PczCZS2WY0ZomQGgEOaa5sMc7SXBEbRy0DTK3VMHyXF2364m3vFSQahItkeQUsnznXbptcObidy5P4=;rqgRtuXZBpYFSsDKJHOUmQ=="
 ---

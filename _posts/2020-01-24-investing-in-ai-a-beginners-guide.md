@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Investing in AI: A Beginner's Guide"
-excerpt: "Advances in AI features should help improve the value of Microsoft's Azure-based services. As such, it's already established itself as an important role in the self-driving car space. NVIDIA's chips are also playing a big role in current applications of AI within the healthcare space, with the company partnered with General Electric to provide ..."
-publishedDateTime: 2020-01-24T19:00:00Z
-sourceUrl: https://www.fool.com/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
-ampUrl: https://www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
-cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
+excerpt: "The rise of artificial intelligence has the potential to be one of the most significant developments in human history. Today's machines are already getting better at interpreting data, recognizing patterns,"
+publishedDateTime: 2020-01-24T15:00:00Z
+sourceUrl: https://www.nasdaq.com/articles/investing-in-ai%3A-a-beginners-guide-2020-01-24
+ampUrl: https://www.nasdaq.com/articles/investing-in-ai%3A-a-beginners-guide-2020-01-24?amp
+cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/investing-in-ai%3A-a-beginners-guide-2020-01-24?amp
 type: article
 quality: 89
 heat: 109
 published: true
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: /assets/images/organizations/fool.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
-  - AI Hardware
+  - IBM AI
 
 images:
-  - url: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F484858%2Fgettyimages-851955936.jpg&w=700&op=resize
+  - url: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F484858%2Fgettyimages-851955936.jpg&w=700
     width: 700
     height: 466
     title: "Investing in AI: A Beginner's Guide"
@@ -59,6 +55,6 @@ related:
         width: 1200
         height: 675
 
-secured: "t+oqu6IltcuWnX6LgPW6GFrTqYFhwU4chn6sCKJI3ZEyI9V8oTSWBdqcsOzFSaLwEtSNf6UZJbATE6gB43qFLNGzUwt/TznBeROac2jkSiFNlc1Umt8h+177+RpD5Bk8Vk1F0luAVnb8moOgf1z2un+JVa08yktZPEnipjElF/b3VfIy8JaYFOaS1nq464DQv45tFHkHkc32x1k8J0RwxWUsDg75tmJ/oWRTorQEhFvIN38ZwrB91ebveHTFXCYxu5OPvINR8WnJ7JwL9vSCzCwOezFtrNfoieO1jhDQek+teyvdHpJCawm94ez/nxP9;3mAQ1m1hWXYInL4hoB5BZw=="
+secured: "SAxlkqOzBGYZB90x4fQwXQDH80ZTsBLrKGvNoaxTqhid0tJ9QUxMgFFS4nl3ukPaDkZzWyHXHkVTfo/cpDqxcKfEXbsNKNQfDMUbtbLcMUvxJsYhVqLu26aUOSBek+tAqQCdHvCwa/U/uxQItLlfJRpBwkd4gDr4nCLYi//uz2bhY5b2mp2jmIiigRWX4glIKOhzAtTBhUzi7xY2B8ta8tzaeQ34SSu+IEjeh7xf6bXo2+hlAZAEJWSxP8MHc4y4yAYOCnLcW/RchqcvS1DayekGpQMwTYAoGQjO98x9sVY6hqkV0JFfc4sROn1ff99V;EZoS1Wu2r+6ZpQUkC39OZQ=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.slashgear.com/waymo-self-driving-vans-and-trucks-coming-to-n
 cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/waymo-self-driving-vans-and-trucks-coming-to-new-mexico-and-texas-23607495/amp/
 type: article
 quality: 89
-heat: 229
+heat: 239
 published: true
 
 provider:
@@ -215,6 +215,15 @@ related:
     provider:
       name: KXAN
       domain: kxan.com
+    quality: 4
+  - title: "GM is revitalizing a factory that was on the brink of closing to build a new generation of electric and self-driving vehicles (GM)"
+    excerpt: "GM will invest $3 billion into its Detroit-Hamtramck plant in order to build electric and self-driving vehicles. The factory had previously been \"unallocated\" as GM shifted from sedan production to pickups and SUVs. The company said that Detroit-Hamtramck could provide 2,200 \"good paying\" manufacturing jobs when running full speed. GM aims to ..."
+    publishedDateTime: 2020-01-27T13:15:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/gm-is-revitalizing-a-near-death-factory-to-build-electric-and-self-driving-cars-2020-1-1028846918
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 4
 
 secured: "Z7q7/uOOm141+HdV78wjePhU2iLFESUzT4VPyeo8DMScut8zre7QihSSjTbtFun4d8cFRFQl3ebH2mOVk5rs3mUR7zKoU6+ECLRF7tOuHr/2VJigTO2MrkPmF0Ale3wv9pc6bPO6zdswPKbUxuCAx6T/ni7iWixdRx+KAIqjdQK5cOSgy5DWJZrmqhbfemc7fgWvLBsyY8gc+1+/I4bOCz2e6wazXnid68NguYJnNGlrQjwBmnDzC/qRaiRj49PO0cASDxhTGvOx8JyUiCdZDqkn7og9W27fvn4y8hnqragc0C59i9JK3Cq+wtES39DVXLqi0WuCiB59sDv4fhJKd2ITsDJLzyhlvxQmZQJ5s+DVRsrurv4eGh7kG8mJITMYTypxNa7FYU9UWw705Zo4SGh19deiHdsraCUEfU7UDU8Hx6bl8TPNN6YPzgv7MwFAArqgow58LRZlEgKSK7sJjWT3T82/hXYGh649Ld+Pf0w=;Xz33n/h+tC2DkRjVWecejQ=="

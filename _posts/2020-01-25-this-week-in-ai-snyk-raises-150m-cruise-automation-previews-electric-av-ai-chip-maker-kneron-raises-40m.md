@@ -115,6 +115,19 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2020/01/awesometable-e1579626289453.png?fit=1200%2C649&strip=all
         width: 1200
         height: 649
+  - title: "Kneron raises $40M for edge biometrics and AI chip development"
+    excerpt: "a developer of AI algorithms and AI-optimized processor designs for use in edge devices such as surveillance cameras and other smart home products, raised an additional $40 million to further develop its products. Kneron, which has over 150 employees, has raised $73m to date. Kneron unveiled its first chip, the KL520 in May 2019. The chip ..."
+    publishedDateTime: 2020-01-27T17:49:00Z
+    sourceUrl: https://www.biometricupdate.com/202001/kneron-raises-40m-for-edge-biometrics-and-ai-chip-development
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: https://www.biometricupdate.com/wp-content/themes/bu/img/300x250-popup.jpg
+        width: 300
+        height: 250
   - title: "Kneron raises $40m for next-gen Edge AI chip"
     excerpt: "Kneron, the San Diego and Taipei-based low-power edge AI startup, has raised $40 million in an A2 funding round. This funding round was led by previous backer Horizons Ventures and brings the company’s total financing to $73 million. Kneron CEO Albert Liu told EETimes that the additional funding will be used for a variety of things ..."
     publishedDateTime: 2020-01-27T08:31:00Z

@@ -144,6 +144,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence (AI) in Healthcare Market"
+    excerpt: "A new research document is added in HTF MI database of 50 pages, titled as 'Artificial Intelligence (AI) in Healthcare Market in India (2018-2023)' with detailed analysis, Competitive landscape, forecast and strategies. The study covers geographic analysis that includes regions like North America, Europe, Asia Pacific, Latin America ..."
+    publishedDateTime: 2020-01-27T17:03:00Z
+    sourceUrl: https://www.openpr.com/news/1909861/artificial-intelligence-ai-in-healthcare-market-next-big
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 49
   - title: "Global Artificial Intelligence (AI) Market in Healthcare Sector 2019-2023 | 28% CAGR Projection Through 2023 | Technavio"
     excerpt: "LONDON--(BUSINESS WIRE)--The global artificial intelligence (AI) market in healthcare sector is expected to post a CAGR of over 28% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The growing demand for connected healthcare services through digital platforms such as wearable ..."
     publishedDateTime: 2020-01-15T09:00:00Z

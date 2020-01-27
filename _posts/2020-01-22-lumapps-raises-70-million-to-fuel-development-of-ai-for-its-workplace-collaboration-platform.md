@@ -104,6 +104,19 @@ related:
       - url: https://techcrunch.com/wp-content/uploads/2020/01/screenshot-4.png?w=1024
         width: 1024
         height: 453
+  - title: "Kneron raises $40M for edge biometrics and AI chip development"
+    excerpt: "a developer of AI algorithms and AI-optimized processor designs for use in edge devices such as surveillance cameras and other smart home products, raised an additional $40 million to further develop its products. Kneron, which has over 150 employees, has raised $73m to date. Kneron unveiled its first chip, the KL520 in May 2019. The chip ..."
+    publishedDateTime: 2020-01-27T17:49:00Z
+    sourceUrl: https://www.biometricupdate.com/202001/kneron-raises-40m-for-edge-biometrics-and-ai-chip-development
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: https://www.biometricupdate.com/wp-content/themes/bu/img/300x250-popup.jpg
+        width: 300
+        height: 250
   - title: "This Week In AI: Snyk Raises $150M, Cruise Automation Previews Electric AV, AI Chip Maker Kneron Raises $40M"
     excerpt: "Facebook researchers developed a \"mapless\" navigation system for robots. ServiceNow acquired Loom Systems. Procurement marketplace scoutbee raised $60M. This week, we released our quarterly AI in Numbers report. This quarter’s report highlights AI investment activity, partnerships, and M&A in 2019. You can check it out in CB Insights Stories ..."
     publishedDateTime: 2020-01-25T00:13:00Z

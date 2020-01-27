@@ -23,6 +23,6 @@ images:
     height: 250
     title: "AI ‘visionary’ Professor Genevieve Bell named first Engelbart Distinguished Fellow"
 
-secured: "QT2cDPXeOpgqNaDxp7DHDLLhOx3jWtgCvV9qnPMQp5/i2+z2P/v1+Np30/XNswXcmBe02jYUXPqOgyKTk/XutKjpZBBBjmq01p4Dp6ucENwo4xTm60LxtpDTKl9Om1t2Jf+irLmytGzqoKsTBTOv1uc0+7ftpIs8m/k2YvGH9rdWu6rIg88e3+DkyWU+EpSAtfSPUF3xYLMa8qJzLqGSV4rfd4nQB/R5acnhBEfIal3ts7tdkqR0JuV77PozdejJVF8JZC6g6760Tn+s/sheuw2a/NusgZZSJinN5qRsV2nJuhUlzOPzy6Or8RtFxyFv;tvvWeqkjejkJVuYzXOb3YQ=="
+secured: "0CE+tiPlqI+KKF+ZMGFot902po7Y4qIDf4dsE2F/JDYVYGacIzgpC/+8xUjcM2OE8L94DcKOeKkTwoP4m+KOjJPa0BoII2X2YwX+wddGE7DC3QrXDTLXr0hupXU6U4umXGopbqJ8Vx+GQ66hH/BQLzbs8q+Gt4bCh57tguffoaT+dMmZ+9V0ovHDloRVP24wWc1BlsX3TwhXj6ggXRhKXKZvsz0avGBq2np1FlyZuT1+4y32mvezd1g9oUsZfGpkWJdtktChV/87DxmsBmfQXZ8H8xrx+UKrlpT0XSB7HW0/08zowmo2U6aiHtdwRiEr58M0CkEXRwcqAb1QSTsxgtjVlYrc/FbNLczW317TgBEEGTq85Dd2kGqMJREGNNBgWqPbEmcc2epr2+rphbEtxz09CdMYZZ0GwZVG53Z0Tit5LTzI3eA+K+xZXAu0rtsykNHVwklJmBZTxMX14ujyTIV+y6iUc9ANvYhPMxOthd8=;5pYpzAoqQbJiOTcFkkReiA=="
 ---
 

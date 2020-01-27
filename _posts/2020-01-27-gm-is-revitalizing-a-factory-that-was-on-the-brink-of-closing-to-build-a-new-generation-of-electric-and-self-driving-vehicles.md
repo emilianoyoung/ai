@@ -216,6 +216,15 @@ related:
       name: KXAN
       domain: kxan.com
     quality: 4
+  - title: "GM is revitalizing a factory that was on the brink of closing to build a new generation of electric and self-driving vehicles (GM)"
+    excerpt: "GM will invest $3 billion into its Detroit-Hamtramck plant in order to build electric and self-driving vehicles. The factory had previously been \"unallocated\" as GM shifted from sedan production to pickups and SUVs. The company said that Detroit-Hamtramck could provide 2,200 \"good paying\" manufacturing jobs when running full speed. GM aims to ..."
+    publishedDateTime: 2020-01-27T13:15:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/gm-is-revitalizing-a-near-death-factory-to-build-electric-and-self-driving-cars-2020-1-1028846918
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 4
 
 secured: "bFIaZVbwf7LM5EIeQXdxFPwC+352ysxjHqPbwdy1s8gbo/zotbJapX046+xo3fCbXFjN5xPKoydynn9oAi1aS6pn9XVnr3ENGUDFvLDZSPqkDNnhdiU25/rgEV2ZMUyL/Km0OUTInjbUnw1ji5zTogfXjwDgekCS5XV8LvsUfp5pmj7B7IoSB2ipzWj5/EUXoW4rnuQiZdVj9iKYebAkw57Kc6blo6LFVZx390T2AqwMjvKVKD9QUNdV7nJpzJQpsU8Ud2BDZFg6ET9Uh2/Lm9V7PdXB/2yGaPd8Kopb1fqK+FM3SVRtCHAnKHnD1bIzZCh3bbM0Ce8vwW6B/ER5qXXqby9M6R2GStE4x0QpgIb6JheVb5/aDukq6bZsNHXDQCHA0NRLKQz9S/cFQICAamldwtnzfIB5/FdhsFy21Lw/XjwbcgJOV8fXcY7rJ1WS6xlqjEX790wcFRV9OWupbrhvlV4dFLi/VSM24KGO0E4=;V0KKLWUsvRZHgs/QgBhC2Q=="
 ---

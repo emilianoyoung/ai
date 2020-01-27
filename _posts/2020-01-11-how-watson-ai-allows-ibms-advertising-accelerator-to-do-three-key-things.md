@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/how-watson-ai-allows-ibm
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-watson-ai-allows-ibms-advertising-accelerator-to-do-three-key-things/
 type: article
 quality: 103
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -30,19 +30,6 @@ images:
     title: "How Watson AI allows IBM's Advertising Accelerator to do three key things"
 
 related:
-  - title: "The AI Eye: VSBLTY Partners with News America Marketing, IBM Announces Advertising Accelerator with Watson and CEVA Partners with SiFive"
-    excerpt: "Point Roberts, WA and Vancouver, BC - January 7, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,"
-    publishedDateTime: 2020-01-07T16:57:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-vsblty-partners-with-news-america-marketing-ibm-announces-advertising-accelerator-with-watson-and-ceva-partners-with-sifive-2020-01-07
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "CES 2020: IBM Launches Advertising Accelerator with Watson"
     excerpt: "At the 2020 Consumer Electronics Show (CES), IBM (NYSE: IBM) today announced the launch of Advertising Accelerator with Watson, a first-to-market offering that leverages artificial intelligence (AI) to predict the optimal combination of creative elements to help drive high engagement and conversion for a given audience. The predictive solution ..."
     publishedDateTime: 2020-01-08T21:28:00Z

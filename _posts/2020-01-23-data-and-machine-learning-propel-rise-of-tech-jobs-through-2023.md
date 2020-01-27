@@ -2,8 +2,8 @@
 category: news
 title: "Data and Machine Learning Propel Rise of Tech Jobs Through 2023"
 excerpt: "According to a new analysis by International Data Corp. (IDC), the fastest growing roles in technology over the next five years will be data scientist (13.7 percent growth over that period), machine learning design/development/engineer (13.6 percent growth) and data engineer (12.9 percent growth). In the area of IT and technology, cybersecurity ..."
-publishedDateTime: 2020-01-23T20:18:00Z
-sourceUrl: https://campustechnology.com/articles/2020/01/23/data-and-machine-learning-propel-rise-of-tech-jobs-through-2023.aspx?admgarea=news
+publishedDateTime: 2020-01-23T20:17:00Z
+sourceUrl: https://campustechnology.com/articles/2020/01/23/data-and-machine-learning-propel-rise-of-tech-jobs-through-2023.aspx
 type: article
 quality: 39
 heat: 39
@@ -23,6 +23,6 @@ images:
     height: 630
     title: "Data and Machine Learning Propel Rise of Tech Jobs Through 2023"
 
-secured: "KdWLje46A5NurTOOc+E3b/Toe9Q2UDv9SSal/Y3ZKdh58tINnEDIm8iMBuEiEnVYeGC5eozw6eJ1R81EJxXRP3g3B7G/SAQjWr4me5ddBnjlV2KWssccZvqgSHK8Me8spE4mL523H7h9Y1qXQnk5E+mABEpVN/nCRicXd98jjSrfqO9tomcmO4CMJbUmm6xQunSplI+j6DLa58/gKU21qVQyKhHMQRLujWz4GIh+6VxahenP/7Ux8t6/+N72hOp+HpmotpOusYORlUgcYq/UnkUeDcOzuZNEOw99uJkl4h1+vE6bNH2DeQSDvNCN4Vq+;qXoQvbESpU3K54JN+TxB3g=="
+secured: "CUYZVSZ2dfRoFwmRxrBjnRUVPF/HuYyDLz4ZZ7rHMuWXbsuETG8pdz33m5/UlOaGI2P9cmlMVSnAvYdo7MHpobQtagK8/02alw8OObqT4/bRbAw0m4mMc1+S+U/faGhTRmS0SuQs4JJ31Xw5C7jtL8YFGcqzpvnb2JOr7F91BPMduRfc1HMxBeFw7ZCL9LPt6FpuxwQQWxgM3NyUMeklmV+Pi4/itieTYV/dK/V4nS6q7g67s4Eie/tJ1bMXaUZwwYmUwRgOJE9S4T9Suk8bqS2ZVJjULJP58Wzda8bspmzua9A8og46hp/XyVSgBpyJ;C6UF+ucwnjuxIztvvHb8XQ=="
 ---
 
