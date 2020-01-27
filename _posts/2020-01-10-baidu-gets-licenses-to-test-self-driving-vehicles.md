@@ -54,21 +54,6 @@ related:
       - url: https://cnet3.cbsistatic.com/img/G7dx4_rD5mD3I0MM4few-N7lGlQ=/2020/01/10/bb8e1c20-5424-414e-b461-769417e79571/yandex-ogi.jpg
         width: 1200
         height: 630
-  - title: "Carmakers move from cars to building cities at CES"
-    excerpt: "But he said the carmaker needed to be on top of all the megatrends shaping society in the next decades: urbanisation, environmentalism, an ageing society, the power of 5G wireless connectivity and the potential for artificial intelligence to reinvent ... its new production line in Shanghai, or to Waymo, the Google sibling whose self-driving ..."
-    publishedDateTime: 2020-01-07T18:07:00Z
-    sourceUrl: https://www.ft.com/content/8089bb56-30fe-11ea-9703-eea0cae3f0de
-    ampUrl: https://amp.ft.com/content/8089bb56-30fe-11ea-9703-eea0cae3f0de
-    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8089bb56-30fe-11ea-9703-eea0cae3f0de
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 44
-    images:
-      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2Fa4e8f394-313b-11ea-a329-0bcf87a328f2?source=google-amp&fit=scale-down&width=500
-        width: 500
-        height: 281
 
 secured: "jNdhofDM/IU/lQZkH40B3j0VMUd3TIpzzdMicppexs27NxzRh63R3IhlKs9IOoS5GslrPEzMbDkAuQkFgTWYFh4BvU4bx0nZ9lKsawFXWBpN2KlDqY44a8SteH+12wVZQryJI14BS96W3Dsu+Ar8hR6XOlzJHPrEyCbHpuebe6t12CKBCDVDBQzq4HgMgplNGxwJUDuwGb5bWroRop5Xho0G6m8FJOu1OmiUaH8SsSXFvc/Ll1W6ISRHKxOJIrY7Q3rvu/BUctfrJSRsRISeFhmflLzv7mr8CmdBhyxlSjFD663Bh1b8idGG9aVF8gxDWHAPxB2svrJ/nuukde95JJB55xn1iwYgZfBB0bqfqrvssj9Q1YpxGeaMXtfzJWkQMy0cckw/NHCURebGQ6atDiW0qyUlQFPIyHrS+dvB5j4uQZGYP8kxXZZgtxVN8QndpzqQO8dzxb8rPr1xFrtfrw==;cicDhMRb6RN1Bm2IMHyWdA=="
 ---

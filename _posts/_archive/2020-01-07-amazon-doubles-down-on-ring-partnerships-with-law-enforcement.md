@@ -8,7 +8,7 @@ ampUrl: https://www.wired.com/story/ces-2020-amazon-defends-ring-police-partners
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ces-2020-amazon-defends-ring-police-partnerships/amp
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -45,19 +45,6 @@ related:
       - url: https://i.dailymail.co.uk/1s/2020/01/09/09/23185846-0-image-a-8_1578561041268.jpg
         width: 636
         height: 382
-  - title: "iFLyTek develops voice recognition for law enforcement; moves forward with AI innovation despite U.S. ban"
-    excerpt: "Chinese startup iFlyTek boasts it has created for law enforcement AI technology that leverages voice biometrics to identify a person, writes Nikkei Asian Review. In upcoming years, iFlyTek aims to use it in fighting phone scams after rolling out the voiceprint recognition system across the country. iFlyTek uses AI to analyze big data to improve ..."
-    publishedDateTime: 2020-01-07T18:08:00Z
-    sourceUrl: https://www.biometricupdate.com/202001/iflytek-develops-voice-recognition-for-law-enforcement-moves-forward-with-ai-innovation-despite-u-s-ban
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 22
-    images:
-      - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg
-        width: 900
-        height: 499
   - title: "Voice Recognition Used by Law Enforcement"
     excerpt: "Voice recognition technology has revolutionized the commercial market along with the growing use of home devices. However, it has applications in various law enforcement and security fields. The technology works mainly by analyzing sounds linked to Natural ..."
     publishedDateTime: 2020-01-12T08:00:00Z

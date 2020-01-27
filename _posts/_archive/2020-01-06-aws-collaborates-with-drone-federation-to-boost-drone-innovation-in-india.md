@@ -8,7 +8,7 @@ ampUrl: https://www.livemint.com/industry/manufacturing/aws-collaborates-with-dr
 cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india/amp-11578317708207.html
 type: article
 quality: 58
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -54,20 +54,7 @@ related:
       - url: https://www.cxotoday.com/wp-content/uploads/2020/01/drones-pic.jpg
         width: 599
         height: 450
-  - title: "New image sensor evaluation kits to spark innovation with miniature cameras in consumer applications"
-    excerpt: "Raspberry Pi and Arduino based NanEyeC evaluation kits support implementation of eye tracking, presence detection and object recognition in products such as virtual reality headsets, smart lighting and Home and Building Automation Premstaetten, Austria ..."
-    publishedDateTime: 2020-01-03T14:43:00Z
-    sourceUrl: https://www.eejournal.com/industry_news/new-image-sensor-evaluation-kits-to-spark-innovation-with-miniature-cameras-in-consumer-applications/
-    type: article
-    provider:
-      name: Electronic Engineering Journal
-      domain: eejournal.com
-    quality: 9
-    images:
-      - url: https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png
-        width: 512
-        height: 512
 
-secured: "p9N7hS5VYGL1WLZfhkjse+r8x8TeTdJV2RH/32J64ggqsv5vl/Y/ncSl2ssqP9rRaPhDzKkLFjLKeIuHs+OJ7IwM3GqlmPTDm0KDNeaeR4qMFT1JuUCAxeSUISuLZJvBvcF0SYU+DWZJ4gaiAyNEV/URyYEm3c0vZU4q5QF+Wap3C90r0a4kcs0bmo+aeQmpRUJHvf67i9xhzQVolG9XxwqqiwbVjTN7G4p6B3kRYfVo/DIr6XvjtE4wdaDC90Co52xKE3cn4gWszK423QN/H+vr4uFL8nKlnnRxEr740Cu1bXZS4VSgpJqdvdAxJVjS;utX/L8Ghlnsje8SExNt6YA=="
+secured: "M6H7km3V7e8J1vKVdkrk+poensxnS0sbF+lyNB4U2enrTiib9QogKz4qDEMHvGIjcE8vBqriwbVTzkZ8o1yHx1hm34JrEnCMjTelHi6FgXlUi904HXIbcyoC9yQst2Ba6hg5Dw+a+nAa496VHk9mGSM1Kr0amjL6xw8TmQiXdkLRVeZbBbkEgITxO2guBtL3E2r5QeYINS9AJCONxlgLeVAQpb2NjeuRpudJAZ5a0ocUzxVQI1eDZQNZdZKyho8zJHk47LtXPIHkPIfcB4JHI0ZDHTh/PU+c4v2jC/o7GsfilDpaqGR/GpsjxRHHBfYU;DsdwhuhPW/gdJ1F5MXX47w=="
 ---
 

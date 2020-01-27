@@ -48,19 +48,6 @@ related:
       - url: https://i.dailymail.co.uk/1s/2020/01/09/09/23185846-0-image-a-8_1578561041268.jpg
         width: 636
         height: 382
-  - title: "iFLyTek develops voice recognition for law enforcement; moves forward with AI innovation despite U.S. ban"
-    excerpt: "Chinese startup iFlyTek boasts it has created for law enforcement AI technology that leverages voice biometrics to identify a person, writes Nikkei Asian Review. In upcoming years, iFlyTek aims to use it in fighting phone scams after rolling out the voiceprint recognition system across the country. iFlyTek uses AI to analyze big data to improve ..."
-    publishedDateTime: 2020-01-07T18:08:00Z
-    sourceUrl: https://www.biometricupdate.com/202001/iflytek-develops-voice-recognition-for-law-enforcement-moves-forward-with-ai-innovation-despite-u-s-ban
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 22
-    images:
-      - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg
-        width: 900
-        height: 499
 
 secured: "7unDlHdQe3vdzQvzPB2FoBl/B/ajuNEhF3SizXjcHzlxVogbocx8q4SDqXhbPEJ69yaF2UMgmgpd5bHD/uz8szMPOvmUhTjU+oyMq1U26tzTG3tzddhDI5zyy6nxJEiSvU7qGAbXvDc7j8x3yqHoW1vwJ4wDsVhj98L22jQGt6LaUciPu39Cb/kznHsNypCvTYTH/pPOc/KTZ/F9iGrrZxw8CHoM2QRR2eT/lr1Mf+vlmmMwGEj3NFA57R7MElL1nbEG2E4C1nDiEc/zs5DNpO0zLN0oLQNfL4FXUawuEj0aCjHgy3Vddopi8HrvUvP4s60kc8+jjSJJMq1ycc7HAe5AFh1vUDXshOtWG0TDro8tL8rqUcV0MaDraMLJZMfFDqnHQegAdaELYVNZX4ceT4P2jOBBov4DKYZA4Db/AyKvMX8NGl6EI36isrCQHtfuHBTLS4eQ8DGsT+axodMqsg==;IRQzUuqOPdRx7ErM8frs8A=="
 ---

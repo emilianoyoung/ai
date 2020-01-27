@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2020/01/27/4-days-left-to-save-150-on-tickets-to-
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/27/4-days-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020/amp/
 type: article
 quality: 121
-heat: 151
+heat: 152
 published: true
 
 provider:
@@ -77,6 +77,6 @@ related:
         width: 1024
         height: 558
 
-secured: "fIOJT81I02YYvI7X6solDX6oS8ClLk/ftXiX7uRr0T3h3gc4jFhn577Upd/V79QPI6PSNi+mJbbLCfCaPQxEp2Oss8+iOEjDvHFUOfWC2HGGxFdaUS3XVVsGF/Fd/2V7jDH0hgKaTysMkF1B+4LH6pcpfP9YrJsdZtU3pjqaMC+AN1FTVMWj8XYwlAsgcq0Bwxegz04fYE9Fr1Ayga7NuKKF9gEGjvD0ljnAr0wZB/o7jixP/Qixt/0DbQewPyojFFADWXpjF1RIt0wLZrAsSKNvCjsaL3g/Mxw3K/wYVdMLhnrV7dvtlJWlbQzhKH++CXj4/2gJAZRaZ5tlo3DMmEkAExcTGtYmOz3MK9VCenXw6KjE9zmNDRpBk6Bmma+rojSoPEGSCl9ukR2sNgzX0toVxHyYNY74dxv2F4am8OXYt7lBIl485AQzbrbz9+eNLndXpuRGv4QLrBMjHtfkLqrZHXRGnbN4/ioScr8APPs=;N6XcCm3+VgwlpaJffrnBzA=="
+secured: "4FFShoR/GoqrMZW2iI8L73CchLhWSzjxyaH+e04Oe88H7i2zJyUUddQS2Q++Cj4DeJ2PfolI2BHt9t8VATw7MxHSwoUZBEEgeJFhA9O0X+oholYQTiCHGIqP67VUOGWd90q5MOU8hCrJksb9egtuMYHJXrHd6yDB6dVa1iF2cQpdHDM2m90IZLUSRGqAnMfhQLpkYuR6vbyAeEpvQk1nvFoQVJKVAWe2LpUA15I5P+pPG4YQdKVwqAcPKAdjPcxG4c1tZ2tYtjnu8ShFM20PY5vip+FqqNwAQdlWMNyydWNQB7/zVti4OQMeuZ7tQwGLR0+4gKoh9n5pODOAAEf+crmDrhj6kBM8wIsgyLPl6SegDnNa+qHBOF7OwG0Dqe3SvLbXERSZMsXnM2Atf/XXBPKAtIUcdKdyCxcnQGIJQRcPgjiIQuBWKFu/sS1eX3zcgqLA4toqFugqGOW3jG0ioL6bYVaC1i4FwQ4p9TUax1o=;N+Gy69WxeqLMfUp8oYivPw=="
 ---
 

@@ -27,6 +27,6 @@ images:
     height: 638
     title: "Machine Learning for Sales Forecasting: A Capstone Project with Columbia University"
 
-secured: "C0MYOOc8OE205Dxi+u+k3z9DgEitkPXdpGndrf9fhshbOH+tGOi/Y1KUUDpcOTK3kwU9duad4drygOtZxOlZUZGvBocccisl0BpVBT89SnPA9/oPn1TAhsnk3mZ+vAGDfLjGCnqQRp36OyClTBJUoTHg9US6xwBwrehJqd08oTwJshgWaCCPYFs+2Txc/Tiwn6x8abZt9cwGwuawEVfaq6BiMOCcGAX43twz8syIeW2xoCHXBS5ZquM2KZ45YpHK4xnHkAzR5dHfDgR1Qllce/kz+G3CUeDtEs6FMRRAD+0coGE+zryD6WVl/UWWMq+5;KkSvvtLizYVjdBYP0d//6w=="
+secured: "BS/RzUsW2+wQbu1OkKWt+NJ+uxYMHrGv801uDXqy3QJsP8inkSEW0jhzYC36FYIcSEYldqdMaEBsbuFfIlfFTJGXrZdmGw9Qn8oHbv6peCEyIIatYonYeewG4z4MIEB1yJ0TeHvCtiiZn6c/MZEPCDnObCmI0PKSJcsZtFT+Knyne2N7DdfRtH98//U62/f5KdFU20SminKUa/lMJ7gHcV2K/xiyo2u70MQ9ZIbfrQ9edIQvHwtULk+lBMCTQf/znMNcRrJFO8sEOyY87iKdpYrnehSNaqwfppC126819aMTJ4oJjQkW9w/ECdvFvfRj;kL90Bz3owFUSMQ2amtqYcQ=="
 ---
 

@@ -230,18 +230,18 @@ related:
         width: 1200
         height: 628
   - title: "Google CEO calls for regulation of artificial intelligence"
-    excerpt: "FILE – In this Nov. 29, 2019, file photo, a metal head made of motor parts symbolizes artificial intelligence, or AI, at the Essen Motor Show for tuning ... an approach U.S. authorities have picked up with investigations into the dominance of companies like Google, Facebook and Amazon. “Sensible regulation must also take a proportionate ..."
-    publishedDateTime: 2020-01-20T10:53:00Z
-    sourceUrl: https://www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/
-    ampUrl: https://www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
-    cdnAmpUrl: https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
+    excerpt: "FILE – In this Nov. 29, 2019, file photo, a metal head made of motor parts symbolizes artificial intelligence, or AI ... investigations into the dominance of companies like Google, Facebook and Amazon. “Sensible regulation must also take a ..."
+    publishedDateTime: 2020-01-20T10:58:00Z
+    sourceUrl: https://www.news10.com/news/technology/google-ceo-calls-for-regulation-of-artificial-intelligence/
+    ampUrl: https://www.news10.com/news/technology/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
+    cdnAmpUrl: https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/news/technology/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
     type: article
     provider:
-      name: abc27.com
-      domain: abc27.com
+      name: WTEN
+      domain: news10.com
     quality: 59
     images:
-      - url: https://www.abc27.com/wp-content/uploads/sites/55/2020/01/fc07cd2242434798a1da9bc08ef49dc5-1.jpg?w=1280&h=720&crop=1
+      - url: https://www.news10.com/wp-content/uploads/sites/64/2020/01/fc07cd2242434798a1da9bc08ef49dc5-1.jpg?w=1280&h=720&crop=1
         width: 1280
         height: 720
   - title: "AI Is Promising but Needs Regulation, Says Alphabet CEO"

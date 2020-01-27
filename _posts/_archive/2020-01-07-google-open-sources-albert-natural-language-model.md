@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Google Open-Sources ALBERT Natural Language Model"
-excerpt: "Google AI has open-sourced A Lite Bert (ALBERT), a deep-learning natural language processing (NLP) model, which uses 89% fewer parameters than the state-of-the-art BERT model, with little loss of accuracy. The model can also be scaled-up to achieve new state-of-the-art performance on NLP benchmarks. The research team described the model in a ..."
+excerpt: "Google AI has open-sourced A Lite Bert (ALBERT), a deep-learning natural language processing (NLP) model, which uses 89% fewer parameters than the state-of-the-art BERT model, with little loss of accuracy. The model can also be scaled-up to achieve new ..."
 publishedDateTime: 2020-01-07T14:03:00Z
 sourceUrl: https://www.infoq.com/news/2020/01/google-albert-ai-nlp/
 type: article
@@ -23,6 +23,6 @@ images:
     height: 2160
     title: "Google Open-Sources ALBERT Natural Language Model"
 
-secured: "oSdHsRHZEJ9nQ+yUBDiF5/6Z0vlQG9/vbcq451tuYomVHQLPA+NODseLs4y/RSVOA6AafZ1/wOd6DKsktQvz1WfmfsNaTfDz3k6ZiSSqNaf/Sa9Qpt2mnID/6MhOZnI/wQW44FNyYghoqVj1XS98kF/nOuv7NLJy6c+E3YylpNE0Sw2MfTrPNpC7m/SnxRcKGZKDFlNTpuVernpuJ/7YcT2f7GL3Vn4vFg90gbvq45lF10xMnVMnZZRDKZA4CTEkoP1Rh/Taph50VPb3QdN2KWMFIbHuiDeteYKfh4xT8lhawfZ/EV9ExWvPm2QEsB5R;CQMPXoZHMQUJhhXFrYE55A=="
+secured: "0eVk0wH2pehQOzIhSvmatj0L7N7m/+ogvNly6szA5abANDz/QDgK5fzTd+Xcf5cgBuO3FVtqPSfRbMBc3lCIkvFLyIw/Sv9QZJfiwIh3dQK2T6fhWslot4M0xyA6kpnneHeJxOmxpUb+Y7dqK/Dgp0dcH9ccThW0qwZspDDOv6eFP0WAHIGJvvtW9zr7cxeAeZytUScXc5mkGLX8lUvqFXIBOUkmgIzlVTRuiwEdMzFJjYyJWNqmlZzU6NIU6o7f5ThT5NHJPmoxmK+lPdl4dH+LJyF30giPnoqNyGol53Ti0HtQMKfkfmqKcOfOmrZL;qOmbTmvM8CYQktVDMEuKaA=="
 ---
 

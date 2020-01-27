@@ -38,19 +38,6 @@ related:
       - url: https://www.aha.org/sites/default/files/2020-01/Cerner_ExecDialogue_AI_120919_Banner.jpg
         width: 1500
         height: 1038
-  - title: "Announcing Allegro Trains Agent, Providing Effortless Cluster Management for Machine and Deep Learning Experiments"
-    excerpt: "/PRNewswire/ -- Allegro AI, the deep learning, computer vision open-source company, officially welcomes Allegro Trains Agent to the Allegro Trains"
-    publishedDateTime: 2020-01-07T19:00:00Z
-    sourceUrl: https://www.prnewswire.com/il/news-releases/announcing-allegro-trains-agent-providing-effortless-cluster-management-for-machine-and-deep-learning-experiments-300982514.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 32
-    images:
-      - url: https://mma.prnewswire.com/media/1060716/Allegro_AI_Logo.jpg?p=facebook
-        width: 797
-        height: 419
   - title: "RPA and Machine Learning"
     excerpt: "But the potential benefits in terms of additional insights and financial impact can be ... provides high-quality data annotation services to businesses in many different industries, and this is a central theme heard in the majority of our client conversations. With accurate data annotation, machine learning models and AI models can make ..."
     publishedDateTime: 2020-01-14T13:36:00Z

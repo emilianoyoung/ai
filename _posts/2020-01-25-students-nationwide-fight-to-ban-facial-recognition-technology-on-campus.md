@@ -672,6 +672,19 @@ related:
       - url: https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/1/c5/1c5209a2-538c-52cf-9de3-6ac39f163359/5e2b59269014b.image.jpg?crop=1766%2C993%2C0%2C89&resize=1120%2C630&order=crop%2Cresize
         width: 1120
         height: 630
+  - title: "40 groups call for US moratorium of facial recognition technology"
+    excerpt: "The news: Government use of facial recognition technology should be banned “pending further review,” according to 40 organizations that signed a letter calling for a recommendation to be made to the president. The letter, drafted by the privacy advocacy group Electronic Privacy Information Center, or EPIC, cites the recent New York Times ..."
+    publishedDateTime: 2020-01-27T19:07:00Z
+    sourceUrl: https://www.technologyreview.com/f/615098/facial-recognition-clearview-ai-epic-privacy-moratorium-surveillance/
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 39
+    images:
+      - url: https://cdn.technologyreview.com/i/images/lianhao-qu-lfan1gswv5c-unsplash0_0.jpg?sw=1200&cx=0&cy=0&cw=768&ch=432
+        width: 768
+        height: 432
   - title: "Army Researchers Working to Protect Facial Recognition Software from Hacks"
     excerpt: "So one of the goals of the NYU-sponsored CSAW HackML competition in 2019 was to develop a software that would prevent cyberattackers from hacking into the facial and object recognition software the military uses to train its AI. \"Object recognition is a key component of future intelligent systems, and the Army must safeguard these systems from ..."
     publishedDateTime: 2020-01-26T13:39:00Z
@@ -683,6 +696,19 @@ related:
       name: Military.com
       domain: military.com
     quality: 37
+  - title: "NY State Senate Bill Would Ban Police Use of Facial Recognition Technology"
+    excerpt: "A new bill in the New York State Senate would prevent police from using facial recognition technology and some other kinds of biometric surveillance while creating a task force to research future use of the technology. The bill, introduced Monday by State Sen. Brad Hoylman, D-Manhattan, would still allow police and other law enforcement ..."
+    publishedDateTime: 2020-01-27T19:44:00Z
+    sourceUrl: https://www.law.com/newyorklawjournal/2020/01/27/ny-state-senate-bill-would-ban-police-use-of-facial-recognition-technology/
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: https://images.law.com/contrib/content/uploads/sites/389/2018/02/021418nys-senate.jpg
+        width: 620
+        height: 372
   - title: "London police are taking surveillance to a whole new level, to start using facial recognition to spot criminal suspects"
     excerpt: "London’s police department said Friday that it would begin using facial recognition to spot criminal suspects with video cameras as they walk the streets, adopting a level of surveillance that is rare outside China. The decision is a major development in the use of a technology that has set off a worldwide debate about the balance between ..."
     publishedDateTime: 2020-01-24T22:03:00Z

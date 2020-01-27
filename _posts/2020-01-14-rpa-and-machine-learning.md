@@ -44,19 +44,6 @@ related:
       - url: https://img.gulf-times.com/Content/Upload/Slider/120201913050956207162.jpg
         width: 620
         height: 355
-  - title: "Announcing Allegro Trains Agent, Providing Effortless Cluster Management for Machine and Deep Learning Experiments"
-    excerpt: "/PRNewswire/ -- Allegro AI, the deep learning, computer vision open-source company, officially welcomes Allegro Trains Agent to the Allegro Trains"
-    publishedDateTime: 2020-01-07T19:00:00Z
-    sourceUrl: https://www.prnewswire.com/il/news-releases/announcing-allegro-trains-agent-providing-effortless-cluster-management-for-machine-and-deep-learning-experiments-300982514.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 32
-    images:
-      - url: https://mma.prnewswire.com/media/1060716/Allegro_AI_Logo.jpg?p=facebook
-        width: 797
-        height: 419
 
 secured: "wZUXZXGgzYrwZ7nf25Jzvt6lIOtG9VH91PDKajAbrUcZCeMELiBR/QDKVbG6cUV3uxn2SSaHv7DdEMoa2qLfkAinRFWC/quETb3dHMrJWiW8y3+E7b92LK3bd0lUrp0QCKIdu3/w2PeWY5N6UYw0bOfTYESjwbRKxa8mh8Cd9oiI3HpA4Omm429n8TvLp5ZDtfWw/HEAHXD0NCJkbMz2mfNpDhcjFr/xmNuCP/QbjpBq3FvqsjsjFx7VSZWOffe0TsKt9xwx4ZAS8TEiOm63dKmr4EPrq5rv2tpNmhQqpVw=;Z48qSzb26vGNn4FRwb+UQg=="
 ---

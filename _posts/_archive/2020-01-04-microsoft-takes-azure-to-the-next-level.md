@@ -27,6 +27,6 @@ images:
     height: 371
     title: "Microsoft takes Azure to the next level"
 
-secured: "P5bqS13WcY7uak4rg4jY4VorAAqt/v8BdbqxGmMiVbaWJKb4g8LY5o/aRcMZpK0+MiaI71g87Q60qBYketbVq/eBPf4avJzodnf3G6/8LVpKcBqxMH4Zx0FQXFXvt6Omz0Htjc9LDo7KcqWIxaLzwCfwV2+Y75SK0H+xTLQtYXxzeXNW7VQ3V6T5gTU1yvzKXKyCrjq6gugyxEkVG+a3beOcebye6nLTuL+R2G6dfMHJ6lD7Ur5lKRSUFhcKvtSKPZ0spZTW3syuIrtF6FSomdLlBgaHffsAUX91URwIk+hB3y6bY5jKxa4iBtFk5fHl;KQ5qiSjbSHXVzbswjFGxrg=="
+secured: "SbOqX2g5/o3MSH2eAEkDl0r0eSCg51TfZUtdbSSCAIH+O6VA8WMgqdJ8KjkEPWtAKT7D1Z+OavBFVsSTInVHCAzJqmXz25a/4kMuejqmAnZ4aVwdaBF4BDsvfbRR7BwYYxMbM5HNIvfMXS52weBP8vxoM1C/6jVKYyFYl+sER2GvOFAZ6cQmuiIX5DJfOpYtk+oyMN3cLCQamMjSsY/t0piOBtG/7nX1F/EFb0pH6gkahJ1RLwzYfG/G0jEirhh2uyQP7WwktfWASU7Cq6UIYNT6E8bzr2kzP3SVetAnAsmRztQoQVSXe3l2FGAd4ILX;o0S9LlyP61I7wRqEJeigMw=="
 ---
 
