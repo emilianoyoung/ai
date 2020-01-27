@@ -1,9 +1,9 @@
 ---
 category: news
 title: "PowerObjects, an HCL Technologies Company Announces the Launch of a Dedicated Microsoft Business Unit"
-excerpt: "/PRNewswire/ -- HCL Technologies (HCL), a leading global technology company, just announced the launch of a dedicated HCL Microsoft Business Unit focused"
-publishedDateTime: 2020-01-21T23:54:00Z
-sourceUrl: https://www.prnewswire.com/in/news-releases/powerobjects-an-hcl-technologies-company-announces-the-launch-of-a-dedicated-microsoft-business-unit-885804646.html
+excerpt: "Microsoft Azure, IoT, AI/Machine Learning and helping employees accomplish more with Microsoft 365 and Windows 10. The HCL Microsoft Business Unit will create intellectual property extending the Microsoft platform for customer-specific scenarios and will ..."
+publishedDateTime: 2020-01-21T14:51:00Z
+sourceUrl: https://www.prnewswire.co.uk/news-releases/powerobjects-an-hcl-technologies-company-announces-the-launch-of-a-dedicated-microsoft-business-unit-885804646.html
 type: article
 quality: 24
 heat: -1
@@ -11,7 +11,7 @@ published: false
 
 provider:
   name: PR Newswire
-  domain: prnewswire.com
+  domain: prnewswire.co.uk
 
 topics:
   - AI
@@ -58,6 +58,6 @@ related:
       domain: newkerala.com
     quality: 19
 
-secured: "ypAVDeE3/5XqQGmPgCU8KUW9l1faOEgwo9vt7905Y0tnybs7ZUbx5zL7C3Sr6KH4/lO0K+zdJnCUju8HhE7iybNvWqDrNeLWkVXvk9MynY9kcJoXVsW/PsVEsBe681CV4UZnM+Gm5ytQ19mHwL9lkBa87kqLc5RftpGEEt1Q6R/aclFq2IPl/KWFAelkyxaqLSMvOIe/Zwy2AUHwO2EOvV2h8TgVhfGyS78cOJRvOJxjMJpfguwcBBgOVCqzyB1VRhXQrkTWhDoBGolv+xIqiII90LO37YSXzSohl5xK4NR/XOFagOHodjObpv2ac6P9dFg5yLYJWECfX60wLnUiDRd8Q55OsfOLDWPdG9zHGrVdmk8MhhRzCBQl9C8HRgI9//NaLhCKUPVhbJZa4C92mhPpXYbu4IQAGRYXEJTnKec2hB1r6yuAiukTiv64bB6HHr+tZE7d0MVo0To8K/iUuJt0n2TjOP87S4OYQUiD5kM=;Rj8tWPSeGHyl8OqVqy7xSQ=="
+secured: "gnj2boNYVDLbl5Lq607nRLhYsdpSVTZpje4pmB1Bjhp7dlorqcxpSB8HN4Du/fVAEAIy0kVdCsoyaRPbm6VaY163iGKk1/eFU7IvgSPYsP2hYnqtz/uc2QDxhcSNHnmr08hbTEppPhdJYa/AD/sREmuDlshQknJJZ/hv0Ylihd8QLwq1xNBcegwH1yRClT1LZ+O9ibVrnbtH33alaeDbgimIvqlcRop4xGnsWj/Iho17C3Y6zDH/mDs+g5mgOCqK/lqEqdcpHT7fIqDaSwOoATuBeUjCjZJ6Kf1Kr0tYayvPr7wqO3y2SlS224XQhr+U;1YsYINoZ8i5QGR2q3XMLvQ=="
 ---
 

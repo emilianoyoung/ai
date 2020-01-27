@@ -63,16 +63,7 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 19
-  - title: "CES 2020 Spotlights Tech Trends: Self-Driving Cars, 8K TVs and 5G"
-    excerpt: "Others, however, are harder to forecast. What new artificial intelligence service will blossom to become the next Amazon Alexa or Google Home? Can self-driving car technology take a meaningful step forward? CES, the sprawling consumer electronics trade show that opens Tuesday and runs through Friday in Las Vegas, may provide a clue when it ..."
-    publishedDateTime: 2020-01-06T18:04:00Z
-    sourceUrl: https://www.cpapracticeadvisor.com/small-business/news/21120119/ces-2020-spotlights-tech-trends-selfdriving-cars-8k-tvs-and-5g
-    type: article
-    provider:
-      name: CPA Practice Advisor
-      domain: cpapracticeadvisor.com
-    quality: 4
 
-secured: "soOnb36/IGDRrf1nM19hTyuKtpBEqBdepe6CPyTIfmKjWGLchlDwM1lkMc/kA3EIkIXpXaeDsmAlbZqy78nzrPDPDHRbtrvikcjjAmA6RUSP4er+Hq9CmBcuMZ40sYVMtN+o45RP6Pj+hvyAwZL2Y5Qnax9zZquTbr/G6gmVy0Jyf7LOiXTPwE34KVshWswPOcXDDobD14AvOlEGd6v664tstY3pwdqNd0GE2IqPhtFCkycEFf71ZEw2RA2NEV1Wxkcf4gpn7wtnxAhpfR1oXfB4r1sEd81FiPBTCIcI/Ue+YQ/ke8fiGR4UVmTutlzR;C/al6fF968o1SPgIcB/q6Q=="
+secured: "awkXP2w/n+fhiw+vBanIK47j31Gy+1ESouMOjYJvQdJwDYnSk3fF+4HbqVYU/ldQVeiV1QfjUTnAiKqFxWRXyN7sCAubzy56FvZS7FXIiQ5kKUu4CGt+EKSx41sf2kZlFaK4VqK6foMQGPhlhnYrDPuLfd0sM8Tve3Ssi24dS03QemPPXYWa/D1rhAUD8dg8R977erL98td7CBDeVIwWBHA/RN2ZWeDFHu4nRr7pmVy86zNOqQC4IdvzejBDyTkSr2tZvU7ixyccSDPL0EC38t+Fo9lg/pOf+E9GHifFoBp3/NwDyKAq7H5VmTAgI/Q/;/GpDKCYP4MVN7I8HVs0Jrg=="
 ---
 

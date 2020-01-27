@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Investing in AI: A Beginner's Guide"
-excerpt: "A report from MarketsandMarkets estimates that the sales generated from hardware, software, and services directly related to AI categories including machine learning, natural language processing, context-aware computing, and machine vision will rise from $21.46 billion in 2018 to $190.61 billion in 2025 -- representing a compound annual growth ..."
+excerpt: "Advances in AI features should help improve the value of Microsoft's Azure-based services. As such, it's already established itself as an important role in the self-driving car space. NVIDIA's chips are also playing a big role in current applications of AI within the healthcare space, with the company partnered with General Electric to provide ..."
 publishedDateTime: 2020-01-24T19:00:00Z
 sourceUrl: https://www.fool.com/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 ampUrl: https://www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 type: article
-quality: 91
-heat: 101
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -21,7 +21,6 @@ provider:
 
 topics:
   - AI
-  - Natural Language Processing
   - AI Hardware
 
 images:
@@ -45,6 +44,6 @@ related:
         width: 630
         height: 500
 
-secured: "8f20LQ9/SArcU4eSL54HdAy8454rVN+D7X67Nq0tLGaVTkmceHWTnp2+SvW8szo4gYytwF3hfshAVMgqc0dfDMxNLbgJjPVWFdr1cdl0hlFfNoKn75tCWFltbsfodxMOws1skywRCmK/YHvvqnHDQoB/Zakbpc+JbY+qrcrvy05t9czUgo6baWvdiuYaCaUgUPOgzPgA2hz174YzB7aRuF/QE6D94c7Gq0Nk+Hz+mb6WO6jUvVljfqzUkzNG7vRTu63gP1gLZJc/OkCx7hELfmLNpWo7rlHdPQiO7VrkwV+jW9FhVozklFT64rcw/iFg;IQS291NmhfFicYvQOZ3S8Q=="
+secured: "CWo4V1S5e9gXzDSkLwPBnCW6Rnl8tqYLm1qQC4dRZ0539mtRMawgrHBiOmhFJInUhBAhRkQHxIlPcsuE/OG20vobhBVbQrcdV44IJyDMe59Hj32Vxm9P4ZlihEyjpjJGtXAacfkl+yADdxennYgCMjjGXB+E6nPYlAVbH/qcFKzsGgNzBn4GMSSBJMgnmkszUOSNOlpPUf5gqDuEPKwb2908JNUVkgq/MPx0jJEfWckidHEjAVwFfYju1RLXvBjZ7dA7JyP1WTlpbfGaxGUScZRA/WnRFud16cAqOxh+2zfPEq1JQhH4VcRI4H1aOtpJ;k44ehqCP7SBo5t1mocJuNQ=="
 ---
 

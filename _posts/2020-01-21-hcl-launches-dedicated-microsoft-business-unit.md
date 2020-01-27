@@ -34,13 +34,13 @@ related:
         width: 570
         height: 367
   - title: "PowerObjects, an HCL Technologies Company Announces the Launch of a Dedicated Microsoft Business Unit"
-    excerpt: "/PRNewswire/ -- HCL Technologies (HCL), a leading global technology company, just announced the launch of a dedicated HCL Microsoft Business Unit focused"
-    publishedDateTime: 2020-01-21T23:54:00Z
-    sourceUrl: https://www.prnewswire.com/in/news-releases/powerobjects-an-hcl-technologies-company-announces-the-launch-of-a-dedicated-microsoft-business-unit-885804646.html
+    excerpt: "Microsoft Azure, IoT, AI/Machine Learning and helping employees accomplish more with Microsoft 365 and Windows 10. The HCL Microsoft Business Unit will create intellectual property extending the Microsoft platform for customer-specific scenarios and will ..."
+    publishedDateTime: 2020-01-21T14:51:00Z
+    sourceUrl: https://www.prnewswire.co.uk/news-releases/powerobjects-an-hcl-technologies-company-announces-the-launch-of-a-dedicated-microsoft-business-unit-885804646.html
     type: article
     provider:
       name: PR Newswire
-      domain: prnewswire.com
+      domain: prnewswire.co.uk
     quality: 24
     images:
       - url: https://mma.prnewswire.com/media/467009/Power_Objects_Logo.jpg?p=facebook

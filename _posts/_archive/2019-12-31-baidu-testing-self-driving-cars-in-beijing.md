@@ -33,6 +33,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/11/1573720765750856_upscaled_image_x4-e1573743944240.jpg?fit=1200%2C600&strip=all
         width: 1200
         height: 600
+  - title: "CES trade show to spotlight big tech trends in 5G, self-driving cars, 8K TVs and more"
+    excerpt: "Gigantic consumer electronics show in Las Vegas features about 40 San Diego companies showing off their latest technologies."
+    publishedDateTime: 2020-01-06T14:06:00Z
+    sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more
+    ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
+    cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 37
+    images:
+      - url: https://ca-times.brightspotcdn.com/dims4/default/3de7005/2147483647/strip/true/crop/3024x1975+0+146/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb6%2F73%2Fcfca9b914994bd002b870005233e%2Fwd.jpg
+        width: 320
+        height: 209
   - title: "Qualcomm pushes into self-driving cars with Snapdragon Ride Platform"
     excerpt: "Semiconductor maker Qualcomm Inc. is making a play for the automotive sector with the launch of its first self-driving car ... including the artificial intelligence software needed to avoid ..."
     publishedDateTime: 2020-01-07T02:02:00Z
@@ -47,6 +62,6 @@ related:
         width: 1233
         height: 880
 
-secured: "5i/y9Tnmeu/gxvynovyCIBX1/b8mazWQ6TZK/liPnx/uoMbvZPD08JtbbPlgob2GH/Jsm8VqnkrcMGQOSaKURLyc4nDTMk6mUBQ04CIhh7IT+DZ1R56jofrAFoBbL1h5mMknDxJ1DlK/TqeDPjC2fj3bBlvcyhWD7wUC2HzB4FQ0dBXvmB8Z54MQYKV6vu5hpmM2KqvAsw6iIK0QzCAHLkGeJij5bzuqDIyMeJo2ZaCRpFO4pjn4eTQWPUFRHuAutW3dpVyL5kcPagXxej9tE3qDzSUQZBqJDMt4+04fOBFWPQyF4IfUSB7+Xoyyysx9;K1TNiw/ym1ts0tOCOey4OA=="
+secured: "vme4WLNHdjGl8popfDi+8NBDm24i7GOZhzVf6k5hCSfDJDoxswsmI7wK8rS/xg0YLKOk10i4/hfm7sPg0A+GORph5X5ds56HxBohshASn9Xhpb3TqU8wFovsDCehsHjx/4GtK6nIVoig1ITm+sFRM6KauYCPeN99MZ9sX2n1kTeNM4VHmNlZpv5SfOSShTY30U/6brqAjTfZOFiif09BP/zBEKLJ/tORewj7PIS0QJDXpETY5pjrFsd+NumoUyiBhHz7XEQwxWIWnbH2dTmErh88szHHcfWriIx+/qBt8Uf5/Z3lSlERnq8k8lp8FqAS;ENAVAKUN1/L/jmNwlZu7Dg=="
 ---
 
