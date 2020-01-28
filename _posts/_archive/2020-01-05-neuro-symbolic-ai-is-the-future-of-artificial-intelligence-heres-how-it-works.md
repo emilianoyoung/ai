@@ -27,6 +27,6 @@ images:
     height: 376
     title: "Neuro-symbolic A.I. is the future of artificial intelligence. Here’s how it works"
 
-secured: "kJW98YQMnr/3EDQO6xrhlJ2rVv92tRcG+oYQF1kSYFTyTercgwY9Wp69d/pml9QciX36h0KbL6beNYoUFJ0RO2s2entkoaudeiiuc89A5baar9kB9rUQfFOc6XEqIXmGBFtgl8JSD7wLEDS/Q10KAVaPc8zrT8u1y0zYT3Bv2gTq8r8qfszCzSGaeZpQWVOha437Vahzs+83rY5rTaL9YuWLtq0hKzjm2mw/DgvfTxEQc5f7wo+teTMY2ZCCfYPT+a35HGqrZXt2T4/v0iCPZnrFCh+2N/NmqFnMg5YEbxL29a0WlyZR+mQY13hGE7Yb;r8+3aBtf6/fcuJeHpKS04w=="
+secured: "FzqimCKb7n8XmjxRdAAcAP4G3SfEjFlXC+w9ojJ6QwN74FXuXpDAONyqwz0lLvYZZJl+Upkk0rof3XXdwBqT1uY4NG7UpdhsRC8ObcHVcSuLCimSB6RRCMB6qlx3Qy4mfqCpWBVPNlsOdTIE1XiDsCWBBfBNA1sb/1R8L5tocOJyUROEjV5luSebiwkcVlmzJJQRdlLHsXbgcfJLmckW/U6PZ15E70TtUc1Ycp4ZBtqm64FSDqgnenT2HuTO2nm1pRDWnR6sooBNT7NzIlZKQbdsEuvK5o2jRUhXKB7PNRMD7yyUZAQVcLqVleWYpJst;AT+4ihhvrUv8Mfrk7kEg5g=="
 ---
 

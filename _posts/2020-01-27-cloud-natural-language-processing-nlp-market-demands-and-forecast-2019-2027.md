@@ -2,8 +2,8 @@
 category: news
 title: "Cloud Natural Language Processing (NLP) Market demands And forecast 2019-2027"
 excerpt: "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
-publishedDateTime: 2020-01-27T11:04:00Z
-sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-demands-and-forecast-2019-2027-2020-01-27-7197455
+publishedDateTime: 2020-01-27T06:11:00Z
+sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-demands-and-forecast-2019-2027-2020-01-27
 type: article
 quality: 66
 heat: -1
@@ -68,6 +68,6 @@ related:
         width: 1200
         height: 630
 
-secured: "T7eLBlL4N6ZOajN085RDlV1qO26j7l5+SvC1KAF4ctH14iVBWpj6RvwTwrrqxGaNV6H0CjbLCG3oe506DjZw15RDIyYLPmYIU4DVaJsr2BCMAk4NAcRFbLje+aGn3VUZHuBMVktGFrFNI7zsAh9+5lFt4WDz155LOMnaNlNH7xLIvH4tDB/EkezZNHm6e4h6CC4oLmQdMlQvgsI/SH999AvSMFfSdrku0hdJXmLHBEnx7Ro+Iqa5ZMDDcAA0OKDurvJjXR0RBGmEWT0C6bKGVaOQhBE9gA05bSgQWteIbfstOlnWFC+apXbMgXd7jjzf;2Weu8SJwRKZw+1r8GUihgA=="
+secured: "zVnnb4wvIBvkU1Xwl8Wfb/CT98xIIlhGZNrVRXUBDb+BzvhXOhjY4GJIF67OLjrK6iBYZIA3alcOgPTA9/n4yKxIabLpsMSjI6DSajHLjaG6imsggvjHDf0Q5TAF5yDhiLQoJnmP2q41O0YNQwr70LIqYYjNR2hU6P60r95W0mN/l6J+Cx2usWFiUnqZYSNbSlhuCpJ5DVJQljGqwXj+zHE2yoYlQAQGDmKpg/26Fe66TQOc5b9A/AGiUbljIKuU8+7sIDAbKRocpY8j+KQesZQk3ScNykj8OiZNr/hjZzDLBeRXdxxJe0xGIyOUnXlc;vaoFjiUgUXGFcmkQcOaHIA=="
 ---
 

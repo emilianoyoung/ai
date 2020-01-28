@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-27T08:00:19Z
 sourceUrl: https://azure.microsoft.com/blog/fueling-intelligent-energy-with-iot/
 type: article
 quality: 72
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -51,6 +51,19 @@ related:
       - url: https://www.developingtelecoms.com/images/stories/Company_Logos/Reliance_Communications_600.jpg
         width: 600
         height: 450
+  - title: "Going in depth into big data and intelligence with HPE"
+    excerpt: "Add some strategic acquisitions, such as BlueData and MapR, and the company is poised to capitalize on the new super powers of big data, artificial intelligence, and, of course, cloud computing. “It’s part of an entire workflow,” stated Patrick Osborne (pictured), vice president and general manager of big data, analytics and scale-out ..."
+    publishedDateTime: 2020-01-27T23:33:00Z
+    sourceUrl: https://siliconangle.com/2020/01/27/going-in-depth-into-big-data-and-intelligence-with-hpe-cubeconversations/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 22
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/Patrick-Osbourne.jpg
+        width: 5472
+        height: 3648
 
 secured: "p7slyNFHOpSn9ryzRl3KrYeyIaKIkEdXZURqWnt4L7iEU5kwubHVZ22uA2LOayCGGd+I/tlJo48d19suKgiAIrDGhjNmReK/V82yDDmto0Dl8ixEH+U60pN3DqKoVYf0505vHrpWeRG4F6C7df8mfabQTfViXW7YIRzN2W9r4A8b3PaMiXUWGF4QHCtdyJMq2nKPXcphhYqDg4Vlf01IDQSphz4Tk1KkxSBncA9NJmaZ29gOFwguCXVWJLILGFgYNCgEsZU7aNdOwraKapLSoX25ZjImaPBbcewEWQZmTWiUJ/k1+FI9x5RX9APcff60csrDf2nUftNFEccP62XbPw==;+NehVY7/r5ql66l5YNPf6w=="
 ---

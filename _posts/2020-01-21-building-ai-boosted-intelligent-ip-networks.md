@@ -48,6 +48,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 41
+  - title: "Going in depth into big data and intelligence with HPE"
+    excerpt: "Add some strategic acquisitions, such as BlueData and MapR, and the company is poised to capitalize on the new super powers of big data, artificial intelligence, and, of course, cloud computing. “It’s part of an entire workflow,” stated Patrick Osborne (pictured), vice president and general manager of big data, analytics and scale-out ..."
+    publishedDateTime: 2020-01-27T23:33:00Z
+    sourceUrl: https://siliconangle.com/2020/01/27/going-in-depth-into-big-data-and-intelligence-with-hpe-cubeconversations/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 22
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/Patrick-Osbourne.jpg
+        width: 5472
+        height: 3648
 
 secured: "/vU68T8t3TjBjpElCTTWmaotRtUJ/AyfOqlcFBNe25u67tJnmYaSGQm6exLUfKsVjj8BAllVutjsxcY4fxEeQCYSktKsdeyz7jV5Q98nqokAReoNoQ1Jm2RscBe6nzl7dEiIKHKrwHVOMUjh4MFGUmJCSWIbjKsPf103O21pVIcuCwEU5dPFtjOHUdvS+DdgxacDYWwgrhqW7G4KabW5GA0RkjH4Ba+Mw6h2StkTEdmfdXqexkG4VAN4sn6lUpBc9/AlhIMmboYjGNi8lINezXZtkv9CuBIR0iiZNl8eBT+wQ96DWkTofNQWo9sEZwLAEgXIrbq6Zt4UiptEjR3tyoEbdWA94/0aMqszWmAYABLwVYVre/VTSRTpEhKDgrc2WXeorW0BXBj9NVkxJzW+rmswCYqFjrEL2XW3YXgD/2R9b5yvGZ86ypJ9PMHFPJTK9xvsxDfwOuujbdO4Omb6rQF6bza8eOF7uXlraN2DtDk=;1BJOZbPSPJeIecDVjP4y7A=="
 ---

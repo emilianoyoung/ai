@@ -50,6 +50,19 @@ related:
       - url: https://www.developingtelecoms.com/images/stories/Company_Logos/Reliance_Communications_600.jpg
         width: 600
         height: 450
+  - title: "Going in depth into big data and intelligence with HPE"
+    excerpt: "Add some strategic acquisitions, such as BlueData and MapR, and the company is poised to capitalize on the new super powers of big data, artificial intelligence, and, of course, cloud computing. “It’s part of an entire workflow,” stated Patrick Osborne (pictured), vice president and general manager of big data, analytics and scale-out ..."
+    publishedDateTime: 2020-01-27T23:33:00Z
+    sourceUrl: https://siliconangle.com/2020/01/27/going-in-depth-into-big-data-and-intelligence-with-hpe-cubeconversations/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 22
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/Patrick-Osbourne.jpg
+        width: 5472
+        height: 3648
 
 secured: "cj/IRNFLJC16mmYEYuKjuBTxqICqTH9zZgTLMqsF+SjNKWUjxdKbxRmmlnN28fCt6akE4xXA/q1V98iTys5H9IXaseXool4jVLIcGf6i6MLx1D+eVMzRCcT8GCuOa2Rzn3U00APez74V5B2YkaaCcEGgZUfOqU5J2hGLiHBoZQ5e8Ro3/1WQgx6MjnKxi6NB3QZSsEjjzK2Px1M7WFamuoXsnzzszYoDM7I+ldVTvj9cPcqs4Ies66T5VI3I5fhMCUycWYqYi07jaan7+xptMNR1WWYrgRiRJCswj06s4k7+pLVYQlTLU+DyG3wTUVYj;zYZeaGOM36zl0N3pjpi0Kg=="
 ---

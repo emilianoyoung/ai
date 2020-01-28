@@ -546,6 +546,21 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 44
+  - title: "London police to use face scan tech, stoking privacy fears"
+    excerpt: "FILE – In this file photo dated Wednesday, March 28, 2012, a security cctv camera is seen by the Olympic Stadium at the Olympic Park in London. The South Wales police deployed facial recognition surveillance equipment on Sunday Jan. 12, 2020, in a test to monitor crowds arriving for a weekend soccer match in real-time, that is prompting ..."
+    publishedDateTime: 2020-01-27T21:32:00Z
+    sourceUrl: https://www.wate.com/news/national-world/london-police-to-use-face-scan-tech-stoking-privacy-fears/
+    ampUrl: https://www.wate.com/news/national-world/london-police-to-use-face-scan-tech-stoking-privacy-fears/amp/
+    cdnAmpUrl: https://www-wate-com.cdn.ampproject.org/c/s/www.wate.com/news/national-world/london-police-to-use-face-scan-tech-stoking-privacy-fears/amp/
+    type: article
+    provider:
+      name: WATE 6 On Your Side
+      domain: wate.com
+    quality: 44
+    images:
+      - url: https://www.wate.com/wp-content/uploads/sites/42/2020/01/f217abc1137446e4b14d048dc5f2b05e.jpg?w=1280&h=720&crop=1
+        width: 1280
+        height: 720
   - title: "EU considers five-year ban on facial recognition tech in public areas"
     excerpt: "The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters. The plan by the EU’s executive - set out in an 18-page white paper - comes amid a global debate about the systems driven by artificial ..."
     publishedDateTime: 2020-01-17T16:27:00Z
@@ -687,6 +702,43 @@ related:
       - url: https://cdn.technologyreview.com/i/images/lianhao-qu-lfan1gswv5c-unsplash0_0.jpg?sw=1200&cx=0&cy=0&cw=768&ch=432
         width: 768
         height: 432
+  - title: "Adroit Forecasts $12 Billion Facial Recognition Market"
+    excerpt: "Adroit Market Research has released a new report that predicts that the global facial recognition market will climb above $12 billion by 2025. That figure eclipses previous reports from MarketsandMarkets and Reports and Data. The former predicted that the global facial recognition market would reach $7 billion by 2024, while the latter forecast ..."
+    publishedDateTime: 2020-01-27T22:20:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/adroit-forecasts-12-billion-facial-recognition-market/246374
+    type: article
+    provider:
+      name: BCW
+      domain: businesscomputingworld.co.uk
+    quality: 39
+    images:
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
+  - title: "Facial Recognition Market to hit $12 billion by..."
+    excerpt: "Dallas, Texas, Jan. 27, 2020 (GLOBE NEWSWIRE) -- The \"Global Facial Recognition Market by Technology (2D facial recognition, 3D facial recognition, facial analytics recognition), Application, End User (BFSI,"
+    publishedDateTime: 2020-01-27T06:16:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/g15186496/facial-recognition-market-to-hit-12-billion-by-2025-global-insights-on-top-trends-key-technologies
+    ampUrl: https://amp.benzinga.com/amp/content/15186496
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15186496
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
+  - title: "Privacy Groups Urge Suspension of Federal Facial Recognition use"
+    excerpt: "A group of privacy and civil liberties groups wrote a letter to the Privacy and Civil Liberties Board (PCLOB) urging the board to demand that the President and Secretary of Homeland Security suspend the use of facial recognition systems by Federal agencies. The Consumer Federation of America, Electronic Frontier Foundation, and Electronic ..."
+    publishedDateTime: 2020-01-27T17:19:00Z
+    sourceUrl: https://www.meritalk.com/articles/privacy-groups-urge-suspension-of-federal-facial-recognition-use/
+    type: article
+    provider:
+      name: MeriTalk
+      domain: meritalk.com
+    quality: 39
+    images:
+      - url: https://cdn.meritalk.com/wp-content/uploads/2017/03/facial-recognition.jpg
+        width: 800
+        height: 450
   - title: "Students nationwide fight to 'Ban Facial Recognition' technology on campus"
     excerpt: "A new campaign calls for colleges to ban the use of facial recognition technology. Some schools have already begun using the technology, according to reports. Students for Sensible Drug Policy and Fight for the Future, a nonprofit advocacy group in the area of digital rights, are working together to launch a campaign against colleges using ..."
     publishedDateTime: 2020-01-25T22:33:00Z
@@ -780,6 +832,19 @@ related:
       - url: https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/07/27/18/facial-recognition-stratford-1.jpg
         width: 2048
         height: 1536
+  - title: "Biometrics and Information Commissioners criticize live facial recognition deployment across London"
+    excerpt: "The UK government’s Biometrics Commissioner has criticized, alongside MPs and human rights organizations, the Metropolitan Police’s deployment of live facial recognition-equipped cameras across London, writes Public Technology. The Commissioner claims a recent High Court decision does not give the police free reign to roll out biometric ..."
+    publishedDateTime: 2020-01-27T19:14:00Z
+    sourceUrl: https://www.biometricupdate.com/202001/biometrics-and-information-commissioners-criticize-live-facial-recognition-deployment-across-london
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 25
+    images:
+      - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg
+        width: 1600
+        height: 1035
   - title: "London police to use face-scan tech in real time, stoking privacy fears"
     excerpt: "LONDON (AP) — London police will start using facial recognition cameras to pick out suspects from street crowds in real time, in a major advance for the controversial technology that raises worries about automated surveillance and erosion of privacy rights. The Metropolitan Police Service said Friday that after a series of trials, the cameras ..."
     publishedDateTime: 2020-01-26T00:09:00Z

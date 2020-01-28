@@ -591,6 +591,21 @@ related:
       - url: https://www.insidehook.com/wp-content/uploads/2020/01/london-camera.jpg?fit=768%2C510
         width: 768
         height: 510
+  - title: "Facebook denies nosing around facial recognition tech"
+    excerpt: "Facebook responded to speculation it was developing its own facial recognition software for its Messenger app, stating reports were innaccurate and it would instead use on-device systems to handle provision of security. In a Twitter post, Facebook’s EMEA communications manager Alexandru Voica explained the company was not looking to develop a ..."
+    publishedDateTime: 2020-01-27T12:37:00Z
+    sourceUrl: https://www.mobileworldlive.com/apps/news-apps/facebook-denies-nosing-around-facial-recognition-tech/
+    ampUrl: https://www.mobileworldlive.com/apps/news-apps/facebook-denies-nosing-around-facial-recognition-tech/amp/
+    cdnAmpUrl: https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/apps/news-apps/facebook-denies-nosing-around-facial-recognition-tech/amp/
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 59
+    images:
+      - url: https://i0.wp.com/www.mobileworldlive.com/wp-content/uploads/2018/06/Facebook-650.png?fit=650%2C355&ssl=1
+        width: 650
+        height: 355
   - title: "Clearview AI Takes Facial Recognition Data of Millions from Social Media"
     excerpt: "Clearview AI is a secretive startup that has developed a super-accurate facial recognition database – all through using images surreptitiously scraped from social media users. Currently, the company's app is only available to law enforcement, and it has already led to several arrests. In fact, the app is being used by more than 600 law ..."
     publishedDateTime: 2020-01-20T17:27:00Z
@@ -645,6 +660,34 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 51
+  - title: "New Jersey state attorney general prohibits police from using facial recognition software"
+    excerpt: "New Jersey’s attorney general, Gurbir S. Grewal, has instructed prosecutors across the state to stop using Clearview AI, a private facial recognition software. Clearview AI's tools allow law enforcement officials to upload a photo of an unknown person ..."
+    publishedDateTime: 2020-01-27T23:15:00Z
+    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7935911/New-Jersey-state-attorney-general-prohibits-police-using-facial-recognition-software.html
+    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7935911/amp/New-Jersey-state-attorney-general-prohibits-police-using-facial-recognition-software.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7935911/amp/New-Jersey-state-attorney-general-prohibits-police-using-facial-recognition-software.html
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 50
+    images:
+      - url: https://i.dailymail.co.uk/1s/2020/01/27/22/23954704-0-image-a-25_1580165914401.jpg
+        width: 636
+        height: 382
+  - title: "Sen. Edward Markey Poses Questions About Clearview AI’s Facial Recognition Tool"
+    excerpt: "Sen. Edward Markey (D-Mass.) sent a letter to Clearview AI CEO Hoan Ton-That expressing concerns about the privacy risks posed by the company’s facial recognition tool. In the letter, Markey wrote that Clearview’s tool allows users to capture and upload pictures of strangers and analyze the biometric data of photographed individuals."
+    publishedDateTime: 2020-01-27T21:24:00Z
+    sourceUrl: https://www.executivegov.com/2020/01/sen-edward-markey-poses-questions-about-clearview-ais-facial-recognition-tool/
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 50
+    images:
+      - url: https://executivebiz.secure.force.com/archintelmedia/servlet/servlet.FileDownload?file=00Pf300001386cOEAQ
+        width: 272
+        height: 270
   - title: "London Police turn to facial recognition to tackle 'serious crime'"
     excerpt: "London police have a new tool to fight crime: live facial recognition technology. Police says the tech will aid in catching criminals, while also helping those in need of assistance. The Metropolitan Police Service will begin using Live Facial Recognition, or LFR, according to a press release Friday. Tech company NEC will provide the facial ..."
     publishedDateTime: 2020-01-24T19:58:00Z
@@ -654,6 +697,19 @@ related:
       name: CNET
       domain: cnet.com
     quality: 49
+  - title: "New Jersey law enforcement blocked from using facial recognition tech from Clearview AI"
+    excerpt: "New Jersey is no longer allowing law enforcement in the state to use biometric facial recognition app Clearview AI, following a moratorium put forward by state Attorney General Gurbir Grewal, writes Mashable. “AG asked that all law enforcement agencies in New Jersey stop using Clearview’s technology until we get a better handle on the ..."
+    publishedDateTime: 2020-01-27T20:07:00Z
+    sourceUrl: https://www.biometricupdate.com/202001/new-jersey-law-enforcement-blocked-from-using-facial-recognition-tech-from-clearview-ai
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 46
+    images:
+      - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg
+        width: 640
+        height: 260
   - title: "Hundreds of law enforcement agencies using new facial recognition app with 3 billion image database"
     excerpt: "More than 600 police departments are said to be using a new using facial recognition app capable of comparing uploaded photos with three billion images in its database culled from social media and other websites. Clearview AI allows users to take a photo of a person and upload it to the app, which then matches it up to to publicly-available ..."
     publishedDateTime: 2020-01-19T01:10:00Z

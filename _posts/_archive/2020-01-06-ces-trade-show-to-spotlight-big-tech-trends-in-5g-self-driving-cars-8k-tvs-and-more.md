@@ -66,6 +66,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "CRq7rF9EkTTu8nRuaUTjaL4GV3RrI+F9p+lLUIne65yS4u0i2OuBBmnwZlV7B3Soa4/kyKKOdz05FdlOakIpTcjmyqy7huU0XsCWz9u+iRgmU4JTp5mbvL31gmQnP5hpFdrK7YAtEZ2oHAoxjNSjv/JhzBGUjvsjIb1rZG33jKYKxzMom6qRNjVn1oLs9reRlFCo3He45znjA/GPTngnqxPuIXQdf4Wk1Lpl68gHiL4NOt+AmeNC9xPFUvHBsikI41j+umW4TlC4vy5UmztqmkH/anZYQbRQ4GNLUTCyPpxtkkHlyaCjU8pfXpXEXWVv;NjubH+bhVIANPBuW/nF9MA=="
+secured: "tJ60Mzis5t6FbY+MObbf2Nd4ditLRhw58MelqiYf/BMl5V18jfV0sCxgaR6qWYz4yRWz5XtZZsX9Uom3GYDeHng0tnjRh1OpNS3bSMjsEQ5F8yF/97j4m//yNP6/5H9dlhz31o9b0w7ynzVsgNzITNmGZyaM5tVUqjqqe+wQxyyK04Ugvu+c+uPgoSoPIdtpaZBBlZCqy9TzWJcw95WHwmYwL+e4U3SJkz2NDnm3MFZh3ViY4fijlGJgfOR86+L6fxduuiVYrjTgm5P0ZlOPhKZr6ckUQW6wvUx0roCYyz5cWQ8vymT/F9XPT3ZKlQ80;C0h7arikbRhdBtQ4obkGkQ=="
 ---
 
